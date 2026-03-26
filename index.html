@@ -24,15 +24,14 @@ h1{font-size:21px;font-weight:700;}
 .tab{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;transition:all .15s;}
 .tab:hover{border-color:var(--bd2);}
 .tab.on{background:#003C8F;border-color:#003C8F;color:white;}
-.date-filter{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:1rem;padding:10px 14px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);}
-.date-filter label{font-size:12px;color:var(--tx3);}
-.date-filter input[type=date]{padding:5px 8px;border:1px solid var(--bd);border-radius:7px;font-size:12px;background:var(--sf);color:var(--tx);outline:none;font-family:inherit;cursor:pointer;}
-.date-filter input[type=date]:focus{border-color:var(--blue);}
-.date-reset{font-size:11px;color:var(--btx);background:none;border:none;cursor:pointer;font-family:inherit;margin-left:auto;padding:0;}
+.filter-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:1rem;padding:10px 14px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);}
+.filter-row label{font-size:12px;color:var(--tx3);}
+.filter-row input[type=date]{padding:5px 8px;border:1px solid var(--bd);border-radius:7px;font-size:12px;background:var(--sf);color:var(--tx);outline:none;font-family:inherit;cursor:pointer;}
+.filter-row input[type=date]:focus{border-color:var(--blue);}
+.date-reset{font-size:11px;color:var(--btx);background:none;border:none;cursor:pointer;font-family:inherit;padding:0;}
+#cat-select{margin-left:auto;padding:5px 10px;border:1px solid var(--bd);border-radius:8px;font-size:12px;background:var(--sf);color:var(--tx);outline:none;cursor:pointer;font-family:inherit;}
+#cat-select:focus{border-color:var(--blue);}
 .divider{height:1px;background:var(--bd);margin:.75rem 0;}
-.cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1rem;}
-.cat-btn{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;}
-.cat-btn.on{background:#003C8F;border-color:#003C8F;color:white;}
 .articles{display:flex;flex-direction:column;gap:7px;}
 .card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:13px 16px;text-decoration:none;display:block;color:inherit;transition:border-color .15s,box-shadow .15s;}
 .card:hover{border-color:var(--bd2);box-shadow:0 2px 10px rgba(0,0,0,.07);}
@@ -75,16 +74,28 @@ h1{font-size:21px;font-weight:700;}
     <button class="tab" data-mode="all" onclick="setMode(this)">전체</button>
   </div>
 
-  <div class="date-filter">
-    <label>기간</label>
-    <input type="date" id="date-from" onchange="applyF()">
-    <span style="font-size:12px;color:var(--tx3)">~</span>
-    <input type="date" id="date-to" onchange="applyF()">
-    <button class="date-reset" onclick="resetDate()">초기화</button>
+  <div class="filter-row">
+    <div class="date-filter">
+      <label>기간</label>
+      <input type="date" id="date-from" onchange="applyF()">
+      <span style="font-size:12px;color:var(--tx3)">~</span>
+      <input type="date" id="date-to" onchange="applyF()">
+      <button class="date-reset" onclick="resetDate()">초기화</button>
+    </div>
+    <select id="cat-select" onchange="applyF()">
+      <option value="전체">분류 전체</option>
+      <option value="행정">행정</option>
+      <option value="환경">환경</option>
+      <option value="복지">복지</option>
+      <option value="주택">주택</option>
+      <option value="경제">경제</option>
+      <option value="문화">문화</option>
+      <option value="안전">안전</option>
+      <option value="교통">교통</option>
+    </select>
   </div>
 
   <div class="divider"></div>
-  <div class="cats" id="cats"><button class="cat-btn on" data-cat="전체" onclick="setCat(this)">전체</button></div>
   <div id="main">
     <div class="skeleton"></div><div class="skeleton"></div>
     <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
@@ -93,7 +104,7 @@ h1{font-size:21px;font-weight:700;}
 <script>
 const PS=30,SK='seen_'+new Date().toDateString();
 let seen=new Set(JSON.parse(localStorage.getItem(SK)||'[]'));
-let all=[],fil=[],curMode='tracked',curCat='전체',pg=1;
+let all=[],fil=[],curMode='tracked',pg=1;
 
 const DEPT_GROUP={
   '미래공간담당관':'미래공간기획관','공공개발담당관':'미래공간기획관',
@@ -131,7 +142,7 @@ function setMode(btn){
   document.querySelectorAll('.tab').forEach(function(b){b.classList.remove('on');});
   btn.classList.add('on');
   curMode=btn.dataset.mode;
-  curCat='전체';pg=1;buildCats();applyF();
+  pg=1;applyF();
 }
 
 function resetDate(){
@@ -140,33 +151,20 @@ function resetDate(){
   pg=1;applyF();
 }
 
-function buildCats(){
-  const fd=getDeptFilter();
-  const src=all.filter(function(i){return !fd||fd.has(i.dept||'');});
-  const cats=['전체'].concat([...new Set(src.map(function(i){return i.category;}))]);
-  document.getElementById('cats').innerHTML=cats.map(function(c){
-    return '<button class="cat-btn'+(c===curCat?' on':'')+'" data-cat="'+esc(c)+'" onclick="setCat(this)">'+esc(c)+'</button>';
-  }).join('');
-}
-
-function setCat(btn){
-  document.querySelectorAll('.cat-btn').forEach(function(b){b.classList.remove('on');});
-  btn.classList.add('on');curCat=btn.dataset.cat;pg=1;applyF();
-}
-
 function applyF(){
   const fd=getDeptFilter();
   const q=(document.getElementById('search').value||'').trim().toLowerCase();
   const df=document.getElementById('date-from').value;
   const dt=document.getElementById('date-to').value;
-  let src=all.filter(function(i){
+  const cat=document.getElementById('cat-select').value;
+  fil=all.filter(function(i){
     if(fd&&!fd.has(i.dept||''))return false;
+    if(cat!=='전체'&&i.category!==cat)return false;
     if(q&&!(i.title||'').toLowerCase().includes(q)&&!(i.dept||'').toLowerCase().includes(q))return false;
     if(df&&(i.date||'')<df)return false;
     if(dt&&(i.date||'')>dt)return false;
     return true;
   });
-  fil=curCat==='전체'?src:src.filter(function(i){return i.category===curCat;});
   pg=1;render();
   document.getElementById('cpill').textContent=fil.length+'건';
 }
@@ -204,7 +202,7 @@ async function init(){
     const data=await res.json();
     all=(data.items||[]).map(function(i){return Object.assign({},i,{category:i.category||catOf(i.title||'')});});
     if(data.updated_at)document.getElementById('updated').textContent='마지막 업데이트: '+data.updated_at+' · 총 '+data.total+'건';
-    buildCats();applyF();
+    applyF();
   }catch(err){
     document.getElementById('main').innerHTML='<div class="empty">데이터를 불러오지 못했습니다.</div>';
     document.getElementById('cpill').textContent='오류';
