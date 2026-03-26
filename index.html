@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>서울시 보도자료</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root { --bg:#f5f5f3;--surface:#fff;--surface2:#f0f0ee;--border:#e4e4e0;--border2:#c8c8c4;--text:#111;--text2:#555;--text3:#999;--blue:#003C8F;--blue-bg:#E3EDFC;--blue-text:#003C8F;--red:#e63939;--radius:12px; }
+  @media(prefers-color-scheme:dark){:root{--bg:#161616;--surface:#222;--surface2:#2a2a2a;--border:#333;--border2:#484848;--text:#eee;--text2:#aaa;--text3:#666;--blue:#5b9cf6;--blue-bg:#162545;--blue-text:#7eb3fa;--red:#ff6b6b;}}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+  .wrap{max-width:780px;margin:0 auto;padding:2rem 1rem 4rem;}
+  header{margin-bottom:1.5rem;}
+  .header-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:4px;}
+  .header-left{display:flex;align-items:center;gap:10px;}
+  .logo{width:38px;height:38px;border-radius:9px;background:#003C8F;color:white;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;flex-shrink:0;}
+  h1{font-size:21px;font-weight:700;}
+  .count-pill{background:var(--surface2);border-radius:20px;font-size:12px;padding:3px 11px;color:var(--text2);}
+  .updated{font-size:12px;color:var(--text3);}
+  #search{width:100%;padding:9px 12px;border:1px solid var(--border);border-radius:9px;background:var(--surface);color:var(--text);font-size:14px;outline:none;margin-bottom:1rem;font-family:inherit;}
+  #search:focus{border-color:var(--blue);}
+  .filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1.25rem;}
+  .filter-btn{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--text2);font-family:inherit;}
+  .filter-btn.active{background:#003C8F;border-color:#003C8F;color:white;}
+  .articles{display:flex;flex-direction:column;gap:7px;}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:13px 16px;text-decoration:none;display:block;color:inherit;}
+  .card:hover{border-color:var(--border2);box-shadow:0 2px 10px rgba(0,0,0,0.07);}
+  .card-meta{display:flex;align-items:center;gap:7px;margin-bottom:6px;flex-wrap:wrap;}
+  .cat{font-size:11px;padding:2px 9px;border-radius:20px;background:var(--blue-bg);color:var(--blue-text);font-weight:600;}
+  .dept{font-size:12px;color:var(--text3);}
+  .date{font-size:12px;color:var(--text3);margin-left:auto;white-space:nowrap;}
+  .card-title{font-size:14px;line-height:1.65;}
+  .new-dot{display:inline-block;width:6px;height:6px;background:var(--red);border-radius:50%;margin-left:6px;vertical-align:middle;}
+  .skeleton{height:74px;background:var(--surface2);border-radius:var(--radius);animation:pulse 1.4s ease-in-out infinite;margin-bottom:7px;}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.4}}
+  .empty{text-align:center;padding:3rem 1rem;font-size:14px;color:var(--text3);}
+  .load-more{display:block;width:100%;margin-top:1rem;padding:10px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);font-size:13px;color:var(--text2);cursor:pointer;text-align:center;font-family:inherit;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="header-top">
+      <div class="header-left">
+        <div class="logo">서울</div>
+        <h1>서울시 보도자료</h1>
+        <span class="count-pill" id="count-pill">로딩 중...</span>
+      </div>
+      <a href="https://www.seoul.go.kr/news/news_report.do" target="_blank" rel="noopener" style="font-size:12px;color:var(--text3);text-decoration:none;border:1px solid var(--border);padding:5px 12px;border-radius:8px;background:var(--surface)">서울시 원문 →</a>
+    </div>
+    <div class="updated" id="updated-at"></div>
+  </header>
+  <input type="search" id="search" placeholder="제목, 부서 검색..." oninput="applyFilters()">
+  <div class="filters" id="filters"><button class="filter-btn active" data-cat="전체" onclick="setCat(this)">전체</button></div>
+  <div id="main"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+</div>
+<script>
+const PAGE_SIZE=30,TODAY=new Date().toDateString(),SEEN_KEY='seen_'+TODAY;
+let seen=new Set(JSON.parse(localStorage.getItem(SEEN_KEY)||'[]'));
+let allItems=[],filtered=[],activeCat='전체',page=1;
+function catOf(t){
+  if(/교통|버스|지하철|도로|주차|철도|환승/.test(t))return'교통';
+  if(/주택|아파트|임대|전세|월세|부동산|청약/.test(t))return'주택';
+  if(/복지|돌봄|노인|어르신|장애|청년|아동|출산|저출생|육아|보육/.test(t))return'복지';
+  if(/문화|예술|공원|축제|행사|전시|박물관|도서관|공연/.test(t))return'문화';
+  if(/환경|공기|미세먼지|녹지|숲|기후|탄소|쓰레기/.test(t))return'환경';
+  if(/안전|소방|재난|방역|범죄|치안/.test(t))return'안전';
+  if(/경제|일자리|창업|취업|소상공인|산업|스타트업/.test(t))return'경제';
+  return'행정';
+}
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+async function init(){
+  try{
+    const base=location.pathname.replace(/\/index\.html$/,'').replace(/\/$/,'');
+    const res=await fetch(base+'/data/news.json?t='+Date.now());
+    if(!res.ok)throw new Error();
+    const data=await res.json();
+    allItems=(data.items||[]).map(i=>({...i,category:i.category||catOf(i.title||'')}));
+    if(data.updated_at)document.getElementById('updated-at').textContent='마지막 업데이트: '+data.updated_at;
+    buildFilters();applyFilters();
+  }catch{
+    document.getElementById('main').innerHTML='<div class="empty">데이터를 불러오지 못했습니다.</div>';
+    document.getElementById('count-pill').textContent='오류';
+  }
+}
+function buildFilters(){
+  const cats=['전체',...new Set(allItems.map(i=>i.category))];
+  document.getElementById('filters').innerHTML=cats.map(c=>'<button class="filter-btn'+(c===activeCat?' active':'')+'" data-cat="'+esc(c)+'" onclick="setCat(this)">'+esc(c)+'</button>').join('');
+}
+function setCat(btn){
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');activeCat=btn.dataset.cat;page=1;applyFilters();
+}
+function applyFilters(){
+  const q=(document.getElementById('search').value||'').trim().toLowerCase();
+  filtered=allItems.filter(i=>{
+    const catOk=activeCat==='전체'||i.category===activeCat;
+    const searchOk=!q||(i.title||'').toLowerCase().includes(q)||(i.dept||'').toLowerCase().includes(q);
+    return catOk&&searchOk;
+  });
+  page=1;render();
+  document.getElementById('count-pill').textContent=filtered.length+'건';
+}
+function render(){
+  const slice=filtered.slice(0,page*PAGE_SIZE);
+  if(!slice.length){document.getElementById('main').innerHTML='<div class="empty">검색 결과가 없습니다.</div>';return;}
+  let html='<div class="articles">'+slice.map(i=>{
+    const isNew=!seen.has(i.link);
+    return '<a class="card" href="'+esc(i.link||'#')+'" target="_blank" rel="noopener" onclick="markSeen(\''+(i.link||'').replace(/'/g,"\\'")+'\')">'
+      +'<div class="card-meta"><span class="cat">'+esc(i.category||'')+'</span>'
+      +(i.dept?'<span class="dept">'+esc(i.dept)+'</span>':'')
+      +'<span class="date">'+esc((i.date||'').substring(0,10))+'</span></div>'
+      +'<div class="card-title">'+esc(i.title||'')+(isNew?'<span class="new-dot"></span>':'')+'</div></a>';
+  }).join('')+'</div>';
+  if(filtered.length>slice.length)html+='<button class="load-more" onclick="loadMore()">더 보기 ('+(filtered.length-slice.length)+'건 남음)</button>';
+  document.getElementById('main').innerHTML=html;
+}
+function loadMore(){page++;render();}
+function markSeen(link){seen.add(link);localStorage.setItem(SEEN_KEY,JSON.stringify([...seen]));}
+init();
+</script>
+</body>
+</html>
