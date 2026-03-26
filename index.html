@@ -18,35 +18,21 @@ header{margin-bottom:1.5rem;}
 h1{font-size:21px;font-weight:700;}
 .cpill{background:var(--sf2);border-radius:20px;font-size:12px;padding:3px 11px;color:var(--tx2);}
 .updated{font-size:12px;color:var(--tx3);}
-/* 검색 */
 #search{width:100%;padding:9px 12px;border:1px solid var(--bd);border-radius:9px;background:var(--sf);color:var(--tx);font-size:14px;outline:none;margin-bottom:1rem;font-family:inherit;}
 #search:focus{border-color:var(--blue);}
-/* 탭 */
 .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1rem;}
 .tab{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;transition:all .15s;}
 .tab:hover{border-color:var(--bd2);}
 .tab.on{background:#003C8F;border-color:#003C8F;color:white;}
-/* 부서 패널 */
-.dept-panel{margin-bottom:1rem;}
-.dg{margin-bottom:8px;}
-.dg-label{font-size:11px;font-weight:600;color:var(--tx3);letter-spacing:.03em;margin-bottom:5px;}
-.dchips{display:flex;gap:5px;flex-wrap:wrap;}
-.dc{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:4px 12px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;}
-.dc:hover{border-color:var(--bd2);}
-.dc.on{background:#003C8F;border-color:#003C8F;color:white;}
-.dc.gon{background:#1a5fbe;border-color:#1a5fbe;color:white;}
-/* 날짜 필터 */
 .date-filter{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:1rem;padding:10px 14px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);}
 .date-filter label{font-size:12px;color:var(--tx3);}
 .date-filter input[type=date]{padding:5px 8px;border:1px solid var(--bd);border-radius:7px;font-size:12px;background:var(--sf);color:var(--tx);outline:none;font-family:inherit;cursor:pointer;}
 .date-filter input[type=date]:focus{border-color:var(--blue);}
 .date-reset{font-size:11px;color:var(--btx);background:none;border:none;cursor:pointer;font-family:inherit;margin-left:auto;padding:0;}
 .divider{height:1px;background:var(--bd);margin:.75rem 0;}
-/* 카테고리 */
 .cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1rem;}
 .cat-btn{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;}
 .cat-btn.on{background:#003C8F;border-color:#003C8F;color:white;}
-/* 카드 */
 .articles{display:flex;flex-direction:column;gap:7px;}
 .card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:13px 16px;text-decoration:none;display:block;color:inherit;transition:border-color .15s,box-shadow .15s;}
 .card:hover{border-color:var(--bd2);box-shadow:0 2px 10px rgba(0,0,0,.07);}
@@ -80,8 +66,7 @@ h1{font-size:21px;font-weight:700;}
 
   <input type="search" id="search" placeholder="제목, 부서 검색..." oninput="applyF()">
 
-  <!-- 탭 -->
-  <div class="tabs" id="tabs">
+  <div class="tabs">
     <button class="tab on" data-mode="tracked" onclick="setMode(this)">📌 관심 부서</button>
     <button class="tab" data-mode="미래공간기획관" onclick="setMode(this)">미래공간기획관</button>
     <button class="tab" data-mode="균형발전본부" onclick="setMode(this)">균형발전본부</button>
@@ -90,60 +75,11 @@ h1{font-size:21px;font-weight:700;}
     <button class="tab" data-mode="all" onclick="setMode(this)">전체</button>
   </div>
 
-  <!-- 부서 세부 패널 (관심 부서 모드에서만) -->
-  <div class="dept-panel" id="dept-panel">
-    <div class="dg">
-      <div class="dg-label">미래공간기획관</div>
-      <div class="dchips">
-        <button class="dc gon" data-group="미래공간기획관" onclick="toggleGroup(this)">전체</button>
-        <button class="dc" data-dept="미래공간담당관" onclick="toggleDept(this)">미래공간담당관</button>
-        <button class="dc" data-dept="공공개발담당관" onclick="toggleDept(this)">공공개발담당관</button>
-        <button class="dc" data-dept="용산입체도시담당관" onclick="toggleDept(this)">용산입체도시담당관</button>
-        <button class="dc" data-dept="도시활력담당관" onclick="toggleDept(this)">도시활력담당관</button>
-      </div>
-    </div>
-    <div class="dg">
-      <div class="dg-label">균형발전본부</div>
-      <div class="dchips">
-        <button class="dc gon" data-group="균형발전본부" onclick="toggleGroup(this)">전체</button>
-        <button class="dc" data-dept="균형발전정책과" onclick="toggleDept(this)">균형발전정책과</button>
-        <button class="dc" data-dept="도시정비과" onclick="toggleDept(this)">도시정비과</button>
-        <button class="dc" data-dept="동남권사업과" onclick="toggleDept(this)">동남권사업과</button>
-        <button class="dc" data-dept="동북권사업과" onclick="toggleDept(this)">동북권사업과</button>
-        <button class="dc" data-dept="서부권사업과" onclick="toggleDept(this)">서부권사업과</button>
-        <button class="dc" data-dept="광화문광장사업과" onclick="toggleDept(this)">광화문광장사업과</button>
-      </div>
-    </div>
-    <div class="dg">
-      <div class="dg-label">도시공간본부</div>
-      <div class="dchips">
-        <button class="dc gon" data-group="도시공간본부" onclick="toggleGroup(this)">전체</button>
-        <button class="dc" data-dept="도시공간전략과" onclick="toggleDept(this)">도시공간전략과</button>
-        <button class="dc" data-dept="도시계획과" onclick="toggleDept(this)">도시계획과</button>
-        <button class="dc" data-dept="도시계획상임기획과" onclick="toggleDept(this)">도시계획상임기획과</button>
-        <button class="dc" data-dept="도시재창조과" onclick="toggleDept(this)">도시재창조과</button>
-        <button class="dc" data-dept="신속통합기획과" onclick="toggleDept(this)">신속통합기획과</button>
-        <button class="dc" data-dept="도시관리과" onclick="toggleDept(this)">도시관리과</button>
-        <button class="dc" data-dept="시설계획과" onclick="toggleDept(this)">시설계획과</button>
-        <button class="dc" data-dept="토지관리과" onclick="toggleDept(this)">토지관리과</button>
-      </div>
-    </div>
-    <div class="dg">
-      <div class="dg-label">주택실</div>
-      <div class="dchips">
-        <button class="dc gon" data-group="주택실" onclick="toggleGroup(this)">전체</button>
-        <button class="dc" data-dept="주거정비과" onclick="toggleDept(this)">주거정비과</button>
-        <button class="dc" data-dept="재정비촉진과" onclick="toggleDept(this)">재정비촉진과</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- 날짜 필터 -->
   <div class="date-filter">
     <label>기간</label>
-    <input type="date" id="date-from" onchange="applyF()" title="시작일">
+    <input type="date" id="date-from" onchange="applyF()">
     <span style="font-size:12px;color:var(--tx3)">~</span>
-    <input type="date" id="date-to" onchange="applyF()" title="종료일">
+    <input type="date" id="date-to" onchange="applyF()">
     <button class="date-reset" onclick="resetDate()">초기화</button>
   </div>
 
@@ -158,8 +94,6 @@ h1{font-size:21px;font-weight:700;}
 const PS=30,SK='seen_'+new Date().toDateString();
 let seen=new Set(JSON.parse(localStorage.getItem(SK)||'[]'));
 let all=[],fil=[],curMode='tracked',curCat='전체',pg=1;
-let activeGroups=new Set(['미래공간기획관','균형발전본부','도시공간본부','주택실']);
-let activeDepts=new Set();
 
 const DEPT_GROUP={
   '미래공간담당관':'미래공간기획관','공공개발담당관':'미래공간기획관',
@@ -189,52 +123,15 @@ function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').repl
 
 function getDeptFilter(){
   if(curMode==='all')return null;
-  if(curMode!=='tracked'){
-    return new Set(ALL_TRACKED.filter(function(d){return DEPT_GROUP[d]===curMode;}));
-  }
-  const r=new Set();
-  ALL_TRACKED.forEach(function(d){
-    if(activeGroups.has(DEPT_GROUP[d])||activeDepts.has(d))r.add(d);
-  });
-  return r;
+  if(curMode==='tracked')return new Set(ALL_TRACKED);
+  return new Set(ALL_TRACKED.filter(function(d){return DEPT_GROUP[d]===curMode;}));
 }
 
 function setMode(btn){
   document.querySelectorAll('.tab').forEach(function(b){b.classList.remove('on');});
   btn.classList.add('on');
   curMode=btn.dataset.mode;
-  document.getElementById('dept-panel').style.display=curMode==='tracked'?'block':'none';
   curCat='전체';pg=1;buildCats();applyF();
-}
-
-function toggleGroup(btn){
-  const g=btn.dataset.group;
-  if(activeGroups.has(g)){
-    activeGroups.delete(g);btn.classList.remove('gon');
-  }else{
-    activeGroups.add(g);btn.classList.add('gon');
-    document.querySelectorAll('.dc[data-dept]').forEach(function(b){
-      if(DEPT_GROUP[b.dataset.dept]===g){b.classList.remove('on');activeDepts.delete(b.dataset.dept);}
-    });
-  }
-  pg=1;applyF();
-}
-
-function toggleDept(btn){
-  const d=btn.dataset.dept,g=DEPT_GROUP[d];
-  if(activeGroups.has(g)){
-    activeGroups.delete(g);
-    const gb=document.querySelector('.dc[data-group="'+g+'"]');
-    if(gb)gb.classList.remove('gon');
-    ALL_TRACKED.filter(function(x){return DEPT_GROUP[x]===g&&x!==d;}).forEach(function(x){
-      activeDepts.add(x);
-      const xb=document.querySelector('.dc[data-dept="'+x+'"]');
-      if(xb)xb.classList.add('on');
-    });
-  }
-  if(activeDepts.has(d)){activeDepts.delete(d);btn.classList.remove('on');}
-  else{activeDepts.add(d);btn.classList.add('on');}
-  pg=1;applyF();
 }
 
 function resetDate(){
@@ -244,7 +141,8 @@ function resetDate(){
 }
 
 function buildCats(){
-  const src=getFilteredSrc();
+  const fd=getDeptFilter();
+  const src=all.filter(function(i){return !fd||fd.has(i.dept||'');});
   const cats=['전체'].concat([...new Set(src.map(function(i){return i.category;}))]);
   document.getElementById('cats').innerHTML=cats.map(function(c){
     return '<button class="cat-btn'+(c===curCat?' on':'')+'" data-cat="'+esc(c)+'" onclick="setCat(this)">'+esc(c)+'</button>';
@@ -256,22 +154,18 @@ function setCat(btn){
   btn.classList.add('on');curCat=btn.dataset.cat;pg=1;applyF();
 }
 
-function getFilteredSrc(){
+function applyF(){
   const fd=getDeptFilter();
   const q=(document.getElementById('search').value||'').trim().toLowerCase();
   const df=document.getElementById('date-from').value;
   const dt=document.getElementById('date-to').value;
-  return all.filter(function(i){
+  let src=all.filter(function(i){
     if(fd&&!fd.has(i.dept||''))return false;
     if(q&&!(i.title||'').toLowerCase().includes(q)&&!(i.dept||'').toLowerCase().includes(q))return false;
     if(df&&(i.date||'')<df)return false;
     if(dt&&(i.date||'')>dt)return false;
     return true;
   });
-}
-
-function applyF(){
-  const src=getFilteredSrc();
   fil=curCat==='전체'?src:src.filter(function(i){return i.category===curCat;});
   pg=1;render();
   document.getElementById('cpill').textContent=fil.length+'건';
@@ -310,12 +204,6 @@ async function init(){
     const data=await res.json();
     all=(data.items||[]).map(function(i){return Object.assign({},i,{category:i.category||catOf(i.title||'')});});
     if(data.updated_at)document.getElementById('updated').textContent='마지막 업데이트: '+data.updated_at+' · 총 '+data.total+'건';
-    // 날짜 범위 자동 설정 (가장 오래된 날짜 ~ 오늘)
-    const dates=all.map(function(i){return i.date;}).filter(Boolean).sort();
-    if(dates.length){
-      document.getElementById('date-from').min=dates[0];
-      document.getElementById('date-to').max=dates[dates.length-1];
-    }
     buildCats();applyF();
   }catch(err){
     document.getElementById('main').innerHTML='<div class="empty">데이터를 불러오지 못했습니다.</div>';
