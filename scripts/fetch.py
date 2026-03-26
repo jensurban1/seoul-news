@@ -3,11 +3,12 @@ import json
 import re
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
-from pathlib import Path
 from html import unescape
+from pathlib import Path
 
 KST = timezone(timedelta(hours=9))
 RSS_URL = "https://seoulboard.seoul.go.kr/rss/RSSGenerator?bbsNo=158"
+LIST_URL = "https://www.seoul.go.kr/news/news_report.do?bbsNo=158&curPage={page}&pageSize=20"
 OUT_PATH = Path(__file__).parent.parent / "data" / "news.json"
 
 CATEGORY_RULES = [
@@ -44,18 +45,55 @@ def parse_date(pub_date_str):
             continue
     return pub_date_str[:10]
 
+def fetch_dept_map(headers):
+    """HTML 목록에서 글번호 -> 담당부서 매핑"""
+    dept_map = {}
+    try:
+        for page in range(1, 4):
+            url = LIST_URL.format(page=page)
+            resp = requests.get(url, headers=headers, timeout=15)
+            resp.encoding = "utf-8"
+            html = resp.text
+            rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
+            for row in rows:
+                tds = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+                if len(tds) < 4:
+                    continue
+                onclick = re.search(r"fnTbbsView\(['\"](\d+)['\"]\\.\)", tds[1])
+                if not onclick:
+                    # try simpler pattern
+                    onclick = re.search(r"fnTbbsView.'(\d+)'", tds[1])
+                if not onclick:
+                    onclick = re.search(r'fnTbbsView.*?(\d{6,})', tds[1])
+                if not onclick:
+                    continue
+                seq = onclick.group(1)
+                dept = re.sub(r'<[^>]+>', '', tds[2]).strip()
+                dept = unescape(dept)
+                if dept:
+                    dept_map[seq] = dept
+    except Exception as e:
+        print(f"dept_map error: {e}")
+    return dept_map
+
 def fetch_news():
     headers = {"User-Agent": "Mozilla/5.0 (compatible; SeoulNewsBot/1.0)"}
     resp = requests.get(RSS_URL, headers=headers, timeout=15)
     resp.raise_for_status()
     resp.encoding = "utf-8"
     root = ET.fromstring(resp.text)
+    print('담당부서 수집 중...')
+    dept_map = fetch_dept_map(headers)
+    print(f'담당부서 {len(dept_map)}건 수집')
     items = []
     for item in root.findall(".//item"):
         title_raw = unescape(item.findtext("title", "").strip())
         link = (item.findtext("link") or "").strip()
         pub_date = item.findtext("pubDate", "").strip()
-        dept = unescape(item.findtext("author", "").strip())
+        seq_match = re.search(r'[/#](?:view/)?(\d{6,})', link)
+        dept = ""
+        if seq_match:
+            dept = dept_map.get(seq_match.group(1), '')
         items.append({
             "title": clean_title(title_raw),
             "link": link,
@@ -68,12 +106,12 @@ def fetch_news():
         with open(OUT_PATH, encoding="utf-8") as f:
             data = json.load(f)
             existing = data.get("items", [])
-    existing_links = {i["link"] for i in existing}
-    new_items = [i for i in items if i["link"] not in existing_links]
-    merged = items + [i for i in existing if i["link"] not in {x["link"] for x in items}]
-    merged.sort(key=lambda x: x["date"], reverse=True)
+    existing_links = {i['link'] for i in existing}
+    new_items = [i for i in items if i['link'] not in existing_links]
+    merged = items + [i for i in existing if i['link'] not in {x['link'] for x in items}]
+    merged.sort(key=lambda x: x['date'], reverse=True)
     merged = merged[:500]
-    now_kst = datetime.now(KST).strftime("%Y-%m-%d %H:%M")
+    now_kst = datetime.now(KST).strftime('%Y-%m-%d %H:%M')
     result = {
         "updated_at": now_kst,
         "total": len(merged),
@@ -83,7 +121,7 @@ def fetch_news():
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-    print(f"완료: 전체 {len(merged)}건 (오늘 신규 {len(new_items)}건)")
+    print(f'완료: 전체 {len(merged)}건 (오늘 신규 {len(new_items)}건)')
 
 if __name__ == "__main__":
     fetch_news()
