@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-03-26 16:10",
-  "total": 1495,
-  "new_today": 0,
+  "updated_at": "2026-03-27 08:00",
+  "total": 1502,
+  "new_today": 7,
   "items": [
+    {
+      "title": "비타민 꾸러미에 봄소식 담아 쪽방촌 전달…따뜻함으로 채워진 온기창고",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455077",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울시, 소규모 사업장 '위험성평가 무료 컨설팅' 지원…산업재해 예방 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455071",
+      "dept": "노동정책과",
+      "category": "경제",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "네 가지 테마의 봄 꽃길 175선 선정, 서울의 아름다운 정원길을 걸어보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455070",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울시, 무형유산 아쟁산조 김영길 보유자 인정… 전승교육사도 6명 역대 최다 배출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455068",
+      "dept": "문화유산보존과",
+      "category": "행정",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울미래인재재단, 진로·학업 지원부터 사회 혁신까지 36억 규모 장학사업 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455067",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울시장 사후동정 - 26일(목) ‘2026 소상공인 힘보탬 박람회’ 개막식",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455060",
+      "dept": "언론담당관",
+      "category": "경제",
+      "date": "2026-03-26"
+    },
+    {
+      "title": "서울, 국제금융센터지수 8위…4년 연속 Top10 유지하며 2단계 상승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455023",
+      "dept": "금융투자과",
+      "category": "행정",
+      "date": "2026-03-26"
+    },
     {
       "title": "서울시, 9호선 4단계 명일동 구간 지반보강 완료…'안전 최우선' 공사 재개",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454991",
