@@ -4,34 +4,325 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>서울시 보도자료</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23003C8F'/><text x='16' y='23' font-family='Apple SD Gothic Neo,Noto Sans KR,sans-serif' font-size='18' font-weight='700' fill='white' text-anchor='middle'>서</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23003C8F'/><text x='16' y='23' font-family='sans-serif' font-size='18' font-weight='700' fill='white' text-anchor='middle'>서</text></svg>">
 <style>
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-:root {
-  --bg:#f5f5f3; --surface:#fff; --surface2:#f0f0ee;
-  --border:#e4e4e0; --border2:#c8c8c4;
-  --text:#111; --text2:#555; --text3:#999;
-  --blue:#003C8F; --blue-bg:#E3EDFC; --blue-text:#003C8F;
-  --red:#e63939; --radius:12px;
-}
-@media(prefers-color-scheme:dark){:root{
-  --bg:#161616; --surface:#222; --surface2:#2a2a2a;
-  --border:#333; --border2:#484848;
-  --text:#eee; --text2:#aaa; --text3:#666;
-  --blue:#5b9cf6; --blue-bg:#162545; --blue-text:#7eb3fa;
-  --red:#ff6b6b;
-}}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
-.wrap{max-width:780px;margin:0 auto;padding:2rem 1rem 4rem;}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root{--bg:#f5f5f3;--sf:#fff;--sf2:#f0f0ee;--bd:#e4e4e0;--bd2:#c8c8c4;--tx:#111;--tx2:#555;--tx3:#999;--blue:#003C8F;--bbg:#E3EDFC;--btx:#003C8F;--red:#e63939;--r:12px;}
+@media(prefers-color-scheme:dark){:root{--bg:#161616;--sf:#222;--sf2:#2a2a2a;--bd:#333;--bd2:#484848;--tx:#eee;--tx2:#aaa;--tx3:#666;--blue:#5b9cf6;--bbg:#162545;--btx:#7eb3fa;--red:#ff6b6b;}}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",sans-serif;background:var(--bg);color:var(--tx);min-height:100vh;}
+.wrap{max-width:820px;margin:0 auto;padding:2rem 1rem 4rem;}
 header{margin-bottom:1.5rem;}
 .header-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:4px;}
 .header-left{display:flex;align-items:center;gap:10px;}
 .logo{width:38px;height:38px;border-radius:9px;background:#003C8F;color:white;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;flex-shrink:0;}
 h1{font-size:21px;font-weight:700;}
-.count-pill{background:var(--surface2);border-radius:20px;font-size:12px;padding:3px 11px;color:var(--text2);}
-.updated{font-size:12px;color:var(--text3);}
-#search{width:100%;padding:9px 12px;border:1px solid var(--border);border-radius:9px;background:var(--surface);color:var(--text);font-size:14px;outline:none;margin-bottom:1.25rem;font-family:inherit;}
+.cpill{background:var(--sf2);border-radius:20px;font-size:12px;padding:3px 11px;color:var(--tx2);}
+.updated{font-size:12px;color:var(--tx3);}
+/* 검색 */
+#search{width:100%;padding:9px 12px;border:1px solid var(--bd);border-radius:9px;background:var(--sf);color:var(--tx);font-size:14px;outline:none;margin-bottom:1rem;font-family:inherit;}
 #search:focus{border-color:var(--blue);}
-.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1.25rem;}
-.tab{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:6px 16px;font-size:13px;cursor:pointer;color:var(--text2);font-family:inherit;transition:all 0.15s;}
-.tab:hover{border-color:var(--border2);color:var(--text);}
+/* 탭 */
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1rem;}
+.tab{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;transition:all .15s;}
+.tab:hover{border-color:var(--bd2);}
+.tab.on{background:#003C8F;border-color:#003C8F;color:white;}
+/* 부서 패널 */
+.dept-panel{margin-bottom:1rem;}
+.dg{margin-bottom:8px;}
+.dg-label{font-size:11px;font-weight:600;color:var(--tx3);letter-spacing:.03em;margin-bottom:5px;}
+.dchips{display:flex;gap:5px;flex-wrap:wrap;}
+.dc{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:4px 12px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;}
+.dc:hover{border-color:var(--bd2);}
+.dc.on{background:#003C8F;border-color:#003C8F;color:white;}
+.dc.gon{background:#1a5fbe;border-color:#1a5fbe;color:white;}
+/* 날짜 필터 */
+.date-filter{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:1rem;padding:10px 14px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);}
+.date-filter label{font-size:12px;color:var(--tx3);}
+.date-filter input[type=date]{padding:5px 8px;border:1px solid var(--bd);border-radius:7px;font-size:12px;background:var(--sf);color:var(--tx);outline:none;font-family:inherit;cursor:pointer;}
+.date-filter input[type=date]:focus{border-color:var(--blue);}
+.date-reset{font-size:11px;color:var(--btx);background:none;border:none;cursor:pointer;font-family:inherit;margin-left:auto;padding:0;}
+.divider{height:1px;background:var(--bd);margin:.75rem 0;}
+/* 카테고리 */
+.cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1rem;}
+.cat-btn{background:var(--sf);border:1px solid var(--bd);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--tx2);font-family:inherit;}
+.cat-btn.on{background:#003C8F;border-color:#003C8F;color:white;}
+/* 카드 */
+.articles{display:flex;flex-direction:column;gap:7px;}
+.card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:13px 16px;text-decoration:none;display:block;color:inherit;transition:border-color .15s,box-shadow .15s;}
+.card:hover{border-color:var(--bd2);box-shadow:0 2px 10px rgba(0,0,0,.07);}
+.card-meta{display:flex;align-items:center;gap:6px;margin-bottom:6px;flex-wrap:wrap;}
+.grp{font-size:10px;padding:2px 7px;border-radius:20px;border:1px solid var(--bd);color:var(--tx3);}
+.ccat{font-size:11px;padding:2px 9px;border-radius:20px;background:var(--bbg);color:var(--btx);font-weight:600;}
+.db{font-size:11px;padding:2px 9px;border-radius:20px;background:var(--sf2);color:var(--tx2);}
+.date{font-size:12px;color:var(--tx3);margin-left:auto;white-space:nowrap;}
+.card-title{font-size:14px;line-height:1.65;}
+.ndot{display:inline-block;width:6px;height:6px;background:var(--red);border-radius:50%;margin-left:6px;vertical-align:middle;}
+.skeleton{height:74px;background:var(--sf2);border-radius:var(--r);animation:pulse 1.4s ease-in-out infinite;margin-bottom:7px;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.empty{text-align:center;padding:3rem 1rem;font-size:14px;color:var(--tx3);}
+.load-more{display:block;width:100%;margin-top:1rem;padding:10px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);font-size:13px;color:var(--tx2);cursor:pointer;text-align:center;font-family:inherit;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="header-top">
+      <div class="header-left">
+        <div class="logo">서울</div>
+        <h1>서울시 보도자료</h1>
+        <span class="cpill" id="cpill">로딩 중...</span>
+      </div>
+      <a href="https://www.seoul.go.kr/news/news_report.do" target="_blank" rel="noopener"
+        style="font-size:12px;color:var(--tx3);text-decoration:none;border:1px solid var(--bd);padding:5px 12px;border-radius:8px;background:var(--sf)">서울시 원문 →</a>
+    </div>
+    <div class="updated" id="updated"></div>
+  </header>
+
+  <input type="search" id="search" placeholder="제목, 부서 검색..." oninput="applyF()">
+
+  <!-- 탭 -->
+  <div class="tabs" id="tabs">
+    <button class="tab on" data-mode="tracked" onclick="setMode(this)">📌 관심 부서</button>
+    <button class="tab" data-mode="미래공간기획관" onclick="setMode(this)">미래공간기획관</button>
+    <button class="tab" data-mode="균형발전본부" onclick="setMode(this)">균형발전본부</button>
+    <button class="tab" data-mode="도시공간본부" onclick="setMode(this)">도시공간본부</button>
+    <button class="tab" data-mode="주택실" onclick="setMode(this)">주택실</button>
+    <button class="tab" data-mode="all" onclick="setMode(this)">전체</button>
+  </div>
+
+  <!-- 부서 세부 패널 (관심 부서 모드에서만) -->
+  <div class="dept-panel" id="dept-panel">
+    <div class="dg">
+      <div class="dg-label">미래공간기획관</div>
+      <div class="dchips">
+        <button class="dc gon" data-group="미래공간기획관" onclick="toggleGroup(this)">전체</button>
+        <button class="dc" data-dept="미래공간담당관" onclick="toggleDept(this)">미래공간담당관</button>
+        <button class="dc" data-dept="공공개발담당관" onclick="toggleDept(this)">공공개발담당관</button>
+        <button class="dc" data-dept="용산입체도시담당관" onclick="toggleDept(this)">용산입체도시담당관</button>
+        <button class="dc" data-dept="도시활력담당관" onclick="toggleDept(this)">도시활력담당관</button>
+      </div>
+    </div>
+    <div class="dg">
+      <div class="dg-label">균형발전본부</div>
+      <div class="dchips">
+        <button class="dc gon" data-group="균형발전본부" onclick="toggleGroup(this)">전체</button>
+        <button class="dc" data-dept="균형발전정책과" onclick="toggleDept(this)">균형발전정책과</button>
+        <button class="dc" data-dept="도시정비과" onclick="toggleDept(this)">도시정비과</button>
+        <button class="dc" data-dept="동남권사업과" onclick="toggleDept(this)">동남권사업과</button>
+        <button class="dc" data-dept="동북권사업과" onclick="toggleDept(this)">동북권사업과</button>
+        <button class="dc" data-dept="서부권사업과" onclick="toggleDept(this)">서부권사업과</button>
+        <button class="dc" data-dept="광화문광장사업과" onclick="toggleDept(this)">광화문광장사업과</button>
+      </div>
+    </div>
+    <div class="dg">
+      <div class="dg-label">도시공간본부</div>
+      <div class="dchips">
+        <button class="dc gon" data-group="도시공간본부" onclick="toggleGroup(this)">전체</button>
+        <button class="dc" data-dept="도시공간전략과" onclick="toggleDept(this)">도시공간전략과</button>
+        <button class="dc" data-dept="도시계획과" onclick="toggleDept(this)">도시계획과</button>
+        <button class="dc" data-dept="도시계획상임기획과" onclick="toggleDept(this)">도시계획상임기획과</button>
+        <button class="dc" data-dept="도시재창조과" onclick="toggleDept(this)">도시재창조과</button>
+        <button class="dc" data-dept="신속통합기획과" onclick="toggleDept(this)">신속통합기획과</button>
+        <button class="dc" data-dept="도시관리과" onclick="toggleDept(this)">도시관리과</button>
+        <button class="dc" data-dept="시설계획과" onclick="toggleDept(this)">시설계획과</button>
+        <button class="dc" data-dept="토지관리과" onclick="toggleDept(this)">토지관리과</button>
+      </div>
+    </div>
+    <div class="dg">
+      <div class="dg-label">주택실</div>
+      <div class="dchips">
+        <button class="dc gon" data-group="주택실" onclick="toggleGroup(this)">전체</button>
+        <button class="dc" data-dept="주거정비과" onclick="toggleDept(this)">주거정비과</button>
+        <button class="dc" data-dept="재정비촉진과" onclick="toggleDept(this)">재정비촉진과</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 날짜 필터 -->
+  <div class="date-filter">
+    <label>기간</label>
+    <input type="date" id="date-from" onchange="applyF()" title="시작일">
+    <span style="font-size:12px;color:var(--tx3)">~</span>
+    <input type="date" id="date-to" onchange="applyF()" title="종료일">
+    <button class="date-reset" onclick="resetDate()">초기화</button>
+  </div>
+
+  <div class="divider"></div>
+  <div class="cats" id="cats"><button class="cat-btn on" data-cat="전체" onclick="setCat(this)">전체</button></div>
+  <div id="main">
+    <div class="skeleton"></div><div class="skeleton"></div>
+    <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+  </div>
+</div>
+<script>
+const PS=30,SK='seen_'+new Date().toDateString();
+let seen=new Set(JSON.parse(localStorage.getItem(SK)||'[]'));
+let all=[],fil=[],curMode='tracked',curCat='전체',pg=1;
+let activeGroups=new Set(['미래공간기획관','균형발전본부','도시공간본부','주택실']);
+let activeDepts=new Set();
+
+const DEPT_GROUP={
+  '미래공간담당관':'미래공간기획관','공공개발담당관':'미래공간기획관',
+  '용산입체도시담당관':'미래공간기획관','도시활력담당관':'미래공간기획관',
+  '균형발전정책과':'균형발전본부','도시정비과':'균형발전본부',
+  '동남권사업과':'균형발전본부','동북권사업과':'균형발전본부',
+  '서부권사업과':'균형발전본부','광화문광장사업과':'균형발전본부',
+  '도시공간전략과':'도시공간본부','도시계획과':'도시공간본부',
+  '도시계획상임기획과':'도시공간본부','도시재창조과':'도시공간본부',
+  '신속통합기획과':'도시공간본부','도시관리과':'도시공간본부',
+  '시설계획과':'도시공간본부','토지관리과':'도시공간본부',
+  '주거정비과':'주택실','재정비촉진과':'주택실'
+};
+const ALL_TRACKED=Object.keys(DEPT_GROUP);
+
+function catOf(t){
+  if(/교통|버스|지하철|도로|주차|철도|환승/.test(t))return '교통';
+  if(/주택|아파트|임대|전세|월세|부동산|청약/.test(t))return '주택';
+  if(/복지|돌봄|노인|어르신|장애|청년|아동|출산|저출생|육아|보육/.test(t))return '복지';
+  if(/문화|예술|공원|축제|행사|전시|박물관|도서관|공연/.test(t))return '문화';
+  if(/환경|공기|미세먼지|녹지|숲|기후|탄소|쓰레기/.test(t))return '환경';
+  if(/안전|소방|재난|방역|범죄|치안/.test(t))return '안전';
+  if(/경제|일자리|창업|취업|소상공인|산업|스타트업/.test(t))return '경제';
+  return '행정';
+}
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+function getDeptFilter(){
+  if(curMode==='all')return null;
+  if(curMode!=='tracked'){
+    return new Set(ALL_TRACKED.filter(function(d){return DEPT_GROUP[d]===curMode;}));
+  }
+  const r=new Set();
+  ALL_TRACKED.forEach(function(d){
+    if(activeGroups.has(DEPT_GROUP[d])||activeDepts.has(d))r.add(d);
+  });
+  return r;
+}
+
+function setMode(btn){
+  document.querySelectorAll('.tab').forEach(function(b){b.classList.remove('on');});
+  btn.classList.add('on');
+  curMode=btn.dataset.mode;
+  document.getElementById('dept-panel').style.display=curMode==='tracked'?'block':'none';
+  curCat='전체';pg=1;buildCats();applyF();
+}
+
+function toggleGroup(btn){
+  const g=btn.dataset.group;
+  if(activeGroups.has(g)){
+    activeGroups.delete(g);btn.classList.remove('gon');
+  }else{
+    activeGroups.add(g);btn.classList.add('gon');
+    document.querySelectorAll('.dc[data-dept]').forEach(function(b){
+      if(DEPT_GROUP[b.dataset.dept]===g){b.classList.remove('on');activeDepts.delete(b.dataset.dept);}
+    });
+  }
+  pg=1;applyF();
+}
+
+function toggleDept(btn){
+  const d=btn.dataset.dept,g=DEPT_GROUP[d];
+  if(activeGroups.has(g)){
+    activeGroups.delete(g);
+    const gb=document.querySelector('.dc[data-group="'+g+'"]');
+    if(gb)gb.classList.remove('gon');
+    ALL_TRACKED.filter(function(x){return DEPT_GROUP[x]===g&&x!==d;}).forEach(function(x){
+      activeDepts.add(x);
+      const xb=document.querySelector('.dc[data-dept="'+x+'"]');
+      if(xb)xb.classList.add('on');
+    });
+  }
+  if(activeDepts.has(d)){activeDepts.delete(d);btn.classList.remove('on');}
+  else{activeDepts.add(d);btn.classList.add('on');}
+  pg=1;applyF();
+}
+
+function resetDate(){
+  document.getElementById('date-from').value='';
+  document.getElementById('date-to').value='';
+  pg=1;applyF();
+}
+
+function buildCats(){
+  const src=getFilteredSrc();
+  const cats=['전체'].concat([...new Set(src.map(function(i){return i.category;}))]);
+  document.getElementById('cats').innerHTML=cats.map(function(c){
+    return '<button class="cat-btn'+(c===curCat?' on':'')+'" data-cat="'+esc(c)+'" onclick="setCat(this)">'+esc(c)+'</button>';
+  }).join('');
+}
+
+function setCat(btn){
+  document.querySelectorAll('.cat-btn').forEach(function(b){b.classList.remove('on');});
+  btn.classList.add('on');curCat=btn.dataset.cat;pg=1;applyF();
+}
+
+function getFilteredSrc(){
+  const fd=getDeptFilter();
+  const q=(document.getElementById('search').value||'').trim().toLowerCase();
+  const df=document.getElementById('date-from').value;
+  const dt=document.getElementById('date-to').value;
+  return all.filter(function(i){
+    if(fd&&!fd.has(i.dept||''))return false;
+    if(q&&!(i.title||'').toLowerCase().includes(q)&&!(i.dept||'').toLowerCase().includes(q))return false;
+    if(df&&(i.date||'')<df)return false;
+    if(dt&&(i.date||'')>dt)return false;
+    return true;
+  });
+}
+
+function applyF(){
+  const src=getFilteredSrc();
+  fil=curCat==='전체'?src:src.filter(function(i){return i.category===curCat;});
+  pg=1;render();
+  document.getElementById('cpill').textContent=fil.length+'건';
+}
+
+function render(){
+  const sl=fil.slice(0,pg*PS);
+  if(!sl.length){document.getElementById('main').innerHTML='<div class="empty">검색 결과가 없습니다.</div>';return;}
+  let html='<div class="articles">';
+  for(let i=0;i<sl.length;i++){
+    const it=sl[i];const isN=!seen.has(it.link);
+    const grp=DEPT_GROUP[it.dept||'']||'';
+    html+='<a class="card" href="'+esc(it.link||'#')+'" target="_blank" rel="noopener" onclick="markSeen(this.dataset.l)" data-l="'+(it.link||'')+'">';
+    html+='<div class="card-meta">';
+    if(grp)html+='<span class="grp">'+esc(grp)+'</span>';
+    html+='<span class="ccat">'+esc(it.category||'')+'</span>';
+    if(it.dept)html+='<span class="db">'+esc(it.dept)+'</span>';
+    html+='<span class="date">'+esc((it.date||'').substring(0,10))+'</span>';
+    html+='</div>';
+    html+='<div class="card-title">'+esc(it.title||'')+(isN?'<span class="ndot"></span>':'')+' </div>';
+    html+='</a>';
+  }
+  html+='</div>';
+  if(fil.length>sl.length)html+='<button class="load-more" onclick="loadMore()">더 보기 ('+(fil.length-sl.length)+'건 남음)</button>';
+  document.getElementById('main').innerHTML=html;
+}
+
+function loadMore(){pg++;render();}
+function markSeen(l){seen.add(l);localStorage.setItem(SK,JSON.stringify([...seen]));}
+
+async function init(){
+  try{
+    const base=location.pathname.replace(/\/index\.html$/,'').replace(/\/$/,'');
+    const res=await fetch(base+'/data/news.json?t='+Date.now());
+    if(!res.ok)throw new Error();
+    const data=await res.json();
+    all=(data.items||[]).map(function(i){return Object.assign({},i,{category:i.category||catOf(i.title||'')});});
+    if(data.updated_at)document.getElementById('updated').textContent='마지막 업데이트: '+data.updated_at+' · 총 '+data.total+'건';
+    // 날짜 범위 자동 설정 (가장 오래된 날짜 ~ 오늘)
+    const dates=all.map(function(i){return i.date;}).filter(Boolean).sort();
+    if(dates.length){
+      document.getElementById('date-from').min=dates[0];
+      document.getElementById('date-to').max=dates[dates.length-1];
+    }
+    buildCats();applyF();
+  }catch(err){
+    document.getElementById('main').innerHTML='<div class="empty">데이터를 불러오지 못했습니다.</div>';
+    document.getElementById('cpill').textContent='오류';
+  }
+}
+init();
+</script>
+</body>
+</html>
