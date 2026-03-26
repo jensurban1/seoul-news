@@ -21,7 +21,7 @@
   --red:#ff6b6b;
 }}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
-.wrap{max-width:820px;margin:0 auto;padding:2rem 1rem 4rem;}
+.wrap{max-width:780px;margin:0 auto;padding:2rem 1rem 4rem;}
 header{margin-bottom:1.5rem;}
 .header-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:4px;}
 .header-left{display:flex;align-items:center;gap:10px;}
@@ -31,38 +31,24 @@ h1{font-size:21px;font-weight:700;}
 .updated{font-size:12px;color:var(--text3);}
 #search{width:100%;padding:9px 12px;border:1px solid var(--border);border-radius:9px;background:var(--surface);color:var(--text);font-size:14px;outline:none;margin-bottom:1.25rem;font-family:inherit;}
 #search:focus{border-color:var(--blue);}
-/* 부서 필터 패널 */
-.dept-panel{margin-bottom:1.25rem;}
-.dept-group{margin-bottom:0.75rem;}
-.dept-group-label{font-size:11px;font-weight:600;color:var(--text3);letter-spacing:0.03em;margin-bottom:5px;text-transform:uppercase;}
-.dept-chips{display:flex;gap:5px;flex-wrap:wrap;}
-.dchip{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:4px 12px;font-size:12px;cursor:pointer;color:var(--text2);font-family:inherit;transition:all 0.15s;}
-.dchip:hover{border-color:var(--border2);color:var(--text);}
-.dchip.on{background:#003C8F;border-color:#003C8F;color:white;}
-.dchip.group-on{background:#1a5fbe;border-color:#1a5fbe;color:white;}
-.divider{height:1px;background:var(--border);margin:1rem 0;}
-/* 카테고리 필터 */
-.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1rem;}
-.filter-btn{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--text2);font-family:inherit;}
-.filter-btn.on{background:#003C8F;border-color:#003C8F;color:white;}
-/* 카드 */
-.articles{display:flex;flex-direction:column;gap:7px;}
-.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:13px 16px;text-decoration:none;display:block;color:inherit;transition:border-color .15s,box-shadow .15s;}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1.25rem;}
+.tab{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:6px 16px;font-size:13px;cursor:pointer;color:var(--text2);font-family:inherit;transition:all 0.15s;}
+.tab:hover{border-color:var(--border2);color:var(--text);}
+.tab.on{background:#003C8F;border-color:#003C8F;color:white;font-weight:500;}
+.articles{display:flex;flex-direction:column;gap:8px;}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;text-decoration:none;display:block;color:inherit;transition:border-color .15s,box-shadow .15s;}
 .card:hover{border-color:var(--border2);box-shadow:0 2px 10px rgba(0,0,0,.07);}
-.card-meta{display:flex;align-items:center;gap:7px;margin-bottom:6px;flex-wrap:wrap;}
-.cat{font-size:11px;padding:2px 9px;border-radius:20px;background:var(--blue-bg);color:var(--blue-text);font-weight:600;}
-.deptbadge{font-size:11px;padding:2px 9px;border-radius:20px;background:var(--surface2);color:var(--text2);}
-.grpbadge{font-size:10px;padding:1px 7px;border-radius:20px;border:1px solid var(--border);color:var(--text3);}
+.card-meta{display:flex;align-items:center;gap:6px;margin-bottom:7px;flex-wrap:wrap;}
+.tag{font-size:11px;padding:2px 8px;border-radius:6px;font-weight:500;}
+.tag-group{background:var(--blue-bg);color:var(--blue-text);}
+.tag-dept{background:var(--surface2);color:var(--text2);}
 .date{font-size:12px;color:var(--text3);margin-left:auto;white-space:nowrap;}
 .card-title{font-size:14px;line-height:1.65;}
 .ndot{display:inline-block;width:6px;height:6px;background:var(--red);border-radius:50%;margin-left:6px;vertical-align:middle;}
-.skeleton{height:74px;background:var(--surface2);border-radius:var(--radius);animation:pulse 1.4s ease-in-out infinite;margin-bottom:7px;}
+.skeleton{height:72px;background:var(--surface2);border-radius:var(--radius);animation:pulse 1.4s ease-in-out infinite;margin-bottom:8px;}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
 .empty{text-align:center;padding:3rem 1rem;font-size:14px;color:var(--text3);}
 .load-more{display:block;width:100%;margin-top:1rem;padding:10px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);font-size:13px;color:var(--text2);cursor:pointer;text-align:center;font-family:inherit;}
-.mode-toggle{display:flex;gap:6px;margin-bottom:1rem;}
-.mode-btn{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:5px 14px;font-size:12px;cursor:pointer;color:var(--text2);font-family:inherit;}
-.mode-btn.on{background:var(--surface2);border-color:var(--border2);color:var(--text);font-weight:600;}
 </style>
 </head>
 <body>
@@ -82,63 +68,13 @@ h1{font-size:21px;font-weight:700;}
 
   <input type="search" id="search" placeholder="제목, 부서 검색..." oninput="applyF()">
 
-  <!-- 보기 모드 토글 -->
-  <div class="mode-toggle">
-    <button class="mode-btn on" id="mode-tracked" onclick="setMode('tracked')">📌 관심 부서만</button>
-    <button class="mode-btn" id="mode-all" onclick="setMode('all')">전체 보도자료</button>
-  </div>
-
-  <!-- 부서 필터 패널 (관심 부서 모드일 때만 표시) -->
-  <div class="dept-panel" id="dept-panel">
-    <div class="dept-group">
-      <div class="dept-group-label">미래공간기획관</div>
-      <div class="dept-chips">
-        <button class="dchip group-on" data-group="미래공간기획관" onclick="toggleGroup(this)">전체</button>
-        <button class="dchip" data-dept="미래공간담당관" onclick="toggleDept(this)">미래공간담당관</button>
-        <button class="dchip" data-dept="공공개발담당관" onclick="toggleDept(this)">공공개발담당관</button>
-        <button class="dchip" data-dept="용산입체도시담당관" onclick="toggleDept(this)">용산입체도시담당관</button>
-        <button class="dchip" data-dept="도시활력담당관" onclick="toggleDept(this)">도시활력담당관</button>
-      </div>
-    </div>
-    <div class="dept-group">
-      <div class="dept-group-label">균형발전본부</div>
-      <div class="dept-chips">
-        <button class="dchip group-on" data-group="균형발전본부" onclick="toggleGroup(this)">전체</button>
-        <button class="dchip" data-dept="균형발전정책과" onclick="toggleDept(this)">균형발전정책과</button>
-        <button class="dchip" data-dept="도시정비과" onclick="toggleDept(this)">도시정비과</button>
-        <button class="dchip" data-dept="동남권사업과" onclick="toggleDept(this)">동남권사업과</button>
-        <button class="dchip" data-dept="동북권사업과" onclick="toggleDept(this)">동북권사업과</button>
-        <button class="dchip" data-dept="서부권사업과" onclick="toggleDept(this)">서부권사업과</button>
-        <button class="dchip" data-dept="광화문광장사업과" onclick="toggleDept(this)">광화문광장사업과</button>
-      </div>
-    </div>
-    <div class="dept-group">
-      <div class="dept-group-label">도시공간본부</div>
-      <div class="dept-chips">
-        <button class="dchip group-on" data-group="도시공간본부" onclick="toggleGroup(this)">전체</button>
-        <button class="dchip" data-dept="도시공간전략과" onclick="toggleDept(this)">도시공간전략과</button>
-        <button class="dchip" data-dept="도시계획과" onclick="toggleDept(this)">도시계획과</button>
-        <button class="dchip" data-dept="도시계획상임기획과" onclick="toggleDept(this)">도시계획상임기획과</button>
-        <button class="dchip" data-dept="도시재창조과" onclick="toggleDept(this)">도시재창조과</button>
-        <button class="dchip" data-dept="신속통합기획과" onclick="toggleDept(this)">신속통합기획과</button>
-        <button class="dchip" data-dept="도시관리과" onclick="toggleDept(this)">도시관리과</button>
-        <button class="dchip" data-dept="시설계획과" onclick="toggleDept(this)">시설계획과</button>
-        <button class="dchip" data-dept="토지관리과" onclick="toggleDept(this)">토지관리과</button>
-      </div>
-    </div>
-    <div class="dept-group">
-      <div class="dept-group-label">주택실</div>
-      <div class="dept-chips">
-        <button class="dchip group-on" data-group="주택실" onclick="toggleGroup(this)">전체</button>
-        <button class="dchip" data-dept="주거정비과" onclick="toggleDept(this)">주거정비과</button>
-        <button class="dchip" data-dept="재정비촉진과" onclick="toggleDept(this)">재정비촉진과</button>
-      </div>
-    </div>
-  </div>
-
-  <div class="divider"></div>
-  <div class="filters" id="filters">
-    <button class="filter-btn on" data-cat="전체" onclick="setCat(this)">전체</button>
+  <div class="tabs" id="tabs">
+    <button class="tab on" data-group="관심부서" onclick="setTab(this)">📌 관심 부서</button>
+    <button class="tab" data-group="미래공간기획관" onclick="setTab(this)">미래공간기획관</button>
+    <button class="tab" data-group="균형발전본부" onclick="setTab(this)">균형발전본부</button>
+    <button class="tab" data-group="도시공간본부" onclick="setTab(this)">도시공간본부</button>
+    <button class="tab" data-group="주택실" onclick="setTab(this)">주택실</button>
+    <button class="tab" data-group="전체" onclick="setTab(this)">전체</button>
   </div>
 
   <div id="main">
@@ -149,9 +85,8 @@ h1{font-size:21px;font-weight:700;}
 <script>
 const PS=30, SK='seen_'+new Date().toDateString();
 let seen=new Set(JSON.parse(localStorage.getItem(SK)||'[]'));
-let all=[], fil=[], curCat='전체', pg=1, viewMode='tracked';
+let all=[], fil=[], curGroup='관심부서', pg=1;
 
-// 부서 → 대분류 매핑
 const DEPT_GROUP = {
   '미래공간담당관':'미래공간기획관','공공개발담당관':'미래공간기획관',
   '용산입체도시담당관':'미래공간기획관','도시활력담당관':'미래공간기획관',
@@ -166,20 +101,6 @@ const DEPT_GROUP = {
 };
 const ALL_TRACKED = Object.keys(DEPT_GROUP);
 
-// 활성 필터: 그룹 전체 on이면 group명, 개별 선택이면 dept명 배열
-let activeGroups = new Set(['미래공간기획관','균형발전본부','도시공간본부','주택실']);
-let activeDepts  = new Set(); // 개별 선택 시 사용
-
-function getFilteredDepts() {
-  if (viewMode === 'all') return null; // null = 필터 없음
-  const result = new Set();
-  ALL_TRACKED.forEach(function(d) {
-    const g = DEPT_GROUP[d];
-    if (activeGroups.has(g) || activeDepts.has(d)) result.add(d);
-  });
-  return result;
-}
-
 function catOf(t){
   if(/교통|버스|지하철|도로|주차|철도|환승/.test(t))return '교통';
   if(/주택|아파트|임대|전세|월세|부동산|청약/.test(t))return '주택';
@@ -192,85 +113,27 @@ function catOf(t){
 }
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 
-// 그룹 전체 토글
-function toggleGroup(btn) {
-  const g = btn.dataset.group;
-  if (activeGroups.has(g)) {
-    activeGroups.delete(g);
-    btn.classList.remove('group-on');
-  } else {
-    activeGroups.add(g);
-    btn.classList.add('group-on');
-    // 해당 그룹의 개별 선택 해제
-    document.querySelectorAll('.dchip[data-dept]').forEach(function(b) {
-      if (DEPT_GROUP[b.dataset.dept] === g) b.classList.remove('on');
-    });
-    ALL_TRACKED.filter(function(d){return DEPT_GROUP[d]===g;}).forEach(function(d){activeDepts.delete(d);});
-  }
+function setTab(btn){
+  document.querySelectorAll('.tab').forEach(function(b){b.classList.remove('on');});
+  btn.classList.add('on');
+  curGroup=btn.dataset.group;
   pg=1; applyF();
-}
-
-// 개별 부서 토글
-function toggleDept(btn) {
-  const d = btn.dataset.dept;
-  const g = DEPT_GROUP[d];
-  // 그룹 전체가 on이면 먼저 그룹 해제
-  if (activeGroups.has(g)) {
-    activeGroups.delete(g);
-    const gb = document.querySelector('.dchip[data-group="'+g+'"]');
-    if (gb) gb.classList.remove('group-on');
-    // 같은 그룹의 다른 부서들 개별 on
-    ALL_TRACKED.filter(function(x){return DEPT_GROUP[x]===g && x!==d;}).forEach(function(x){
-      activeDepts.add(x);
-      const xb = document.querySelector('.dchip[data-dept="'+x+'"]');
-      if (xb) xb.classList.add('on');
-    });
-  }
-  if (activeDepts.has(d)) {
-    activeDepts.delete(d);
-    btn.classList.remove('on');
-  } else {
-    activeDepts.add(d);
-    btn.classList.add('on');
-  }
-  pg=1; applyF();
-}
-
-function setMode(m) {
-  viewMode = m;
-  document.getElementById('mode-tracked').classList.toggle('on', m==='tracked');
-  document.getElementById('mode-all').classList.toggle('on', m==='all');
-  document.getElementById('dept-panel').style.display = m==='tracked' ? 'block' : 'none';
-  pg=1; buildFilters(); applyF();
-}
-
-function buildFilters() {
-  const src = viewMode==='all' ? all : all.filter(function(i){
-    const fd = getFilteredDepts();
-    return fd ? fd.has(i.dept||'') : true;
-  });
-  const cats=['전체'].concat([...new Set(src.map(function(i){return i.category;}))]);
-  document.getElementById('filters').innerHTML=cats.map(function(c){
-    return '<button class="filter-btn'+(c===curCat?' on':'')+'" data-cat="'+esc(c)+'" onclick="setCat(this)">'+esc(c)+'</button>';
-  }).join('');
-}
-
-function setCat(btn){
-  document.querySelectorAll('.filter-btn').forEach(function(b){b.classList.remove('on');});
-  btn.classList.add('on'); curCat=btn.dataset.cat; pg=1; applyF();
 }
 
 function applyF(){
   const q=(document.getElementById('search').value||'').trim().toLowerCase();
-  const fd = getFilteredDepts();
   fil=all.filter(function(i){
-    const dOk = !fd || fd.has(i.dept||'');
-    const catOk = curCat==='전체' || i.category===curCat;
-    const sOk = !q || (i.title||'').toLowerCase().includes(q) || (i.dept||'').toLowerCase().includes(q);
-    return dOk && catOk && sOk;
+    const dept=i.dept||'';
+    const grp=DEPT_GROUP[dept]||'';
+    let groupOk;
+    if(curGroup==='전체') groupOk=true;
+    else if(curGroup==='관심부서') groupOk=ALL_TRACKED.includes(dept);
+    else groupOk=grp===curGroup;
+    const searchOk=!q||(i.title||'').toLowerCase().includes(q)||dept.toLowerCase().includes(q);
+    return groupOk&&searchOk;
   });
   pg=1; render();
-  document.getElementById('count-pill').textContent = fil.length+'건';
+  document.getElementById('count-pill').textContent=fil.length+'건';
 }
 
 function render(){
@@ -279,12 +142,12 @@ function render(){
   let html='<div class="articles">';
   for(let i=0;i<sl.length;i++){
     const it=sl[i]; const isN=!seen.has(it.link);
-    const grp = DEPT_GROUP[it.dept||''] || '';
+    const dept=it.dept||'';
+    const grp=DEPT_GROUP[dept]||'';
     html+='<a class="card" href="'+esc(it.link||'#')+'" target="_blank" rel="noopener" onclick="markSeen(this.dataset.l)" data-l="'+(it.link||'')+'">';
     html+='<div class="card-meta">';
-    if(grp) html+='<span class="grpbadge">'+esc(grp)+'</span>';
-    html+='<span class="cat">'+esc(it.category||'')+'</span>';
-    if(it.dept) html+='<span class="deptbadge">'+esc(it.dept)+'</span>';
+    if(grp) html+='<span class="tag tag-group">'+esc(grp)+'</span>';
+    if(dept) html+='<span class="tag tag-dept">'+esc(dept)+'</span>';
     html+='<span class="date">'+esc((it.date||'').substring(0,10))+'</span>';
     html+='</div>';
     html+='<div class="card-title">'+esc(it.title||'')+(isN?'<span class="ndot"></span>':'')+' </div>';
@@ -306,7 +169,7 @@ async function init(){
     const data=await res.json();
     all=(data.items||[]).map(function(i){return Object.assign({},i,{category:i.category||catOf(i.title||'')});});
     if(data.updated_at)document.getElementById('updated-at').textContent='마지막 업데이트: '+data.updated_at;
-    buildFilters(); applyF();
+    applyF();
   }catch(err){
     document.getElementById('main').innerHTML='<div class="empty">데이터를 불러오지 못했습니다.</div>';
     document.getElementById('count-pill').textContent='오류';
