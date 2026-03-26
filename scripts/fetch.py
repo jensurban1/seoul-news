@@ -4,6 +4,7 @@ import re
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
 from pathlib import Path
+from html import unescape
 
 KST = timezone(timedelta(hours=9))
 RSS_URL = "https://seoulboard.seoul.go.kr/rss/RSSGenerator?bbsNo=158"
@@ -26,6 +27,7 @@ def categorize(title):
     return "행정"
 
 def clean_title(title):
+    title = unescape(title)
     title = re.sub(r"\((석간|조간|자료제공|해명)\)\s*", "", title)
     title = re.sub(r"\[.+?\]$", "", title)
     return title.strip()
@@ -50,10 +52,10 @@ def fetch_news():
     root = ET.fromstring(resp.text)
     items = []
     for item in root.findall(".//item"):
-        title_raw = item.findtext("title", "").strip()
+        title_raw = unescape(item.findtext("title", "").strip())
         link = (item.findtext("link") or "").strip()
         pub_date = item.findtext("pubDate", "").strip()
-        dept = item.findtext("author", "").strip()
+        dept = unescape(item.findtext("author", "").strip())
         items.append({
             "title": clean_title(title_raw),
             "link": link,
