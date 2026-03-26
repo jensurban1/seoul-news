@@ -132,8 +132,8 @@ function render(){
     html+='<a class="card" href="'+esc(it.link||'#')+'" target="_blank" rel="noopener" onclick="markSeen(this.dataset.l)" data-l="'+(it.link||'')+'">';
     html+='<div class="card-meta">';
     if(grp)html+='<span class="grp">'+esc(grp)+'</span>';
-    html+='<span class="ccat">'+esc(it.category||'')+'</span>';
     if(it.dept)html+='<span class="db">'+esc(it.dept)+'</span>';
+    html+='<span class="ccat">'+esc(it.category||'')+'</span>';
     html+='<span class="date">'+esc((it.date||'').substring(0,10))+'</span>';
     html+='</div>';
     html+='<div class="card-title">'+esc(it.title||'')+(isN?'<span class="ndot"></span>':'')+' </div>';
