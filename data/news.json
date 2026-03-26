@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-03-26 15:08",
+  "updated_at": "2026-03-26 15:14",
   "total": 51,
-  "new_today": 1,
+  "new_today": 0,
   "items": [
     {
       "title": "서울시, 9호선 4단계 명일동 구간 지반보강 완료…'안전 최우선' 공사 재개",
@@ -202,28 +202,28 @@
     {
       "title": "“BTS 공연도 함께한 친환경 바람…서울시 ‘행사폐기물 제로화’ 추진”",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454796",
-      "dept": "",
+      "dept": "자원순환과",
       "category": "문화",
       "date": "2026-03-24"
     },
     {
       "title": "상조 결합상품 가입자 절반 '내용 몰라', 가전값 최대 3.3배… 서울시, 제도개선 나선다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454795",
-      "dept": "",
+      "dept": "공정경제과",
       "category": "행정",
       "date": "2026-03-24"
     },
     {
       "title": "XR 스튜디오·콘텐츠 제작까지 지원…'서울창업허브 창동', 신규 입주기업 20개사 모집",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454794",
-      "dept": "",
+      "dept": "창업정책과",
       "category": "경제",
       "date": "2026-03-24"
     },
     {
       "title": "서울기록원, ‘기록하는 시민’ 키운다…전 세대 대상 연중 교육",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454793",
-      "dept": "",
+      "dept": "서울기록원",
       "category": "행정",
       "date": "2026-03-24"
     },
@@ -244,56 +244,56 @@
     {
       "title": "'서울형 통합돌봄' 준비 만반… 서울시, 돌봄모델을 선도한다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454831",
-      "dept": "",
+      "dept": "돌봄복지과",
       "category": "복지",
       "date": "2026-03-24"
     },
     {
       "title": "저출생 극복 메시지 담은 '서울 유아차 런' 28일(토) 개최…광화문광장~여의도공원 교통통제",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454830",
-      "dept": "",
+      "dept": "저출생담당관",
       "category": "교통",
       "date": "2026-03-24"
     },
     {
       "title": "서울시, 서해수호의 날 기념 추모공간 운영…꿈새김판도 새단장",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454829",
-      "dept": "",
+      "dept": "복지정책과",
       "category": "행정",
       "date": "2026-03-24"
     },
     {
       "title": "서울시, 아시아 비즈니스 심장‘용산서울코어’글로벌 헤드쿼터 유치 전략 포럼 개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454828",
-      "dept": "",
+      "dept": "용산입체도시담당관",
       "category": "행정",
       "date": "2026-03-24"
     },
     {
       "title": "서울시, 2026 도시공간정책 국내컨퍼런스 개최 “공공기여 10년, 서울의 미래가치를 심다”",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454826",
-      "dept": "",
+      "dept": "도시계획과",
       "category": "환경",
       "date": "2026-03-24"
     },
     {
       "title": "'청년 전세사기' 위험, 집주소만 입력 'AI진단' 해준다…25일부터 3천 건 지원",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454825",
-      "dept": "",
+      "dept": "주택정책과",
       "category": "주택",
       "date": "2026-03-24"
     },
     {
       "title": "영화 이야기를 가드닝에 담아보세요, 서울시 퇴근 후 정원생활",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454824",
-      "dept": "",
+      "dept": "공원여가사업과",
       "category": "행정",
       "date": "2026-03-24"
     },
     {
       "title": "“장벽 없는 충전, 서울이 연다…교통약자 ‘동행 충전기’ 100기 설치”",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454823",
-      "dept": "",
+      "dept": "친환경차량과",
       "category": "교통",
       "date": "2026-03-24"
     },
@@ -335,21 +335,21 @@
     {
       "title": "(엠바고15시30분)청량리 전통시장, 한옥 품고 세계인 찾는 '글로벌 메가마켓' 재탄생",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454804",
-      "dept": "",
+      "dept": "공공개발담당관",
       "category": "행정",
       "date": "2026-03-23"
     },
     {
       "title": "서울시, 중동발 고유가·물가 비상 대응 총력…민생·기업 전방위 지원",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454758",
-      "dept": "",
+      "dept": "경제정책과",
       "category": "행정",
       "date": "2026-03-23"
     },
     {
       "title": "제2의 명일동 사고 막는다… 서울시, 인력강화-시설정비-신기술 도입 지반침하 예방",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/454742",
-      "dept": "",
+      "dept": "지하안전과",
       "category": "행정",
       "date": "2026-03-23"
     },
