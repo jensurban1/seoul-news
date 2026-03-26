@@ -45,35 +45,38 @@ def parse_date(pub_date_str):
             continue
     return pub_date_str[:10]
 
+def normalize(s):
+    """공백/특수문자 제거한 비교용 문자열"""
+    return re.sub(r'[\s\W]', '', unescape(s)).strip()
+
 def fetch_dept_map(headers):
-    """HTML 목록에서 글번호 -> 담당부서 매핑"""
+    """HTML 목록 페이지에서 제목 -> 담당부서 매핑"""
     dept_map = {}
     try:
-        for page in range(1, 4):
+        for page in range(1, 6):  # 최근 5페이지 = 100건
             url = LIST_URL.format(page=page)
             resp = requests.get(url, headers=headers, timeout=15)
             resp.encoding = "utf-8"
             html = resp.text
+            # <tr> 태그 내 td들 파싱
             rows = re.findall(r'<tr[^>]*>(.*?)</tr>', html, re.DOTALL)
             for row in rows:
                 tds = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
                 if len(tds) < 4:
                     continue
-                onclick = re.search(r"fnTbbsView\(['\"](\d+)['\"]\\.\)", tds[1])
-                if not onclick:
-                    # try simpler pattern
-                    onclick = re.search(r"fnTbbsView.'(\d+)'", tds[1])
-                if not onclick:
-                    onclick = re.search(r'fnTbbsView.*?(\d{6,})', tds[1])
-                if not onclick:
+                # 제목 추출 (a 태그 텍스트)
+                title_match = re.search(r'>([^<]+)</a>', tds[1])
+                if not title_match:
                     continue
-                seq = onclick.group(1)
+                raw_title = title_match.group(1).strip()
+                # 담당부서 (3번째 td)
                 dept = re.sub(r'<[^>]+>', '', tds[2]).strip()
                 dept = unescape(dept)
-                if dept:
-                    dept_map[seq] = dept
+                if raw_title and dept:
+                    dept_map[normalize(raw_title)] = dept
     except Exception as e:
         print(f"dept_map error: {e}")
+    print(f'HTML 목록에서 {len(dept_map)}건 제목-부서 매핑 수집')
     return dept_map
 
 def fetch_news():
@@ -82,30 +85,31 @@ def fetch_news():
     resp.raise_for_status()
     resp.encoding = "utf-8"
     root = ET.fromstring(resp.text)
-    print('담당부서 수집 중...')
     dept_map = fetch_dept_map(headers)
-    print(f'담당부서 {len(dept_map)}건 수집')
     items = []
     for item in root.findall(".//item"):
         title_raw = unescape(item.findtext("title", "").strip())
         link = (item.findtext("link") or "").strip()
         pub_date = item.findtext("pubDate", "").strip()
-        seq_match = re.search(r'[/#](?:view/)?(\d{6,})', link)
-        dept = ""
-        if seq_match:
-            dept = dept_map.get(seq_match.group(1), '')
+        clean = clean_title(title_raw)
+        dept = dept_map.get(normalize(clean), '')
+        # 못 찾으면 raw title로도 시도
+        if not dept:
+            dept = dept_map.get(normalize(title_raw), '')
         items.append({
-            "title": clean_title(title_raw),
+            "title": clean,
             "link": link,
             "dept": dept,
             "category": categorize(title_raw),
             "date": parse_date(pub_date),
         })
+    matched = sum(1 for i in items if i['dept'])
+    print(f'RSS {len(items)}건 중 {matched}건 부서 매칭')
     existing = []
     if OUT_PATH.exists():
         with open(OUT_PATH, encoding="utf-8") as f:
             data = json.load(f)
-            existing = data.get("items", [])
+            existing = data.get('items', [])
     existing_links = {i['link'] for i in existing}
     new_items = [i for i in items if i['link'] not in existing_links]
     merged = items + [i for i in existing if i['link'] not in {x['link'] for x in items}]
