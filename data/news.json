@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-03-27 08:00",
-  "total": 1502,
-  "new_today": 7,
+  "updated_at": "2026-03-28 08:47",
+  "total": 1513,
+  "new_today": 11,
   "items": [
+    {
+      "title": "서울시장 사후동정-27일(금) 소상공인 음식점 민생 현장 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455128",
+      "dept": "언론담당관",
+      "category": "경제",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울시장 사후동정 - 27일(금) ‘서해수호의 날’ 맞아 위국헌신청년주택 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455113",
+      "dept": "언론담당관",
+      "category": "주택",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울역사박물관, '몰입형 체험 어린이역사박물관' 첫 시민 관람",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455109",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "AI 도입 넘어 '산업 전환'…서울, AX 전략 고도화 위해 전문가 집결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455108",
+      "dept": "첨단산업과",
+      "category": "경제",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "(엠바고10시)제6차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455104",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울시, 27일 09시 기준 초미세먼지[PM-2.5] 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455103",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "잠실종합운동장 방문객 대중교통 이용 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455102",
+      "dept": "체육시설관리사업소",
+      "category": "교통",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "'돌봄은 더 촘촘히, 간병 부담 가볍게' 서북병원 간호·간병 통합병상 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455101",
+      "dept": "서북병원",
+      "category": "복지",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울시민대학, 명예시민 학위 2천명 돌파…평생학습 질적 도약 이끈다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455100",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울대공원 ‘치유의 숲’, 서울시 최초 공립 승인 … 10년 만에 프리미엄 공간으로 ‘대전환’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455099",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "서울시, 모아타운·모아주택 사업성 보정계수 적용 소규모정비 통합심의 통과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455098",
+      "dept": "전략주택공급과",
+      "category": "주택",
+      "date": "2026-03-27"
+    },
     {
       "title": "비타민 꾸러미에 봄소식 담아 쪽방촌 전달…따뜻함으로 채워진 온기창고",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455077",
