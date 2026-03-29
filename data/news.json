@@ -1,8 +1,120 @@
 {
-  "updated_at": "2026-03-29 08:02",
-  "total": 1514,
-  "new_today": 1,
+  "updated_at": "2026-03-30 08:05",
+  "total": 1530,
+  "new_today": 16,
   "items": [
+    {
+      "title": "시민과 함께하는 예술섬 … 서울시, 3일 「노들 미리봄 페스티벌」개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455162",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울창업허브M+, 입주기업 모집…마곡 대기업 9개사와 협업·투자 기회 제공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455161",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울시 청년마음건강 지원사업 2차 모집…대학 연계 10개교로 본격 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455160",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울특별시 자치법규 제·개정 공포",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455159",
+      "dept": "법무담당관",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울시-포르쉐, 서울국제정원박람회에 드림 서킷 정원 선보인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455158",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "새벽동행 자율주행버스 'A741' 첫 시동…새벽 출근길 더 빨라진다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455157",
+      "dept": "미래첨단교통과",
+      "category": "교통",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울시, 신청에서 보상까지 백신 피해보상 더 촘촘히 밀착 지원 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455156",
+      "dept": "감염병관리과",
+      "category": "행정",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울시, 사각지대 위기가구에 임차보증금 725만 원, 긴급비 100만 원 지원한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455155",
+      "dept": "돌봄복지과",
+      "category": "행정",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "'창업하기 좋은 도시 서울', AI·딥테크 스타트업 무대 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455154",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울을 만나는 새로운 여행!  서울시, 2026 서울 우수관광상품 10개 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455153",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울시, 주한외교공관·외국인 명예시민 글로벌 인적 자원 한 자리에 모은다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455152",
+      "dept": "도시외교담당관",
+      "category": "행정",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울시 첫 청소년 홍보단 ‘몽땅크루 1기’ 성료…청소년 주도 체감형 홍보 시동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455151",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울시, “정책도 시민이 설계한다”… AI 기반 데이터 펠로우십",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455150",
+      "dept": "데이터전략과",
+      "category": "행정",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "(대변인 입장문) 민주당은 저열한 한강 우려먹기 중단하라.",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455182",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울시, 29일 12시 기준 초미세먼지[PM-2.5] 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455181",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "서울시장 사후동정 - 29일(일) 광나루한강공원 피클볼장 개장식",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455180",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-03-29"
+    },
     {
       "title": "서울시장 사후동정 - 28일(토) 유아차런 참가자 응원",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455168",
