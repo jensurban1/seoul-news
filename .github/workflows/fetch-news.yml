@@ -1,9 +1,10 @@
-name: 서울시 보도자료 매일 수집
+name: 서울시보 매주 수집
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # 매일 오전 7시 KST (UTC 22:00)
-  workflow_dispatch:
+    # 매주 목요일 오전 9시 KST (UTC 목요일 00:00)
+    - cron: '0 0 * * 4'
+  workflow_dispatch:  # 수동 실행 가능
 
 permissions:
   contents: write
@@ -23,13 +24,13 @@ jobs:
       - name: 의존성 설치
         run: pip install requests
 
-      - name: 보도자료 수집
-        run: python scripts/fetch.py
+      - name: 서울시보 수집
+        run: python scripts/fetch_sibo.py
 
       - name: 변경사항 커밋 & 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
-          git diff --staged --quiet || git commit -m "보도자료 업데이트: $(date +'%Y-%m-%d')"
+          git add data/sibo.json
+          git diff --staged --quiet || git commit -m "서울시보 업데이트: $(date +'%Y-%m-%d')"
           git push
