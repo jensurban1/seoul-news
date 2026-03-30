@@ -20,8 +20,10 @@ jobs:
           python-version: '3.11'
       - name: 의존성 설치
         run: pip install requests
-      - name: 서울시보 수집
-        run: python scripts/fetch_sibo.py
+     - name: 서울시보 수집
+  run: |
+    ls scripts/
+    python scripts/fetch_sibo.py
       - name: 변경사항 커밋 & 푸시
         run: |
           git config user.name "github-actions[bot]"
