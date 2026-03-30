@@ -18,8 +18,6 @@
 }}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",sans-serif;background:var(--bg);color:var(--tx);min-height:100vh;}
 .wrap{max-width:860px;margin:0 auto;padding:2rem 1rem 4rem;}
-
-/* 헤더 */
 header{margin-bottom:1.5rem;}
 .header-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-bottom:4px;}
 .header-left{display:flex;align-items:center;gap:10px;}
@@ -65,19 +63,13 @@ h1{font-size:21px;font-weight:700;}
 .load-more{display:block;width:100%;margin-top:1rem;padding:10px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);font-size:13px;color:var(--tx2);cursor:pointer;text-align:center;font-family:inherit;}
 
 /* ══ 서울시보 ══ */
-.sibo-how{background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:11px 15px;margin-bottom:1rem;font-size:13px;color:var(--tx2);line-height:1.8;}
-.sibo-how a{color:var(--btx);text-decoration:none;}
-.sibo-how ol{padding-left:1.2rem;}
-.sibo-textarea{width:100%;height:100px;border:1px solid var(--bd);border-radius:9px;padding:9px 12px;font-size:13px;font-family:inherit;color:var(--tx);background:var(--sf);resize:vertical;line-height:1.6;outline:none;}
-.sibo-textarea:focus{border-color:var(--blue);}
-.sibo-controls{display:flex;gap:8px;margin-top:8px;margin-bottom:1.25rem;align-items:center;flex-wrap:wrap;}
-.sibo-btn{background:#003C8F;color:white;border:none;padding:7px 16px;border-radius:20px;font-size:12px;font-weight:600;cursor:pointer;font-family:inherit;}
-.sibo-btn:hover{opacity:.88;}
-.sibo-btn-ghost{background:var(--sf);color:var(--tx2);border:1px solid var(--bd);padding:7px 14px;border-radius:20px;font-size:12px;cursor:pointer;font-family:inherit;}
-.sibo-btn-ghost:hover{border-color:var(--bd2);}
-.sibo-count{font-size:12px;color:var(--tx3);}
+/* 호수 선택 드롭다운 */
+.edition-bar{display:flex;align-items:center;gap:10px;margin-bottom:1.25rem;flex-wrap:wrap;}
+.edition-select{padding:7px 12px;border:1px solid var(--bd);border-radius:9px;font-size:13px;background:var(--sf);color:var(--tx);outline:none;cursor:pointer;font-family:inherit;flex:1;max-width:280px;}
+.edition-select:focus{border-color:var(--blue);}
+.edition-info{font-size:12px;color:var(--tx3);}
 
-/* 서울시보 내부 탭 */
+/* 내부 탭 */
 .sibo-tabs{display:flex;gap:0;border-bottom:1px solid var(--bd);margin-bottom:1.25rem;}
 .sibo-tab{background:none;border:none;padding:8px 16px;font-size:13px;font-weight:500;color:var(--tx3);cursor:pointer;font-family:inherit;position:relative;transition:color .15s;white-space:nowrap;}
 .sibo-tab:hover{color:var(--tx2);}
@@ -87,40 +79,31 @@ h1{font-size:21px;font-weight:700;}
 .sibo-tab.on .stab-badge{background:var(--bbg);color:var(--btx);}
 
 /* 필터 바 */
-.fbar{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:1rem;}
-.fbar-label{font-size:11px;color:var(--tx3);white-space:nowrap;flex-shrink:0;}
+.fbar{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:.75rem;}
+.fbar-label{font-size:11px;color:var(--tx3);white-space:nowrap;flex-shrink:0;min-width:44px;}
 .fc{padding:4px 11px;border-radius:20px;font-size:11px;cursor:pointer;border:1px solid var(--bd);color:var(--tx2);background:var(--sf);font-family:inherit;transition:all .12s;white-space:nowrap;}
 .fc:hover{border-color:var(--bd2);}
 .fc.on{border-color:transparent;}
-/* 확정여부 */
-.fc.s-all.on{background:var(--sf2);color:var(--tx);border-color:var(--bd2);}
+.fc.s-all.on,.fc.t-all.on,.fc.i-all.on{background:var(--sf2);color:var(--tx);border-color:var(--bd2);}
 .fc.s-confirmed.on{background:#e0f5ec;color:#0a5c30;border-color:#8ed4a8;}
 .fc.s-planned.on{background:#E3EDFC;color:#003C8F;border-color:#a8c4f0;}
-@media(prefers-color-scheme:dark){
-  .fc.s-confirmed.on{background:#0d2a1a;color:#5ec98a;border-color:#1e5a35;}
-  .fc.s-planned.on{background:#162545;color:var(--btx);border-color:#2a4a80;}
-}
-/* 주제 */
-.fc.t-all.on{background:var(--sf2);color:var(--tx);border-color:var(--bd2);}
 .fc.t-renewal.on{background:#fde8e8;color:#8a1a1a;border-color:#f0a0a0;}
 .fc.t-urban.on{background:#E3EDFC;color:#003C8F;border-color:#a8c4f0;}
 .fc.t-housing.on{background:#fef3e0;color:#7a4a00;border-color:#f0c878;}
 .fc.t-infra.on{background:#e6f5e0;color:#2a6010;border-color:#90d870;}
 .fc.t-law.on{background:#f0eafe;color:#4a3a99;border-color:#c0b0f0;}
 .fc.t-misc.on{background:var(--sf2);color:var(--tx2);border-color:var(--bd2);}
+.fc.i-new.on{background:#fde8e8;color:#8a1a1a;border-color:#f0a0a0;}
+.fc.i-major.on{background:#fff3e0;color:#7a4a00;border-color:#f0c878;}
+.fc.i-release.on{background:#f5f0f0;color:#5a4a4a;border-color:#d0b0b0;}
 @media(prefers-color-scheme:dark){
+  .fc.s-confirmed.on{background:#0d2a1a;color:#5ec98a;}
+  .fc.s-planned.on{background:#162545;color:var(--btx);}
   .fc.t-renewal.on{background:#2a0a0a;color:#e09090;}
   .fc.t-urban.on{background:#162545;color:var(--btx);}
   .fc.t-housing.on{background:#2a1e05;color:#d4a020;}
   .fc.t-infra.on{background:#162510;color:#5ec97a;}
   .fc.t-law.on{background:#1e0a35;color:#b090f0;}
-}
-/* 임팩트 */
-.fc.i-all.on{background:var(--sf2);color:var(--tx);border-color:var(--bd2);}
-.fc.i-new.on{background:#fde8e8;color:#8a1a1a;border-color:#f0a0a0;}
-.fc.i-major.on{background:#fff3e0;color:#7a4a00;border-color:#f0c878;}
-.fc.i-release.on{background:#f5f0f0;color:#5a4a4a;border-color:#d0b0b0;}
-@media(prefers-color-scheme:dark){
   .fc.i-new.on{background:#2a0a0a;color:#e09090;}
   .fc.i-major.on{background:#2a1e05;color:#d4a020;}
   .fc.i-release.on{background:#2a2020;color:#c09090;}
@@ -128,18 +111,13 @@ h1{font-size:21px;font-weight:700;}
 
 /* 구 선택 */
 .gu-wrap{margin-bottom:1rem;}
-.gu-region{margin-bottom:8px;}
-.gu-region-label{font-size:10px;color:var(--tx3);font-weight:600;letter-spacing:.05em;text-transform:uppercase;margin-bottom:5px;}
+.gu-region{margin-bottom:7px;}
+.gu-region-label{font-size:10px;color:var(--tx3);font-weight:600;letter-spacing:.05em;margin-bottom:4px;}
 .gu-row{display:flex;gap:5px;flex-wrap:wrap;}
 .gu-btn{padding:3px 10px;border-radius:20px;font-size:11px;cursor:pointer;border:1px solid var(--bd);color:var(--tx2);background:var(--sf);font-family:inherit;transition:all .12s;}
 .gu-btn:hover{border-color:var(--bd2);}
 .gu-btn.on{background:#003C8F;border-color:#003C8F;color:white;}
-.gu-btn.all-btn{background:var(--sf2);border-color:var(--bd2);}
-.gu-btn.all-btn.on{background:#003C8F;color:white;border-color:#003C8F;}
-.gu-count{font-size:10px;opacity:.7;margin-left:2px;}
-
-/* vsep */
-.vsep{width:1px;height:14px;background:var(--bd);display:inline-block;margin:0 4px;vertical-align:middle;flex-shrink:0;}
+.gu-count{font-size:10px;opacity:.65;margin-left:1px;}
 
 /* 경미한 변경 토글 */
 .minor-toggle{display:flex;align-items:center;gap:6px;padding:8px 0;cursor:pointer;font-size:12px;color:var(--tx3);user-select:none;border-top:1px dashed var(--bd);margin-top:8px;}
@@ -149,7 +127,7 @@ h1{font-size:21px;font-weight:700;}
 .minor-count{background:var(--sf2);border-radius:10px;padding:1px 7px;font-size:11px;}
 
 /* 결과 헤더 */
-.results-hd{font-size:12px;color:var(--tx3);margin-bottom:8px;padding-bottom:8px;border-bottom:1px solid var(--bd);display:flex;justify-content:space-between;align-items:center;}
+.results-hd{font-size:12px;color:var(--tx3);margin-bottom:8px;padding-bottom:8px;border-bottom:1px solid var(--bd);display:flex;justify-content:space-between;}
 
 /* 시보 카드 */
 .sibo-card{background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:12px 15px;margin-bottom:6px;}
@@ -160,41 +138,32 @@ h1{font-size:21px;font-weight:700;}
 .sibo-card.imp-minor{opacity:.7;}
 .sibo-card-top{display:flex;align-items:flex-start;gap:8px;}
 .sibo-card-title{font-size:13px;font-weight:600;color:var(--tx);line-height:1.5;flex:1;}
-.sibo-card.imp-minor .sibo-card-title{font-weight:400;color:var(--tx2);}
+.sibo-card.imp-minor .sibo-card-title,.junk-title{font-weight:400;color:var(--tx2);}
 .badges{display:flex;gap:4px;flex-shrink:0;flex-wrap:wrap;justify-content:flex-end;}
 .badge{font-size:10px;padding:2px 7px;border-radius:10px;white-space:nowrap;}
-
-/* 확정여부 배지 */
 .b-confirmed{background:#e0f5ec;color:#0a5c30;}
 .b-planned{background:#E3EDFC;color:#003C8F;}
-@media(prefers-color-scheme:dark){.b-confirmed{background:#0d2a1a;color:#5ec98a;}.b-planned{background:#162545;color:var(--btx);}}
-
-/* 임팩트 배지 */
 .b-new{background:#fde8e8;color:#8a1a1a;}
 .b-major{background:#fff3e0;color:#7a4a00;}
 .b-minor{background:var(--sf2);color:var(--tx3);}
 .b-release{background:#f0f0f0;color:#5a5a5a;}
-.b-neutral{background:var(--sf2);color:var(--tx3);}
-@media(prefers-color-scheme:dark){.b-new{background:#2a0a0a;color:#e09090;}.b-major{background:#2a1e05;color:#d4a020;}.b-release{background:#2a2a2a;color:#aaa;}}
-
-/* 주제 배지 */
+.b-neutral,.b-misc{background:var(--sf2);color:var(--tx3);}
 .b-renewal{background:#fde8e8;color:#8a1a1a;}
 .b-urban{background:#E3EDFC;color:#003C8F;}
 .b-housing{background:#fef3e0;color:#7a4a00;}
 .b-infra{background:#e6f5e0;color:#2a6010;}
 .b-law{background:#f0eafe;color:#4a3a99;}
-.b-misc{background:var(--sf2);color:var(--tx2);}
 @media(prefers-color-scheme:dark){
+  .b-confirmed{background:#0d2a1a;color:#5ec98a;}.b-planned{background:#162545;color:var(--btx);}
+  .b-new{background:#2a0a0a;color:#e09090;}.b-major{background:#2a1e05;color:#d4a020;}
+  .b-release{background:#2a2a2a;color:#aaa;}
   .b-renewal{background:#2a0a0a;color:#e09090;}.b-urban{background:#162545;color:var(--btx);}
   .b-housing{background:#2a1e05;color:#d4a020;}.b-infra{background:#162510;color:#5ec97a;}
   .b-law{background:#1e0a35;color:#b090f0;}
 }
-
-.card-foot{display:flex;gap:8px;margin-top:5px;align-items:center;flex-wrap:wrap;}
 .card-summary{font-size:12px;color:var(--tx2);margin-top:5px;line-height:1.6;}
+.card-foot{display:flex;gap:8px;margin-top:5px;align-items:center;flex-wrap:wrap;}
 .gu-tag{font-size:11px;color:var(--tx3);}
-
-/* 잡공고 탭 안내 */
 .admin-notice{background:var(--sf2);border-radius:var(--r);padding:10px 14px;margin-bottom:1rem;font-size:12px;color:var(--tx3);}
 </style>
 </head>
@@ -251,37 +220,27 @@ h1{font-size:21px;font-weight:700;}
 
   <!-- 서울시보 패널 -->
   <div id="sibo-panel" style="display:none;">
-    <div class="sibo-how">
-      <ol>
-        <li><a href="https://event.seoul.go.kr/seoulsibo/list.do" target="_blank">서울시보 목록</a>에서 원하는 호수 클릭 → 목차 열림</li>
-        <li><strong>Ctrl+A → Ctrl+C</strong> 전체 복사</li>
-        <li>아래에 붙여넣고 <strong>분류하기</strong> 클릭</li>
-      </ol>
-    </div>
-    <textarea class="sibo-textarea" id="siboInput" placeholder="서울시보 목차 내용을 붙여넣으세요..."></textarea>
-    <div class="sibo-controls">
-      <button class="sibo-btn" onclick="siboClassify()">분류하기</button>
-      <button class="sibo-btn-ghost" onclick="siboReset()">초기화</button>
-      <span class="sibo-count" id="siboCount"></span>
+    <div class="edition-bar">
+      <select class="edition-select" id="editionSelect" onchange="loadEdition()">
+        <option value="">호수 선택...</option>
+      </select>
+      <span class="edition-info" id="editionInfo"></span>
     </div>
 
-    <div id="siboMain" style="display:none;">
-      <!-- 내부 탭 -->
+    <div id="siboContent" style="display:none;">
       <div class="sibo-tabs">
         <button class="sibo-tab on" data-stab="main" onclick="setSiboTab(this)">고시 목록 <span class="stab-badge" id="badge-main">0</span></button>
         <button class="sibo-tab" data-stab="junk" onclick="setSiboTab(this)">잡공고 <span class="stab-badge" id="badge-junk">0</span></button>
       </div>
 
-      <!-- 고시 목록 탭 -->
+      <!-- 고시 목록 -->
       <div id="stab-main">
-        <!-- 필터: 확정여부 -->
         <div class="fbar">
           <span class="fbar-label">확정여부</span>
           <button class="fc s-all on" data-s="all" onclick="setStatus('all')">전체</button>
           <button class="fc s-confirmed" data-s="confirmed" onclick="setStatus('confirmed')">확정</button>
           <button class="fc s-planned" data-s="planned" onclick="setStatus('planned')">예정</button>
         </div>
-        <!-- 필터: 주제 -->
         <div class="fbar">
           <span class="fbar-label">주제</span>
           <button class="fc t-all on" data-t="all" onclick="setTopic('all')">전체</button>
@@ -292,7 +251,6 @@ h1{font-size:21px;font-weight:700;}
           <button class="fc t-law" data-t="law" onclick="setTopic('law')">법규</button>
           <button class="fc t-misc" data-t="misc" onclick="setTopic('misc')">기타</button>
         </div>
-        <!-- 필터: 임팩트 -->
         <div class="fbar">
           <span class="fbar-label">임팩트</span>
           <button class="fc i-all on" data-i="all" onclick="setImpact('all')">전체</button>
@@ -300,13 +258,9 @@ h1{font-size:21px;font-weight:700;}
           <button class="fc i-major" data-i="major" onclick="setImpact('major')">주요 변경</button>
           <button class="fc i-release" data-i="release" onclick="setImpact('release')">해제·실효</button>
         </div>
-        <!-- 구 선택 -->
         <div class="gu-wrap" id="guWrap"></div>
-
         <div class="results-hd" id="mainHd"></div>
         <div id="mainList"></div>
-
-        <!-- 경미한 변경 토글 -->
         <div class="minor-toggle" id="minorToggle" onclick="toggleMinor()" style="display:none;">
           <span class="toggle-arrow" id="minorArrow">▶</span>
           <span>경미한 변경</span>
@@ -316,11 +270,16 @@ h1{font-size:21px;font-weight:700;}
         <div id="minorList" style="display:none;"></div>
       </div>
 
-      <!-- 잡공고 탭 -->
+      <!-- 잡공고 -->
       <div id="stab-junk" style="display:none;">
-        <div class="admin-notice">과태료, 압류, 공시송달 등 행정처분류 공고입니다. 도시계획 업무와 직접 관련 없는 항목들입니다.</div>
+        <div class="admin-notice">과태료, 압류, 공시송달 등 행정처분류 공고입니다.</div>
         <div id="junkList"></div>
       </div>
+    </div>
+
+    <div id="siboEmpty" class="empty" style="display:none;">서울시보 데이터를 불러오지 못했습니다.</div>
+    <div id="siboLoading">
+      <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
     </div>
   </div>
 </div>
@@ -334,8 +293,13 @@ function switchMain(btn){
   document.getElementById('news-panel').style.display=isNews?'block':'none';
   document.getElementById('sibo-panel').style.display=isNews?'none':'block';
   const el=document.getElementById('ext-link');
-  if(isNews){el.href='https://www.seoul.go.kr/news/news_report.do';el.textContent='서울시 원문 →';document.getElementById('cpill').textContent=fil.length+'건';}
-  else{el.href='https://event.seoul.go.kr/seoulsibo/list.do';el.textContent='서울시보 →';const n=siboItems.filter(i=>!i.isAdmin).length;document.getElementById('cpill').textContent=n?n+'건':'시보';}
+  if(isNews){
+    el.href='https://www.seoul.go.kr/news/news_report.do';el.textContent='서울시 원문 →';
+    document.getElementById('cpill').textContent=fil.length+'건';
+  }else{
+    el.href='https://event.seoul.go.kr/seoulsibo/list.do';el.textContent='서울시보 →';
+    updateSiboPill();
+  }
 }
 
 /* ══ 보도자료 ══ */
@@ -392,168 +356,115 @@ async function init(){
 }
 init();
 
-/* ══════════════════════════════════
-   서울시보 분류 엔진
-══════════════════════════════════ */
-let siboItems=[];
-let fStatus='all', fTopic='all', fImpact='all', fGu='all';
+/* ══ 서울시보 ══ */
+let siboData=null;
+let curEditionItems=[];
+let fStatus='all',fTopic='all',fImpact='all',fGu='all';
 let showMinor=false;
 let curSiboTab='main';
 
-/* 25개구 — 5권역 지리 순서 */
 const GU_REGIONS=[
-  {label:'도심권', gu:['종로구','중구','용산구']},
-  {label:'동북권', gu:['성동구','광진구','동대문구','중랑구','성북구','강북구','도봉구','노원구']},
-  {label:'서북권', gu:['은평구','서대문구','마포구']},
-  {label:'서남권', gu:['양천구','강서구','구로구','금천구','영등포구','동작구','관악구']},
-  {label:'동남권', gu:['서초구','강남구','송파구','강동구']},
-];
-const ALL_GU=GU_REGIONS.flatMap(r=>r.gu);
-
-/* 분류 규칙 */
-const ADMIN_KW=['공시송달','과태료','압류','체납','공매','이행강제금','영업정지','과징금','대집행','경고처분','청문','행정처분','사용료 부과','직권말소'];
-
-const TOPIC_RULES=[
-  {t:'renewal', kw:['정비구역','정비계획','재개발','재건축','주택재개발','주택재건축','뉴타운','모아타운','모아주택','소규모재건축','소규모재개발','자율주택정비','도시환경정비','재정비촉진','관리처분','사업시행인가','추진위원회','조합설립인가']},
-  {t:'law',     kw:['입법예고','조례 제정','조례 개정','조례 폐지','규칙 제정','규칙 개정','규칙 폐지','훈령','예규']},
-  {t:'urban',   kw:['도시관리계획','도시기본계획','지구단위계획','용도지역','용도지구','용도구역','개발제한구역','도시개발','입지규제최소구역','특별계획구역','경관계획','도시재생','광역도시계획','개발행위']},
-  {t:'housing', kw:['공공주택','공동주택','분양권','임대주택','주거환경','주택공급','분양가','주택조합','지역주택조합','민간임대','기숙사']},
-  {t:'infra',   kw:['공원','도로','하천','광장','주차장','녹지','도시계획시설','학교','의료시설','문화시설','수도','상수도','하수도']},
+  {label:'도심권',gu:['종로구','중구','용산구']},
+  {label:'동북권',gu:['성동구','광진구','동대문구','중랑구','성북구','강북구','도봉구','노원구']},
+  {label:'서북권',gu:['은평구','서대문구','마포구']},
+  {label:'서남권',gu:['양천구','강서구','구로구','금천구','영등포구','동작구','관악구']},
+  {label:'동남권',gu:['서초구','강남구','송파구','강동구']},
 ];
 
-/* 임팩트 규칙 — 순서 중요 */
-function detectImpact(t){
-  // 해제·실효 먼저
-  if(/해제|실효|일몰|폐지 결정/.test(t))return'release';
-  // 경미한 변경
-  if(/경미한|경미 사항|지형도면|기간 연장|기간연장|연장 결정/.test(t))return'minor';
-  // 신규 지정 — '변경','경미','해제' 없고 신규 키워드 있음
-  if(!/변경|경미|해제|실효/.test(t)&&/최초 지정|신규 지정|신설 결정|구역 지정|신규 승인|모아타운 선정|신규 선정/.test(t))return'new';
-  // 지정/결정 키워드 있고 변경 없으면 신규로 처리
-  if(!/변경|경미|해제/.test(t)&&/(구역|계획|지구|지역)\s*(지정|결정)\s*(고시)?$/.test(t))return'new';
-  // 주요 변경
-  if(/변경/.test(t)&&!/경미/.test(t))return'major';
-  // 임팩트 없음 (법규, 기타)
-  return'neutral';
-}
-
-/* 확정여부 */
-function detectStatus(t){
-  if(/결정고시|결정·고시|지정고시|지정·고시|관리처분 인가|사업시행인가|확정|처분 완료/.test(t))return'confirmed';
-  if(/열람공고|주민공람|입법예고|\(안\)|계획안/.test(t))return'planned';
-  return'confirmed'; // 고시는 기본 확정
-}
-
-function detectTopic(t){
-  for(const r of TOPIC_RULES)if(r.kw.some(k=>t.includes(k)))return r.t;
-  return'misc';
-}
-
-function extractGu(t){return ALL_GU.filter(g=>t.includes(g));}
-
-const STATUS_LABEL={confirmed:'확정',planned:'예정'};
-const TOPIC_LABEL={renewal:'정비사업',urban:'도시계획',housing:'주택',infra:'기반시설',law:'법규',misc:'기타'};
-const IMPACT_LABEL={new:'신규 지정',major:'주요 변경',minor:'경미한 변경',release:'해제·실효',neutral:''};
-
-function makeSummary(item){
-  const loc=item.gu.length?item.gu.join('·'):'해당 지역';
-  const tl={renewal:'정비사업(재개발·재건축)',urban:'도시관리계획',housing:'주택 관련 계획',infra:'기반시설 계획',law:'조례·규칙',misc:'관련 사항'};
-  const desc=tl[item.topic]||'관련 사항';
-  if(item.impact==='new')return`${loc}에 ${desc}이 신규로 지정·결정되었습니다.`;
-  if(item.impact==='major')return`${loc}의 ${desc}이 변경 결정되었습니다.`;
-  if(item.impact==='minor')return`${loc}의 ${desc} 경미한 사항이 변경되었습니다.`;
-  if(item.impact==='release')return`${loc}의 ${desc}이 해제·실효 처리되었습니다.`;
-  if(item.status==='planned')return`${loc}의 ${desc} (안)이 공람 중입니다.`;
-  return`${loc} ${desc} 관련 사항이 고시되었습니다.`;
-}
-
-/* 분류 실행 */
-function siboClassify(){
-  const raw=document.getElementById('siboInput').value.trim();
-  if(!raw)return;
-  const lines=raw.split('\n').map(l=>l.trim()).filter(l=>l.length>5&&l.length<260);
-  const seen2=new Set(),items=[];
-  for(const line of lines){
-    if(seen2.has(line))continue;
-    seen2.add(line);
-    const isAdmin=ADMIN_KW.some(k=>line.includes(k));
-    const topic=detectTopic(line);
-    // 도시계획 관련 없으면 패스 (단, admin은 수집)
-    if(!isAdmin&&topic==='misc'&&!/도시|계획|정비|주택|건축|토지|공원|도로|조례|규칙/.test(line))continue;
-    const item={
-      title:line,
-      isAdmin,
-      topic,
-      status:isAdmin?'admin':detectStatus(line),
-      impact:isAdmin?'neutral':detectImpact(line),
-      gu:extractGu(line),
-    };
-    item.summary=isAdmin?'':makeSummary(item);
-    items.push(item);
+async function initSibo(){
+  try{
+    const base=location.pathname.replace(/\/index\.html$/,'').replace(/\/$/,'');
+    const res=await fetch(base+'/data/sibo.json?t='+Date.now());
+    if(!res.ok)throw new Error();
+    siboData=await res.json();
+    document.getElementById('siboLoading').style.display='none';
+    buildEditionSelect();
+    // 최신 호수 자동 선택
+    if(siboData.editions&&siboData.editions.length){
+      document.getElementById('editionSelect').value=siboData.editions[0].id;
+      loadEdition();
+    }
+  }catch(e){
+    document.getElementById('siboLoading').style.display='none';
+    document.getElementById('siboEmpty').style.display='block';
   }
-  siboItems=items;
+}
+initSibo();
 
-  /* 상태 초기화 */
+function buildEditionSelect(){
+  const sel=document.getElementById('editionSelect');
+  sel.innerHTML='';
+  (siboData.editions||[]).forEach(ed=>{
+    const o=document.createElement('option');
+    o.value=ed.id;
+    o.textContent=`제${ed.no}호 (${ed.date}) — ${ed.mainCount}건`;
+    sel.appendChild(o);
+  });
+}
+
+function loadEdition(){
+  const eid=document.getElementById('editionSelect').value;
+  if(!eid||!siboData)return;
+  const ed=siboData.editions.find(e=>e.id===eid);
+  if(!ed)return;
+
+  curEditionItems=ed.items||[];
   fStatus='all';fTopic='all';fImpact='all';fGu='all';showMinor=false;
+
+  document.getElementById('editionInfo').textContent=
+    `주요 ${ed.mainCount}건 · 잡공고 ${ed.adminCount}건`;
+
+  // 필터 초기화
   document.querySelectorAll('[data-s]').forEach(c=>c.classList.toggle('on',c.dataset.s==='all'));
   document.querySelectorAll('[data-t]').forEach(c=>c.classList.toggle('on',c.dataset.t==='all'));
   document.querySelectorAll('[data-i]').forEach(c=>c.classList.toggle('on',c.dataset.i==='all'));
 
-  const mains=items.filter(i=>!i.isAdmin);
-  const junks=items.filter(i=>i.isAdmin);
+  // 배지
+  const mains=curEditionItems.filter(i=>!i.isAdmin);
+  const junks=curEditionItems.filter(i=>i.isAdmin);
   document.getElementById('badge-main').textContent=mains.length;
   document.getElementById('badge-junk').textContent=junks.length;
-  document.getElementById('siboCount').textContent='총 '+mains.length+'건 (잡공고 '+junks.length+'건 분리)';
-  document.getElementById('cpill').textContent=mains.length+'건';
-  document.getElementById('siboMain').style.display='block';
 
-  /* 구 버튼 생성 */
-  buildGuButtons();
-
-  /* 탭 초기화 */
+  // 탭 초기화
   document.querySelectorAll('.sibo-tab').forEach(t=>t.classList.toggle('on',t.dataset.stab==='main'));
   document.getElementById('stab-main').style.display='block';
   document.getElementById('stab-junk').style.display='none';
+  curSiboTab='main';
 
+  document.getElementById('siboContent').style.display='block';
+  document.getElementById('siboEmpty').style.display='none';
+
+  buildGuButtons();
   renderMain();
   renderJunk();
+  updateSiboPill();
 }
 
-function siboReset(){
-  document.getElementById('siboInput').value='';
-  document.getElementById('siboMain').style.display='none';
-  document.getElementById('siboCount').textContent='';
-  document.getElementById('cpill').textContent='시보';
-  siboItems=[];
+function updateSiboPill(){
+  const n=curEditionItems.filter(i=>!i.isAdmin).length;
+  document.getElementById('cpill').textContent=n?n+'건':'시보';
 }
 
-/* 구 버튼 */
 function buildGuButtons(){
   const guCounts={};
-  siboItems.filter(i=>!i.isAdmin).forEach(i=>i.gu.forEach(g=>{guCounts[g]=(guCounts[g]||0)+1;}));
-  const wrap=document.getElementById('guWrap');
-  let html=`<div class="fbar"><span class="fbar-label">자치구</span><button class="gu-btn all-btn on" data-g="all" onclick="setGu('all')">전체</button></div>`;
-  GU_REGIONS.forEach(region=>{
-    const active=region.gu.filter(g=>guCounts[g]);
-    if(!active.length)return;
-    html+=`<div class="gu-region"><div class="gu-region-label">${region.label}</div><div class="gu-row">`;
-    active.forEach(g=>{html+=`<button class="gu-btn" data-g="${g}" onclick="setGu('${g}')">${g.replace('구','')} <span class="gu-count">${guCounts[g]}</span></button>`;});
-    html+='</div></div>';
+  curEditionItems.filter(i=>!i.isAdmin).forEach(i=>(i.gu||[]).forEach(g=>{guCounts[g]=(guCounts[g]||0)+1;}));
+  let html=`<div class="fbar"><span class="fbar-label">자치구</span><button class="gu-btn on" data-g="all" onclick="setGu('all')">전체</button>`;
+  // 등장한 구만 권역별로
+  GU_REGIONS.forEach(r=>{
+    const active=r.gu.filter(g=>guCounts[g]);
+    active.forEach(g=>{
+      html+=`<button class="gu-btn" data-g="${g}" onclick="setGu('${g}')">${g.replace('구','')} <span class="gu-count">${guCounts[g]}</span></button>`;
+    });
   });
-  wrap.innerHTML=html;
+  html+='</div>';
+  document.getElementById('guWrap').innerHTML=html;
 }
 
-/* 필터 설정 */
 function setStatus(v){fStatus=v;document.querySelectorAll('[data-s]').forEach(c=>c.classList.toggle('on',c.dataset.s===v));renderMain();}
 function setTopic(v){fTopic=v;document.querySelectorAll('[data-t]').forEach(c=>c.classList.toggle('on',c.dataset.t===v));renderMain();}
 function setImpact(v){fImpact=v;document.querySelectorAll('[data-i]').forEach(c=>c.classList.toggle('on',c.dataset.i===v));renderMain();}
-function setGu(v){
-  fGu=v;
-  document.querySelectorAll('.gu-btn').forEach(b=>b.classList.toggle('on',b.dataset.g===v));
-  renderMain();
-}
+function setGu(v){fGu=v;document.querySelectorAll('.gu-btn').forEach(b=>b.classList.toggle('on',b.dataset.g===v));renderMain();}
 
-/* 탭 전환 */
 function setSiboTab(btn){
   document.querySelectorAll('.sibo-tab').forEach(t=>t.classList.remove('on'));
   btn.classList.add('on');
@@ -562,84 +473,58 @@ function setSiboTab(btn){
   document.getElementById('stab-junk').style.display=curSiboTab==='junk'?'block':'none';
 }
 
-/* 경미한 변경 토글 */
 function toggleMinor(){
   showMinor=!showMinor;
   document.getElementById('minorArrow').classList.toggle('open',showMinor);
   document.getElementById('minorList').style.display=showMinor?'block':'none';
 }
 
-/* 카드 HTML */
-const IMPACT_BORDER={new:'imp-new',major:'imp-major',release:'imp-release',minor:'imp-minor',neutral:''};
 function siboCardHtml(item){
-  const impCls=IMPACT_BORDER[item.impact]||'';
-  const impLabel=IMPACT_LABEL[item.impact];
-  const topicLabel=TOPIC_LABEL[item.topic]||item.topic;
-  const statusLabel=STATUS_LABEL[item.status]||'';
+  const impCls={new:'imp-new',major:'imp-major',release:'imp-release',minor:'imp-minor'}[item.impact]||'';
   return`<div class="sibo-card${impCls?' '+impCls:''}">
     <div class="sibo-card-top">
-      <div class="sibo-card-title">${item.title}</div>
+      <div class="sibo-card-title">${esc(item.title)}</div>
       <div class="badges">
-        ${statusLabel?`<span class="badge b-${item.status}">${statusLabel}</span>`:''}
-        ${impLabel?`<span class="badge b-${item.impact}">${impLabel}</span>`:''}
-        <span class="badge b-${item.topic}">${topicLabel}</span>
+        ${item.statusLabel?`<span class="badge b-${item.status}">${item.statusLabel}</span>`:''}
+        ${item.impactLabel?`<span class="badge b-${item.impact}">${item.impactLabel}</span>`:''}
+        <span class="badge b-${item.topic}">${item.topicLabel||item.topic}</span>
       </div>
     </div>
-    ${item.summary?`<div class="card-summary">${item.summary}</div>`:''}
-    ${item.gu.length?`<div class="card-foot"><span class="gu-tag">${item.gu.join(' · ')}</span></div>`:''}
+    ${item.summary?`<div class="card-summary">${esc(item.summary)}</div>`:''}
+    ${(item.gu&&item.gu.length)?`<div class="card-foot"><span class="gu-tag">${item.gu.join(' · ')}</span></div>`:''}
   </div>`;
 }
 
-/* 메인 렌더 */
 function renderMain(){
-  let items=siboItems.filter(i=>!i.isAdmin);
-
-  // 필터 적용
+  const impOrder={new:0,major:1,release:2,neutral:3,minor:4};
+  let items=curEditionItems.filter(i=>!i.isAdmin);
   if(fStatus!=='all')items=items.filter(i=>i.status===fStatus);
   if(fTopic!=='all')items=items.filter(i=>i.topic===fTopic);
-  if(fGu!=='all')items=items.filter(i=>i.gu.includes(fGu));
-
-  // 임팩트 필터 — 'all'이면 minor 제외 (토글로 별도 표시)
+  if(fGu!=='all')items=items.filter(i=>(i.gu||[]).includes(fGu));
   const iAll=fImpact==='all';
-  const visibles=iAll?items.filter(i=>i.impact!=='minor'):items.filter(i=>i.impact===fImpact||(fImpact!=='minor'&&i.impact==='neutral'&&fImpact==='all'));
+  const visibles=iAll?items.filter(i=>i.impact!=='minor'):items.filter(i=>fImpact==='all'||i.impact===fImpact);
   const minors=iAll?items.filter(i=>i.impact==='minor'):[];
-
-  // 정렬: 신규→주요변경→해제→예정→기타
-  const impOrder={new:0,major:1,release:2,neutral:3,minor:4};
   visibles.sort((a,b)=>(impOrder[a.impact]??5)-(impOrder[b.impact]??5));
 
-  const hd=document.getElementById('mainHd');
-  hd.innerHTML=`<span>${visibles.length}건 표시 중</span><span>전체 ${siboItems.filter(i=>!i.isAdmin).length}건</span>`;
+  const total=curEditionItems.filter(i=>!i.isAdmin).length;
+  document.getElementById('mainHd').innerHTML=`<span>${visibles.length}건 표시 중</span><span>전체 ${total}건</span>`;
+  document.getElementById('mainList').innerHTML=visibles.length?visibles.map(siboCardHtml).join(''):'<div class="empty">해당 조건의 항목이 없습니다</div>';
 
-  const list=document.getElementById('mainList');
-  list.innerHTML=visibles.length?visibles.map(siboCardHtml).join(''):'<div class="empty">해당 조건의 항목이 없습니다</div>';
-
-  // 경미한 변경
-  const mt=document.getElementById('minorToggle');
-  const ml=document.getElementById('minorList');
+  const mt=document.getElementById('minorToggle'),ml=document.getElementById('minorList');
   if(iAll&&minors.length){
     mt.style.display='flex';
     document.getElementById('minorCount').textContent=minors.length+'건';
     ml.innerHTML=minors.map(siboCardHtml).join('');
     ml.style.display=showMinor?'block':'none';
     document.getElementById('minorArrow').classList.toggle('open',showMinor);
-  }else{
-    mt.style.display='none';ml.style.display='none';
-  }
+  }else{mt.style.display='none';ml.style.display='none';}
 }
 
-/* 잡공고 렌더 */
 function renderJunk(){
-  const junks=siboItems.filter(i=>i.isAdmin);
-  const list=document.getElementById('junkList');
-  if(!junks.length){list.innerHTML='<div class="empty">잡공고 항목이 없습니다</div>';return;}
-  list.innerHTML=junks.map(i=>`
-    <div class="sibo-card">
-      <div class="sibo-card-top">
-        <div class="sibo-card-title" style="font-weight:400;color:var(--tx2);">${i.title}</div>
-      </div>
-      ${i.gu.length?`<div class="card-foot"><span class="gu-tag">${i.gu.join(' · ')}</span></div>`:''}
-    </div>`).join('');
+  const junks=curEditionItems.filter(i=>i.isAdmin);
+  document.getElementById('junkList').innerHTML=junks.length
+    ?junks.map(i=>`<div class="sibo-card"><div class="sibo-card-top"><div class="sibo-card-title junk-title">${esc(i.title)}</div></div>${(i.gu&&i.gu.length)?`<div class="card-foot"><span class="gu-tag">${i.gu.join(' · ')}</span></div>`:''}</div>`).join('')
+    :'<div class="empty">잡공고 항목이 없습니다</div>';
 }
 </script>
 </body>
