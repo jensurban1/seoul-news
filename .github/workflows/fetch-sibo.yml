@@ -34,11 +34,10 @@ jobs:
           KST = timezone(timedelta(hours=9))
           OUT_PATH = Path("data/sibo.json")
           LIST_URL = "https://event.seoul.go.kr/seoulsibo/list.do"
-          VIEW_URL = "https://event.seoul.go.kr/seoulsibo/view.do?id={id}"
           HEADERS = {
               "User-Agent": "Mozilla/5.0 (compatible; SeoulSiboBot/1.0)",
               "Referer": "https://event.seoul.go.kr/seoulsibo/list.do",
-              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
               "Accept-Language": "ko-KR,ko;q=0.9",
           }
           ALL_GU = ["종로구","중구","용산구","성동구","광진구","동대문구","중랑구","성북구","강북구","도봉구","노원구","은평구","서대문구","마포구","양천구","강서구","구로구","금천구","영등포구","동작구","관악구","서초구","강남구","송파구","강동구"]
@@ -103,61 +102,87 @@ jobs:
               html = resp.text
               rows = re.findall(r"goView\('(\d+)'\)[^<]*</a>\s*</td>\s*<td[^>]*>\s*([\d.]+)", html)
               nos = re.findall(r"제(\d+)호", html)
-              return [{"no": nos[i] if i < len(nos) else "", "date": date.strip(), "id": eid} for i, (eid, date) in enumerate(rows)]
-
-          def fetch_sibo_contents(session, edition_id):
-              try:
-                  resp = session.get(VIEW_URL.format(id=edition_id), headers=HEADERS, timeout=20)
-                  resp.encoding = "utf-8"
-                  html = resp.text
-              except Exception as e:
-                  print(f"  오류: {e}"); return []
-              titles = []
-              for row in re.findall(r"<tr[^>]*>(.*?)</tr>", html, re.DOTALL):
-                  for td in re.findall(r"<td[^>]*>(.*?)</td>", row, re.DOTALL):
-                      text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", "", td))).strip()
-                      if 8 < len(text) < 250 and not re.match(r"^\d+$", text):
-                          titles.append(text)
-              for t in re.findall(r'<a[^>]*>([^<]{8,200})</a>', html):
-                  t = unescape(t).strip()
-                  if t and t not in titles: titles.append(t)
-              seen = set(); result = []
-              for t in titles:
-                  if t not in seen: seen.add(t); result.append(t)
+              result = [{"no": nos[i] if i < len(nos) else "", "date": date.strip(), "id": eid} for i, (eid, date) in enumerate(rows)]
+              print(f"  목록 {len(result)}개")
               return result
+
+          # 키워드 검색으로 해당 호수 목차 수집
+          SEARCH_KEYWORDS = [
+              "도시관리계획","지구단위계획","정비구역","재개발","재건축",
+              "용도지역","도시개발","공원","도로","주택","조례",
+              "입법예고","개발행위","관리처분","모아타운","공동주택",
+              "공시송달","과태료","압류","행정처분",
+          ]
+
+          def fetch_titles_for_edition(session, sibo_no):
+              all_titles = set()
+              for kw in SEARCH_KEYWORDS:
+                  params = {
+                      "searchCondition": "2",
+                      "searchKeyword": kw,
+                      "siboNo": sibo_no,
+                      "pageIndex": "1",
+                      "pageUnit": "100",
+                  }
+                  try:
+                      resp = session.get(LIST_URL, params=params, headers=HEADERS, timeout=15)
+                      resp.encoding = "utf-8"
+                      html = resp.text
+                      # 테이블에서 텍스트 추출
+                      rows = re.findall(r"<tr[^>]*>(.*?)</tr>", html, re.DOTALL)
+                      for row in rows:
+                          tds = re.findall(r"<td[^>]*>(.*?)</td>", row, re.DOTALL)
+                          for td in tds:
+                              text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", "", td))).strip()
+                              if kw in text and 8 < len(text) < 250:
+                                  all_titles.add(text)
+                  except Exception as e:
+                      print(f"    키워드 '{kw}' 오류: {e}")
+              return list(all_titles)
 
           session = requests.Session()
           existing = {}
           if OUT_PATH.exists():
               with open(OUT_PATH, encoding="utf-8") as f:
-                  for ed in json.load(f).get("editions", []): existing[ed["id"]] = ed
-          print("목록 조회 중...")
+                  for ed in json.load(f).get("editions", []):
+                      existing[ed["id"]] = ed
+
           meta_list = fetch_sibo_list(session)
-          print(f"  {len(meta_list)}개 확인")
-          editions_out = []; new_count = 0
+          editions_out = []
+          new_count = 0
+
           for meta in meta_list:
               eid = meta["id"]
               if eid in existing:
-                  editions_out.append(existing[eid]); print(f"  제{meta['no']}호 — 재사용"); continue
+                  editions_out.append(existing[eid])
+                  print(f"  제{meta['no']}호 — 재사용")
+                  continue
+
               print(f"  제{meta['no']}호 ({meta['date']}) — 수집 중...")
-              titles = fetch_sibo_contents(session, eid)
-              items = []; seen = set()
+              titles = fetch_titles_for_edition(session, meta["no"])
+              print(f"    {len(titles)}개 제목 수집")
+
+              items = []
+              seen = set()
               for t in titles:
                   if t in seen: continue
                   seen.add(t)
                   item = classify_item(t)
                   if item: items.append(item)
+
               main_items = [i for i in items if not i["isAdmin"]]
               admin_items = [i for i in items if i["isAdmin"]]
               print(f"    주요 {len(main_items)}건 + 잡공고 {len(admin_items)}건")
+
               editions_out.append({"id":eid,"no":meta["no"],"date":meta["date"],"items":items,"mainCount":len(main_items),"adminCount":len(admin_items)})
               new_count += 1
+
           editions_out.sort(key=lambda x: x["date"].replace(".", "-"), reverse=True)
           editions_out = editions_out[:52]
           OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
           with open(OUT_PATH, "w", encoding="utf-8") as f:
               json.dump({"updated_at":datetime.now(KST).strftime("%Y-%m-%d %H:%M"),"total_editions":len(editions_out),"new_today":new_count,"editions":editions_out}, f, ensure_ascii=False, indent=2)
-          print(f"완료: {len(editions_out)}호, 신규 {new_count}호")
+          print(f"\n완료: {len(editions_out)}호, 신규 {new_count}호")
           PYEOF
 
       - name: 변경사항 커밋 & 푸시
@@ -165,5 +190,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/sibo.json
-          git diff --staged --quiet || git commit -m "서울시보 업데이트: $(date +'%Y-%m-%d')"
-          git push
+          git diff --staged --quiet || (git commit -m "서울시보 업데이트: $(date +'%Y-%m-%d')" && git pull --rebase && git push)
