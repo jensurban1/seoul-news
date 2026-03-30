@@ -34,4 +34,125 @@ TOPIC_RULES = [
     ("housing", ["공공주택","공동주택","분양권","임대주택","주거환경","주택공급","분양가","주택조합","지역주택조합","민간임대"]),
     ("infra",   ["공원","도로","하천","광장","주차장","녹지","도시계획시설","학교","의료시설","문화시설","수도","상수도","하수도","철도"]),
 ]
-TOPIC_LABEL = {"renewal":"정비사업","urban":
+TOPIC_LABEL = {"renewal":"정비사업","urban":"도시계획","housing":"주택","infra":"기반시설","law":"법규","misc":"기타"}
+IMPACT_LABEL = {"new":"신규 지정","major":"주요 변경","minor":"경미한 변경","release":"해제·실효","neutral":""}
+STATUS_LABEL = {"confirmed":"확정","planned":"예정"}
+
+def detect_impact(title):
+    if re.search(r"해제|실효|일몰|폐지 결정", title): return "release"
+    if re.search(r"경미한|경미 사항|지형도면|기간 연장|기간연장|연장 결정", title): return "minor"
+    if not re.search(r"변경|경미|해제|실효", title):
+        if re.search(r"최초 지정|신규 지정|신설 결정|신규 승인|모아타운 선정|신규 선정", title): return "new"
+        if re.search(r"(구역|계획|지구|지역)\s*(지정|결정)\s*(고시)?", title): return "new"
+    if re.search(r"변경", title) and not re.search(r"경미", title): return "major"
+    return "neutral"
+
+def detect_status(title):
+    if re.search(r"결정고시|결정·고시|지정고시|지정·고시|관리처분 인가|사업시행인가|확정", title): return "confirmed"
+    if re.search(r"열람공고|주민공람|입법예고|\(안\)|계획안", title): return "planned"
+    return "confirmed"
+
+def detect_topic(title):
+    for topic, kws in TOPIC_RULES:
+        if any(kw in title for kw in kws): return topic
+    return "misc"
+
+def extract_gu(title): return [g for g in ALL_GU if g in title]
+def is_admin(title): return any(kw in title for kw in ADMIN_KW)
+def is_relevant(title):
+    return any(kw in title for kw in ["도시","계획","정비","주택","건축","토지","공원","도로","조례","규칙","구역","지구","지역","용도","개발","기반시설","수도","하천"])
+
+def make_summary(title, topic, impact, status, gu):
+    loc = "·".join(gu) if gu else "해당 지역"
+    desc = {"renewal":"정비사업(재개발·재건축)","urban":"도시관리계획","housing":"주택 관련 계획","infra":"기반시설 계획","law":"조례·규칙","misc":"관련 사항"}.get(topic,"관련 사항")
+    if impact == "new": return f"{loc}에 {desc}이 신규로 지정·결정되었습니다."
+    if impact == "major": return f"{loc}의 {desc}이 변경 결정되었습니다."
+    if impact == "minor": return f"{loc}의 {desc} 경미한 사항이 변경되었습니다."
+    if impact == "release": return f"{loc}의 {desc}이 해제·실효 처리되었습니다."
+    if status == "planned": return f"{loc}의 {desc} (안)이 공람 중입니다."
+    return f"{loc} {desc} 관련 사항이 고시되었습니다."
+
+def classify_item(title):
+    title = title.strip()
+    if len(title) < 6 or len(title) > 260: return None
+    admin = is_admin(title)
+    if not admin and not is_relevant(title): return None
+    topic = detect_topic(title)
+    status = "admin" if admin else detect_status(title)
+    impact = "neutral" if admin else detect_impact(title)
+    gu = extract_gu(title)
+    return {"title":title,"topic":topic,"status":status,"impact":impact,"isAdmin":admin,"gu":gu,"summary":"" if admin else make_summary(title,topic,impact,status,gu),"topicLabel":TOPIC_LABEL.get(topic,topic),"impactLabel":IMPACT_LABEL.get(impact,""),"statusLabel":STATUS_LABEL.get(status,"")}
+
+def fetch_sibo_list(session):
+    resp = session.get(LIST_URL, headers=HEADERS, timeout=20)
+    resp.encoding = "utf-8"
+    html = resp.text
+    rows = re.findall(r"goView\('(\d+)'\)[^<]*</a>\s*</td>\s*<td[^>]*>\s*([\d.]+)", html)
+    nos = re.findall(r"제(\d+)호", html)
+    editions = []
+    for i, (eid, date) in enumerate(rows):
+        editions.append({"no": nos[i] if i < len(nos) else "", "date": date.strip(), "id": eid})
+    return editions
+
+def fetch_sibo_contents(session, edition_id):
+    try:
+        resp = session.get(VIEW_URL.format(id=edition_id), headers=HEADERS, timeout=20)
+        resp.encoding = "utf-8"
+        html = resp.text
+    except Exception as e:
+        print(f"  목차 오류 (id={edition_id}): {e}")
+        return []
+    titles = []
+    for row in re.findall(r"<tr[^>]*>(.*?)</tr>", html, re.DOTALL):
+        for td in re.findall(r"<td[^>]*>(.*?)</td>", row, re.DOTALL):
+            text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", "", td))).strip()
+            if 8 < len(text) < 250 and not re.match(r"^\d+$", text):
+                titles.append(text)
+    for t in re.findall(r'<a[^>]*>([^<]{8,200})</a>', html):
+        t = unescape(t).strip()
+        if t and t not in titles: titles.append(t)
+    seen = set(); result = []
+    for t in titles:
+        if t not in seen: seen.add(t); result.append(t)
+    return result
+
+def fetch_sibo():
+    session = requests.Session()
+    existing_editions = {}
+    if OUT_PATH.exists():
+        with open(OUT_PATH, encoding="utf-8") as f:
+            for ed in json.load(f).get("editions", []):
+                existing_editions[ed["id"]] = ed
+    print("서울시보 목록 조회 중...")
+    editions_meta = fetch_sibo_list(session)
+    print(f"  목록 {len(editions_meta)}개 확인")
+    editions_out = []; new_count = 0
+    for meta in editions_meta:
+        eid = meta["id"]
+        if eid in existing_editions:
+            editions_out.append(existing_editions[eid])
+            print(f"  제{meta['no']}호 — 기존 재사용")
+            continue
+        print(f"  제{meta['no']}호 ({meta['date']}) — 수집 중...")
+        titles = fetch_sibo_contents(session, eid)
+        items = []; seen = set()
+        for t in titles:
+            if t in seen: continue
+            seen.add(t)
+            item = classify_item(t)
+            if item: items.append(item)
+        main_items = [i for i in items if not i["isAdmin"]]
+        admin_items = [i for i in items if i["isAdmin"]]
+        print(f"    주요 {len(main_items)}건 + 잡공고 {len(admin_items)}건")
+        editions_out.append({"id":eid,"no":meta["no"],"date":meta["date"],"items":items,"mainCount":len(main_items),"adminCount":len(admin_items)})
+        new_count += 1
+    editions_out.sort(key=lambda x: x["date"].replace(".", "-"), reverse=True)
+    editions_out = editions_out[:52]
+    result = {"updated_at":datetime.now(KST).strftime("%Y-%m-%d %H:%M"),"total_editions":len(editions_out),"new_today":new_count,"editions":editions_out}
+    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+    print(f"\n완료: 전체 {len(editions_out)}호, 신규 {new_count}호")
+
+if __name__ == "__main__":
+    fetch_sibo()
