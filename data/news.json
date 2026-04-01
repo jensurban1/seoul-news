@@ -1,8 +1,267 @@
 {
-  "updated_at": "2026-03-30 08:05",
-  "total": 1530,
-  "new_today": 16,
+  "updated_at": "2026-04-01 09:16",
+  "total": 1567,
+  "new_today": 37,
   "items": [
+    {
+      "title": "서울시, 서부선 사업 추진에 총력…교통 소외지역 시민 편의위해 속도·실행력 높일 것",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455351",
+      "dept": "교통정책과",
+      "category": "교통",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "서울시, 탄천·한강변 수변공간 조성 위한 탄천동로 지하화 본격화, 2030년 완공 목표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455350",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "신청 간편해진 '청년 부동산 중개보수·이사비' 청년안심주택 피해 임차인까지 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455349",
+      "dept": "청년사업담당관",
+      "category": "주택",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "서울시, 중소 게임사 해외 진출 문턱 낮춘다…'2026 게임마켓' 참가기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455347",
+      "dept": "창조산업과",
+      "category": "행정",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "서울시, 가족돌봄청년 건강검진 지원…보다 촘촘한 지원체계 마련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455346",
+      "dept": "복지정책과",
+      "category": "복지",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "산책이 문화가 되는 한강공원 열린미술관, 조각작품 순환전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455345",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "오 시장, \"공공이 먼저 줄이고 시민참여로 확산\"… 중동發 에너지 위기 선제 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455317",
+      "dept": "기후환경정책과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "우이천에 사계절 수변 명소 탄생…서울물빛나루 19호 노원 우이마루 준공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455282",
+      "dept": "수변감성도시과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시 외로움 상담창구 '외로움안녕120' 개소 1년, 상담 4만 건 돌파",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455281",
+      "dept": "고독대응과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시, 중동 정세로 급등한 자재가격 즉시 반영… 공사지연·품질저하 막는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455280",
+      "dept": "계약심사과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "''달리며 우리 동네 지킨다''…서울시, '러닝 순찰대' 200명으로 확대 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455279",
+      "dept": "자치경찰위원회",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시, 치매 '골든타임' 잡는다…4월 조기검진 집중 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455278",
+      "dept": "정신건강과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "365일 도심 한눈에…계류식 가스기구 ‘서울달’ 4월부터 연중무휴",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455277",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "로봇·드론 직접 움직이고 AI로 창작까지…'서울퓨처랩', 미래기술 체험공간으로 재단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455276",
+      "dept": "경제정책과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "캠퍼스, 지역에서 청년들이 도전하는 폐기물 감량 프로젝트 시작!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455275",
+      "dept": "기후환경정책과",
+      "category": "복지",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "적응부터 정착까지 더 촘촘해진 1개월…「30일간의 서울일주」참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455274",
+      "dept": "외국인이민담당관",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "(기자설명회) '공공주택 공급부터 전월세 금융·계약지원까지'… 무주택 서울시민 주거안정 실현",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455273",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시 전국 최초 '전광판 밝기기준' 마련…눈부심 줄이고 도시 빛 환경 개선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455252",
+      "dept": "도시경관담당관",
+      "category": "환경",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "''바이브코딩으로 실무 배운다''…서울 공공형 매력일자리, AI 교육 '큰 호응'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455237",
+      "dept": "일자리정책과",
+      "category": "경제",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "독서가 취향인 시대, 가장 힙한 독서모임…‘힙독클럽’ 2기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455236",
+      "dept": "서울도서관",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시, 보라매병원에 '안심호흡기 전문센터' 본격 착수… ’28년 완공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455235",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시, 시니어 '7학년교실' 역대 최대 450명 모집…서울 전역 14곳으로 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455232",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시-농심, 서울국제정원박람회에 라면을 주제로 행복 담은 정원 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455231",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 허민 국가유산청장 27일(금) 회동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455229",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울시장 사후동정 - 30일(월) 감사의정원 석재기증국 주한외교단 초청 간담회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455221",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "(대변인 입장문) 한강에 대한 민주당 거짓 선동이 도를 넘었습니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455215",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "(대변인입장문) 성폭력 범죄혐의 성동문화원장 재임명 논란 관련 서울시 입장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455209",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "시민과 함께하는 생활밀착 안전망 강화… 서울시 자율방재단연합회 제5기 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455201",
+      "dept": "재난안전예방과",
+      "category": "안전",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "구로도서관, '미리내집' 품은 복합시설 재탄생…서울시, 교육청·SH 협약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455200",
+      "dept": "공공주택과",
+      "category": "문화",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "뚝섬 한강플플, 3개월 만에 방문객 20만 돌파…한강 대표 ‘핫플’ 자리매김",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455199",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "“접수 열자마자 마감”서영커 캠프·챌린지 2천여 명 몰려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455198",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "나만의 한강을 즐기다!‘제3회 쉬엄쉬엄 한강 3종 축제’경기 참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455197",
+      "dept": "체육진흥과",
+      "category": "문화",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울시, 시민 안전 지킨 퇴직소방공무원 건강…끝까지 살핀다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455196",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울시-연세대 신촌장례식장 다회용기 도입, 친환경·고품격 장례문화 선도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455195",
+      "dept": "자원순환과",
+      "category": "문화",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울런 AI 기반 ‘진로·진학 코치’고도화…중1부터 수험생까지 3단계 진로 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455194",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "'건강하게 나이드는 서울 만든다'… 新여가플랫폼「활력충전 프로젝트」추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455193",
+      "dept": "어르신복지과",
+      "category": "행정",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "서울시, 서울교통공사 신임 사장 임명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455192",
+      "dept": "공기업담당관",
+      "category": "교통",
+      "date": "2026-03-30"
+    },
     {
       "title": "시민과 함께하는 예술섬 … 서울시, 3일 「노들 미리봄 페스티벌」개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455162",
