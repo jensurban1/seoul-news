@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-04-01 09:16",
-  "total": 1567,
-  "new_today": 37,
+  "updated_at": "2026-04-02 08:51",
+  "total": 1581,
+  "new_today": 14,
   "items": [
+    {
+      "title": "'구독 해지·환불 분쟁' 혼자 고민하지 마세요… 서울시, 민생경제안심센터 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455428",
+      "dept": "공정경제과",
+      "category": "경제",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "서울시, VOCs 저감시설 설치비 80%지원…대기질 개선과 운영비 절감 동시 달성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455426",
+      "dept": "대기정책과",
+      "category": "행정",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "서울신보 골목경기 동향 분석 확대로 소상공인 경영해법 제시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455425",
+      "dept": "서울신용보증재단",
+      "category": "경제",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "서울시, ''안전 넘어 건강까지''…도시제조업 작업환경 개선 750곳 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455416",
+      "dept": "뷰티패션산업과",
+      "category": "환경",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "‘2026 부활절 퍼레이드’ 개최…4일(토) 광화문일대 교통 통제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455415",
+      "dept": "문화정책과",
+      "category": "교통",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "서울시, '서울형 안심 산후조리원' 공모… 행복한 육아 출발 돕는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455388",
+      "dept": "건강관리과",
+      "category": "복지",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "올봄 주말마다 한강·공원에서도 키즈카페 즐겨요… 4.11(토)부터 30개소 열어",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455387",
+      "dept": "아이돌봄담당관",
+      "category": "문화",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "\"퇴근후 '청년 전세사기' 예방교육·상담 받으세요\"…서울시, 현장설명회 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455386",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "서울국제정원박람회 한달 앞, 50개 기업·기관 참여 1만 평 정원 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455381",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "서울 전역 CCTV 통합 검색… 실종자 수색 빨라진다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455379",
+      "dept": "정보통신과",
+      "category": "행정",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "서울형 저탄소 건물 지침서 첫 발간…‘2025 건물 에너지북’ 4월 2일 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455378",
+      "dept": "친환경건물과",
+      "category": "환경",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "(대변인 입장문) 서울시는 중동발 위기 극복을 위한 추가경정예산 편성을 추진하겠습니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455377",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "사법환경 급변 속 광역 특사경 방향을 모색한다… 서울시, 제1회 특사경 전략포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455376",
+      "dept": "민생사법경찰국",
+      "category": "환경",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "공사비 기준, 쉽게 배워요 … 서울시 건설업계 교육 나서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455375",
+      "dept": "계약심사과",
+      "category": "행정",
+      "date": "2026-04-01"
+    },
     {
       "title": "서울시, 서부선 사업 추진에 총력…교통 소외지역 시민 편의위해 속도·실행력 높일 것",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455351",
