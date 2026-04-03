@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-04-03 08:04",
-  "total": 1597,
-  "new_today": 16,
+  "updated_at": "2026-04-04 08:05",
+  "total": 1606,
+  "new_today": 9,
   "items": [
+    {
+      "title": "서울시, '한강 위 안전' 위해 불법 수상레저활동 본격 단속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455551",
+      "dept": "미래한강본부",
+      "category": "안전",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "서울시설공단, 민간 AI 기업에 도시 인프라 전격 개방 … 'AI 오픈랩' 본격 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455550",
+      "dept": "서울시설공단",
+      "category": "행정",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "서울시 서북병원 호스피스 병동, 말기암 환자 존엄·희망 지킨다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455549",
+      "dept": "서북병원",
+      "category": "행정",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "정원에서 느끼는 힐링, 서울숲 가드닝 프로그램 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455548",
+      "dept": "동부공원여가센터",
+      "category": "환경",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "시민감사옴부즈만위원회, ‘고충민원 담당자 역량강화 교육’으로 시민권익 증진 기대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455547",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "서울AI재단 ‘AI탐험대 어디나지원단’, 시니어 AI 격차 ‘제로’도전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455546",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "서울문화재단, 4월 도심 곳곳 장애예술 전시열어 예술로 동행 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455545",
+      "dept": "서울문화재단",
+      "category": "복지",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "봄을 맞이하는 특별한 방법! 2026년‘서울대공원 봄꽃축제’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455544",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "서울시, 차기 시금고 지정계획 공고",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455542",
+      "dept": "재무과",
+      "category": "행정",
+      "date": "2026-04-03"
+    },
     {
       "title": "서울시-글로벌 경제계, '용산서울코어'의 아시아 비즈니스 심장 완성에 뜻 모아",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455520",
