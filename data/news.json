@@ -1,8 +1,120 @@
 {
-  "updated_at": "2026-04-05 08:02",
-  "total": 1607,
-  "new_today": 1,
+  "updated_at": "2026-04-06 08:04",
+  "total": 1623,
+  "new_today": 16,
   "items": [
+    {
+      "title": "서울디자인재단-카카오, 222M 빛의 무대 함께 밝힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455627",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "청년수당 수혜자에서 기여자로… 100명의 청년, 멘토가 되다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455626",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "서울시, 지속가능한 친환경·재활용 디자인 제품 판로지원 참여기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455625",
+      "dept": "디자인산업담당관",
+      "category": "환경",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "성균관·이화여대 등 10개 대학 열린다…서울시, '구독대학' 30개 강좌 무료 개방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455624",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "수도요금 전자고지 연 최대 9,000원까지 감면…서울시, 올해 10만 명 가입 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455623",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 5일(일) 제4회 서울예술상 시상식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455663",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "(엠바고14시) 서울시, “기후동행카드 50% 저렴하게 3만원대로 탈 수 있다”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455656",
+      "dept": "교통정책과",
+      "category": "환경",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 5일(일) 오전 중동발 위기 대응 비상경제대책회의 주재",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455654",
+      "dept": "언론담당관",
+      "category": "경제",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "16년만 새 옷 입은 구두수선·가로판매대, iF 디자인 어워드 본상 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455620",
+      "dept": "도로관리과",
+      "category": "행정",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "여의도공원, 국제 관광명소이자 도시문화 허브로 대전환…설계공모 개시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455619",
+      "dept": "공원조성과",
+      "category": "문화",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "도심 전광판 운영 2시간씩 단축…서울시, 에너지 절약 분위기 이끈다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455618",
+      "dept": "도시경관담당관",
+      "category": "행정",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "온실가스 감축부터 적응까지…서울시, 기후혁신 실증기업에 최대 2억·장소 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455609",
+      "dept": "기후환경정책과",
+      "category": "환경",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "시니어 채용시 최대 550만 원 지원…서울시,‘시니어 인턴십’참여기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455608",
+      "dept": "어르신복지과",
+      "category": "행정",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "''AI도 넘지 못한 손끝 기술''…서울기능경기대회, 4월 6일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455607",
+      "dept": "일자리정책과",
+      "category": "행정",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "서울시 최초, 서초구 반포지역 일대 공인중개사 조직적 담합 행위 주도자 입건",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455606",
+      "dept": "경제수사과",
+      "category": "행정",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "서울시장 사후동정 - 4일(토) 2026년 부활절 퍼레이드",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455655",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-04"
+    },
     {
       "title": "서울시장 사후동정 - 4일(토) 구립석관동 꿈나무키우미돌봄센터",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455647",
