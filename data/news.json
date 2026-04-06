@@ -1,8 +1,120 @@
 {
-  "updated_at": "2026-04-06 08:04",
-  "total": 1623,
+  "updated_at": "2026-04-07 08:53",
+  "total": 1639,
   "new_today": 16,
   "items": [
+    {
+      "title": "서울시, 고유가 대응 공영주차장 승용차 5부제 시행…민생·상권 불편 최소화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455744",
+      "dept": "주차계획과",
+      "category": "교통",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "한강 자연형 호안 복원율 90% 넘었다…서울시, '28년까지 전 구간 복원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455743",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "서울시, 장애인 디지털 교육 ‘일자리까지 잇는다’…5,200명 맞춤 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455742",
+      "dept": "데이터센터",
+      "category": "복지",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "서울시, 공공건축 설계역량 강화로 건설안심도시 구현 박차",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455741",
+      "dept": "기술심사담당관",
+      "category": "행정",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "학교 밖·가정 밖 청소년 112명에 2억 3,600만 원 지원…서울미래꿈터장학금 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455740",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "빗속에 숨은 오염원, 미로 탐험으로 추적한다…서울하수도과학관 기획전 4월 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455739",
+      "dept": "물재생센터",
+      "category": "행정",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "반포대교 인근 유람선 멈춤사고(’26. 3. 28.) 조사 결과… '주의의무 태만으로 인한 안전사고'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455709",
+      "dept": "미래한강본부",
+      "category": "안전",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "서울시, 영동대로 복합환승센터에 한강물로 냉난방…연간 6.2억 원 절감",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455689",
+      "dept": "도시기반시설본부",
+      "category": "교통",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "에너지 절감을 실천하는 서울시민께 드리는 에코마일리지의 특별 응원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455685",
+      "dept": "기후환경정책과",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "'약자와의 동행' 25개 전 자치구로 퍼졌다…올해 34개 자치구 협력사업",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455684",
+      "dept": "약자동행담당관",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "시민과 함께 찾은 건강한 잡곡밥 식당…‘통쾌한 한끼’ 참여 3,700개소 돌파",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455683",
+      "dept": "식품정책과",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "오 시장, '무선통신 신호시스템' 현장 점검…1분 급한 출근길, 촘촘한 배차로 더 편리하게",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455682",
+      "dept": "교통정책과",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "서울시, 스타트업 성장 기반 넓힌다…서울창업허브 최대 4년 입주지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455681",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "서울시, 스마트 건설기술 활성화를 위한 글로벌 협력 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455680",
+      "dept": "기술심사담당관",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "21개 코스에서 즐기는 21가지 봄,서울둘레길 전 구간 점검 완료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455679",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "‘응원 나무로 채우는’ 한강공원 스타숲, 시민참여 녹지 확산 ‘한몫’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455678",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-04-06"
+    },
     {
       "title": "서울디자인재단-카카오, 222M 빛의 무대 함께 밝힌다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455627",
