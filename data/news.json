@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-04-09 08:54",
-  "total": 1672,
-  "new_today": 16,
+  "updated_at": "2026-04-10 08:55",
+  "total": 1685,
+  "new_today": 13,
   "items": [
+    {
+      "title": "쓰레기 산이 생태공원이 되기까지, 새 단장한 '난지도 이야기' 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455991",
+      "dept": "서부공원여가센터",
+      "category": "문화",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "한강을 산책하면 역사가 보인다! <2026 한강역사탐방> 개시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455990",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "서울시, 청소년 디지털 안전망 효과 확인…과의존은 줄고, 일상은 돌아왔다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455989",
+      "dept": "청소년정책과",
+      "category": "안전",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "서울시보건환경연구원,“시민 곁으로!” 시민 참여프로그램 ‘보건환경톡톡’ 본격 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455988",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "서울시 고립은둔 청년당사자, 시민홍보단 똑똑이로 소통한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455987",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-04-10"
+    },
+    {
+      "title": "신대방삼거리역, 공공서비스·보행환경 갖춘 ‘직·주·락 생활거점’으로 재편",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455937",
+      "dept": "도시재창조과",
+      "category": "환경",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "서울시, 돌봄 넓히고 서류 줄이고 지원은 키우는 시민체감형 5개 규제 개선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455935",
+      "dept": "규제개선담당관",
+      "category": "복지",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "맞춤형 금융 상담·운영관리 강화 등 '서울 영테크 2.0' 업그레이드",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455934",
+      "dept": "청년사업담당관",
+      "category": "행정",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "서울시, 국립묘지 미안장 순직 소방공무원 국가예우 이행 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455933",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "서울시, 공공와이파이 ‘확충’에서 ‘품질’ 중심으로 …2,020대 교체",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455932",
+      "dept": "정보통신과",
+      "category": "행정",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "서울시, 중장년 1,500명에 ‘AI 실전 교육’…재취업 가로막는 디지털 격차 해소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455931",
+      "dept": "서울시50플러스재단",
+      "category": "경제",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "너와 내가 함께 만드는 아름다운 세상…서울시, '동행서울 누리축제' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455930",
+      "dept": "장애인복지과",
+      "category": "문화",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "제6차 도시건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/455918",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-04-09"
+    },
     {
       "title": "올여름 집중호우 대비 서울시, 총 812억 투입…빗물받이 선제 정비",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/455910",
