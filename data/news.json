@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-04-13 08:53",
-  "total": 1703,
-  "new_today": 11,
+  "updated_at": "2026-04-14 09:05",
+  "total": 1716,
+  "new_today": 13,
   "items": [
+    {
+      "title": "학습 넘어 진로까지 '서울런3.0' 본격 시동…'진로캠퍼스' 올해 2천 명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456147",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "서울시, 전국 최초‘디지털재난 대응체계’구축… 행정서비스 멈추지 않는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456146",
+      "dept": "정보시스템과",
+      "category": "안전",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "‘한강 생태 청신호’ 왜가리 번식 확인...황조롱이·삵·수달 서식 안정성도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456145",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "밀라노로 간 소반, 현대적 '한국의 미' 세계에 알린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456141",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "'곤충으로 창업까지'… 서울시, 곤충산업 전문인력 20명 육성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456139",
+      "dept": "농업기술센터",
+      "category": "경제",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "안심 결제부터 분쟁 상담까지 「서울 프리랜서 온」 정식 운영 2달만 '안착'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456108",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "서울야외도서관, 이제 세계와 함께 읽는다…오는 23일 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456107",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "서울시, 도봉 평화문화진지 일대‘공공미술 프로젝트’본격 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456106",
+      "dept": "디자인산업담당관",
+      "category": "문화",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "서울시, 美 주정부·LG NOVA와 북미 진출 '패스트트랙'…스타트업 5개사 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456105",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "서울시, 노동시장 공백 채워줄 인적자원 육성한다…다문화가족 대상 AI 활용 교육 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456104",
+      "dept": "다문화담당관",
+      "category": "문화",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "서울시, '결혼하기 좋은 도시 서울' 위해 민간기업과 손잡았다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456102",
+      "dept": "가족담당관",
+      "category": "행정",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "박물관에서 즐기는 이색 콘서트…한성백제박물관, 사계절 ‘문화 성찬’ 선보인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456101",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "서울시·SH, '공공참여'로 민간정비 사각지대 메운다…부담 감소·공급 속도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456085",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-04-13"
+    },
     {
       "title": "서울런 우수 학생 맞춤형 장학 지원, '우리미래 서울러너' 3기 출발",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456069",
