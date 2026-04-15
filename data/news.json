@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-04-14 09:05",
-  "total": 1716,
-  "new_today": 13,
+  "updated_at": "2026-04-15 09:05",
+  "total": 1731,
+  "new_today": 15,
   "items": [
+    {
+      "title": "3만명 탄 '새벽동행 자율주행버스' 확대…16일(목)부터 'A148' 달린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456237",
+      "dept": "미래첨단교통과",
+      "category": "교통",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, 어르신 노린 불법 다단계 차단 총력… 고수익 보장 유혹 신고하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456228",
+      "dept": "경제수사과",
+      "category": "복지",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, AI로 도시 바꿀 '스마트라이프위크' 참가 국내 기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456227",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, 소규모정비사업 조합임원 교육 본격 시행…전문성·청렴 강화로 사업 실행력 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456217",
+      "dept": "전략주택공급과",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울미래인재재단, 고교 장학금 3종 동시 모집…장학생 1,250명에 29억 원 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456215",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, \"4월 법인지방소득세 신고·납부의 달\" 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456214",
+      "dept": "세무과",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "''내 집 앞에 설치하고, 설치비 절반 돌려받는다''…전기차 충전기 시민 직접 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456169",
+      "dept": "친환경차량과",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "서울형 경력회복 모델 '서울커리업', 10명 중 7명 취업 성공…인턴십 참여자 모집 중",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456168",
+      "dept": "양성평등담당관",
+      "category": "경제",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "당도 36% 낮춘 단팥빵·無버터 통밀빵…서울시, 건강 먹거리 '서울빵' 2종 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456167",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "서울시, 민관협력으로 외로움 없는 서울 만들어나간다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456166",
+      "dept": "고독대응과",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "서울시, 지식산업센터 '수요 회복 나선다'…업종 확대·규제 완화 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456165",
+      "dept": "산업입지과",
+      "category": "경제",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "서울시, ‘가정내 수도꼭지 수질정보 최초 공개’…시민 신뢰도 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456164",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "시민 누구나 도시·건축 배우는 '서울도시건축학교' 개강… 22일부터 신청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456163",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "(기자설명회) 서울시, 고유가 위기 겪는 민생현장 위해 1조 4천억원 긴급편성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456162",
+      "dept": "예산담당관",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "제3차 도시재정비위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456161",
+      "dept": "재정비촉진과",
+      "category": "행정",
+      "date": "2026-04-14"
+    },
     {
       "title": "학습 넘어 진로까지 '서울런3.0' 본격 시동…'진로캠퍼스' 올해 2천 명 모집",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456147",
