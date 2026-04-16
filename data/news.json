@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-04-15 09:05",
-  "total": 1731,
-  "new_today": 15,
+  "updated_at": "2026-04-16 09:04",
+  "total": 1744,
+  "new_today": 13,
   "items": [
+    {
+      "title": "'7979 서울 러닝크루' 16일(목)부터 시작… '런티켓' 확산 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456325",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "정비사업 '전자서명동의서'로 6개월에서 20일로 징구기간 단축…서울시, 성과 입증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456324",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "“봄철 신선 농산물 안심하고 드세요”서울시, 475종 농약 정밀 검사로 식탁 안전 사수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456317",
+      "dept": "보건환경연구원",
+      "category": "안전",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "K-디자인의 미래를 함께 그린다 서울디자인재단·㈜산돌·산돌문화재단 3자 협력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456316",
+      "dept": "서울디자인재단",
+      "category": "문화",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 15일(수) ‘다시 강북전성시대’ 거점사업 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456318",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "전국 최초 시행한 ‘35세 이상 임산부 의료비 지원’… ’26년 확대 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456262",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, 정비사업 180억 원 저리융자 지원…초기 자금난 해소로 사업 쾌속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456261",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, RISE 추가 공모…대학-산업 잇고 청년 일자리로 연결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456260",
+      "dept": "대학협력과",
+      "category": "복지",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, 반려동물과의 안전한 산책 위해 광견병 예방접종 꼭 하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456257",
+      "dept": "동물보호과",
+      "category": "안전",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "테니스·탁구 장점 결합, 한강에 피클볼장 4월 16일부터 시민 이용 가능",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456256",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "서울시, 18일(토) 광화문광장서 4·19혁명 66주년 기념행사 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456252",
+      "dept": "복지정책과",
+      "category": "문화",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "재활용품 가져오면 봄꽃이 피어요: 서울시 ‘봄꽃 교환소’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456251",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "온수역 역세권 총 195세대 공급, 주거와 돌봄시설 조성... 오류동 한주물류센터 부지 열린 공공주택 단지로 재탄생",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456250",
+      "dept": "건축기획과",
+      "category": "주택",
+      "date": "2026-04-15"
+    },
     {
       "title": "3만명 탄 '새벽동행 자율주행버스' 확대…16일(목)부터 'A148' 달린다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456237",
