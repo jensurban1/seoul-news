@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-04-16 09:04",
-  "total": 1744,
-  "new_today": 13,
+  "updated_at": "2026-04-17 09:01",
+  "total": 1756,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울시, 서울국제정원박람회 홍보대사 엔하이픈 정원의 홍보영상 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456392",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "서울시, 도시농업 전문가 30명 키운다… 수료 후 원예·텃밭 강사 활동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456391",
+      "dept": "농업기술센터",
+      "category": "행정",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "개봉·고척 생활권 하나로, '개봉동 120-1일대 신속통합기획' 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456364",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "쓰레기와 이별하는 하루, 광화문에서 만나는 ‘지구의 날’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456363",
+      "dept": "기후환경정책과",
+      "category": "환경",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 16일(목) 서울형 아침돌봄 키움센터 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456362",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "정원으로 물든 서울, 역대 정원박람회장과 주요 공원에서 봄을 즐기세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456354",
+      "dept": "조경과",
+      "category": "문화",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "서울시, 게임 기업 손잡고‘AI 활용 서울 테마 게임’찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456353",
+      "dept": "창조산업과",
+      "category": "행정",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "서울시, 로컬상권 창업가 24팀 선발… 2년간 최대 3천만 원·밀착 컨설팅 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456352",
+      "dept": "상권활성화과",
+      "category": "경제",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "서울시, 유니클로·한국뇌성마비복지회와 장애인 의류 리폼 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456351",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "서울시, ‘스마트서울맵’ 고도화…정책정보 지도 위에서 한눈에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456350",
+      "dept": "공간정보과",
+      "category": "행정",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "(기자설명회) 점심주는 방학돌봄 시작, 전 지역아동센터에 서울런…서울시 '아이돌봄' 더 촘촘해진다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456349",
+      "dept": "저출생담당관",
+      "category": "복지",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "제6차 도시계획위원회 및 제1차 재생분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456348",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-04-16"
+    },
     {
       "title": "'7979 서울 러닝크루' 16일(목)부터 시작… '런티켓' 확산 나선다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456325",
