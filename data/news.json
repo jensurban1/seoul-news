@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-04-19 08:53",
-  "total": 1767,
-  "new_today": 0,
+  "updated_at": "2026-04-20 08:55",
+  "total": 1785,
+  "new_today": 18,
   "items": [
+    {
+      "title": "서울시, '남부터미널 활성화 방안' 마련…동남권 새 거점으로 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456500",
+      "dept": "공공개발담당관",
+      "category": "행정",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "2월 아파트 실거래가격 상승률 1.9%...전월 대비 상승세 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456497",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시, 위원회 심의 전 과정 디지털화…신속한 의사결정 체계 구축으로 주택공급 속도 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456496",
+      "dept": "도시계획상임기획과",
+      "category": "주택",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "「위기아동·청년법」시행 서울시 가족돌봄청년 본격지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456494",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시설공단, 장애인의 날 무료이동·파크골프연습장 개관 등 4월 시민서비스 한가득",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456493",
+      "dept": "서울시설공단",
+      "category": "복지",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "'감자 캐고 갓 지은 가마솥밥 먹고' 서울시, 농업으로 힐링하러 오세요!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456491",
+      "dept": "농업기술센터",
+      "category": "행정",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시, 17시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456538",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "서울시장 사후동정 - 19일(일) 서울등산관광센터 관악산점 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456536",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "서울시, 19일 15시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456533",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "서울시장 사후동정 - 18일(토) 4.19혁명 66주년 기념행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456525",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "서울야외도서관에서 책과 함께하는 어린이날…‘책읽는 서울광장’ 5월 1일 개장·DDP 미니 야외도서관까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456478",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "서울시, ‘Vision2030 펀드’ 상반기 600억 원 출자…피지컬AI·엔터테크 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456476",
+      "dept": "창업정책과",
+      "category": "행정",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "임신~분만 밀착 지원하는 '장애친화 산부인과' 의료사각지대 해소 앞장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456475",
+      "dept": "건강관리과",
+      "category": "복지",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "장애인의 날 맞아 더 가까이…서울지하철, 교통약자 이동편의 지속 확대 중",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456470",
+      "dept": "서울교통공사",
+      "category": "교통",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "세계가 주목한 광화문, 아리아로 물든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456469",
+      "dept": "세종문화회관",
+      "category": "행정",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "서울숲에서 허브티 만들어볼까? 도시농업 프로그램 신청해 보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456464",
+      "dept": "공원여가사업과",
+      "category": "환경",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "\"AI와 함께 지역사회 문제해결\"… 서울시, 「2026 청소년 AI 활용 경진대회」 참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456463",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "서울시, 20일부터 두 달간 시민생활 밀접 2천여 곳 대상 '집중안전점검' 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456462",
+      "dept": "중대재해예방과",
+      "category": "안전",
+      "date": "2026-04-19"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 17일(금) 대한노인회 서울시연합회 업무협약",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456479",
