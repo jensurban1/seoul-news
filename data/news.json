@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-04-21 09:03",
-  "total": 1800,
-  "new_today": 15,
+  "updated_at": "2026-04-22 08:53",
+  "total": 1813,
+  "new_today": 13,
   "items": [
+    {
+      "title": "서울시, 시민이 투자하고 수익 나누는 ‘서울동행리츠’ 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456681",
+      "dept": "공공개발담당관",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "지하철역의 변신, '러너지원공간' 러닝 프로그램 6개월간 1,147명 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456676",
+      "dept": "도시활력담당관",
+      "category": "교통",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "서울AI재단, 英 케임브리지대·연세대와 ‘피지컬 AI 선도도시’ 구축 나서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456674",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "고지서 열람 후 세금 납부까지 한번에…서울시, 「ETAX 전자사서함 서비스」 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456673",
+      "dept": "세무과",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "서울시, 북한산 소나무재선충병 재발생에 따른 긴급방제 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456672",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "서울시보건환경연구원 검사·시험성적서, 언제 어디서나 클릭 한 번으로 바로 발급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456671",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "서울시, 4.30.(목) 한강 수난사고 대응력 높이기 위한 구조·구호 종합훈련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456649",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "서울시, '정릉공영차고지' 수영장·체육관 갖춘 복합플랫폼 개발 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456623",
+      "dept": "공공개발담당관",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "강북이 달라진다…'다시, 강북전성시대' 서울시 디자인경관 프로젝트 본격 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456622",
+      "dept": "도시경관담당관",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "방학 때 ‘찐’ 실무경험 쌓자…서영커 인턴십 참여자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456621",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "서울시, 제조업 기반 지킨다…'뿌리산업 지원허브' 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456620",
+      "dept": "산업입지과",
+      "category": "경제",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "AI×기후테크 한자리…서울시, 2026 컨퍼런스 전시 참여기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456619",
+      "dept": "기후환경정책과",
+      "category": "문화",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "(기자설명회) 창동, 365일 K-POP 가득 글로벌문화중심지로… 강북 경제 살리고, 삶의 질 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456615",
+      "dept": "동북권사업과",
+      "category": "문화",
+      "date": "2026-04-21"
+    },
     {
       "title": "서울시, '미리내집' 역세권 중심 441세대 모집… 보증금 분할납부제 시행",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456605",
