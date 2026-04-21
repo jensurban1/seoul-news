@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-04-20 08:55",
-  "total": 1785,
-  "new_today": 18,
+  "updated_at": "2026-04-21 09:03",
+  "total": 1800,
+  "new_today": 15,
   "items": [
+    {
+      "title": "서울시, '미리내집' 역세권 중심 441세대 모집… 보증금 분할납부제 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456605",
+      "dept": "임대주택과",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "3월 토지거래허가 신청량 최대치 경신, 신청가격 상승세는 꺾여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456604",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "“체험에서 방문까지”…지역관광 안테나숍 프로그램 확대 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456598",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "한강 수변을 물들이는 오페라의 밤",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456597",
+      "dept": "세종문화회관",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "서울시민 AI 이용률 2년 새 3배 껑충 …디지털 역량 5개 영역 ‘일제히 상승’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456596",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-04-21"
+    },
+    {
+      "title": "서울시, 20일 21시 기준 미세먼지[PM-10] 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456618",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "(엠바고10시30분)'2026 서울, 비만 탈출의 해' 선언… 일상 속 습관 관리로 건강 챙긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456584",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시장 사후동정 -오세훈 시장, 장애인의날 굿윌스토어 1호점 방문해 장애인 근로자 격려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456583",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "2026 차 없는 잠수교 뚜벅뚜벅 축제는 여유로운 아침 발걸음으로 시작…4.26.(일)부터 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456563",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시, 옥외전광판 밝기 조정 확산…에너지 절약 동참",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456562",
+      "dept": "도시경관담당관",
+      "category": "행정",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시, 동대문에서 외국인 대상 최대 규모 위조상품 비밀매장 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456561",
+      "dept": "경제수사과",
+      "category": "행정",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시, 외국인 배달 라이더 불법 취업 대응 강화… '상담·신고 지원센터' 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456560",
+      "dept": "노동정책과",
+      "category": "경제",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시, 장애인 정보통신보조기기 700명 지원...최대 94% 보조",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456559",
+      "dept": "데이터센터",
+      "category": "복지",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시, 전동보장구 충전소 정보제공 개선으로 장애인 이동권↑",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456558",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "서울시자원봉사센터, 북한산 산림보호를 위한 ‘서울강산 챌린지’ 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456556",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-04-20"
+    },
     {
       "title": "서울시, '남부터미널 활성화 방안' 마련…동남권 새 거점으로 키운다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456500",
