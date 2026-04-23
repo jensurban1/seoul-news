@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-04-22 08:53",
-  "total": 1813,
-  "new_today": 13,
+  "updated_at": "2026-04-23 09:11",
+  "total": 1828,
+  "new_today": 15,
   "items": [
+    {
+      "title": "서울시-국민권익위 협업으로 땅꺼짐 사고 보상체계 개선…다수 사망자 발생 대비 보상 한계 보완",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456756",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울시, 중동 피해 수출기업에 물류비 최대 3천만 원 긴급 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456755",
+      "dept": "경제정책과",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "‘오늘의 한강, 내일의 건강’2026 한강 웰니스 위크 개막…5H 테마",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456754",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울시, 독립유공자 4~6대 후손 120명에 3.6억 지원…광복회와 역사 계승·인재 양성도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456743",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울대공원, ‘지구의 날·생물다양성의 날’ 맞아 멸종위기동물 보전교육 행사 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456742",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울시장 사후동정 - 22일(수) 부처님오신날 봉축점등식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456759",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 22일(수) 서울시사회복지사협회 창립 40주년 기념행사 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456753",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "(기자설명회) 서울숲~성수잇는 역대급 정원… 최장·최대규모 서울국제정원박람회 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456708",
+      "dept": "조경과",
+      "category": "환경",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "등 다양한 즐길거리 마련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456707",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "장위13-1·2구역 신속통합기획 확정…장위 재정비촉진지구 마지막 퍼즐 완성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456705",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "'역사와 상상의 놀이터'로!… 서울역사박물관, 어린이박물관 개관 후 첫 어린이날 맞아 특별 행사 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456704",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "대학생부터 사회초년생까지 진로 맞춤 처방, '청년인생설계학교' 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456703",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "서울시, ‘평생학습 싱크탱크’ 출범…분야별 석학 7인과 AI 시대 평생교육 전환 설계",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456702",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "수도요금 납부 더 쉬워진다…카드 자동이체 방문·전화 신청 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456701",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-04-22"
+    },
+    {
+      "title": "서울시, 청년 부채 급증 예방 위해 재무코칭 프로그램 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456700",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-04-22"
+    },
     {
       "title": "서울시, 시민이 투자하고 수익 나누는 ‘서울동행리츠’ 본격화",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456681",
