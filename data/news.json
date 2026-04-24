@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-04-23 09:11",
-  "total": 1828,
-  "new_today": 15,
+  "updated_at": "2026-04-24 09:09",
+  "total": 1842,
+  "new_today": 14,
   "items": [
+    {
+      "title": "산책 명소 남산공원에서 체험 가득 어린이날 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456823",
+      "dept": "중부공원여가센터",
+      "category": "문화",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "하루 종일 있어도 재밌는 테마공원… DDP 어린이 디자인 페스티벌",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456822",
+      "dept": "서울디자인재단",
+      "category": "문화",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "서울 역세권 평생학습 팝업스쿨, 개관 한 달 만에 500명 참여…5월 운영 규모 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456821",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "서울시복지재단-KB금융공익재단 발달장애인 자립 위해 맞손",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456814",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "상담사의 미소가 서울시민의 행복으로…120다산콜, 현장 중심 「감정노동 보호 매뉴얼」 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456813",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "(보도참고자료) “자연과 공존하는 한강” 서울시, 한강 어종 조사로 생태 회복 ‘주력'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456777",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울시-샌프란시스코, 반세기 우정을 넘어 ‘글로벌 동반자’로 제2막 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456774",
+      "dept": "도시외교담당관",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "27일(월)부터 '고유가 피해지원금' 신청…\"출생연도 끝짜리 요일 확인\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456773",
+      "dept": "자치행정과",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울하프마라톤 개최…26일 광화문~상암 도심 일부 통제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456772",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "어린이날 맞아, 온 서울을 아이들 놀이터로… 5.1.~5.7. '서울 키즈위크' 첫선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456771",
+      "dept": "아이돌봄담당관",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울시, 28년까지 장기사용 상수도관 343㎞ 교체…지반침하 예방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456770",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "서울시, 터미널 키오스크 돕는다…‘디지털 동행파트너’ 첫 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456769",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "'스트레스 날리고 근속응원'…서울시, 주거취약계층 취업지원 프로그램 진행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456768",
+      "dept": "자활지원과",
+      "category": "경제",
+      "date": "2026-04-23"
+    },
+    {
+      "title": "제7차 도시건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456767",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-04-23"
+    },
     {
       "title": "서울시-국민권익위 협업으로 땅꺼짐 사고 보상체계 개선…다수 사망자 발생 대비 보상 한계 보완",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456756",
