@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-04-24 09:09",
-  "total": 1842,
-  "new_today": 14,
+  "updated_at": "2026-04-25 08:58",
+  "total": 1850,
+  "new_today": 8,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 24일(금) 서울시-한국예총 서울시연합회 간담회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456885",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "피어나는 모든 것을 위하여…25일(토) 서울식물원 네 번째 '해봄축제'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456845",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "‘예술로가 된 군사 도하로’ 서울숲나들목, 725명 재능기부 벽화로“화사한 재탄생”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456844",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "서울시, '제18회 서울건축문화제' 국형걸 총감독 연임 위촉… 5월부터 사전강좌 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456843",
+      "dept": "한옥건축자산과",
+      "category": "문화",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "서울시설공단, 화장로 유지관리‘데이터 기반·예측형’전환 … AI 활용체계 구축 시동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456842",
+      "dept": "서울시설공단",
+      "category": "행정",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "자원봉사로 하나 된 서울 대학가…서울시자원봉사센터, ‘대학연계 사회참여 프로젝트’ 가속도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456841",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "노래로 배우는 생활 속 안전 … 서울시, 제27회 119소방동요 경연대회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456840",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-04-24"
+    },
+    {
+      "title": "'사후복구'에서 '예방 중심' 치수…오세훈 시장, 광화문 대심도 빗물터널 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456831",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-04-24"
+    },
     {
       "title": "산책 명소 남산공원에서 체험 가득 어린이날 만나보세요",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456823",
