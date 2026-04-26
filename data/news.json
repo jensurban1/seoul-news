@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-04-26 08:56",
-  "total": 1852,
-  "new_today": 2,
+  "updated_at": "2026-04-27 07:25",
+  "total": 1866,
+  "new_today": 14,
   "items": [
+    {
+      "title": "서울시, 동네서점 70곳 ‘서울형책방’ 선정…생활밀착 독서문화 확산",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456906",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울시, 예비창업자까지 품는다…'제2서울핀테크랩' 입주기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456905",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울AI재단·MIT, 글로벌 AI 선도도시 서울 구현 … 8대 도시현안 연구로 시민 AI 일상화 속도 낸다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456904",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "공간은 기본, 성장지원까지…서울새활용플라자 입주기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456903",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 26일(일) 쉬엄쉬엄 모닝 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456944",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 26일(일) ‘2026 서울하프마라톤’ 출발식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456943",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "“서울의 설렘, 공항부터 도심까지”…서울시,‘2026 서울환대주간’운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456902",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "`06년부터 시작된 신림재정비촉진지구 '신속통합기획'으로 대장정 마침표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456901",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "서울시, 기업 규제 풀고 자영업 부담 낮춘다...‘민생 처방전’ 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456900",
+      "dept": "규제개선담당관",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "'연이율 60% 초과 대출은 전면 무효'… 서울시, 불법사금융 집중신고기간 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456899",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "서울시청이 '해치 테마파크'로…市, 어린이날 맞아 5일간 해치축제 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456890",
+      "dept": "서울브랜드담당관",
+      "category": "문화",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "서울시, 상수도관 세척 2028년까지 2,088km 추진…깨끗한 아리수 공급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456888",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "'오존(O3) 안심도시 서울', 여름철 고농도 오존 집중관리 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456887",
+      "dept": "대기정책과",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "서울시민의 라이프스타일이 글로벌 콘텐츠가 된다…‘뷰티풀라이프 인 서울’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456884",
+      "dept": "대기정책과",
+      "category": "행정",
+      "date": "2026-04-26"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 25일(토) 「2026 서울국제정원박람회」 개막 앞두고 현장점검",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456932",
