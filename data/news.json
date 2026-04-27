@@ -1,8 +1,148 @@
 {
-  "updated_at": "2026-04-27 07:25",
-  "total": 1866,
-  "new_today": 14,
+  "updated_at": "2026-04-28 07:38",
+  "total": 1886,
+  "new_today": 20,
   "items": [
+    {
+      "title": "서울시, 신림 공영차고지 준공…‘버스 주차’와 ‘침수 방지’동시에 잡았다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457013",
+      "dept": "도시기반시설본부",
+      "category": "교통",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "어린이날, 한강에서 뭐하지?…서울함공원·한강플플에서 즐기는 특별한 연휴",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457012",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "''놀면서 수학 배워요''…서울시, 아이와 함께 가는 '산업 놀이터' 전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457011",
+      "dept": "산업입지과",
+      "category": "문화",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "서울시-도쿄도, AI·데이터 행정 손잡았다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457010",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "서울시-클리오, 2026 서울국제정원박람회 ‘기업동행정원’ 조성 협력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457001",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "서울시고립예방센터-서울청년기지개센터 고립청년 지원 함께한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457000",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "김성보 권한대행, 첫 간부회의 주재... 시정 공백 최소화·운영 안정화 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457009",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "김성보 권한대행, 첫 간부회의 주재... 시정 공백 최소화·운영 안정화 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457008",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울시, '보증금지원형 장기주택' 6천호 모집… 최대 7천만 원 무이자 지원 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456976",
+      "dept": "임대주택과",
+      "category": "주택",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "새벽을 여는 'A504(금천~시청)' 노선 29일(수) 개통…동서남북 자율주행으로 연결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456975",
+      "dept": "미래첨단교통과",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "신풍역 한걸음 주거단지 조성…신길동 3922 신통기획 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456974",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "고유가 피해지원금, 서울사랑상품권으로 신청하고 48만 가맹점에서 사용하세요!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456972",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "문화비축기지, 미디어 아트전시 및 다양한 페스티벌 등 연간 100만 찾는 도심 복합문화거점으로 도약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456971",
+      "dept": "도시활력담당관",
+      "category": "문화",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울 전역이 무대가 된다…‘구석구석라이브’로 거리공연 명소화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456970",
+      "dept": "문화정책과",
+      "category": "문화",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "‘모두가 안전한 한강’ 서울시, 수난사고 종합훈련으로 신속 대응 체계 확립",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456969",
+      "dept": "미래한강본부",
+      "category": "안전",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울시, 용미리에 어린이 전용 산분장지 '나비쉼터' 5월부터 시범운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456968",
+      "dept": "어르신복지과",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울시, 오세훈 시장 지방선거 예비후보자 등록에 따라 김성보 행정2부시장 권한대행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456966",
+      "dept": "인사과",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울시, 정무부시장에 박찬구 現 서울시 정무특보 내정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456965",
+      "dept": "인사과",
+      "category": "행정",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "합리적 가격 '서울형 시니어주택' 1만 2천호 공급… 어르신 삶의 질 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456964",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-04-27"
+    },
+    {
+      "title": "서울공예박물관, 대한제국 공예 특별기획전 2건 동시 개막… 해외 소장 유물 120년 만에 한자리에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/456908",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-04-27"
+    },
     {
       "title": "서울시, 동네서점 70곳 ‘서울형책방’ 선정…생활밀착 독서문화 확산",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/456906",
