@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-04-28 07:38",
-  "total": 1886,
-  "new_today": 20,
+  "updated_at": "2026-04-29 07:44",
+  "total": 1900,
+  "new_today": 14,
   "items": [
+    {
+      "title": "서울시, 강북전성시대를 위한 약속지켜… ‘강북등발전계정’신설",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457076",
+      "dept": "도시공간전략과",
+      "category": "행정",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "한강서 ‘잠’시 충전…서울시, 5월 2일(토) 『2026 한강 잠퍼자기 대회』 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457075",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "약자 돕는 '서울 동행일자리', 하반기 확대…상반기보다 345명 늘린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457074",
+      "dept": "일자리정책과",
+      "category": "경제",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "매주 금요일 밤 도서관에서 작가 만난다…서울 전역 ‘작가힙톡’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457073",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "조선의 수도는 어떻게 운영되었을까, <한성부입니다> 전시 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457072",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "2026년 여름편 「서울꿈새김판」 문안 공모전 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457071",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "어린이날 연휴, 비행기 대신 서울 한 바퀴!… 체험·공연·축제까지 가족 문화행사 가득",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457034",
+      "dept": "문화정책과",
+      "category": "문화",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "서울시, 엄마와 아이 건강 걱정 없도록… 모자보건 맞춤 지원대상·범위 모두 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457033",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "“내친구서울관”서울의 미래를 지금 체험하는 도시혁신플랫폼으로 자리매김",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457032",
+      "dept": "도시계획상임기획과",
+      "category": "행정",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "'덜 달아서 더 팔렸다', 서울빵 출시 열흘 만에 1만 개 팔려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457031",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "초록 입은 서울숲, 런웨이로 변신…정원 속 '패션 피크닉' 열린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457030",
+      "dept": "뷰티패션산업과",
+      "category": "환경",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "“공부하러 왔다가 살아갈 결심하도록…서울시, 유학생 취업 및 정착까지 돕는다”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457029",
+      "dept": "외국인이민담당관",
+      "category": "경제",
+      "date": "2026-04-28"
+    },
+    {
+      "title": "청년의사가 고립·은둔청년 몸과 마음 살펴요…서울시-대한전공의협의회 협약 체결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457028",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-04-28"
+    },
     {
       "title": "서울시, 신림 공영차고지 준공…‘버스 주차’와 ‘침수 방지’동시에 잡았다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457013",
@@ -555,6 +646,13 @@
       "dept": "보건환경연구원",
       "category": "환경",
       "date": "2026-04-22"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 21일(화) ‘수도권 재건축·재개발연합회’와 주택공급 활성화 간담회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457068",
+      "dept": "언론담당관",
+      "category": "주택",
+      "date": "2026-04-21"
     },
     {
       "title": "서울시, 4.30.(목) 한강 수난사고 대응력 높이기 위한 구조·구호 종합훈련",
