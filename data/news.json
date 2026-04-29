@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-04-29 07:44",
-  "total": 1900,
-  "new_today": 14,
+  "updated_at": "2026-04-30 07:43",
+  "total": 1912,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울시 '청년 월세' 확대…전세피해자·신혼부부 포함 1만 5천 명 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457144",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "서울시, 대학 기숙사 공급 확대 위해 규제 푼다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457143",
+      "dept": "시설계획과",
+      "category": "행정",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "서울시, 2026년도 개별공시지가 결정·공시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457142",
+      "dept": "토지관리과",
+      "category": "행정",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "포천 한탄강에서 밀양 영남알프스까지 함께할 서울 창업가 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457141",
+      "dept": "대외협력과",
+      "category": "경제",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "모두를 위한 디자인…서울디자인재단, 공동협력으로 삶의 현장 바꾼다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457140",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "전국 최초 지하차도 통제정보, 내비게이션 실시간 안내… 집중호우 전 안전성 확보",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457107",
+      "dept": "도로시설과",
+      "category": "안전",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "봄을 물들일 5일간의 대축제! 서울스프링페스티벌, 5월 ‘슈퍼 위크’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457106",
+      "dept": "관광정책과",
+      "category": "문화",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "한강버스 주말 이용객 4월 초 대비 15% 증가… 4월 탑승객 7만명 최다기록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457105",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "서울시, '남부순환로' 평탄화 공사 완료… 보도·횡단보도 신설해 지역단절 해소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457104",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "서울시, 서울사랑상품권 1,500억 원 추가 발행… 최대 15% 혜택·온라인 사용 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457103",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "서울시, ‘AI를 쓰는 도시’로 도약… 디지털배움터 전면 개편",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457102",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-04-29"
+    },
+    {
+      "title": "시청역 인근 태평로빌딩, 리모델링으로 미래지향적 업무거점 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457101",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-04-29"
+    },
     {
       "title": "서울시, 강북전성시대를 위한 약속지켜… ‘강북등발전계정’신설",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457076",
