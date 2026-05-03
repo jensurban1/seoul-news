@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-05-03 07:27",
-  "total": 1929,
-  "new_today": 1,
+  "updated_at": "2026-05-04 07:28",
+  "total": 1939,
+  "new_today": 10,
   "items": [
+    {
+      "title": "5월, 서울시 청소년 행사 총출동… 축제·시상식·정책포럼 등 75개 행사 이어진다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457233",
+      "dept": "청소년정책과",
+      "category": "문화",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "서울시, 성수JC에 '매력정원' 조성… 서울숲-한강 잇는 동북권 관문 경관 새단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457232",
+      "dept": "도로시설과",
+      "category": "환경",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "서울시, '노동권리보호관' 81명 위촉… 취약노동자 상담부터 소송까지 원스톱 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457231",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "서울기록원, 7년 기록 공개...“전국 표준 만든다”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457230",
+      "dept": "서울기록원",
+      "category": "행정",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "30돌 맞은 서울세계도시문화축제, 글로벌 문화대잔치 펼친다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457226",
+      "dept": "도시외교담당관",
+      "category": "문화",
+      "date": "2026-05-03"
+    },
+    {
+      "title": "서울시, 이륜차 소음 상시 단속…“평온한 시민 일상 지킨다”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457225",
+      "dept": "대기정책과",
+      "category": "행정",
+      "date": "2026-05-03"
+    },
+    {
+      "title": "서울플랜+ 단계적 고도화... 도시계획 정보 허브로 자리 잡다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457224",
+      "dept": "도시계획상임기획과",
+      "category": "행정",
+      "date": "2026-05-03"
+    },
+    {
+      "title": "서울시, 청소년 공연 관람 기회 넓힌다… <공연봄날> 우리 가족 공연 나들이",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457223",
+      "dept": "문화예술과",
+      "category": "문화",
+      "date": "2026-05-03"
+    },
+    {
+      "title": "서울어린대공원은 야외 미술관! 서울어린이정원페스티벌 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457222",
+      "dept": "정원도시정책과",
+      "category": "문화",
+      "date": "2026-05-03"
+    },
+    {
+      "title": "서울숲 웰컴정원 선보여, 가족과 연인, 친구끼리 ‘하늘펀’하러 모여!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457221",
+      "dept": "디자인정책담당관",
+      "category": "환경",
+      "date": "2026-05-03"
+    },
     {
       "title": "'2026 서울국제정원박람회' 개막 첫날 30만명 찾아… 서울시, 관람객 안전 최우선",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457297",
