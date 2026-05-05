@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-05-05 07:44",
-  "total": 1945,
-  "new_today": 6,
+  "updated_at": "2026-05-06 07:42",
+  "total": 1958,
+  "new_today": 13,
   "items": [
+    {
+      "title": "퇴근길 서울광장에서‘득근’하세요! 5월 7일 ‘운동하는 서울광장’ 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457386",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "도서관·체육·돌봄을 한곳에, 서남권 ‘열린 복합공간’ 밑그림 완성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457385",
+      "dept": "미래공간담당관",
+      "category": "복지",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "AI 분석·전담 PM 지원… 서울시, 소상공인 '팔릴 준비' 돕는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457384",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "서울시복지재단 성인발달장애인 267명 자립 컨설팅 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457382",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "서울시장 사후동정 - 김성보 서울시장 권한대행, 5일(화) 2026 서울어린이정원 페스티벌 개막식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457435",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "‘강북전성시대’ 앞당긴다…서울시, 역세권 규제 풀어 325개 전역 ‘생활거점’ 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457380",
+      "dept": "도시공간전략과",
+      "category": "행정",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "청취사·서울영테크·청년기지개센터… 서울시, 4년연속 청년정책 우수기관 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457379",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "‘노을 명소에서 봄날의 설렘을 만끽!!’ 서울시, 서래섬 피크닉 콘서트 8일(금) 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457375",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "''나만의 서사, 비즈니스로 키운다''… 서울시, 청년 골목창업가 육성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457374",
+      "dept": "소상공인정책과",
+      "category": "복지",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "서울시, 가족돌봄청소년·청년 자기돌봄비 조건 완화하고 추가 지원자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457373",
+      "dept": "복지정책과",
+      "category": "복지",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "시민과 함께 완성하는 리듬 축제…<서울드럼페스티벌> 16~17일 DDP 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457372",
+      "dept": "문화예술과",
+      "category": "문화",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "서울시,우리집 아리수무료 수질검사…비대면 문 앞 수거로 1만 건 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457371",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "서울시, <제3회 서울조각상> 결선 진출작 15점 발표… 8월말 뚝섬한강공원서 만난다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457370",
+      "dept": "박물관과",
+      "category": "문화",
+      "date": "2026-05-05"
+    },
     {
       "title": "퇴근길엔 서울광장 뮤지컬, 주말엔 한강 오페라… 서울 곳곳 야외공연 본격 개막",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457328",
