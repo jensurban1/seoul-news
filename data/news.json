@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-05-06 07:42",
-  "total": 1958,
-  "new_today": 13,
+  "updated_at": "2026-05-07 07:37",
+  "total": 1968,
+  "new_today": 10,
   "items": [
+    {
+      "title": "서울 중년 5명 중 1명 미혼, 소득에 따라 삶의 질 차이 확인… 市, 맞춤형 정책 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457506",
+      "dept": "데이터전략과",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "서울시, 공사장 비산먼지 관리실태 집중단속…16곳 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457495",
+      "dept": "민생사법경찰국",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "K-건축 이끌 인재 찾는다…'제44회 서울시 건축상' 공모 7일 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457494",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "주말 공연·체험 가득한 서울숲… 5.16.~6.7.‘서울가든페스티벌’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457452",
+      "dept": "공원여가사업과",
+      "category": "문화",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "\"서울이 맑아졌다\"… 20년간 초미세먼지 40%↓, 여름철 오존까지 촘촘 관리",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457451",
+      "dept": "대기정책과",
+      "category": "환경",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "서울의 마지막 자력재개발 미아동 791번지 일대,  '신속통합기획' 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457449",
+      "dept": "주거정비과",
+      "category": "복지",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "서울시, 핀테크 스타트업·금융사 협업 통해 기술검증·사업화 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457448",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "서울의 공간, 시민의 삶을 짓다… 서울시, 제13기 공공건축가 공개 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457447",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "“신나는 서울의 5월, 더 빠르게 알아보세요”120다산콜, 스마트 상담으로 행사 안내 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457445",
+      "dept": "서울시120다산콜재단",
+      "category": "문화",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "서울시, 친정·시어머니 정성으로 모신 효부 등 효행유공자 30명 표창",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457387",
+      "dept": "어르신복지과",
+      "category": "행정",
+      "date": "2026-05-06"
+    },
     {
       "title": "퇴근길 서울광장에서‘득근’하세요! 5월 7일 ‘운동하는 서울광장’ 개장",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457386",
