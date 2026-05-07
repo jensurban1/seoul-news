@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-05-07 07:37",
-  "total": 1968,
-  "new_today": 10,
+  "updated_at": "2026-05-08 07:48",
+  "total": 1982,
+  "new_today": 14,
   "items": [
+    {
+      "title": "‘서울창업허브 관악’설계공모...관악S밸리 이끌 딥테크 창업거점 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457574",
+      "dept": "미래공간담당관",
+      "category": "경제",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "종량제봉투 함께 줄여요… 서울시 '파봉 캠페인' 통한 실천 확산",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457573",
+      "dept": "자원회수시설과",
+      "category": "행정",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "서울시복지재단, 돌봄 현장에 AI·로봇 도입한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457569",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "(보도참고자료) 국가유산청, 세운4구역 관련 행정명령… 서울시, 합리적 해법 찾을 것",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457576",
+      "dept": "도시재창조과",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "‘서울 키즈위크’ 중 닷새간 5만 5천여 명 발길 이어져…아이, 가족 모두 웃음 한가득",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457558",
+      "dept": "아이돌봄담당관",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "이번엔 '갓즈'다 ! 서울국제정원박람회 감성 담은 일상 굿즈 13종 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457535",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "서울시, 도시공간 매력 높이는 혁신디자인·한옥 등 규제철폐 4건 발표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457534",
+      "dept": "규제개선담당관",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "러브버그·동양하루살이 등 시민 불편 곤충… 서울시, 발생 이전 미리 친환경 방제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457533",
+      "dept": "감염병관리과",
+      "category": "환경",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "“주말 낮 전기차 충전하면 최대 15% 절약”…서울시, 공공 급속충전 요금 인하",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457532",
+      "dept": "친환경차량과",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "펀디자인 휴게공간‘한들한들’, 레드닷 디자인어워드 본상 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457531",
+      "dept": "디자인정책담당관",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "서울시, 창의성·도전정신으로 서울 빛낸 청년상 후보자 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457530",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "제7차 도시계획위원회 및 제6차 도시계획위원회 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457529",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "작년 1천만명 방문 서울국제정원박람회… 올해는 6일만에 100만명 기록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457522",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
+    {
+      "title": "남수단 봉사 이끈 고교생·플로깅 실천 초등생 등…'서울시민상' 어린이·청소년 84명 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457507",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-05-07"
+    },
     {
       "title": "서울 중년 5명 중 1명 미혼, 소득에 따라 삶의 질 차이 확인… 市, 맞춤형 정책 확대",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457506",
