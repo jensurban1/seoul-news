@@ -1,8 +1,43 @@
 {
-  "updated_at": "2026-05-08 07:48",
-  "total": 1982,
-  "new_today": 14,
+  "updated_at": "2026-05-09 07:42",
+  "total": 1988,
+  "new_today": 6,
   "items": [
+    {
+      "title": "\"K-컬처의 정수, 태권도 보러 오세요\"… 2026 서울시 태권도 공연 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457605",
+      "dept": "관광산업과",
+      "category": "문화",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "서울시설공단, 서울 공사현장 현수막 디자인 미관 개선해 시민 가독성·안전성 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457604",
+      "dept": "서울시설공단",
+      "category": "안전",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "베이징에서 서울 AI 혁신 알린다 … 서울AI재단, 국제과학기술 산업박람회(CHITEC) ‘스마트라이프위크(SLW)’ 홍보관 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457603",
+      "dept": "서울AI재단",
+      "category": "경제",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "서울대공원 ‘식물원 속 동물원, 할아버지와 나의 식물원 이야기’ 특별전시 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457602",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-05-08"
+    },
+    {
+      "title": "제8차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457580",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-05-08"
+    },
     {
       "title": "‘서울창업허브 관악’설계공모...관악S밸리 이끌 딥테크 창업거점 조성",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457574",
@@ -23,6 +58,13 @@
       "dept": "서울시복지재단",
       "category": "복지",
       "date": "2026-05-08"
+    },
+    {
+      "title": "작년 1천만명 방문 서울국제정원박람회… 올해는 6일만에 100만명 기록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457599",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-05-07"
     },
     {
       "title": "(보도참고자료) 국가유산청, 세운4구역 관련 행정명령… 서울시, 합리적 해법 찾을 것",
