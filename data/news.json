@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-05-10 07:30",
-  "total": 1988,
-  "new_today": 0,
+  "updated_at": "2026-05-11 07:34",
+  "total": 1998,
+  "new_today": 10,
   "items": [
+    {
+      "title": "구직지원금부터 AI 직무교육과 인턴십까지 '취업패키지'…'서울커리업' 2차 모집 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457663",
+      "dept": "양성평등담당관",
+      "category": "경제",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "부모가 바뀌자, 자녀가 움직였다…서울시 고립·은둔 청년 가족 교육 6월부터 본격 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457662",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "한성백제박물관, KBS국악관현악단과 업무협약… 10월 백제성벽 앞 국악 공연 선보인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457661",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "관악에 시립도서관 · 공공주택 복합시설 생긴다… 서남권 주민 삶의 질↑",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457660",
+      "dept": "문화시설과",
+      "category": "주택",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "서울 생활폐기물 하루 29톤 줄였다…‘천만시민 다이어트’ 성과 나타나",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457653",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "서울시, 핵심 상권 강남역에 ‘서울마이소울샵’ 7호점 개점",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457651",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "서울시, 중증장애청년 자립지원 '이룸통장' 지원자 늘리고 가구원 중복가입 허용한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457650",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "‘유학하기 좋은 도시 1위, 서울’ 타이베이에서 열풍 이어나간다…2026 서울유학박람회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457649",
+      "dept": "외국인이민담당관",
+      "category": "행정",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "'서울 어린이 안경 20% 할인쿠폰' 신청 쇄도… 12일(화) 오전 9시 2차 신청 오픈",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457648",
+      "dept": "아동담당관",
+      "category": "행정",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "서울 공예 고수들 모여라…대한민국공예품대전 서울시 예선 열린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457647",
+      "dept": "디자인산업담당관",
+      "category": "행정",
+      "date": "2026-05-10"
+    },
     {
       "title": "\"K-컬처의 정수, 태권도 보러 오세요\"… 2026 서울시 태권도 공연 개막",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457605",
