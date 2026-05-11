@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-05-11 07:34",
-  "total": 1998,
+  "updated_at": "2026-05-12 07:43",
+  "total": 2008,
   "new_today": 10,
   "items": [
+    {
+      "title": "서울시, 서울숲 등 3개 공원에서 ‘조각도시 서울’ 민간협력전시 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457740",
+      "dept": "박물관과",
+      "category": "문화",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "\"가르치는 강사에서 설계하는 강사로\"…서울시, 장애인 평생교육 강사 양성 연수 참여자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457738",
+      "dept": "서울시평생교육진흥원",
+      "category": "복지",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "'장수풍뎅이 뽐내고 사마귀 달린다' 서울시, 곤충경진대회 참가 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457737",
+      "dept": "농업기술센터",
+      "category": "행정",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "'위험할 때 버튼 꾹' 시민안전 지키는 '안심헬프미'… 강력범죄 우려 속 주목",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457713",
+      "dept": "양성평등담당관",
+      "category": "안전",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "서울영화센터, 도심 야경 품은 루프탑 영화관 '스카이시네마' 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457712",
+      "dept": "창조산업과",
+      "category": "행정",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "달빛 따라 걷는 한옥의 밤…한층 깊어진 ‘서울 공공한옥 밤마실’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457711",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "서울시, 생성형 AI로 행정 혁신··· ‘챗봇 2.0’ 5월 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457710",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "식물이 공기를 바꿨다… 실내 초미세먼지 최대 83.6% 낮춰",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457709",
+      "dept": "농업기술센터",
+      "category": "환경",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "서울공예박물관, 故권순형 기증특별전《색유만개》개막…색으로 도자를 다시 쓴 한국 현대공예 선구자",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457708",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-05-11"
+    },
+    {
+      "title": "골목길 침수 안전망 · 빗물그릇 확대, AI 활용… 서울시, 여름철 풍수해 선제 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457706",
+      "dept": "치수안전과",
+      "category": "안전",
+      "date": "2026-05-11"
+    },
     {
       "title": "구직지원금부터 AI 직무교육과 인턴십까지 '취업패키지'…'서울커리업' 2차 모집 시작",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457663",
