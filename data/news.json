@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-05-12 07:43",
-  "total": 2008,
-  "new_today": 10,
+  "updated_at": "2026-05-13 07:51",
+  "total": 2022,
+  "new_today": 14,
   "items": [
+    {
+      "title": "'2026 연등회' 16~17일 개최…종로 일대 단계별 교통 통제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457819",
+      "dept": "문화정책과",
+      "category": "교통",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "서울시, 건축자산 진흥구역 내 한옥 생태면적률 의무 적용 제외",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457816",
+      "dept": "시설계획과",
+      "category": "행정",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "긴급하게 지원하고 후속 연계까지…서울시, 18일 '그냥드림' 전면 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457815",
+      "dept": "복지정책과",
+      "category": "행정",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "청소년이 만드는 과학축제…서울시립과학관 '사이언스 페스티벌' 16~17일 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457813",
+      "dept": "서울시립과학관",
+      "category": "문화",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "서울특별시 어린이병원, 국내 최초 발달장애 예술 브랜드‘아르피쉬(AREFISH)’공식 론칭",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457811",
+      "dept": "어린이병원",
+      "category": "복지",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "서울시 금고지정 심의위원회 평가결과, 1·2금고 신한은행이 최고득점",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457828",
+      "dept": "재무과",
+      "category": "행정",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "서울시장 권한대행 사후동정 - 김성보 서울시장 권한대행, 12일(화) 5월 공습대비 민방위 훈련 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457807",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "서울시, 도시·건축 디자인 혁신 절차 줄이고, 참여 확대… 닫힌 사유지를 열린 공간으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457771",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "일경험 쌓고 커리어 점프업! 서영커 5단계(점프업)‘미래 청년 일자리’참여자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457770",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "서울시, 지자체 최초 다자녀 특별공급 악용 부정청약·불법전매 일당 5명 검찰 송치",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457769",
+      "dept": "경제수사과",
+      "category": "주택",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "서울시, 경계선지능 청년 ‘맞춤형 취업 징검다리 프로젝트’ 참여자 70명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457768",
+      "dept": "평생교육과",
+      "category": "복지",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "상상력으로 채워진 DDP 어린이 디자인 페스티벌, 24만 명 방문 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457767",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "개인회생 청년 평균 채무액 약 6천 9백만 원, 채무원인 생활비 마련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457766",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "광화문광장, 평화의 가치 되새기는 '감사의 장'으로… 서울시, 12일 감사의 정원 준공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457765",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-05-12"
+    },
     {
       "title": "서울시, 서울숲 등 3개 공원에서 ‘조각도시 서울’ 민간협력전시 개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457740",
