@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-05-13 07:51",
-  "total": 2022,
-  "new_today": 14,
+  "updated_at": "2026-05-14 07:54",
+  "total": 2030,
+  "new_today": 8,
   "items": [
+    {
+      "title": "서울시, 자치구 '정비사업 실행력·공정관리' 직접 챙긴다…주택공급 속도전 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457891",
+      "dept": "주거정비과",
+      "category": "주택",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "텀블러에 담아 하루 종일 마셔도 ‘세균 불검출’… 여름철 아리수 안전성 입증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457890",
+      "dept": "서울아리수본부",
+      "category": "안전",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "폭염 취약계층 지원, AI 침수예측… 서울시, 10월까지 '여름철 종합대책' 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457859",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "한강 위 대형 ‘해치’가 뜬다! ‘쉬엄쉬엄 한강 3종 축제’ 체험 프로그램 예약 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457858",
+      "dept": "체육진흥과",
+      "category": "문화",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "무심코 지나쳤던 곤충이 예술로 재탄생…‘곤충도감’ 전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457857",
+      "dept": "총무과",
+      "category": "문화",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "서울시, 역학조사 전문역량 업그레이드… '신생아 감염지킴 현장교육' 첫 도입",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457855",
+      "dept": "감염병관리과",
+      "category": "행정",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "다문화가족의 꿈도 지원합니다…서울시-이디야커피와 「나도 바리스타!」 사업 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457854",
+      "dept": "다문화담당관",
+      "category": "문화",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "압구정·청담 일대 도시·건축 혁신 본격화… 글로벌 도시 경쟁력 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457853",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-05-13"
+    },
     {
       "title": "'2026 연등회' 16~17일 개최…종로 일대 단계별 교통 통제",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457819",
