@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-05-14 07:54",
-  "total": 2030,
-  "new_today": 8,
+  "updated_at": "2026-05-15 07:46",
+  "total": 2042,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울미래인재재단, 해외 교환학생 대학생 60명에 1인 최대 550만 원 장학금 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457979",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "서울생활사박물관, 시대를 품은 청춘의 기억 〈대학에서 우리는〉 기획전 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457978",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "서울시, 21시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458024",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "서울시, 14일 18시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458008",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "(보도참고자료) 한강공원 내 무단 불법 행사(서울한강울트라마라톤) 개최에 대한 서울시 미래한강본부 입장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457975",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "교육복지플랫폼 '서울런' 4만 명 돌파… 학습 기회, AI역량·진로지원 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457926",
+      "dept": "교육지원정책과",
+      "category": "복지",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "서울시 지방선거 앞두고 불법현수막 집중 점검·정비…시민 안전 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457925",
+      "dept": "도시경관담당관",
+      "category": "안전",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "서울청년이 재해석한 로컬의 맛, 전국 신세계백화점에 뜬다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457924",
+      "dept": "대외협력과",
+      "category": "복지",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "AI 시대에도 살아남는 '손끝 기술'…서울명장 현장서 이어지는 숙련의 가치",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457923",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "서울숲에서 선비·아씨와 떠나는 K-가든 투어! 서울시, 외국인 대상 이색 도슨트",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457922",
+      "dept": "공원여가사업과",
+      "category": "환경",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "제8차 도시건축공동위원회 및 제3차 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457921",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-05-14"
+    },
+    {
+      "title": "제4차 도시재정비위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457920",
+      "dept": "재정비촉진과",
+      "category": "행정",
+      "date": "2026-05-14"
+    },
     {
       "title": "서울시, 자치구 '정비사업 실행력·공정관리' 직접 챙긴다…주택공급 속도전 총력",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457891",
