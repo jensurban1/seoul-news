@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-05-15 07:46",
-  "total": 2042,
-  "new_today": 12,
+  "updated_at": "2026-05-16 07:41",
+  "total": 2045,
+  "new_today": 3,
   "items": [
+    {
+      "title": "서울시, 17시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458090",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "서울시, 15일 14시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458063",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "제7차 도시계획위원회 신속통합기획 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/457992",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-05-15"
+    },
     {
       "title": "서울미래인재재단, 해외 교환학생 대학생 60명에 1인 최대 550만 원 장학금 지원",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/457979",
