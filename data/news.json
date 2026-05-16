@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-05-16 07:41",
-  "total": 2045,
+  "updated_at": "2026-05-17 07:33",
+  "total": 2048,
   "new_today": 3,
   "items": [
+    {
+      "title": "서울시, 17시 기준 오존 주의보 해제 (서울권역)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458113",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-16"
+    },
+    {
+      "title": "서울시, 15시 기준 오존 주의보 해제 (서울권역)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458112",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-16"
+    },
+    {
+      "title": "서울시 16일 14시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458107",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-16"
+    },
     {
       "title": "서울시, 17시 기준 오존 주의보 해제",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458090",
