@@ -1,8 +1,148 @@
 {
-  "updated_at": "2026-05-18 07:40",
-  "total": 2049,
-  "new_today": 1,
+  "updated_at": "2026-05-19 07:45",
+  "total": 2072,
+  "new_today": 23,
   "items": [
+    {
+      "title": "서울시장 권한대행 사후동정 - 김성보 서울시장 권한대행, 18일(월) 서울숲 한강버스 선착장 사전점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458207",
+      "dept": "언론담당관",
+      "category": "교통",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시장 권한대행 사후동정 - 김성보 서울시장 권한대행, 18일(월) 이동노동자쉼터·쪽방촌 찾아 폭염 대응 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458200",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시, 16시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458199",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시장 권한대행 사후동정 - 김성보 서울시장 권한대행, 18일(월) 풍수해 대비 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458186",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시 정무부시장 사후동정 - 박찬구 서울시 정무부시장, ‘5·18민주화운동 제46주년 서울기념식’ 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458178",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "(보도참고자료)서울시  GTX-A 삼성역 기둥 주철근 누락사항을 국가철도공단에 3차례 공문으로 제출 관련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458176",
+      "dept": "도시기반시설본부",
+      "category": "교통",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시, 카페에서 개인 컵 사용 시 500원 이상 할인 혜택",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458156",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시, 멧돼지 도심 출몰 차단 총력… 개체수·이동경로 관리 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458155",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시, 8개국에 '아리수' 기술전수…132억 원 해외 수도시설 개선 성과 잇는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458154",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시립미술관, 한국 추상미술의 거장 유영국  역대 최대 회고전 《유영국: 산은 내 안에 있다》",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458153",
+      "dept": "시립미술관",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "韓 제네바 협약 가입 60주년 기념 전시,『전쟁에도 선은 있다』개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458152",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울 시민이 뽑은 건축디자인 30선 한눈에…'2025 우수디자인 작품집' 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458151",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "'줄줄 새는 비용 잡는다'… 서울시, 외식업 사장님 150곳 경영혁신 컨설팅",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458150",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울특별시 자치법규 제·개정 공포",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458149",
+      "dept": "법무담당관",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울시, 무형유산 전승활동에 실질 지원 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458148",
+      "dept": "문화유산보존과",
+      "category": "행정",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "서울사랑상품권으로 알뜰하게! 「서울배달+땡겨요」주문 시 최대 40% 할인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458147",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "서울시, 주거용 비닐하우스 전수점검…화재안전 사각지대 줄인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458146",
+      "dept": "예방과",
+      "category": "안전",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "서울시, '무박 3일' 게임 개발 챌린지…출시 목표 인디게임 만든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458145",
+      "dept": "창조산업과",
+      "category": "행정",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "서울 硏,‘서울시 ESG 정책 가치확산을 위한 전략 포럼’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458144",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "결혼식 비디오부터 가족 카세트까지… 시민 추억 디지털로 되살린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458143",
+      "dept": "서울기록원",
+      "category": "행정",
+      "date": "2026-05-17"
+    },
     {
       "title": "김성보 서울시장 권한대행, 16일(토) 영동대로 지하공간 복합개발 현장 점검",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458123",
@@ -30,6 +170,27 @@
       "dept": "보건환경연구원",
       "category": "행정",
       "date": "2026-05-16"
+    },
+    {
+      "title": "서울시, 광진·중랑 모아타운 3곳 심의 통과…노후 주거지 정비에 지역 상생 더한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458142",
+      "dept": "전략주택공급과",
+      "category": "행정",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "서울시, 07년생 성년 축하…전통복식 패션쇼·공연·8개국 성년문화 체험 등 한자리에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458141",
+      "dept": "청소년정책과",
+      "category": "문화",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "‘우리 기관, AI 잘 쓰고 있나’ 서울AI재단, 영국 케임브리지大 협력 기반 공공부문 AI 현황진단 개발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458140",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-05-15"
     },
     {
       "title": "서울시, 17시 기준 오존 주의보 해제",
