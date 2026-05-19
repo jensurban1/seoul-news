@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-05-19 07:45",
-  "total": 2072,
-  "new_today": 23,
+  "updated_at": "2026-05-20 07:55",
+  "total": 2084,
+  "new_today": 12,
   "items": [
+    {
+      "title": "마곡지구 출퇴근길 한결 빨라졌다…서울시, 강서로 직진차로 추가 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458278",
+      "dept": "교통운영과",
+      "category": "행정",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "서울시, 첫 ‘서울디자인상(Seoul Design Honors)’ 후보자 모집…디자인으로 서울의 미래 이끈 주역 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458272",
+      "dept": "디자인산업담당관",
+      "category": "행정",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "서울시 조경석 석면 노출 막는다…경제성·안정성 높인 안정화제 특허 기술 등록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458271",
+      "dept": "보건환경연구원",
+      "category": "경제",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "월드컵공원, 숲길과 정원 더해 경관품은 힐링명소로 새 단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458275",
+      "dept": "정원도시정책과",
+      "category": "문화",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "'서울, 세계인 축제의 장으로'… 서울스프링페스티벌, 706만명 즐겨",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458237",
+      "dept": "관광정책과",
+      "category": "문화",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "서울시, 청년 '임차보증금 이자지원' 문턱 낮춘다… 소득기준 완화·서류 간소화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458236",
+      "dept": "주택정책과",
+      "category": "복지",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "서울시, 결식아동 '꿈나무카드' 온라인 이용 확대…샐러드·밀키트 등 집으로 배송",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458235",
+      "dept": "아동담당관",
+      "category": "복지",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "서울시, 아동·청소년 밀집지역 불법 수입식품 판매 13곳 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458234",
+      "dept": "안전수사과",
+      "category": "복지",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "응답하라 X세대, 서울역사박물관 시민 기증 캠페인 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458232",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "산모부담 확 낮춘 '서울형 안심 산후조리원' 4곳…내달 8일부터 본격 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458231",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "서울시, 의사소통 어려움 있는 장애인 위해 서포터 양성…의사소통 권리↑",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458229",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "서울시, \"6월 1일까지 개인지방소득세 신고·납부 하세요\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458228",
+      "dept": "세무과",
+      "category": "행정",
+      "date": "2026-05-19"
+    },
     {
       "title": "서울시장 권한대행 사후동정 - 김성보 서울시장 권한대행, 18일(월) 서울숲 한강버스 선착장 사전점검",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458207",
