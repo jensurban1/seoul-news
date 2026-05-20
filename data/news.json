@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-05-20 07:55",
-  "total": 2084,
-  "new_today": 12,
+  "updated_at": "2026-05-21 08:02",
+  "total": 2095,
+  "new_today": 11,
   "items": [
+    {
+      "title": "‘미디어아트 서울’, 5개소 플랫폼 봄전시로 야외미술관 확장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458354",
+      "dept": "도시경관담당관",
+      "category": "문화",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "서울시, 보라매공원에 현대엔지니어링과 2호 꿀벌 서식지 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458353",
+      "dept": "공원여가사업과",
+      "category": "문화",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "서울시복지재단, 고대 안암병원과 함께 청년건강자립 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458352",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-05-21"
+    },
+    {
+      "title": "콜롬비아 매체 레드마스, '감사의 정원, 감사와 국제 연대 상징 공간' 호평",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458327",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "(대변인 입장문) GTX-A 노선 삼성역 구간 공사와 관련 서울시 입장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458326",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "개막 20일차 250만명 넘은 서울국제정원박람회… 성수 상권 매출 30% 급증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458311",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "서울시, 광장시장 '위생·상거래·안전' 종합점검 실시… 신뢰 회복 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458310",
+      "dept": "상권활성화과",
+      "category": "안전",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "서울시, 발달장애인부터 노년층까지 실생활 경제교육 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458309",
+      "dept": "경제정책과",
+      "category": "복지",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "서울시, '사각지대' 무인점포까지 선제적 발굴·관리…\"먹거리 안전 최우선\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458308",
+      "dept": "식품정책과",
+      "category": "안전",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "서울시, 몽골 도시개발 실무자 초청연수 성공적 마무리…“서울형 도시정책 해외 확산”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458307",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "한강버스 누적 탑승객 30만 명 돌파… 전 구간 재운항 후 증가세 뚜렷",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458306",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-05-20"
+    },
     {
       "title": "마곡지구 출퇴근길 한결 빨라졌다…서울시, 강서로 직진차로 추가 확대",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458278",
