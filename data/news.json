@@ -1,8 +1,43 @@
 {
-  "updated_at": "2026-05-22 07:56",
-  "total": 2105,
-  "new_today": 10,
+  "updated_at": "2026-05-23 07:45",
+  "total": 2110,
+  "new_today": 5,
   "items": [
+    {
+      "title": "5대 권역 시민 생활권을 예술매력으로 물들이다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458444",
+      "dept": "서울문화재단",
+      "category": "문화",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "신나는 물보라, 빛나는 여름밤! ‘제8회 노을 별빛캠핑’ 참여자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458443",
+      "dept": "서부공원여가센터",
+      "category": "행정",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "“에어컨 더 세게 안 틀어요?”…서울지하철 냉방은 자동 조절 중입니다!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458442",
+      "dept": "서울교통공사",
+      "category": "교통",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "서울대공원, 30일부터 동화같은 장미원 축제 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458441",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "제9차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458440",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-05-22"
+    },
     {
       "title": "3월 아파트 매매 실거래가격 하락(-0.28%) 전환...전세는 상승세(1.36%) 확대",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458419",
