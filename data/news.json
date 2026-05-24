@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-05-24 07:40",
-  "total": 2110,
-  "new_today": 0,
+  "updated_at": "2026-05-25 07:44",
+  "total": 2117,
+  "new_today": 7,
   "items": [
+    {
+      "title": "광화문광장, BTS·감사의 정원 영향 전년 대비 방문객 2배 가까이 급증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458538",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "40년만에 열린 서울광장 지하공간… K콘텐츠 체험 플랫폼으로 재탄생",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458481",
+      "dept": "도시활력담당관",
+      "category": "행정",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "서울시, 5~6월 하천·계곡 불법시설 특별신고 기간 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458480",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "서울시, 글로벌 산업용 AI 기업 '코그나이트' 유치…서울 제조업 AI 전환 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458479",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "서울시, 따뜻한 동행 실천한 주인공 찾는다…복지상 후보자 공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458478",
+      "dept": "복지정책과",
+      "category": "복지",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "\"과일이 좋아졌어요!\"…서울시, '얘들아 과일 먹자' 2030년까지 이어간다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458477",
+      "dept": "식품정책과",
+      "category": "행정",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "서울시, 정보화사업 21단계 절차, AI로 안내한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458476",
+      "dept": "정보시스템과",
+      "category": "행정",
+      "date": "2026-05-24"
+    },
     {
       "title": "5대 권역 시민 생활권을 예술매력으로 물들이다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458444",
