@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-05-25 07:44",
-  "total": 2117,
-  "new_today": 7,
+  "updated_at": "2026-05-26 07:49",
+  "total": 2128,
+  "new_today": 11,
   "items": [
+    {
+      "title": "서울시, '서울색' 담은 협업 굿즈 출시…리빙·패션잡화·문구까지 모닝옐로우 확산",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458503",
+      "dept": "디자인정책담당관",
+      "category": "행정",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "장마철 땅꺼짐 위험 없도록… 서울시, 6월 굴착공사장 32곳 특별안전점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458502",
+      "dept": "지하안전과",
+      "category": "안전",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "서울시, AI 인재 조기 양성 나선다…서울런 초·중학생 100명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458501",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "월드컵공원,선유도공원,보라매공원에서 다채로운 정원 프로그램 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458500",
+      "dept": "서부공원여가센터",
+      "category": "문화",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "(보도참고자료) 영동대로 복합개발사업 건설공사 관련 서울시 입장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458565",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "시민이 선택한 최고의 건축디자인 '노들 글로벌 예술섬'… 디자인·환경 모두 만족",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458499",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "서울시, 혜택은 있는데 이용이 어려운 생활 속 ‘문턱 규제’ 5건 걷어낸다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458498",
+      "dept": "규제개선담당관",
+      "category": "행정",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "'마스크팩' 흥행 '토너 패드'로 잇는다…해치×메디힐, K-뷰티 한정판 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458497",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "서울시, 청년이 오래 일하고 싶은 '서울형 강소기업' 50곳 신규 인증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458494",
+      "dept": "일자리정책과",
+      "category": "복지",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "'3.3% 정산부터 계약서 검토까지'… 서울시, 프리랜서 무료 상담 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458493",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-05-25"
+    },
+    {
+      "title": "서울시, 관악산 인파 안전관리 및 산림보호 합동 캠페인 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458492",
+      "dept": "자연생태과",
+      "category": "안전",
+      "date": "2026-05-25"
+    },
     {
       "title": "광화문광장, BTS·감사의 정원 영향 전년 대비 방문객 2배 가까이 급증",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458538",
