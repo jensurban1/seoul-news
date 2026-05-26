@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-05-26 07:49",
-  "total": 2128,
+  "updated_at": "2026-05-27 07:58",
+  "total": 2139,
   "new_today": 11,
   "items": [
+    {
+      "title": "서울시, 부동산 불법행위 집중 점검…공인중개사 위법행위 782건 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458618",
+      "dept": "토지관리과",
+      "category": "주택",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "서울시, K-뷰티 미래 이끌 유망 스타트업 발굴…2026 뷰티위크 피칭대회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458615",
+      "dept": "뷰티패션산업과",
+      "category": "경제",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "서울 도시 브랜드, 소상공인 굿즈 산업으로 확장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458614",
+      "dept": "서울디자인재단",
+      "category": "경제",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "(보도참고자료) 서소문 고가차도 사고 관련 버스 집중배차 안내",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458628",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "(보도참고자료) 서울시, 서소문고가 철거현장 무너짐 사고 관련 수습·안전조치에 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458625",
+      "dept": "도시기반시설본부",
+      "category": "안전",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "“여름 문화생활도 서울청년문화패스·공연봄날로 부담 없이”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458581",
+      "dept": "문화정책과",
+      "category": "복지",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "‘중동발 경제위기 대응’ 서울시, 골목형상점가 육성 2년차 사업 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458580",
+      "dept": "상권활성화과",
+      "category": "경제",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "‘서울 청년 성장 사다리’, 청년수당 6천 명 추가 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458579",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "서울시, 해외 스타트업 유치 확대…'2026 서울 유니콘 챌린지' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458578",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "작업자·시민 안전 함께 지킨다…서울시, 상수도 공사에 굴착기 스마트 안전존 첫 도입",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458577",
+      "dept": "서울아리수본부",
+      "category": "안전",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "서울시-국민권익위 협업‘병역명문가 전국 예우 확대’…거주지 제한 없는 공공혜택 마련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458504",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-05-26"
+    },
     {
       "title": "서울시, '서울색' 담은 협업 굿즈 출시…리빙·패션잡화·문구까지 모닝옐로우 확산",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458503",
