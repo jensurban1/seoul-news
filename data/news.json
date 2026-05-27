@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-05-27 07:58",
-  "total": 2139,
-  "new_today": 11,
+  "updated_at": "2026-05-28 08:06",
+  "total": 2147,
+  "new_today": 8,
   "items": [
+    {
+      "title": "서울시, 해외직구 어린이 우양산·우비 안전성 검사… 32개 중 10개 '부적합'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458681",
+      "dept": "공정경제과",
+      "category": "안전",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "“서울의 정책 공유 요청에 응답한다”…세계은행 등 협력 통해 우수정책 확산",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458679",
+      "dept": "국제협력담당관",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "‘해'를 보며 외로움 해소하는 365 서울챌린지, 6월 4일 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458647",
+      "dept": "고독대응과",
+      "category": "행정",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "‘대학생들의 시정 참여가 경력으로’ 서울시, 청년 파트너스 3차 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458646",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "서울시, 상암 DMC 교육·첨단·홍보관 용지 2차 공고…용도 유연화·개발기한 완화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458645",
+      "dept": "산업입지과",
+      "category": "행정",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "서울역사박물관·서울도서관, 청각장애인과 가족 위한 ＜느낌 있는 박물관＞ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458644",
+      "dept": "서울역사박물관",
+      "category": "복지",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "여의도·군자·방배 일대, 업무·관광·주거 개발 본격화…미래도시 경쟁력 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458642",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-05-27"
+    },
+    {
+      "title": "서울시, 대용량 유압배수차 · AI신고시스템… 풍수해 '긴급구조 대응체계' 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458619",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-05-27"
+    },
     {
       "title": "서울시, 부동산 불법행위 집중 점검…공인중개사 위법행위 782건 적발",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458618",
