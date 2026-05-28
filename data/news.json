@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-05-28 08:06",
-  "total": 2147,
-  "new_today": 8,
+  "updated_at": "2026-05-29 08:05",
+  "total": 2161,
+  "new_today": 14,
   "items": [
+    {
+      "title": "서울시, 서울런 중학생에 1:1 독서멘토링 첫 도입…문해력 진단부터 토론까지 맞춤 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458766",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "서울AI재단, 글로벌 AI 협력 이끈다…  중국 쓰촨성·세르비아 과학기술개발혁신부 고위급 잇따라 서울 찾아",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458763",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "스스로 손 내밀기 어려운 가족돌봄청소년·청년, 자치구에서 밀착 발굴 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458762",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "2호선 홍대입구역~을지로입구역 구간 첫 차부터 06시 30분까지 운행 중지 예정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458796",
+      "dept": "서울교통공사",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "2호선 홍대입구역~을지로입구역 구간, 서소문 고가 잔여 구조물 철거 영향으로 오늘 막차 1시간 조기 종료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458794",
+      "dept": "서울교통공사",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "서울시, 서소문고가 철거 29일(금) 0시∼30일(토) 05시까지 완료, 서소문로 통행·경의선 첫차 운행 목표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458788",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "서울시장 사후동정 - 김성보 서울시장 권한대행, 28일(목) 지방선거 사전투표소 현장점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458761",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "국토부·서울시·국가철도공단, 5.28. GTX 삼성역 보강방안 적정성 용역 착수보고회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458730",
+      "dept": "도시기반시설본부",
+      "category": "교통",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "냉방 에어돔·그늘막 등… 서울시, 올여름 폭염저감시설 확대해 도심 온도 낮춘다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458726",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "서울시, 비역세권에 ‘서울형 新 생활거점’ 만든다 … 「성장잠재권 활성화사업」 본격 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458724",
+      "dept": "도시공간전략과",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "'서울을 혁신기술 실험장으로'…서울시, '테스트베드서울'로 글로벌 실증 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458722",
+      "dept": "경제정책과",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "봄학기 경쟁률 5.5:1 폭발적 호응…서영커 1단계 캠프 여름학기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458720",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "제9차 도시건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458719",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "서울시, 축구장 4배 면적 쿨루프 집중 시공…냉방비 26% 줄인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458715",
+      "dept": "친환경건물과",
+      "category": "행정",
+      "date": "2026-05-28"
+    },
     {
       "title": "서울시, 해외직구 어린이 우양산·우비 안전성 검사… 32개 중 10개 '부적합'",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458681",
