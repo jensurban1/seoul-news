@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-05-29 08:05",
-  "total": 2161,
-  "new_today": 14,
+  "updated_at": "2026-05-30 08:01",
+  "total": 2169,
+  "new_today": 8,
   "items": [
+    {
+      "title": "서울시장 권한대행 사후동정 - 김성보 서울시장 권한대행, 29일(금) 서소문고가 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458853",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "서울시, 해체·굴토 등 건설공사장 위험공정 특별점검… 고가·교량 정밀안전점검도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458838",
+      "dept": "중대재해예방과",
+      "category": "안전",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "서울시, 집비둘기 먹이주기 금지구역 6월 집중 단속 및 과태료 부과 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458807",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "“서울은 저에게 제2의 고향이죠”… 2026 서울시 외국인 명예시민 후보자 추천접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458806",
+      "dept": "도시외교담당관",
+      "category": "행정",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "서울역사박물관, 시니어 대상 ‘내 인생의 18번, 시대의 명곡이 되다!’ 신규 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458805",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "플랫폼 기반 관광·숙박 창업 시대…공유숙박 호스트 양성 교육과정 3차년도 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458804",
+      "dept": "서울시 여성가족재단",
+      "category": "경제",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "제10차 정비사업통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458803",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "2호선 홍대입구역~을지로입구역 구간 지하 터널 안전점검 완료…전 구간 정상운행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458802",
+      "dept": "서울교통공사",
+      "category": "안전",
+      "date": "2026-05-29"
+    },
     {
       "title": "서울시, 서울런 중학생에 1:1 독서멘토링 첫 도입…문해력 진단부터 토론까지 맞춤 지원",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458766",
