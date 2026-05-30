@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-05-30 08:01",
-  "total": 2169,
-  "new_today": 8,
+  "updated_at": "2026-05-31 07:44",
+  "total": 2171,
+  "new_today": 2,
   "items": [
+    {
+      "title": "서울시, 15시 기준 오존 주의보 해제(서울권역)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458890",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-30"
+    },
+    {
+      "title": "서울시, 30일 13시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458889",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-05-30"
+    },
     {
       "title": "서울시장 권한대행 사후동정 - 김성보 서울시장 권한대행, 29일(금) 서소문고가 현장 점검",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458853",
