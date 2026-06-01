@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-06-01 07:45",
-  "total": 2177,
-  "new_today": 6,
+  "updated_at": "2026-06-02 08:20",
+  "total": 2185,
+  "new_today": 8,
   "items": [
+    {
+      "title": "DDP 둘레길을 수놓은 ‘디자인서울 산책’…서울 디자인, 걷고 즐기며 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458950",
+      "dept": "디자인정책담당관",
+      "category": "행정",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "폭염 견디는 채소 키운다… 서울시, 기후 위기 대응형 도시농업 품종 개발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458949",
+      "dept": "농업기술센터",
+      "category": "환경",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "붉은 꽃 물결 속 힐링 산책... 서울대공원 호숫가둘레길 새단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458948",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "\"한번 타면 또 탄다\"… 한강버스 5월 이용객 9만 명 돌파, 지속 증가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458930",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "'서울시민 24시간 길잡이'… 120다산콜, KSQI 우수콜센터 3년 연속 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458920",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "서울시, 한강변 광나루역 인근… 국내 최초 ‘하이브리드 목구조 다목적 국제경기장’ 짓는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458919",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "전통시장도 내비찍고 간다…서울시, 전통시장 6곳 입체주소 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458918",
+      "dept": "공간정보과",
+      "category": "행정",
+      "date": "2026-06-01"
+    },
+    {
+      "title": "중고등학생 경제이해력 60점 이하…서울시·카카오뱅크·넥슨, 청소년 금융역량 강화 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458870",
+      "dept": "청소년정책과",
+      "category": "경제",
+      "date": "2026-06-01"
+    },
     {
       "title": "서울시, K-뷰티 유망 스타트업 발굴…글로벌 투자·시장진출 지원",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458869",
