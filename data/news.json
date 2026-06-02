@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-06-02 08:20",
-  "total": 2185,
-  "new_today": 8,
+  "updated_at": "2026-06-03 08:24",
+  "total": 2192,
+  "new_today": 7,
   "items": [
+    {
+      "title": "서울시, 17시 기준 오존 주의보 해제(서울권역)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459040",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "서울시, 2일 14시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459014",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "(보도참고자료) 서울시, 여의도샛강생태공원 건물인도 소송 승소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458999",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "기록 경쟁 없는 힐링 레이스, '쉬엄쉬엄 한강 3종 축제' 6월 5일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458980",
+      "dept": "체육진흥과",
+      "category": "문화",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "서울새활용플라자, 버려진 소재 살리는 '새활용 창업가' 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458979",
+      "dept": "서울디자인재단",
+      "category": "경제",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "AI 시대, 새로운 격차에 답하다 … 서울AI재단, 연세대와 손잡고‘서울시 AI 격차 인덱스’연구 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458978",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "한성백제박물관, 고대 기록 ‘한원(翰苑)’ 속 백제 이야기 선보인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/458976",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-06-02"
+    },
     {
       "title": "DDP 둘레길을 수놓은 ‘디자인서울 산책’…서울 디자인, 걷고 즐기며 만나보세요",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/458950",
