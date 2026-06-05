@@ -1,8 +1,43 @@
 {
-  "updated_at": "2026-06-05 07:59",
-  "total": 2206,
-  "new_today": 6,
+  "updated_at": "2026-06-06 07:54",
+  "total": 2211,
+  "new_today": 5,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 5일(금) 오세훈 시장, 쉬엄쉬엄 한강 3종 축제 개막행사 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459239",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "“초록빛 한강에서 환경 미션 완수해볼까?”…서울시,「GREEN 한강」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459162",
+      "dept": "미래한강본부",
+      "category": "환경",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "서울시, 국제교육도시연합 집행위원회 도시 선출…글로벌 평생학습도시 도약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459161",
+      "dept": "평생교육과",
+      "category": "행정",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "“스마트 도로관리 본격화” 서울시설공단 데이터기반 도로관리시스템 핵심기술 특허출원 성과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459160",
+      "dept": "서울시설공단",
+      "category": "교통",
+      "date": "2026-06-05"
+    },
+    {
+      "title": "제11차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459159",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-06-05"
+    },
     {
       "title": "한강버스 타고 '국정박' 간다… 서울숲 선착장 8일부터 운영 시작",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459126",
