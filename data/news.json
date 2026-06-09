@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-06-09 08:05",
-  "total": 2233,
-  "new_today": 9,
+  "updated_at": "2026-06-10 08:07",
+  "total": 2244,
+  "new_today": 11,
   "items": [
+    {
+      "title": "‘한강의 여름, 월드컵으로 달아오른다’… 태극전사 응원은 한강플플에서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459409",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "서울시, K-푸드의 미래 '그린바이오' 키운다…서울먹거리창업센터 입주기업 15개사 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459408",
+      "dept": "농수산유통과",
+      "category": "경제",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "서울시, 전국 지자체 최초 염소고기 유전자 검사 활용… 원산지 표시 특별단속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459407",
+      "dept": "안전수사과",
+      "category": "행정",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "창작부터 홍보까지 문화예술 현장에 스며드는 AI …서울AI디지털배움터, 문화예술인 맞춤 교육 개설",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459404",
+      "dept": "서울AI재단",
+      "category": "문화",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "서울금융복지상담센터-남서울대학교, 금융취약청년 지원 위해 협약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459403",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "서울런으로 월 구독료 부담 없이 챗GPT·클로드 쓴다…회원 1천 명에 유료 AI 9종 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459370",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "서울시, '안심고시원' 2단계 인증 도입… 지원 문턱 낮추고 혜택 늘린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459369",
+      "dept": "건축기획관",
+      "category": "행정",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "올여름 더 강한 찜통·불볕더위 예고…서울시, 아리수 수질관리·시민보호 총력 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459368",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "서울에서 만나는 지역의 맛…로컬 미식 팝업 ‘로컬트립 맛;잇다’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459367",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "헝가리 디자인 만난 영아 전용 키즈카페, 한성백제박물관에 정식 개관",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459366",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-06-09"
+    },
+    {
+      "title": "제5차 도시재정비위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459365",
+      "dept": "재정비촉진과",
+      "category": "행정",
+      "date": "2026-06-09"
+    },
     {
       "title": "서울시, 9일 톨게이트 불시 단속... 얌체 체납차량 번호판 뗀다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459331",
