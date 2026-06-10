@@ -1,8 +1,50 @@
 {
-  "updated_at": "2026-06-10 08:07",
-  "total": 2244,
-  "new_today": 11,
+  "updated_at": "2026-06-11 08:16",
+  "total": 2250,
+  "new_today": 6,
   "items": [
+    {
+      "title": "5월 다주택자 양도세 중과유예 종료 후 토허 신청 감소, 가격 상승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459487",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "서울시보건환경연구원·한국환경분석학회, ‘과불화화합물(PFAS)의 현재와 미래’ 공동 심포지엄 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459486",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "서울시, 셀트리온·대원제약과 손잡고 '글로벌 바이오 스타트업' 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459459",
+      "dept": "첨단산업과",
+      "category": "경제",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "서울시, 2026 북중미 월드컵 광화문광장 경기응원 대중교통 이용 및 폭염 피해 예방 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459436",
+      "dept": "체육정책과",
+      "category": "교통",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "서울야외도서관, 이제 전자책으로도 즐긴다…서울시, 예스24와 위치 기반 전자책 서비스 시범 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459435",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-06-10"
+    },
+    {
+      "title": "서울시, 저층주거지 정비부터 역세권 주택공급까지... 도시공간 혁신 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459434",
+      "dept": "건축기획과",
+      "category": "주택",
+      "date": "2026-06-10"
+    },
     {
       "title": "‘한강의 여름, 월드컵으로 달아오른다’… 태극전사 응원은 한강플플에서",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459409",
