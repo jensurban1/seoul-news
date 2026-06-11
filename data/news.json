@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-06-11 08:16",
-  "total": 2250,
-  "new_today": 6,
+  "updated_at": "2026-06-12 08:12",
+  "total": 2265,
+  "new_today": 15,
   "items": [
+    {
+      "title": "서울 지하철, 한 명 태울 때마다 781원 손실…무임수송 등 원인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459570",
+      "dept": "서울교통공사",
+      "category": "교통",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "전화상담 원하지만 구독 서비스 42.1% 고객센터 없어… 서울시, 소비자 접근성 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459567",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "전화상담 원하지만 구독 서비스 42.1% 고객센터 없어… 서울시, 소비자 접근성 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459566",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "자전거 출·퇴근으로 탄소중립 실천…‘에너지·기부라이딩 시즌1’ 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459565",
+      "dept": "서울에너지공사",
+      "category": "환경",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "청계천의 따뜻한 이웃, 故 노무라 모토유키 목사 1주기… 청계천박물관 추모전 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459560",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "응원은 뜨겁게, 안전은 빈틈없이… 서울시, 월드컵 거리 응원 안전대책 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459584",
+      "dept": "체육정책과",
+      "category": "안전",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "(보도참고자료) 오 시장, \"과도한 정치공방으로 GTX-A 개통 일정 지연·재정부담 안타까워\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459580",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "한강버스 타고 떠나는 정원여행… 서울숲 선착장에 내리면 리버뷰가든, 서울국제정원박람회, 선형정원까지 한번에!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459513",
+      "dept": "조경과",
+      "category": "교통",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "DDP에서 만나는 기후테크의 현재와 미래…사전등록 19일까지, 밋업 상시 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459511",
+      "dept": "기후환경정책과",
+      "category": "환경",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "남산에서 즐기는 특별한 하루! 6월 27일 ‘남산 서머 페스티벌’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459510",
+      "dept": "공원여가사업과",
+      "category": "행정",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "서울시, '학습' 넘어 '경험'까지 지원…'서울런 동행멘토단' 7월  본격 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459509",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "''소액 피해도 포기하지 마세요''… 서울시, 소비자 '나홀로소송' 돕는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459508",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "제9차 서울특별시 도시계획위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459507",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "제10차 도시건축공동위원회 및 제4차 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459506",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-06-11"
+    },
     {
       "title": "5월 다주택자 양도세 중과유예 종료 후 토허 신청 감소, 가격 상승",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459487",
@@ -16,6 +114,13 @@
       "dept": "보건환경연구원",
       "category": "환경",
       "date": "2026-06-11"
+    },
+    {
+      "title": "서울시, 제3차 도시철도망 구축계획 수립…“주민 숙원 노선 반드시 완수”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459504",
+      "dept": "교통정책과",
+      "category": "교통",
+      "date": "2026-06-10"
     },
     {
       "title": "서울시, 셀트리온·대원제약과 손잡고 '글로벌 바이오 스타트업' 키운다",
