@@ -1,8 +1,50 @@
 {
-  "updated_at": "2026-06-12 08:12",
-  "total": 2265,
-  "new_today": 15,
+  "updated_at": "2026-06-13 08:05",
+  "total": 2271,
+  "new_today": 6,
   "items": [
+    {
+      "title": "서울런 지원대상 5만 명 늘린다…교육격차 해소 넘어 '계층이동 사다리'로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459613",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "'최고의 몬스터' 찾아 서울 상륙한 미니언즈 … 14일 잠수교 뚜벅뚜벅축제서 '해치' 만난다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459606",
+      "dept": "서울브랜드담당관",
+      "category": "문화",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "2026 서울국악축제 19일 개최…올해는 한강에서 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459605",
+      "dept": "문화예술과",
+      "category": "문화",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "''내가 만든 AI·로봇 직접 뽐낸다''…'2026 메이커 페어 서울' 참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459604",
+      "dept": "서울시립과학관",
+      "category": "행정",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "“경기장 인파부터 도로 결빙·산불까지”서울시설공단, AI로 시민 안전 지킨다!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459603",
+      "dept": "서울시설공단",
+      "category": "교통",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "조선시대 외교 의전은 어땠을까…서울역사중점연구 제20권 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459602",
+      "dept": "서울역사편찬원",
+      "category": "행정",
+      "date": "2026-06-12"
+    },
     {
       "title": "서울 지하철, 한 명 태울 때마다 781원 손실…무임수송 등 원인",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459570",
