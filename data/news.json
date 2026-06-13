@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-06-13 08:05",
-  "total": 2271,
-  "new_today": 6,
+  "updated_at": "2026-06-14 07:51",
+  "total": 2274,
+  "new_today": 3,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 13일(토) 서울시향 ‘강변음악회’ 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459688",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-06-13"
+    },
+    {
+      "title": "서울시, 20시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459687",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-13"
+    },
+    {
+      "title": "서울시, 13일 14시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459683",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-13"
+    },
     {
       "title": "서울런 지원대상 5만 명 늘린다…교육격차 해소 넘어 '계층이동 사다리'로",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459613",
