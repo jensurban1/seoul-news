@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-06-14 07:51",
-  "total": 2274,
-  "new_today": 3,
+  "updated_at": "2026-06-15 07:57",
+  "total": 2286,
+  "new_today": 12,
   "items": [
+    {
+      "title": "아리수 세계에 알리고 AI 혁신기술 확보 나선다…서울시, 싱가포르 국제 물 박람회 참가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459659",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "서울도서관, 2년 연속 서울국제도서전 참여…신한은행과 손잡고 ‘질문이 자산이 되는’ 독서 경험 제시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459658",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "서울시, 오는 10월까지 11개 유형 중증장애인 전수조사 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459657",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "서울시-국민연금공단, 영테크 통해 청년 금융 역량 쑥쑥",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459656",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "자동차세, 7월 3일까지 꼭 납부… 행정구역 개편으로 한시 연장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459655",
+      "dept": "세무과",
+      "category": "행정",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "화학물질 누출·폭발 사고 없도록… 서울시, 유해화학물질 취급시설 긴급안전점검 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459649",
+      "dept": "재난안전정책과",
+      "category": "안전",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "서울시, 사당역 중앙정류소에 맞춤형 횡단보도 신설…혼잡 줄고 이동 편해진다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459648",
+      "dept": "교통운영과",
+      "category": "행정",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "졸업 전 실무 경험을 쌓을 기회, 서영커 인턴십 ‘가을학기’ 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459647",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "서울시, 금융산업 디지털전환 이끌 실무인재 양성…핀테크 아카데미 80명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459646",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "서울 의료관광 176만 명 시대, 서비스 품질도 높인다…통역 코디네이터 역량 강화 교육 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459645",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "버려진 소재로 시민이 만든 작품, 서울의 전시 주인공 된다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459644",
+      "dept": "서울디자인재단",
+      "category": "문화",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "“낡은 기록 살리는 어린이들”…서울기록원 여름 체험교실 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459643",
+      "dept": "서울기록원",
+      "category": "행정",
+      "date": "2026-06-14"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 13일(토) 서울시향 ‘강변음악회’ 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459688",
