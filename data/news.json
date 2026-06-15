@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-06-15 07:57",
-  "total": 2286,
+  "updated_at": "2026-06-16 08:27",
+  "total": 2298,
   "new_today": 12,
   "items": [
+    {
+      "title": "서울에서 만나는 가장 가까운 로컬, 서울동행상회 재개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459755",
+      "dept": "대외협력과",
+      "category": "행정",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "'포트홀·침수 위험' 우리가 먼저 본다… 서울시, 배달라이더 안전지킴이 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459754",
+      "dept": "노동정책과",
+      "category": "안전",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "남산에서 게임 한판? 해치와 소울 프렌즈가 함께하는 게임 도전! 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459753",
+      "dept": "도시정비과",
+      "category": "행정",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "특별전 개최…사막·숲·바다를 따라 떠나는 지구 생명 여행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459752",
+      "dept": "서울시립과학관",
+      "category": "환경",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "서울시 사회복지시설 등 88개소 서울형 평가로 서비스 품질향상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459745",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-06-16"
+    },
+    {
+      "title": "서울시, 19시 기준 오존 주의보 해제 (서울권역)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459778",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "서울시, 15일 16시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459751",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "서울시, '재개발·재건축 속도 제고' 위한 10대 법령 개정안 정부 건의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459715",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "위기 소상공인 조기발굴부터 맞춤 지원까지… 서울시 소상공인 지원모델 전국 확산 첫 단추",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459714",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "평균 모집경쟁률 4대 1 유학생들에게 통했다…「30일간의 서울일주」 4기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459713",
+      "dept": "외국인이민담당관",
+      "category": "행정",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "‘정답 대신 나만의 방향 찾았다’ 서울시, 청년인생설계학교 2기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459712",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "주인공 찾는다…10개 분야 후보자 추천 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459711",
+      "dept": "문화정책과",
+      "category": "행정",
+      "date": "2026-06-15"
+    },
     {
       "title": "아리수 세계에 알리고 AI 혁신기술 확보 나선다…서울시, 싱가포르 국제 물 박람회 참가",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459659",
