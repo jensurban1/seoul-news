@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-06-17 08:15",
-  "total": 2309,
-  "new_today": 11,
+  "updated_at": "2026-06-18 08:13",
+  "total": 2322,
+  "new_today": 13,
   "items": [
+    {
+      "title": "[실거래가 월간보도] 4월 아파트 매매 실거래가격 상승(0.1%) 전환...전세는 1%대 상승 지속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459906",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "서울시민대학, 7~8월 계절학기 6월 23일 선착순 접수…110개 강좌 3,700여 명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459900",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "서울시, 개인회생 마친 청년 자립토대지원금 100만 원 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459899",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "서울미래인재재단, 첨단산업 인재 키운다…직업계고 80명에 2억 8천만 원 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459898",
+      "dept": "서울미래인재재단",
+      "category": "경제",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "서울시, 21시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459930",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "서울시, 17일 16시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459903",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "48일 만에 500만명… 서울국제정원박람회 역대 최단 기록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459874",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "“한강이 거대한 물놀이터로” 2026 물빛무대 워터 페스티벌 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459861",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "올여름 한강에서 가장 시원한 휴식…‘아리땁다, 아리수’ 팝업스토어 19일 오픈",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459860",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "서울시니어일자리지원센터 상반기 교육 막바지…어르신 취업 밀착 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459859",
+      "dept": "어르신복지과",
+      "category": "복지",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "'포기했던 학원비 돌려받았다' 서울시 민생경제안심센터, 시민 권리구제 돕는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459858",
+      "dept": "공정경제과",
+      "category": "경제",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "청년 AI 분석가 100팀 뜬다… 서울시, 골목상권 매출 살리기 프로젝트",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459857",
+      "dept": "데이터전략과",
+      "category": "복지",
+      "date": "2026-06-17"
+    },
+    {
+      "title": "서울發 기후동행카드, 정부 모두의카드와 통합…'기후동행카드 플러스' 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459855",
+      "dept": "교통정책과",
+      "category": "환경",
+      "date": "2026-06-17"
+    },
     {
       "title": "“당신의 1% 용기에 응답합니다” 서울시,『1%의 배터리, 120번의 노크』 공개",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459827",
