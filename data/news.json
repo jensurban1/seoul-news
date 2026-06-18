@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-06-18 08:13",
-  "total": 2322,
-  "new_today": 13,
+  "updated_at": "2026-06-19 08:26",
+  "total": 2334,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울투자진흥재단, 유럽 최대 테크행사서 서울포워드 개최…서울 투자매력 알렸다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460016",
+      "dept": "금융투자과",
+      "category": "문화",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "주택 정책도 K로 통한다…시-말레이시아 공공주택 정책 공유",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460015",
+      "dept": "도시외교담당관",
+      "category": "주택",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "서울시설공단, '집중호우·폭염 대비' 여름철 시민안전 종합대책 본격 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460014",
+      "dept": "서울시설공단",
+      "category": "안전",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 18일(목) 서울영커리언스 인턴십 현장소통 간담회 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460000",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "서울 동남권·서남권에 올여름 첫 폭염주의보… 지난해보다 12일 빨라",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459991",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "(보도참고자료) 서울시, MBC 허위·왜곡 보도 관련 6월 17일 서울서부지방법원에 소장 제출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459957",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "우리 동네 시장에서 장 보면 최대 3만 원 돌려받는다… 서울시,120곳서 페이백 행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459956",
+      "dept": "상권활성화과",
+      "category": "문화",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "서울시 소관 위원회 여성 참여율 전국 1위…증가율도 가장 커",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459955",
+      "dept": "양성평등담당관",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "‘서울 도심 속 워터파크’ 한강 수영장·물놀이장 19일(금) 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459953",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "\"방학에 대학 강의실서 AI·영어 배운다\"…서울런 여름 프로그램 19일부터 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459952",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "도심 속 장터 열린다… 서울역사박물관 ‘서역박 저잣거리’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459951",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "제10차 서울특별시 도시계획위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/459950",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-06-18"
+    },
     {
       "title": "[실거래가 월간보도] 4월 아파트 매매 실거래가격 상승(0.1%) 전환...전세는 1%대 상승 지속",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/459906",
