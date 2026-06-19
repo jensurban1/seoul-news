@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-06-19 08:26",
-  "total": 2334,
-  "new_today": 12,
+  "updated_at": "2026-06-20 07:41",
+  "total": 2343,
+  "new_today": 9,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.6.19. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460113",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "서울시, 16시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460099",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 19일(금) AI서울테크 연구지원사업 연구생 증서 수여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460088",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "서울시, 19일 15시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460083",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "서울시, 보조배터리 보관 파우치 화재 적응성 실험…시민안전 강화에 나서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460056",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "폭염에 에어컨 수리 늦고, 휴가철 숙소 환불 분쟁 늘고… 서울시 소비자 피해주의보",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460043",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "SF와 팬덤 문화로 만나는 새로운 세계…서울책보고·서울아트책보고 여름 기획전 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460042",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "청년은 스스로를, 실무자는 청년을 찾는 교육 - 서울시복지재단, 가족돌봄청년 당사자 역량과 실무자 감각 동시에 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460041",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "제12차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460040",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-06-19"
+    },
     {
       "title": "서울투자진흥재단, 유럽 최대 테크행사서 서울포워드 개최…서울 투자매력 알렸다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460016",
