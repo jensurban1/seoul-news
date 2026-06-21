@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-06-21 07:55",
-  "total": 2343,
-  "new_today": 0,
+  "updated_at": "2026-06-22 07:56",
+  "total": 2355,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울시,‘소공로 가변차로’44년 만에 폐지…보행·교통 안전 한층 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460153",
+      "dept": "도시기반시설본부",
+      "category": "교통",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "가맹점 수 늘고 매출도 상승… 서울시, '2025 가맹사업 등록현황' 발표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460152",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "묵묵히 봉사해 온 숨은 영웅들을 찾습니다…서울시 봉사상 후보 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460151",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "서울시, 공공건축 설계공모 백서「모두의 아이디어2」 출간…30개 공모·152개 작품 한눈에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460150",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "서울시민, '서양 고지도 속 독도' 배운다…서울시민대학 독도·고구려사 강좌 신설",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460149",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 21일(일) ‘한미우호 평화 컨퍼런스’ 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460148",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "서울 소상공인 상품 최대 20% 할인… G마켓·롯데ON에 전용관 문 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460114",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "‘8주 간의 압도적 재미와 감동’ 상반기 차 없는 잠수교 뚜벅뚜벅 축제, 117만 명 발걸음",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460110",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "서울시, 정비사업 '디지털 속도전' 나선다… 전자동의서·총회 전면 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460100",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "서울시, 취약계층 어르신 가구 대상 반려동물 맞춤 돌봄 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460098",
+      "dept": "동물보호과",
+      "category": "복지",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "서울시, 장애인 학대 예방 위해 경찰청·권익옹호기관과 맞손",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460094",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "서울시-홍익대학교 산학협력단-서울연구원, 도시침수 예·경보 기술 고도화 위한 업무협약 체결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460092",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-06-21"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.6.19. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460113",
