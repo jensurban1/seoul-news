@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-06-22 07:56",
-  "total": 2355,
-  "new_today": 12,
+  "updated_at": "2026-06-23 08:09",
+  "total": 2368,
+  "new_today": 13,
   "items": [
+    {
+      "title": "서울시 119구급대 심정지 회복률 13.4% 역대 최고치 …“AI 기반 앱 활용, 심혈관계 응급환자 대응 더 빠르게”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460200",
+      "dept": "재난대응과",
+      "category": "행정",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "서울시, 지방세입 체납관리단 292명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460199",
+      "dept": "38세금징수과",
+      "category": "행정",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "‘글로벌 톱3 문화도시’ 서울 도약 가속화…유럽 주요 도시와 문화외교 결실",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460198",
+      "dept": "서울문화재단",
+      "category": "문화",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "“재난구호 활동, 운동회로 즐겁게 배워요!” 서울시자원봉사센터 '재난 방재운동회' 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460196",
+      "dept": "서울시자원봉사센터",
+      "category": "안전",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "서울시, 전국 평생교육 협력 중심도시로 본격 행보…전국 시도진흥원협의회 연수 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460195",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "서울시-대한노인회 서울시연합회, 어르신 교통정책 공청회 공동개최…사회적 논의 본격 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460191",
+      "dept": "교통정책과",
+      "category": "교통",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "''빈틈없이 살핀다''… 오세훈 시장, 관악구 침수취약지역 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460189",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "서울시, 국장급 승진인사 단행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460177",
+      "dept": "인사과",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "생성형 AI 시대 개인정보 어떻게 지킬까…서울시 개인정보보호 포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460170",
+      "dept": "정보보안과",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "서울시, 헌신의 가치 되새기는 ‘호국보훈의 달 기념주간’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460169",
+      "dept": "복지정책과",
+      "category": "행정",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "서울시, 청년의 출발부터 시민의 일상까지…이용자 중심으로 제도 6건 개선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460168",
+      "dept": "규제개선담당관",
+      "category": "복지",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "횡성에 문 여는 서울시 최초 통합수장고…‘서울문화유산센터 횡성’ 개관 전 시민 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460167",
+      "dept": "박물관과",
+      "category": "문화",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "서울시, ‘건축안전세미나’개최…민간공사장 안전관리 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460165",
+      "dept": "건설기술정책관",
+      "category": "주택",
+      "date": "2026-06-22"
+    },
     {
       "title": "서울시,‘소공로 가변차로’44년 만에 폐지…보행·교통 안전 한층 강화",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460153",
