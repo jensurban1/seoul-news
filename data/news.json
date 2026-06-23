@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-06-23 08:09",
-  "total": 2368,
-  "new_today": 13,
+  "updated_at": "2026-06-24 07:56",
+  "total": 2378,
+  "new_today": 10,
   "items": [
+    {
+      "title": "서울영화센터, 미래 영화인 키운다…전국 23개 대학 참여 영화제 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460263",
+      "dept": "창조산업과",
+      "category": "행정",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "서울시, 우리은행과 청년의 자산형성 역량 함께 키운다…영테크 협력기관 10곳으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460261",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "“내가 낸 의견, 정책에 반영됐나”…서울시 엠보팅 전면 개편",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460260",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "백제 한성기 영역 어디까지였나…한성백제박물관 쟁점백제사 학술회의 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460259",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "“내가 받은 온기, 사회로…” 암 이겨낸 청년이 쏘아 올린 '자원봉사의 힘’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460257",
+      "dept": "서울시자원봉사센터",
+      "category": "복지",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "서울시, 의료용 마약류 특별점검…에토미데이트 취급기관 15곳 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460223",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "소비자·소상공인 무더위 날릴 시원한 혜택… 서울시, 7월 1일 배달상품권 109억 발행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460222",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "기후위기, AI에서 해법 찾는다…6월 25~26일 서울 기후테크 컨퍼런스 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460221",
+      "dept": "기후환경정책과",
+      "category": "환경",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "<한양가>부터 <무빙>까지…책 속 서울 따라 걷는 ‘서울문학기행’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460220",
+      "dept": "문화예술과",
+      "category": "행정",
+      "date": "2026-06-23"
+    },
+    {
+      "title": "시민 생활패턴 맞춘 서비스 개편 통했다…서울시 무료 수질검사 신청 두 배 가까이 늘어",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460219",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-06-23"
+    },
     {
       "title": "서울시 119구급대 심정지 회복률 13.4% 역대 최고치 …“AI 기반 앱 활용, 심혈관계 응급환자 대응 더 빠르게”",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460200",
