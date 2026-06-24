@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-06-24 07:56",
-  "total": 2378,
-  "new_today": 10,
+  "updated_at": "2026-06-25 07:57",
+  "total": 2390,
+  "new_today": 12,
   "items": [
+    {
+      "title": "외국인 창업가들에게 오아시스가 되어주는 창업이민종합지원시스템(OASIS), 제 2막 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460340",
+      "dept": "외국인이민담당관",
+      "category": "경제",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "해외 청년이 알리는 서울 문화…서울시, ‘글로벌 문화 특파원’ 첫 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460334",
+      "dept": "문화정책과",
+      "category": "복지",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "서울시, 잠실야구장 ‘노점단속 용역팀’ 쓰러진 70대 야구팬 구했다. 골든타임 지켜낸 미담 화제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460333",
+      "dept": "체육시설관리사업소",
+      "category": "행정",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "K-관광 열풍 타고 공유숙박 시장 성장…여성 대상 실전 창업 교육 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460331",
+      "dept": "서울시 여성가족재단",
+      "category": "경제",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "글로벌 마이스 도시 서울, 국제회의 개최 아시아 1위·세계 3위 기록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460307",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "남산에서 한국정원의 풍류를 즐기세요…'한국숲정원' 27일 개방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460302",
+      "dept": "자연생태과",
+      "category": "환경",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "서울시, 민선9기 ‘삶의 질 특별시’ 실현할 조직보강",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460301",
+      "dept": "조직담당관",
+      "category": "행정",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "취업·주거·안전까지 … 서울시 약자동행, 시민 삶의 변화를 만들다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460293",
+      "dept": "약자동행담당관",
+      "category": "안전",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "서울 유아 6,850명 분석해보니…비만예방엔 체력 향상 함께 가야",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460292",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "서울식물원, 기획전시 《다정한 균형: 서로를 비추는》 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460291",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "서울시, 왕십리 광역거점에 관광문화 복합공간 조성…호텔 242실 공급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460290",
+      "dept": "건축기획과",
+      "category": "문화",
+      "date": "2026-06-24"
+    },
     {
       "title": "서울영화센터, 미래 영화인 키운다…전국 23개 대학 참여 영화제 개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460263",
@@ -37,6 +114,13 @@
       "dept": "서울시자원봉사센터",
       "category": "복지",
       "date": "2026-06-24"
+    },
+    {
+      "title": "서울시, '6·25전쟁 기념식' 개최… 감사의 정원 첫 공식 행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460304",
+      "dept": "복지정책과",
+      "category": "문화",
+      "date": "2026-06-23"
     },
     {
       "title": "서울시, 의료용 마약류 특별점검…에토미데이트 취급기관 15곳 적발",
