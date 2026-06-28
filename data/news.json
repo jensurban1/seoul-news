@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-06-28 07:50",
-  "total": 2408,
-  "new_today": 0,
+  "updated_at": "2026-06-29 07:50",
+  "total": 2423,
+  "new_today": 15,
   "items": [
+    {
+      "title": "창업생태계 가치 1,000억 달러 성장한 서울…'Try Everything' 9월 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460529",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "시민 일상 파고드는 마약 유혹…서울시, '마약에 만약은 없다' 예방주간 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460528",
+      "dept": "정신건강과",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "서울 가드닝 크루, 청년 이어 5개 복지관 어르신과 정원 만든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460527",
+      "dept": "공원여가사업과",
+      "category": "복지",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "양육 걱정 덜고 시민 상담 더 세심하게…120다산콜, 일·가정 양립 문화 확산",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460526",
+      "dept": "서울시120다산콜재단",
+      "category": "문화",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "“느닷없는 소낙비 한 번쯤 맞아도 좋아. 여름이잖아!”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460525",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 28일(일) 2026 서울국제도서전 서울도서관 부스 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460562",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "제8차 도시계획위원회 신속통합기획 정비사업 등 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460539",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "서울시, '글로벌 TOP3·삶의 질 특별시' 향한 첫걸음…G3 서울 기획위원회 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460524",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "장애인과 비장애인이 함께 탄다…서울시, 전국 첫 ‘유니버설디자인 택시’ 시범운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460523",
+      "dept": "택시정책과",
+      "category": "복지",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "서울시, ‘신속통합기획 온라인 아카이브 ’본격 가동…대상지 정보부터 추진현황까지 한눈에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460522",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "서울시-서울지방우정청, ‘고립은둔청년 발굴’부터 ‘청년 창업가 지원’까지 맞손",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460521",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "‘고유가 피해지원금’ 7월 3일 금요일, 18시까지 꼭 신청하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460520",
+      "dept": "자치행정과",
+      "category": "행정",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "서울시, 독립유공자 4~6대 후손 120명에 장학증서 수여…역사 가치 계승까지 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460519",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 27일(토) 노원구립 어드벤처 테마파크 ‘점프’ 개관식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460550",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 27일(토) 「2026 남산 서머 페스티벌」 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460546",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-06-27"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 26일(금) 2026년 상반기 정년·명예퇴임식 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460472",
