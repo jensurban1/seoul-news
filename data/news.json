@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-06-29 07:50",
-  "total": 2423,
+  "updated_at": "2026-06-30 07:44",
+  "total": 2438,
   "new_today": 15,
   "items": [
+    {
+      "title": "해외직구 어린이 샌들서 프탈레이트계 가소제 기준치 285배 초과 검출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460624",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "제기동 '경동한옥마을'로 변신, 청년 아이디어 모은다…서울한옥 미래상 공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460623",
+      "dept": "한옥건축자산과",
+      "category": "복지",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "K-뷰티부터 도심 속 힐링까지… 서울시, 전 세계 홀릴‘웰니스 명소 100곳’모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460622",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "서울시, 지난 3년간 장애인 소비 피해 구제 위해 2만8천건 상담 진행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460621",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "\"사소한 일상도 특별한 이야기가 된다\"  서울상상나라, 기획전시 <그림책 작업실: 사소하고 특별한> 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460620",
+      "dept": "아이돌봄담당관",
+      "category": "문화",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "☆ 폭염 일일상황보고(0629, 언론담당관 송부용)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460630",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "서울시, 29일 14시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460595",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 29일(월) 「G3 서울 기획위원회」 발대식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460586",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "29일 오전 11시 서울 전역에 폭염주의보 발효… 폭염 대응체계 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460583",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "서울시, 장애인 건강권 강화 노력 결실…전국 우수 지자체 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460535",
+      "dept": "건강관리과",
+      "category": "복지",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "독산로 일대 ‘신속통합기획 시너지’ 독산2동 380 신통기획 확정으로 연이은 주거환경 전환 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460534",
+      "dept": "신속통합기획과",
+      "category": "환경",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "올여름 피서는 도서관으로…서울시 223개 도서관서 <도서관은 쿨하다> 캠페인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460533",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "노숙인 경제적 자립...서울시-신용회복위원회 전담창구 운영으로 통했다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460532",
+      "dept": "자활지원과",
+      "category": "경제",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "예약 시작과 동시에 마감되던 인기 체육시설…서울시, 매크로 261만 건 차단",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460531",
+      "dept": "정보시스템과",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "지속가능 관광도시 서울의 미래를 논한다…「2026 서울국제관광포럼」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460530",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-06-29"
+    },
     {
       "title": "창업생태계 가치 1,000억 달러 성장한 서울…'Try Everything' 9월 연다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460529",
