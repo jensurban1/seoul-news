@@ -1,8 +1,204 @@
 {
-  "updated_at": "2026-07-02 07:59",
-  "total": 2451,
-  "new_today": 0,
+  "updated_at": "2026-07-03 07:53",
+  "total": 2479,
+  "new_today": 28,
   "items": [
+    {
+      "title": "서울시-㈜농심, 결혼식 스드메 비용 300만 원 지원한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460863",
+      "dept": "가족담당관",
+      "category": "행정",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "서울시설공단, 장애인 이동권 넓힌다… ‘소형버스 운행지역·일수 확대’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460862",
+      "dept": "서울시설공단",
+      "category": "교통",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "도시농업도 기후 위기 대응 중심으로… 서울시, 탄소중립 도시농업 정책 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460861",
+      "dept": "농업기술센터",
+      "category": "환경",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "“불편했던 규제, 시민이 직접 해결한다”…서울시50플러스재단 규제혁신 공모전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460860",
+      "dept": "서울시50플러스재단",
+      "category": "행정",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 2일(목) 「2026 서울국제관광포럼」 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460875",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 2일(목) ‘서울 동아리ON 네트워킹데이’ 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460855",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "은마 재건축 7개월만에 사업시행계획인가...28년 5,850세대 착공 목표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460843",
+      "dept": "공동주택과",
+      "category": "행정",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "(기자설명회) 서울시, 청년 AI 기본권 시대 연다… 'AI 사다리'로 공평한 출발선 구축",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460837",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "서울런, 20일부터 대상 확대 모집…더 많은 청소년에 더 넓은 배움으로 국민평가도 ‘우수’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460828",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "말라리아·뎅기열 매개 모기 조기 출현…생활 속 모기 예방수칙 실천해야",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460827",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "서울시, 전자담배 집중 점검·계도 통해 제도 안착 전방위 노력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460826",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "혁신 기술, 금융 현장에서 실증한다…서울시, 혁신 핀테크 스타트업 6개사 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460825",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "한성백제박물관, 프랑스·이탈리아 문화 만나는 어린이 체험 교육 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460824",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "제11차 도시건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460823",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "서울역사박물관 어린이박물관, 개관 100일 만에 ‘1만 8천 명’ 돌파",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460775",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "서울시, '인사·노무·산업안전 무료 컨설팅' 실시 … 민간 소규모사업장까지 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460774",
+      "dept": "노동정책과",
+      "category": "안전",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "서울시, 소방력 모바일 플랫폼 본격 가동…대응 정보부터 점검결과까지 한눈에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460773",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "서울시, 19시 기준 오존 주의보 해제(서울권역)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460796",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "방이동 2,000년 상전벽해 기록…한성백제 ‘왕성터’에서 ‘올림픽 타운’으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460740",
+      "dept": "서울역사박물관",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 1일(수) 국립서울현충원 참배로 민선 9기 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460739",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "서울시, 여의도공원 재조성 설계공모 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460738",
+      "dept": "공원조성과",
+      "category": "문화",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "졸릴 땐 쉬어가세요… 서울시, 한강 석양 품은 '전망대형 졸음쉼터' 올림픽대로에 첫선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460737",
+      "dept": "도로시설과",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "서울 수돗물 관리의 모든 것 담았다…「2025 아리수 품질보고서」 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460736",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "“AI가 궁금하다면?\"…서울시, 시민 500명 'AI 인사이트 포럼' 무료 초청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460735",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "15년 이어온 서울 공공건축 혁신… 제13기 공공건축가 158명 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460734",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "제6차 도시재정비위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460733",
+      "dept": "재정비촉진과",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "제11차 서울특별시 도시계획위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460732",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "오세훈 시장, 시민과 함께 '삶의 질 특별시' 압도적 완성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460729",
+      "dept": "총무과",
+      "category": "행정",
+      "date": "2026-07-01"
+    },
     {
       "title": "'홍건익가옥' 웨딩촬영 인기… 서울한옥, 하반기 촬영 지원·프로그램 확대",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460687",
