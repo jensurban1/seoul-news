@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-07-04 07:50",
-  "total": 2488,
-  "new_today": 9,
+  "updated_at": "2026-07-05 07:43",
+  "total": 2490,
+  "new_today": 2,
   "items": [
+    {
+      "title": "(보도참고자료) 일본 유력 일간지 요미우리신문, 사상 첫 5선 오세훈 서울시장 집중 조명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460973",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-04"
+    },
     {
       "title": "강북 주거 개선위한 초강력 인센티브… 11개 자치구 공공기여율 60→30%",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460957",
@@ -282,6 +289,13 @@
       "dept": "세종문화회관",
       "category": "문화",
       "date": "2026-07-01"
+    },
+    {
+      "title": "서울시, 17시 기준 오존 주의보 해제(서울권역)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460728",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-06-30"
     },
     {
       "title": "'(보도참고자료) 서울시 폭염 일일상황 보고(2026.6.30. 기준)'",
