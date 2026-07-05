@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-07-05 07:43",
-  "total": 2490,
-  "new_today": 2,
+  "updated_at": "2026-07-06 07:45",
+  "total": 2500,
+  "new_today": 10,
   "items": [
+    {
+      "title": "창업보다 중요한 건 '생존'… 88% 생존율 만든 서울시 '프렙 아카데미' 11기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460963",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "“홍제천 폭포 다음은 어디?…서울시, 로컬 명소 25곳 시민이 직접 뽑는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460956",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "박물관에서 만나는 세계 음악…한성백제박물관, 퀘벡 월드뮤직 콘서트 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460955",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "서울AI재단-서울과기대, 서울시 AI 혁신생태계 조성위해 맞손",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460954",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "올 여름방학엔 맛있는 점심먹고 신나게 놀아요…서울시, '서울아이 든든한끼' 첫선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460947",
+      "dept": "아이돌봄담당관",
+      "category": "행정",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "서울 바이오 혁신 거점 '홍릉', 2년 연속 강소특구 최고 등급 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460942",
+      "dept": "첨단산업과",
+      "category": "행정",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "세계 1만5천 AI 석학 서울 집결…서울시, 'ICML* 2026' 연계 ‘블레저 관광’ 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460941",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "디자인 교육 플랫폼 '서울디자인런', 창업가 키우기 시동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460940",
+      "dept": "서울디자인재단",
+      "category": "경제",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "내 작품이 스크린에…서울시, '한강 다리밑 영화관' 사진·영상 공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460939",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "올여름 방학은 박물관으로 역사여행 가자! 서울역사박물관, 다양한 여름방학 특별 프로그램 마련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460938",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-07-05"
+    },
     {
       "title": "(보도참고자료) 일본 유력 일간지 요미우리신문, 사상 첫 5선 오세훈 서울시장 집중 조명",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460973",
