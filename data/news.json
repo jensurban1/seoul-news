@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-07-06 07:45",
-  "total": 2500,
-  "new_today": 10,
+  "updated_at": "2026-07-07 07:53",
+  "total": 2512,
+  "new_today": 12,
   "items": [
+    {
+      "title": "『서울시 주민감사, 행정을 바꾸다』 최근 10년 감사결과 조치사항 98.3% 반영…주민 만족도·신뢰도 지속 상승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461084",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "'사업장 가까이서 무료 검진'… 서울시, 도시제조업 종사자 찾아가는 특수건강진단 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461081",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "떡볶이 너머 ‘힙당동’… 신당동의 세 얼굴 『神·新·Hip』 보고서 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461080",
+      "dept": "서울역사박물관",
+      "category": "행정",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "회복의 경험이 희망의 일자리로…! 은평병원, 동료지원인 18명 양성·일자리 연계 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461079",
+      "dept": "은평병원",
+      "category": "경제",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "여름방학에도 ‘서영커’ 열풍…1단계 캠프(부트캠프) 7.1대1 기록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461043",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "3050여성 재취업 이끈 '서울커리업 구직지원금' 올해 마지막 신청 시작…1,500명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461042",
+      "dept": "양성평등담당관",
+      "category": "경제",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "AI 시대 블루칼라 찾는 청년들…서울시, 기술교육원 교육과정 개편",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461041",
+      "dept": "일자리정책과",
+      "category": "복지",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "“내 집 앞에 설치하고, 설치비 최대 70% 지원받자!” - 전기차 충전기 시민 직접지원 2차 모집 -",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461040",
+      "dept": "친환경차량과",
+      "category": "행정",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "서울물재생체험관 '어린이 물놀이터' 7일 개장…물놀이·전시 즐길거리 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461039",
+      "dept": "서울물재생시설공단",
+      "category": "문화",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "서울역사편찬원, 서울 사람들의 출산·육아 변화상 한 권에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461038",
+      "dept": "서울역사편찬원",
+      "category": "복지",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "오 시장, 복지관 방문해 어르신 활력 정책 설명·일상 살펴…동행 온다콜택시 서비스 개선 직접 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461037",
+      "dept": "택시정책과",
+      "category": "복지",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "서울시, 이창무 제5대 서울총괄건축가 위촉",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/460964",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-07-06"
+    },
     {
       "title": "창업보다 중요한 건 '생존'… 88% 생존율 만든 서울시 '프렙 아카데미' 11기 모집",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/460963",
