@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-07-07 07:53",
-  "total": 2512,
+  "updated_at": "2026-07-08 07:48",
+  "total": 2524,
   "new_today": 12,
   "items": [
+    {
+      "title": "팝업스토어 '인기' 뒤 숨은 소비자 권익 침해… 개인정보 동의·환불규정 안내 미흡",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461165",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "예술가의 작업실이 시민의 문화공간으로…서울시, 「한강 사각사각 아트플레이스」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461164",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시, 평생교육이용권 2,518명 추가 모집…소득 관계없이 19세 이상 누구나",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461163",
+      "dept": "평생교육과",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시민대학, ‘4050 인생디자인학교’ 하반기 참여자 모집…인생 2막 설계 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461162",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "\"청년이 머무는 산업단지 만든다\"… 서울시, G밸리 10만㎡ 녹지 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461156",
+      "dept": "조경과",
+      "category": "복지",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "서울은 청년을 품고, 청년은 미래를 이끌고…청년정책박람회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461131",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "‘탈서울’ 고민 중인 무주택가구 주목…서울시, 출산 가구 대상 최대 720만원 주거비 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461130",
+      "dept": "저출생담당관",
+      "category": "주택",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "지상 시설물부터 지하 맨홀까지…서울시, 장마 앞두고 상수도 안전망 빈틈없이 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461129",
+      "dept": "서울아리수본부",
+      "category": "안전",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "영화·독서·산책이 있는 서울국제정원박람회 여름밤 특별프로그램 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461127",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "시민 아이디어가 정책·창업으로…서울시, 데이터 혁신도시 본격 시동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461126",
+      "dept": "데이터전략과",
+      "category": "경제",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "서울시, 「2026 서울특별시 교통문화상」 수상후보자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461125",
+      "dept": "교통정책과",
+      "category": "교통",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "서울시민대학, ‘AI 마스터 위크’ 5주 대장정…석학·빅테크 리더 특강부터 기술 체험까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461124",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-07-07"
+    },
     {
       "title": "『서울시 주민감사, 행정을 바꾸다』 최근 10년 감사결과 조치사항 98.3% 반영…주민 만족도·신뢰도 지속 상승",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461084",
