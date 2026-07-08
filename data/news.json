@@ -1,8 +1,120 @@
 {
-  "updated_at": "2026-07-08 07:48",
-  "total": 2524,
-  "new_today": 12,
+  "updated_at": "2026-07-09 07:52",
+  "total": 2540,
+  "new_today": 16,
   "items": [
+    {
+      "title": "서울, 세계 주요 도시와 AI 혁신 논의 …「2026 서울 AI 행정혁신포럼」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461251",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "고립을 이겨낸 중장년, 다시 이웃의 친구가 되다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461250",
+      "dept": "서울시복지재단",
+      "category": "행정",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "서울공예박물관, 한국도자재단과 맞손…2026 경기도자비엔날레 협력 특별전 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461249",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "서울시, '26년 하반기 4급 이상 간부 전보 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461269",
+      "dept": "인사과",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 8일(수) 육군사관학교 총동창회 면담",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461258",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시, 강동구 소나무재선충병 발생… 확산 차단 총력 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461238",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "(보도참고자료) 서울시, GTX-A 삼성역 철근누락 관련해 국토부 공문에 명시된 보고절차 이행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461220",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 8일(수) 「아이 키우기 좋은 도시 서울」 정책포럼 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461216",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "시민 10명 중 9명 만족…‘쉬엄쉬엄 모닝’ 7월 운영 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461188",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "갑작스런 야근, 주말 경조사에도 안심…서울시, '긴급·틈새보육 어린이집' 확충",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461187",
+      "dept": "영유아담당관",
+      "category": "복지",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "행정도 콘텐츠다 ! 서울시 정원소식 웹매거진으로 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461186",
+      "dept": "정원도시정책과",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "호주산 염소탕을 국내산으로 둔갑… 서울시 · 농관원, 원산지 위반 10곳 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461185",
+      "dept": "민생사법경찰국",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시 에너지다소비 건물, 병원부터 탄소중립",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461184",
+      "dept": "친환경건물과",
+      "category": "환경",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "북한이탈주민의 날 맞아 12일(일)부터 시민공감 문화행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461183",
+      "dept": "평화기반조성과",
+      "category": "문화",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시여성가족재단, 우먼 AI 교육플랫폼 재직자 대상 ‘일 + 생활 AI 맞춤형 교육’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461182",
+      "dept": "서울시 여성가족재단",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "서울시 - 국민권익위 협업, 시민불편 1위 '불법 주정차' 문제 해결 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461166",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-07-08"
+    },
     {
       "title": "팝업스토어 '인기' 뒤 숨은 소비자 권익 침해… 개인정보 동의·환불규정 안내 미흡",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461165",
