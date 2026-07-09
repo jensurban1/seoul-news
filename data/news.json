@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-07-09 07:52",
-  "total": 2540,
+  "updated_at": "2026-07-10 08:00",
+  "total": 2556,
   "new_today": 16,
   "items": [
+    {
+      "title": "서울시, 2031년까지 31만 호 주택공급 속도전… 지연 정비사업 부시장급 직접 관리",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461383",
+      "dept": "주거정비과",
+      "category": "주택",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "6월 토허 신청 40% 급감(4월 대비), 가격상승률 10.15대책 이후 최대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461382",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "DDP, AI 웰니스 로봇 만나 스마트 디자인 공간으로 진화된다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461355",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "서울시설공단, 청계천서 친환경 전시회 및 여름 생태교육 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461354",
+      "dept": "서울시설공단",
+      "category": "문화",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "(보도참고자료) 강우 상황보고(26.7.9. 15시30분 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461353",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "(보도참고자료) 강우 상황보고(26.7.9. 13시 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461329",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "오세훈 시장, 서울XR센터서 청년 AI 인재와 소통…AI·XR 신산업 현장 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461305",
+      "dept": "창조산업과",
+      "category": "복지",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "서울시, '모아주택' 심의기준 손질… 준주거 상향·규제 완화로 공급확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461304",
+      "dept": "전략주택공급과",
+      "category": "주택",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "''현장에 답 있다''… 'G3 서울플랜' 주거안정 도시분과, '중앙주거복지센터' 첫 방문 회의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461303",
+      "dept": "주택정책과",
+      "category": "복지",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "서울시, 임산부 2만 9천 명에 친환경농산물 연 24만 원 지원… 7월 13일부터 권역별 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461300",
+      "dept": "농수산유통과",
+      "category": "환경",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "서울시, 불법 미용 및 유사 의료행위 특별단속, 위반업소 19건 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461299",
+      "dept": "안전수사과",
+      "category": "행정",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "서울시, ‘두나무’와 손잡고 청년 디지털 자산 금융역량 키운다…영테크 금융교육 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461298",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "서울시, 전기차 ‘충전배려’ 문화 확산…신고기준 통일, 시민 참여 캠페인 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461297",
+      "dept": "친환경차량과",
+      "category": "문화",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "오~이런 방법이? 시민과 함께 찾는 규제혁신, 우수작 시상식 개최…7월, 2차 공모 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461268",
+      "dept": "창의규제담당관",
+      "category": "행정",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "(엠바고10시) 제12차 도시건축공동위원회 및 제6차 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461264",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-07-09"
+    },
     {
       "title": "서울, 세계 주요 도시와 AI 혁신 논의 …「2026 서울 AI 행정혁신포럼」 개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461251",
@@ -23,6 +128,13 @@
       "dept": "서울공예박물관",
       "category": "문화",
       "date": "2026-07-09"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 8일(수) '서울런 지역아동센터장 간담회' 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461296",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-07-08"
     },
     {
       "title": "서울시, '26년 하반기 4급 이상 간부 전보 시행",
