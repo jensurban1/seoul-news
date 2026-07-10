@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-07-10 08:00",
-  "total": 2556,
-  "new_today": 16,
+  "updated_at": "2026-07-11 07:46",
+  "total": 2567,
+  "new_today": 11,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.10.  기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461481",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "(엠바고18시)서울시, 서소문로 11일 0시 전면 개통… 고가 신설 본격화 '29.3월 개통 목표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461473",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "오 시장, 상봉먹자골목서 청년 사장님과 현장소통… 야장으로 골목상권 활력 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461467",
+      "dept": "상권활성화과",
+      "category": "복지",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 10일(금) 성수대교 램프 단차 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461454",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 10일(금) 「2026 서울청년정책박람회」 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461442",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "호우특보 이후 다시 폭염특보… 11일 만에 서울 서남권에 폭염주의보 발효",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461408",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "여름이 더 즐거운 서울의 공원! 물놀이터 10곳을 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461403",
+      "dept": "조경과",
+      "category": "문화",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "조선 선비의 풍류부터 한강 라면까지…폴란드 바르샤바에 피어나는 ‘서울의 멋’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461402",
+      "dept": "서울역사박물관",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "“AI가 대체 못 하는 역량, 자원봉사에서 배운다”…서울시자원봉사센터, 기업 연계 진로 멘토링 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461401",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "서울대공원 일본원숭이사, 자연형 방사장으로 전면 재탄생…7월 11일 시민 관람 재개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461400",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "상암DMC 마지막 핵심부지 다시 열린다…서울시, 랜드마크 용지 공급공고",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461384",
+      "dept": "도시활력담당관",
+      "category": "행정",
+      "date": "2026-07-10"
+    },
     {
       "title": "서울시, 2031년까지 31만 호 주택공급 속도전… 지연 정비사업 부시장급 직접 관리",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461383",
