@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-07-11 07:46",
-  "total": 2567,
-  "new_today": 11,
+  "updated_at": "2026-07-12 07:34",
+  "total": 2570,
+  "new_today": 3,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황 보고(2026.7.11. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461511",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "서울 동남권·서남권에 올여름 첫 폭염경보… 서울시, 폭염 대응체계 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461496",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "폭염주의보 서울 전역으로 확대 발효…서울시, 폭염 대응체계 강화 나서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461494",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-11"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.10.  기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461481",
