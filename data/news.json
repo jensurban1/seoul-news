@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-07-12 07:34",
-  "total": 2570,
-  "new_today": 3,
+  "updated_at": "2026-07-13 07:34",
+  "total": 2583,
+  "new_today": 13,
   "items": [
+    {
+      "title": "서울시, 모아주택 '전자투표·총회' 도입 최대 3백만 원 지원…소규모 정비 속도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461461",
+      "dept": "전략주택공급과",
+      "category": "주택",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "서울특별시 자치법규 제·개정 공포",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461460",
+      "dept": "법무담당관",
+      "category": "행정",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "고전을 손으로 쓰고 마음을 쉬어가는 시간, 한성백제박물관에서 만나요!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461459",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "AI시대 경계성지능인에 대한 새로운 시선이 필요하다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461458",
+      "dept": "서울시복지재단",
+      "category": "행정",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "서울연구원-나고야대학, AI 시대 도시 문제 해결을 위해 머리 맞댄다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461457",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.12. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461531",
+      "dept": "재난안전실",
+      "category": "행정",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "시민 만족도 90.4% 쉬엄쉬엄 모닝 정례화… 서울, 건강도시로 한 걸음 더",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461517",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "낮은 수수료·풍성한 할인, 통했다… 서울배달+땡겨요 상반기 매출 2.5배 껑충",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461456",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "\"서울 육아정책, 우리가 알릴게요!\"…「서울아이앰배서더」 4기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461455",
+      "dept": "저출생담당관",
+      "category": "복지",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "''잘된 옷은 다 이유가 있어요''…50년 명장의 손끝기술, 교실에서 이어지다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461451",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "UN에서 일하는 꿈, 꿈만 꾸라는 법 있나요…‘제19회 국제기구 진출설명회’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461450",
+      "dept": "글로벌도시정책관",
+      "category": "행정",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "AI 환각(할루시네이션 현상) 줄인다. 서울시, 공공데이터 최초 MCP 서비스 개시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461449",
+      "dept": "데이터전략과",
+      "category": "행정",
+      "date": "2026-07-12"
+    },
+    {
+      "title": "서울특별시 서북병원, 직원 건강 챙겨 환자안전까지 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461448",
+      "dept": "서북병원",
+      "category": "안전",
+      "date": "2026-07-12"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황 보고(2026.7.11. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461511",
