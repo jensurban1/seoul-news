@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-07-13 07:34",
-  "total": 2583,
+  "updated_at": "2026-07-14 07:41",
+  "total": 2596,
   "new_today": 13,
   "items": [
+    {
+      "title": "'광화문·경복궁을 한눈에'… 세종문화회관 옥상, 연내 시민 개방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461591",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "서울시, 재난안전 중소기업 판로 개척 돕는다… 안전산업박람회 참가 기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461590",
+      "dept": "재난안전정책과",
+      "category": "안전",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "서울시, 중장년 채용 희망기업 300개사 모집… 채용박람회 참가비 전액 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461589",
+      "dept": "서울시50플러스재단",
+      "category": "행정",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "조선시대 종로 뒷골목 속 찬란한 과학문화를 조명하는‘인사도시유적전시관’개관",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461588",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "\"AI 시대에도 질문하는 건 인간\"… 서울미래인재재단, 명사 초청 특강 시민에 첫 개방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461587",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.13. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461608",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 13일(월) 「서울 소상공인과 함께하는 성공 두드림 세미나」 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461558",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "박물관부터 공원까지, 서울 전역이 여름방학 문화 피서지로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461518",
+      "dept": "문화정책과",
+      "category": "문화",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "서울시, 노후 상수도관 교체 집중 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461466",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "서울시, 불법광고물 상습 위반‘직권 고발’…시·구 합동점검 실시로 강력 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461465",
+      "dept": "도시경관담당관",
+      "category": "행정",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "재도전 문턱 낮춘다… 서울형 다시서기 프로젝트 지원대상 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461464",
+      "dept": "서울신용보증재단",
+      "category": "행정",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "현장 찾아가는 ‘디자인 가방… 교육 환경 바꾼다’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461463",
+      "dept": "서울디자인재단",
+      "category": "환경",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "“백성과 함께 지킨 수도, 한양” 서울역사박물관, 조선 후기 방어 체계 조명하는 특별전 ？여민공수？ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461462",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-07-13"
+    },
     {
       "title": "서울시, 모아주택 '전자투표·총회' 도입 최대 3백만 원 지원…소규모 정비 속도",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461461",
