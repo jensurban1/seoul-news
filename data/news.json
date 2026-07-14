@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-07-14 07:41",
-  "total": 2596,
-  "new_today": 13,
+  "updated_at": "2026-07-15 07:43",
+  "total": 2608,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울시, 국토부 임대차통합정보시스템 정보연계 협약…전세사기 예방 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461669",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "서울시 자치구, 7월분 재산세 500만 건 고지…7월 31일까지 납부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461668",
+      "dept": "세무과",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "서울미래인재재단, 예체능 꿈나무 180명·글로벌 인재 60명 새출발 응원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461663",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "서울시여성가족재단, OpenAI와 ‘잇츠 스터디’ 5기 협력 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461660",
+      "dept": "서울시 여성가족재단",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.14.기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461692",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "(엠바고14시30분)오세훈 시장, \"부동산시장 안정시키려면 공급이 가장 중요\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461645",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "민선9기 대중교통 대전환 신호탄… 서울시, 더 빠르고 똑똑한 지하철 차세대 신호 시스템 구축",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461622",
+      "dept": "도시철도과",
+      "category": "교통",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "서울사랑상품권 결제 더 쉬워진다… 결제 단말기 화면에 서울페이 QR 표출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461621",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "'장마에도 걱정 없는 집으로'…서울시, 2년간 취약주거환경 아동 199가구 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461620",
+      "dept": "돌봄복지과",
+      "category": "복지",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "여름방학 아이와 어디갈까?… 스마트서울맵 하나로 끝내는 도심 속 피서 가이드",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461619",
+      "dept": "공간정보과",
+      "category": "행정",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "AI·데이터로 화재 위험 줄이고 보행환경 개선한다. 서울AI재단, 민선9기 'AI·데이터 행정' 밀착 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461618",
+      "dept": "서울AI재단",
+      "category": "환경",
+      "date": "2026-07-14"
+    },
+    {
+      "title": "“AI 시대, 기업으로부터 솔루션 배운다”…서울시여성가족재단, ‘우먼잇츠 AX 세미나’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461617",
+      "dept": "서울시 여성가족재단",
+      "category": "행정",
+      "date": "2026-07-14"
+    },
     {
       "title": "'광화문·경복궁을 한눈에'… 세종문화회관 옥상, 연내 시민 개방",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461591",
