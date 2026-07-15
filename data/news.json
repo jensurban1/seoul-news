@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-07-15 07:43",
-  "total": 2608,
-  "new_today": 12,
+  "updated_at": "2026-07-16 07:44",
+  "total": 2622,
+  "new_today": 14,
   "items": [
+    {
+      "title": "홀덤펍·룸카페 등 특별단속으로 여름방학 청소년 보호 강화한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461766",
+      "dept": "경제수사과",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "서울시, ‘서울형 친환경공사장’ 자율협약 건설사 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461765",
+      "dept": "대기정책과",
+      "category": "환경",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "응답하라 1995… 30년간의 기록을 담은 서울경관기록화 광화문 전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461764",
+      "dept": "도시경관담당관",
+      "category": "문화",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "폭염 속 리어카 밀어주는 시원한 동행 서울시자원봉사센터, 무더위 속 폐지 수집 어르신 1,000명 찾는다 “여름愛 나눔 - 무더위를 無더위로”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461763",
+      "dept": "서울시자원봉사센터",
+      "category": "복지",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 15일(수) 서울런 우수회원 격려 간담회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461758",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "오세훈 시장 '일타강사' 출격, 서울 집값 '트리플 강세' 해부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461750",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "서울시, 출산가구 주거 넓히고 개발·정비 사업 애로 덜고… 현장규제 3건 개선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461720",
+      "dept": "규제개선담당관",
+      "category": "복지",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "서울시, 옛 성동구치소 특계4부지 민간공모…청소년·주민 복합문화거점 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461719",
+      "dept": "공공개발담당관",
+      "category": "문화",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "“노벨상 수상자 나오지 말라는 법 있나요”…서울 테크 스칼러십 첫 졸업생 배출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461716",
+      "dept": "외국인이민담당관",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "QR 찍으면 직원이 기름 넣어준다, 서울시 '이동약자 주유 서비스' 96곳으로 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461715",
+      "dept": "녹색에너지과",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "율현공원, 워터슬라이드로 더 시원한 팝업 물놀이장 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461714",
+      "dept": "동부공원여가센터",
+      "category": "문화",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "열대야를 잠재우는 문화휴양… 도심 속 'DDP 바캉스' 어때?",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461713",
+      "dept": "서울디자인재단",
+      "category": "문화",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "용산 나진상가, 26층 AI·ICT '신산업 거점' 변신…공영주차장·녹지 보행로 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461712",
+      "dept": "건축기획과",
+      "category": "교통",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "오세훈 시장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461711",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-07-15"
+    },
     {
       "title": "서울시, 국토부 임대차통합정보시스템 정보연계 협약…전세사기 예방 강화",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461669",
