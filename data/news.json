@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-07-16 07:44",
-  "total": 2622,
-  "new_today": 14,
+  "updated_at": "2026-07-17 07:44",
+  "total": 2633,
+  "new_today": 11,
   "items": [
+    {
+      "title": "서울시, 17시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461851",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장. 16일(목) 「2026 서울테크서밋」 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461828",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "(엠바고15시)오세훈 '일타강사' 2탄 \"서울의 삽은 멈추지 않아\"… 시민주거안정 해법 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461826",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "서울시, 16일 14시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461818",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "잠실 스포츠·MICE 민자사업, 민투심 통과… ＇32년 준공 목표로 본격 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461804",
+      "dept": "동남권사업과",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "\"여름밤, 한강으로 수영하러 갈까?\" 한강 수영장 밤에도 북적",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461793",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "청년 마음건강 지원 3차 모집…심야노동청년 우선 선발로 사회안전망 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461792",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "서울시보건환경연구원. 이공계 청년들의 실무 성장 기회 넓힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461791",
+      "dept": "보건환경연구원",
+      "category": "복지",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "멕시코의 색채와 프리다 칼로의 예술, 서울식물원에 펼쳐진다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461790",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "서북병원-보라매병원, 환자중심 의료서비스 강화한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461789",
+      "dept": "서북병원",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "서울시, 준공업지역 용적률 400% 규제혁신 성과 가시화… 2만 7천 세대 공급 탄력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461788",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-07-16"
+    },
     {
       "title": "홀덤펍·룸카페 등 특별단속으로 여름방학 청소년 보호 강화한다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461766",
