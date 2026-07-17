@@ -1,8 +1,43 @@
 {
-  "updated_at": "2026-07-17 07:44",
-  "total": 2633,
-  "new_today": 11,
+  "updated_at": "2026-07-18 07:35",
+  "total": 2638,
+  "new_today": 5,
   "items": [
+    {
+      "title": "(보도참고자료) 강우 상황보고(27.7.18. 04시30분 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461892",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "(보도참고자료) 강우 상황보고(26.7.17. 22시 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461888",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "서울시, 고혈압·당뇨 관리를 위한 제철농산물 이용 교육 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461835",
+      "dept": "농업기술센터",
+      "category": "행정",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "서울시설공단, '단계별 이행업무 가이드' 배포… 소규모 시공사와 동행 나서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461833",
+      "dept": "서울시설공단",
+      "category": "행정",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "국경을 넘어 종을 잇다…시베리아호랑이 ‘사랑’의 새로운 여정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461832",
+      "dept": "서울대공원",
+      "category": "행정",
+      "date": "2026-07-17"
+    },
     {
       "title": "서울시, 17시 기준 오존 주의보 해제",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461851",
