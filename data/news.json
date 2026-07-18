@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-07-18 07:35",
-  "total": 2638,
-  "new_today": 5,
+  "updated_at": "2026-07-19 07:35",
+  "total": 2640,
+  "new_today": 2,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 18일(토) 오전 우면산 일대 긴급 점검… 밤사이 기습폭우 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461903",
+      "dept": "산지방재과",
+      "category": "행정",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "(보도참고자료) 강우 상황보고(26.7.18. 07시30분 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461896",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-18"
+    },
     {
       "title": "(보도참고자료) 강우 상황보고(27.7.18. 04시30분 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461892",
