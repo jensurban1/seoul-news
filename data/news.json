@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-07-19 07:35",
-  "total": 2640,
-  "new_today": 2,
+  "updated_at": "2026-07-20 07:38",
+  "total": 2649,
+  "new_today": 9,
   "items": [
+    {
+      "title": "서울 硏, ‘AI시대, 청년성장을 위한 서울시 ESG 전략 모색’ 포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461856",
+      "dept": "서울연구원",
+      "category": "복지",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "북서울꿈의숲, 일상에 힐링을 더하는 가드닝을 배워보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461855",
+      "dept": "북부공원여가센터",
+      "category": "환경",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "“놀이와 체험으로 더욱 특별한 여름방학” 서울상상나라, 여름방학 체험·교육프로그램 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461854",
+      "dept": "아이돌봄담당관",
+      "category": "행정",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "서울시 장애인직업재활시설·재가노인지원서비스센터 AI 활용 지원 등 맞춤형 컨설팅 본격 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461853",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "＂올여름 피서지는 광화문광장＂ 워터슬라이드부터 분수까지 무료로 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461852",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "고립·은둔청년 회복의 첫 단추는 '부모', 가정에 변화의 싹 틔우는 서울시 부모교육",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461849",
+      "dept": "청년사업담당관",
+      "category": "복지",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "'당신의 하루에 우리가 있습니다'…23일 우리동네 고립예방 토크콘서트 진행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461848",
+      "dept": "고독대응과",
+      "category": "행정",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "장수풍뎅이 관찰하고 옥수수 맛보고… 서울시, 여름방학 맞아 '어린이 자연학교' 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461839",
+      "dept": "농업기술센터",
+      "category": "행정",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "지도는 서울의 변화를 어떻게 기록했을까?…서울역사편찬원, 하반기 역사강좌",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461838",
+      "dept": "서울역사편찬원",
+      "category": "행정",
+      "date": "2026-07-19"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 18일(토) 오전 우면산 일대 긴급 점검… 밤사이 기습폭우 대응",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461903",
