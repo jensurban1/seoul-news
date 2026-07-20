@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-07-20 07:38",
-  "total": 2649,
-  "new_today": 9,
+  "updated_at": "2026-07-21 07:43",
+  "total": 2656,
+  "new_today": 7,
   "items": [
+    {
+      "title": "“따릉이 개인정보 유출 시민에 안내문자·보상 실시…”서울시설공단, 보안 강화 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461960",
+      "dept": "서울시설공단",
+      "category": "행정",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "이제, 편의점 간편식으로 단백질까지 챙긴다…서울시-CU, 건강 간편식 5종 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461959",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "아리수나라·수도박물관 우리 가족도 가볼까? 서울시, 여름방학 명소 추천",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461958",
+      "dept": "서울아리수본부",
+      "category": "문화",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "서울시복지재단, 예비 사회복지사 대상 ‘사회복지 부트캠프’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461957",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "서울시, 응급실 감시체계·방문건강관리로 폭염 건강위험 선제 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461932",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "“이제 복지카드 안 챙겨도 된다” 서울온 하나로 공공시설 이용료 감면 받는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461931",
+      "dept": "디지털정책과",
+      "category": "복지",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "만점 반려인에 도전하세요! 서울시 반려인능력시험 참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461930",
+      "dept": "동물보호과",
+      "category": "행정",
+      "date": "2026-07-20"
+    },
     {
       "title": "서울 硏, ‘AI시대, 청년성장을 위한 서울시 ESG 전략 모색’ 포럼 개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461856",
