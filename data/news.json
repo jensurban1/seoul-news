@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-07-21 07:43",
-  "total": 2656,
-  "new_today": 7,
+  "updated_at": "2026-07-22 07:41",
+  "total": 2669,
+  "new_today": 13,
   "items": [
+    {
+      "title": "5월 아파트 매매 실거래가격 상승폭 확대… 전세 1%대 상승 지속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462046",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "외국인 서울여행, K-컬처부터 K-등산까지… 서울 곳곳으로 넓어진 관광 발길",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462041",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "'계약이 끝났는데 보증금은 언제 돌려받을 수 있을까?' 서울시, 상가임대차 상담사례 82선 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462040",
+      "dept": "소상공인정책과",
+      "category": "주택",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "서울시복지재단, 장기요양서비스 인력배치 지원 AI Agent 개발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462039",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 21일(화) 제12대 서울특별시의회 개원기념식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462045",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "서울시, 고척돔·무교동 등 9곳 횡단보도 확충… 우회 줄이고 보행안전 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461998",
+      "dept": "교통운영과",
+      "category": "안전",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "대학생 6천 명 동아리 활동으로 서울 바꾼다…서울 동아리ON 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461997",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "무더위에 시원한 숲길 걸어볼까, 서울둘레길 여름 코스 추천",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461996",
+      "dept": "자연생태과",
+      "category": "환경",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "낮엔 과학체험, 밤엔 별자리 관측…서울시립과학관, 여름밤 10시까지 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461995",
+      "dept": "서울시립과학관",
+      "category": "행정",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "서울대공원, 귀한 새 생명 탄생…국내 최초 레서판다 자연번식 성공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461994",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "“걷는 순간, 서울의 600년 역사가 펼쳐진다” 서울역사박물관 XR 전시 시범 운영중",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461993",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "여의도공원, 문화·자연 어우러진 서울 대표공원으로 재탄생",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461992",
+      "dept": "공원조성과",
+      "category": "문화",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "(보도참고자료) 강우 상황보고(26.7.21. 06시30분 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/461988",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-21"
+    },
     {
       "title": "“따릉이 개인정보 유출 시민에 안내문자·보상 실시…”서울시설공단, 보안 강화 총력",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/461960",
