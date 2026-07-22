@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-07-22 07:41",
-  "total": 2669,
+  "updated_at": "2026-07-23 07:48",
+  "total": 2682,
   "new_today": 13,
   "items": [
+    {
+      "title": "기억을 잇고 희망을 나누는 공간…초록기억카페 4호점 개소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462233",
+      "dept": "정신건강과",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "\"비바람 뚫고 시청 모인 500명…서울시, '2026 AI 인사이트 포럼' 성황리 마무리\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462226",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "세계 디자이너들 서울에 시선집중!…'디자인마이애미' DDP서 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462225",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "여름방학은 서울의 공원에서 놀자! 야간 생태탐험과 가드닝 등 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462224",
+      "dept": "서부공원여가센터",
+      "category": "문화",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "서울시복지재단, AI 활용해 에너지복지 사각지대 줄인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462223",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "(엠바고19시30분)75년 전 '강뉴부대'의 용기, 감사의 정원서 후손들의 노래로 울리다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462279",
+      "dept": "문화정책과",
+      "category": "행정",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "서울, 도쿄·런던 제치고 '대학생을 위한 세계 최고의 도시' 2년 연속 1위",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462184",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "단절된 주거지를 연결된 생활권으로… 서울시 서남권, 구로동 466 신통기획 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462159",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "서울시, 대규모 창고시설 긴급 화재안전조사 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462158",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "방학엔 우리아이 치아건강 챙기세요… 서울시, 아동치과주치의 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462157",
+      "dept": "건강관리과",
+      "category": "복지",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "서울시, 거주시설 장애인 지역사회 동참활동 사업시작…12월까지 116명 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462156",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "K-건축 선도 '서울시 건축상'…문턱없는 '서울시립 서서울미술관' 등 20점 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462155",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "제3차 공공주택통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462044",
+      "dept": "공공주택과",
+      "category": "주택",
+      "date": "2026-07-22"
+    },
     {
       "title": "5월 아파트 매매 실거래가격 상승폭 확대… 전세 1%대 상승 지속",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462046",
