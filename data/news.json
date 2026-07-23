@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-07-23 07:48",
-  "total": 2682,
-  "new_today": 13,
+  "updated_at": "2026-07-24 07:43",
+  "total": 2693,
+  "new_today": 11,
   "items": [
+    {
+      "title": "서울시복지재단, 돌봄종사자 안전·권리보호 가이드북 제작·배포",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462362",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.23. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462386",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "(엠바고11시10분)서울시, 방학 중 초등학생 점심 책임지는 '서울아이 든든한끼' 전국 최초 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462313",
+      "dept": "아이돌봄담당관",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "한강이 24시간 체류형 공간으로… 서울시, '야간경제 1호 프로젝트' 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462308",
+      "dept": "미래한강본부",
+      "category": "경제",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "수변·녹지 잇는 건강정책 구상 본격화…G3 건강활력도시분과 첫 현장 행보",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462306",
+      "dept": "보건의료정책과",
+      "category": "환경",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "공무원 업무수첩의 새로운 가능성, '서울플래너 2026' 세계 3대 디자인상 레드닷 어워드 본상 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462305",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "제13차 도시건축공동위원회 및 제7차 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462304",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "2027 서울런 수시 입학 정보 박람회 및 설명회 개최…전국 77개 대학 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462303",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "서울시, '수도권 교통소외지역 해소 위한 예타 제도 개선 토론회' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462302",
+      "dept": "균형발전정책과",
+      "category": "교통",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "예일대 아카펠라 공연단이 부르는 K팝, 서울갤러리에 울려 퍼졌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462301",
+      "dept": "도시외교담당관",
+      "category": "문화",
+      "date": "2026-07-23"
+    },
+    {
+      "title": "서울시, 삼성바이오에피스와 손잡고 차세대 신약 기술 발굴 스타트업 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462167",
+      "dept": "AI전략산업과",
+      "category": "경제",
+      "date": "2026-07-23"
+    },
     {
       "title": "기억을 잇고 희망을 나누는 공간…초록기억카페 4호점 개소",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462233",
