@@ -1,8 +1,24 @@
 {
-  "updated_at": "2026-07-16 11:30",
+  "updated_at": "2026-07-23 11:37",
   "total_editions": 20,
-  "new_today": 3,
+  "new_today": 2,
   "editions": [
+    {
+      "id": "27150",
+      "no": "3138",
+      "date": "2026.07.23",
+      "items": [],
+      "mainCount": 0,
+      "adminCount": 0
+    },
+    {
+      "id": "27111",
+      "no": "4166",
+      "date": "2026.07.20",
+      "items": [],
+      "mainCount": 0,
+      "adminCount": 0
+    },
     {
       "id": "27133",
       "no": "3138",
@@ -143,22 +159,6 @@
       "id": "26829",
       "no": "3138",
       "date": "2026.05.14",
-      "items": [],
-      "mainCount": 0,
-      "adminCount": 0
-    },
-    {
-      "id": "26809",
-      "no": "3138",
-      "date": "2026.05.07",
-      "items": [],
-      "mainCount": 0,
-      "adminCount": 0
-    },
-    {
-      "id": "26790",
-      "no": "3138",
-      "date": "2026.04.30",
       "items": [],
       "mainCount": 0,
       "adminCount": 0
