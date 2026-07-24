@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-07-24 07:43",
-  "total": 2693,
-  "new_today": 11,
+  "updated_at": "2026-07-25 07:48",
+  "total": 2700,
+  "new_today": 7,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.24. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462466",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "오세훈 시장, 기획처장관 만나 '노후 기반시설 개선' 위한 국비 지원 확대 요청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462425",
+      "dept": "예산담당관",
+      "category": "행정",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "서울시설공단, 자동차전용도로 쓰레기 투기 단속…카톡 제보 캠페인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462417",
+      "dept": "서울시설공단",
+      "category": "교통",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "상담사 지키고 상담 품질 높인다 …120다산콜, 특이민원 대응 실전 지침서 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462416",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "서울시 서남권, 금천구 시흥3동 1003번지 일대 모아주택 통합심의 통과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462415",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "제14차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462410",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "서울시 쪽방촌에 전해진 시원한 여름 선물 '달콤한 수박'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462366",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-07-24"
+    },
     {
       "title": "서울시복지재단, 돌봄종사자 안전·권리보호 가이드북 제작·배포",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462362",
