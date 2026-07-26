@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-07-26 07:40",
-  "total": 2701,
-  "new_today": 1,
+  "updated_at": "2026-07-27 07:45",
+  "total": 2712,
+  "new_today": 11,
   "items": [
+    {
+      "title": "서울시, 장애인에게 맞춤형 보조기기 대여 지원으로 삶의 질 향상 도모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462460",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "내 집 재개발·재건축 '쾌속추진'… 서울시, 전 자치구 '정비사업아카데미' 순회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462459",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "서울시, 입체도로 기준 확립… ‘유연한 도시계획’으로 입체도시 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462458",
+      "dept": "시설계획과",
+      "category": "교통",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "서울시, 8~9월 '중장년 채용박람회' 5개 권역 릴레이 개최…200여 개 기업 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462457",
+      "dept": "서울시50플러스재단",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "서북병원, ‘치매, 은빛 날개를 펼치다!’ 미술치료 전시회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462456",
+      "dept": "서북병원",
+      "category": "문화",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.26. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462602",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "365일 검증 끝에 결실…서울시, 전국 최초 정수장 위생안전 인증 취득",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462455",
+      "dept": "서울아리수본부",
+      "category": "안전",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "서울시, 성수대교 램프 단차 포장 걷어내고 지반까지 안전성 직접 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462454",
+      "dept": "교량안전과",
+      "category": "안전",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "서울빵 흥행 잇는다…당 줄이고 밤 더한 '서울밤단팥빵' 27일 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462453",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "봄학기 경쟁률 14.5 대 1…서영커 챌린지 가을학기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462452",
+      "dept": "청년사업담당관",
+      "category": "행정",
+      "date": "2026-07-26"
+    },
+    {
+      "title": "MIT 썸머스쿨을 서울로…서울AI재단-MIT, 글로벌 AI 인재양성 본격 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462451",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-07-26"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.25. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462515",
