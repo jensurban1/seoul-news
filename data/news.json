@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-07-27 07:45",
-  "total": 2712,
-  "new_today": 11,
+  "updated_at": "2026-07-28 07:46",
+  "total": 2726,
+  "new_today": 14,
   "items": [
+    {
+      "title": "“골목경기, 조금씩 살아나나...?”소상공인 체감경기·매출 소폭 반등, 소득은 감소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462753",
+      "dept": "서울신용보증재단",
+      "category": "경제",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울시, 제3차 도시철도망 구축계획 시민공청회(2차) 개최… 7.29. 열려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462746",
+      "dept": "교통정책과",
+      "category": "교통",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울시, 교량 안전점검 사각지대 해소할 로봇·드론 기술 찾는다… 내달 7일까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462745",
+      "dept": "재난안전정책과",
+      "category": "안전",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "미국 대학도 주목한 서울시 외로움·고립·은둔 정책",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462744",
+      "dept": "서울시복지재단",
+      "category": "행정",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울역사박물관 어린이박물관에 독서 공간 조성… 삼성출판사 기증 도서 선보여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462743",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.27. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462772",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "서울시 행정1부시장 직무대리, 돈의동 쪽방촌 폭염대비 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462719",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "장마 뒤 본격 무더위… 서울시, 취약계층 보호부터 도심 열섬 저감까지 폭염 대응 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462665",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "부담 덜어주는 서울형 안심 산후조리원…호응 속 운영 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462664",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "수상드론쇼·한강밤샘·수상레저…올여름 피서는 서울시 '한강페스티벌_여름'에서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462662",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "한옥, 내 손으로 살피고 돌본다… 서울시, 실습형 '한옥관리 아카데미' 첫선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462661",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "프리랜서 안심결제 통했다… '서울 프리랜서 온' 가입자·계약 실적 동반 성장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462660",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "서울미래인재재단, 내·외국인 장학생 첫 합동 사회공헌 ‘가치 잇는 동행’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462659",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-07-27"
+    },
+    {
+      "title": "“방송통신대학교 교재, 서울도서관에서 빌려 보세요”…시민 평생학습 지원 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462658",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-07-27"
+    },
     {
       "title": "서울시, 장애인에게 맞춤형 보조기기 대여 지원으로 삶의 질 향상 도모",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462460",
