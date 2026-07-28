@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-07-28 07:46",
-  "total": 2726,
-  "new_today": 14,
+  "updated_at": "2026-07-29 07:47",
+  "total": 2739,
+  "new_today": 13,
   "items": [
+    {
+      "title": "두 차례 개최에 6,807명 참여 '쉬엄쉬엄 모닝'… 이번엔 광진교 위 걷는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462841",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "잠실 민자사업 실시협약 체결… ＇32년 완공 목표로 '서울 스포츠·MICE 파크' 조성 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462838",
+      "dept": "동남권사업과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "폭염 잊는 도심 속 시원한 발 담그기! 서울시, ‘2026 청계천 물 첨벙첨벙’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462837",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "서울역사편찬원, <근현대 서울의 취업과 실업> 발간…근현대 서울 노동사 조명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462836",
+      "dept": "서울역사편찬원",
+      "category": "경제",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "서울시 지역사회서비스 교육, 비대면 64% 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462835",
+      "dept": "서울시복지재단",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.28. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462880",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울이 키운 K-패션, 세계로…'하이서울쇼룸' 10년 성과 홍콩 무대서 꽃핀다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462806",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울시 비만율 전국 최대폭 감소…손목닥터9988·서울체력장으로 비만예방에 박차",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462805",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "방학동 638, 641 일대 신속통합기획 확정…동북4산을 품은 숲세권 단지로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462804",
+      "dept": "신속통합기획과",
+      "category": "환경",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울시, 폭염 식히는 '시원한 아리수' 도심 곳곳에…아리수 나눔 냉장고 본격 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462803",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울시, 양성교육 통해 청각장애인 요양보호사 36명 배출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462802",
+      "dept": "장애인자립지원과",
+      "category": "복지",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울의 밤이 더 길어진다…‘서울달’ 금·토 심야 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462801",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "서울시, 전기적 요인 화재 여름철에 최다…냉방기기 화재 주의 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462800",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-07-28"
+    },
     {
       "title": "“골목경기, 조금씩 살아나나...?”소상공인 체감경기·매출 소폭 반등, 소득은 감소",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462753",
