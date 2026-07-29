@@ -1,8 +1,127 @@
 {
-  "updated_at": "2026-07-29 07:47",
-  "total": 2739,
-  "new_today": 13,
+  "updated_at": "2026-07-30 07:44",
+  "total": 2756,
+  "new_today": 17,
   "items": [
+    {
+      "title": "서울시-대광위 협력 결실…모두의카드(기후동행패스) 9월 1일 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462949",
+      "dept": "교통정책과",
+      "category": "환경",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시, 청계천 질서위반 엄정 대응… 전담인력 상주·과태료 부과 근거 마련 검토",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462948",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "물놀이부터 군함 관람까지 한 번에… 서울시, 이색 축제 '서울함 워터피크닉'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462947",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시-번개장터, 청년 성장 지원과 사회적 가치 확산에 함께 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462944",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시복지재단-서울시정신건강복지센터, 정신건강 법률지원 업무협약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462943",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시장 사후동정 -오세훈 서울시장, 29일 밤 성수대교 남단 연결램프 현장시험 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462958",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.29. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462957",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "서울시장 사후동정 - 휴가 중에도 폭염 취약계층 살핀 오세훈 시장…29일 종로구 어르신 무더위 쉼터 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462935",
+      "dept": "고령사회대응과",
+      "category": "복지",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "서울시, AI·돌봄산업 성장전략 모색…G3 미래경제분과 첫 현장 행보",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462928",
+      "dept": "경제정책과",
+      "category": "복지",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "불광동 359-1 일대 신속통합기획 확정…불광2동의 미래를 여는 신(新) 주거단지 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462927",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "서울빵부터 건강간편식까지 서울시가 만든 '핫템' 서울국제정원박람회서 만난다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462926",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "“키오스크 · AI 어려우면 찾아갑니다” 서울시 디지털 안내사, 100만 시민 도왔다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462925",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "삼표부지 81층 글로벌 주상복합·병무청역세권 1,233가구 공급 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462924",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "서울시, 구조된 열두달 고양이는 사랑받을 준비 완료! 행복까지 입양하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462923",
+      "dept": "동물보호과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "외국인도 편리하게 K-배달 체험… 서울시-배달의민족 업무협약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462922",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "외국인 관광객 21% 늘 때 소비 57%↑… 서울서 상반기 5조6천억 원 썼다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462920",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "서울 동남·동북·서남권 폭염경보로 격상… 서울시, 폭염 대응 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462912",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-29"
+    },
     {
       "title": "두 차례 개최에 6,807명 참여 '쉬엄쉬엄 모닝'… 이번엔 광진교 위 걷는다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462841",
