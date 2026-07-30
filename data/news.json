@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-07-30 07:44",
-  "total": 2756,
-  "new_today": 17,
+  "updated_at": "2026-07-31 07:53",
+  "total": 2770,
+  "new_today": 14,
   "items": [
+    {
+      "title": "'G3 서울플랜' 안전환경분과 첫 현장은… 건축공사장 동영상 기록관리 운영 개선안 모색",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463030",
+      "dept": "재난안전정책과",
+      "category": "환경",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "서울시, ‘공공기관 통합채용’ 첫 시행… 14개 기관 110명 선발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463029",
+      "dept": "공기업담당관",
+      "category": "환경",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "서울시-메가MGC커피, 커피박 분리배출 협약…시민 참여와 인식 개선 이끈다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463028",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.30. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463038",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울의 미식, 레스토랑 넘어 세계 최고 바(Bar)까지 세계가 주목",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463035",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 30일(목) 서울런 회원대상 '커뮤니케이션 특강' 찾아… 청년들의 사회진출 응원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463018",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "제12차 도시계획위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462973",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "배우 신현준·종이비행기 국가대표 이승훈 가족 등 8가족, '서울아이앰배서더' 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462972",
+      "dept": "저출생담당관",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시, 도심과 한강이 여름밤 야외 영화관으로… 이색 야외극장 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462971",
+      "dept": "도시경관담당관",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울 ‘생활폐기물 다이어트’ 통했다…하루 63톤 줄고, 재활용 55톤 증가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462970",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시, MZ·외국인 몰리는 더현대 서울에 'K-주얼리' 뜬다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462969",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "상품권 거래로 둔갑한 불법사채… 서울시, 수사와 예방으로 뿌리뽑는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462968",
+      "dept": "경제수사과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "금동관모 만들고 백제 왕 되어볼까…한성백제박물관 여름방학교실",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462967",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "서울시, 구의·신길·갈현 '신통기획' 후보지 3곳 추가선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/462965",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-07-30"
+    },
     {
       "title": "서울시-대광위 협력 결실…모두의카드(기후동행패스) 9월 1일 출시",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/462949",
