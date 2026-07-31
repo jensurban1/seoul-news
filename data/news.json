@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-07-31 07:53",
-  "total": 2770,
-  "new_today": 14,
+  "updated_at": "2026-08-01 07:47",
+  "total": 2777,
+  "new_today": 7,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.30. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463122",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "(엠바고16시20분)서울의 새로운 밤, 한강에서 시작된다… 오세훈 시장, '야간경제 1호' 출발 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463120",
+      "dept": "미래한강본부",
+      "category": "경제",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "서울시, 8월 1일 전기차 공공 충전요금 5단계로 개편",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463072",
+      "dept": "친환경차량과",
+      "category": "행정",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "\"서울의 일상이 여행이 된다\" … 시민이 뽑은'서울에디션25'25곳 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463071",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "\"문제 생긴 뒤 대응\"에서 \"위험 · 수요를 미리 예측\" 서울시, 민선 9기 AI 예측행정 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463070",
+      "dept": "데이터전략과",
+      "category": "행정",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "서울식물원, 81주년 광복절 맞아 6천그루‘나라꽃 무궁화 전시회’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463068",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "제15차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463031",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-07-31"
+    },
     {
       "title": "'G3 서울플랜' 안전환경분과 첫 현장은… 건축공사장 동영상 기록관리 운영 개선안 모색",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463030",
