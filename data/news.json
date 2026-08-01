@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-08-01 07:47",
-  "total": 2777,
-  "new_today": 7,
+  "updated_at": "2026-08-02 07:41",
+  "total": 2778,
+  "new_today": 1,
   "items": [
+    {
+      "title": "폭염 일일상황보고(26.8.1. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463146",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-01"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.7.30. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463122",
