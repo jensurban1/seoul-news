@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-08-02 07:41",
-  "total": 2778,
-  "new_today": 1,
+  "updated_at": "2026-08-03 07:42",
+  "total": 2790,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울시 출생아 26개월 연속 증가… 서울시, 엄마아빠 100인과 '서울아이 공감토크'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463121",
+      "dept": "저출생담당관",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "서울시 '시니어 채용 원하는 기업' 무료로 박람회 참여하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463115",
+      "dept": "고령사회대응과",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "서울시, 채무위기 청년에 「채무진단보고서」로 맞춤형 재기 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463114",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "서울시자원봉사센터 캐릭터, 전국 본선 뚫었다… '대상' 도전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463112",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.2. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463176",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "서울시장 사후동정 -오세훈 시장, 2일(일) 광진교에서 열린 ‘쉬엄쉬엄 모닝’ 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463162",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "K-푸드·뷰티에 이어 팝업·등산까지… 서울, '글로벌 MZ 최애도시' 5년 연속 1위",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463108",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "한강 다리밑, 시원한 야외 영화관으로 변신… 서울시, 화제작 왕사남 등 상영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463107",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "전국 최초 도입에 7.1대 1 몰렸다…  서영커 캠프 가을학기 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463106",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "서울 중장년, 지역자원 활용해 인생 2막 창업 나선다… 넥스트로컬 40+ 본격 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463105",
+      "dept": "대외협력과",
+      "category": "경제",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "410개 핀테크 기업 키운 서울핀테크랩… 성공기업 잇단 배출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463104",
+      "dept": "금융투자과",
+      "category": "환경",
+      "date": "2026-08-02"
+    },
+    {
+      "title": "서울AI재단, 서울 초등학생 3천명 '교실에서 AI 만난다'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463103",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-08-02"
+    },
     {
       "title": "폭염 일일상황보고(26.8.1. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463146",
