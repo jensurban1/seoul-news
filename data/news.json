@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-08-03 07:42",
-  "total": 2790,
-  "new_today": 12,
+  "updated_at": "2026-08-04 07:47",
+  "total": 2793,
+  "new_today": 3,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.3. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463258",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 3일(월) 전국 최초 민관협력형 '서울형 안심 산후조리원' 현장 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463235",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "서울시, 월요일 업무시작과 동시에 폭염 긴급대책회의... \"폭염대책, 현장에서 작동해야\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463208",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
     {
       "title": "서울시 출생아 26개월 연속 증가… 서울시, 엄마아빠 100인과 '서울아이 공감토크'",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463121",
