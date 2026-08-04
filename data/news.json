@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-08-04 07:47",
-  "total": 2793,
-  "new_today": 3,
+  "updated_at": "2026-08-05 07:49",
+  "total": 2811,
+  "new_today": 18,
   "items": [
+    {
+      "title": "(보도참고자료)서울시 폭염 일일상황보고(26.8.4. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463337",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "서울 전역에 첫 폭염중대경보… 서울시, 도심열기 식히고 취약시민 살피는데 총력대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463310",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "(엠바고10시20분)오세훈 시장, 폭염 속 폐지수집 어르신 찾아…  ''골목까지 찾아가는 돌봄 강화''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463302",
+      "dept": "시민협력과",
+      "category": "복지",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "서울시, 수질관리 정밀도 높인다...소독부산물 예측 프로그램 개발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463301",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "서울시 장애인, 양양에서 휠체어 타고 시원한 여름바다 만끽",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463300",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "서울시, 모아타운·신통기획 '취소 구역' 전면 공개로 투기거래 차단한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463299",
+      "dept": "모아주택과",
+      "category": "행정",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "서울시, 내 가게 지키는 '소상공인안심벨' 여성 소상공인까지 지원 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463298",
+      "dept": "양성평등담당관",
+      "category": "경제",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "(엠바고 11시) 점심·돌봄에 체력관리까지 더한 서울…오세훈 시장, 키즈카페·어린이 체력장 현장 찾아",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463297",
+      "dept": "보건의료정책과",
+      "category": "복지",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "서울시, 매출감소 소상공인 공유재산 임대료 ‘최대 30% 감면’ 연장 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463270",
+      "dept": "재산관리과",
+      "category": "주택",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "글로벌 무대 서는 서울야외도서관...서울시, 세계도서관정보대회서 K-독서문화 알린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463269",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "서울시 공무원을 사칭한 반려동물시설 보안 장비 구매 유도 주의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463268",
+      "dept": "동물보호과",
+      "category": "행정",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "북서울꿈의숲, 숲속 데크길 신설 및 야외카페공간 새단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463267",
+      "dept": "북부공원여가센터",
+      "category": "환경",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "소상공인 발목 잡는 규제, 서울신보가 규제혁신 제안 받는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463266",
+      "dept": "서울신용보증재단",
+      "category": "경제",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "당 함량 알고 스스로 골랐다… 서울시 덜 달달 원정대 90일의 변화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463278",
+      "dept": "식품정책과",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "명동은 더 빛나고, 서울은 더 매력적으로… 디자인경관 저변 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463277",
+      "dept": "도시경관담당관",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "''국평 최하 00억 가야죠''… 카톡방에서 아파트 집값 담합 주도한 입주민 덜미",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463276",
+      "dept": "경제수사과",
+      "category": "주택",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "생활비 아끼는 '수도요금 절약법'… 서울시, 전자고지 감면 혜택 알린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463275",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "이사는 '손 없는 날' 이제는 이웃과 '손 잇는 날', 서울시 「이사데이 이웃데이」 캠페인 참여자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463274",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-08-03"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.3. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463258",
