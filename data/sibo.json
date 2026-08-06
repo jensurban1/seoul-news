@@ -1,8 +1,16 @@
 {
-  "updated_at": "2026-07-30 11:13",
+  "updated_at": "2026-08-06 11:27",
   "total_editions": 20,
-  "new_today": 2,
+  "new_today": 1,
   "editions": [
+    {
+      "id": "27210",
+      "no": "3138",
+      "date": "2026.08.06",
+      "items": [],
+      "mainCount": 0,
+      "adminCount": 0
+    },
     {
       "id": "27190",
       "no": "3138",
@@ -150,14 +158,6 @@
     {
       "id": "26909",
       "no": "4151",
-      "date": "2026.05.21",
-      "items": [],
-      "mainCount": 0,
-      "adminCount": 0
-    },
-    {
-      "id": "26889",
-      "no": "3138",
       "date": "2026.05.21",
       "items": [],
       "mainCount": 0,
