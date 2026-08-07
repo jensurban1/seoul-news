@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-08-06 07:45",
-  "total": 2825,
-  "new_today": 14,
+  "updated_at": "2026-08-07 10:26",
+  "total": 2843,
+  "new_today": 18,
   "items": [
+    {
+      "title": "(엠바고10시)제16차 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463498",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "AI 교육부터 취·창업까지…G3 청년특별분과, 현장에서 청년 성장경로 지원방안 모색",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463494",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "\"외국인도 서울 사람처럼\"… '2026 우수 서울스테이' 18곳 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463493",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "서울식물원에서 만나는 미술전시 <다정한 균형展> 연계 프로그램 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463492",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.6. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463482",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "서울시, 6일 17시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463466",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "서울시, 미래 먹거리 '양자기술' 창업으로 잇는다…서울퀀텀캠퍼스 3기 개강",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463463",
+      "dept": "AI전략산업과",
+      "category": "경제",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "서울시-애경산업㈜ 기부전달식, 취약계층에 53억 원 상당 생활용품 나눈다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463455",
+      "dept": "통합돌봄과",
+      "category": "경제",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "정부 부동산 정책 이대로 괜찮나… 세제·전월세·공급 시민 목소리로 해법 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463453",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "생활 동선에 들어온 새로운 폭염 쉼터 광화문광장 '해피소'… 51일간 3만 명 이용",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463442",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "서울시민대학 9~11월 2학기 개강…192개 강좌 5,600여 명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463440",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "(엠바고10시)제9차 도시계획위원회 신속통합기획 정비사업 등 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463439",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "‘기후테크로 여는 기후혁신도시, 서울’ 첫 걸음, 현장에서 길을 찾다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463438",
+      "dept": "기후환경정책과",
+      "category": "환경",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "감사의 정원, 세계가 공감하는 '메모리얼 플랫폼' 도약…누적 10만 명 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463421",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "도심 걷고 체력 측정까지...서울시, '2026 서울 걷자 페스티벌' 참가신청 개시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463420",
+      "dept": "생활교통안전과",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "시민이 제안하고 시민이 결정하는 2027년 시민참여예산 온라인 투표 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463419",
+      "dept": "재정담당관",
+      "category": "행정",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "서울생활사박물관, 8월 15일‘문화가 흐르는 박물관’운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463418",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "서울국제정원박람회, 매헌시민의숲 가을행사 참여정원 조성 업무협약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463417",
+      "dept": "조경과",
+      "category": "문화",
+      "date": "2026-08-06"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 5일(수) ‘2026 광화문 달빛요가’ 개막식 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463413",
