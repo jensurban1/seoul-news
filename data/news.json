@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-08-08 07:22",
-  "total": 2843,
-  "new_today": 0,
+  "updated_at": "2026-08-09 07:14",
+  "total": 2852,
+  "new_today": 9,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.8. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463568",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.7. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463559",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "서울시, 19시 기준 오존 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463554",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "서울시, 7일 15시 기준 오존(O3) 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463534",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "(엠바고13시) 서울대공원, 폭염에 지친 동물들을 위한 '맞춤형 특별식' 제공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463530",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "(엠바고14시)서울시, 민간 정비사업은 주택공급의 핵심… 대통령실에 공급효과 '백서' 전달",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463524",
+      "dept": "주거정비과",
+      "category": "주택",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 7일(금) 폭염 속 ‘이동노동자쉼터’ 찾아 휴식환경 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463521",
+      "dept": "언론담당관",
+      "category": "환경",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "버스킹부터 영화 상영회까지, 서울시설공단 여름 문화 행사 '풍성'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463497",
+      "dept": "서울시설공단",
+      "category": "교통",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "사회복지 현장에서 일의 지속가능성을 말하다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463495",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-08-07"
+    },
     {
       "title": "(엠바고10시)제16차 정비사업 통합심의위원회 개최결과",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463498",
