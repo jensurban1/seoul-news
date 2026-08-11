@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-08-11 07:23",
-  "total": 2878,
-  "new_today": 25,
+  "updated_at": "2026-08-12 07:28",
+  "total": 2880,
+  "new_today": 2,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.11. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463775",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "(엠바고10시30분)오세훈 시장, 서계·청파서 \"멸실 빼도 1,695세대 순증\"… 정비사업 공급효과 입증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463653",
+      "dept": "모아주택과",
+      "category": "행정",
+      "date": "2026-08-11"
+    },
     {
       "title": "서울시, '민간 안전취약시설 보수·보강 사업비 지원 한다'",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463652",
