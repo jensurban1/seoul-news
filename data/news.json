@@ -1,8 +1,183 @@
 {
-  "updated_at": "2026-08-12 07:28",
-  "total": 2880,
-  "new_today": 2,
+  "updated_at": "2026-08-13 07:27",
+  "total": 2905,
+  "new_today": 25,
   "items": [
+    {
+      "title": "광복절 연휴에 문 연 병원은 어디? 120다산콜, 의료·교통·행사 안내 24시간 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463834",
+      "dept": "서울시120다산콜재단",
+      "category": "교통",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "안전한 서울을 만든 숨은 영웅을 찾습니다… 서울시 안전상 후보자 추천 접수",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463833",
+      "dept": "재난안전예방과",
+      "category": "안전",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "''AI에 매달 얼마 쓰나''… 서울시민에게 '달라진 서울살이' 묻는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463832",
+      "dept": "데이터전략과",
+      "category": "행정",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "가시연꽃부터 빅토리아수련까지…서울식물원에서 만나는 시원한 물속식물",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463831",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "서울시 사회복지 공무원 복지환경 변화대응력 강화한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463830",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "(엠바고14시30분)청년이 서울 떠나는 이유가 집이어선 안 돼… 오세훈 시장, 청년 주거사다리 더 촘촘히",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463822",
+      "dept": "청년주거과",
+      "category": "복지",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "(엠바고15시) 서울시, 장애아동 조기발견부터 맞춤지원까지 통합 지원센터 개소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463819",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "(보도참고자료) 서울시, ''경의선숲길 최종 판결 겸허히 수용…철도공단과 향후 대책 모색''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463807",
+      "dept": "정원도시정책과",
+      "category": "교통",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "서울시, 9.1 '기후동행패스' 출시 준비 박차…카드 사전 전환 홍보 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463801",
+      "dept": "교통정책과",
+      "category": "환경",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "서울시, 정비사업 시민 부담은 줄이고 속도는 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463800",
+      "dept": "창의규제담당관",
+      "category": "행정",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "서울패션위크, DDP와 롯데월드타워 잇는다…서울의 랜드마크가 런웨이 된다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463799",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "펀딩으로 가능성 확인하고 해외 진출까지… 서울시, 소상공인 성장 사다리 놓는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463798",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "60년 전 시민 약 80만 명이 찾은 '8·15 도시계획 전시회', 다시 만난다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463797",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "서울시, 길음 역세권 장기전세주택 건축심의 통과… 574세대 공급 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463796",
+      "dept": "건축기획과",
+      "category": "주택",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "G3 균형발전특별분과, 첫 현장방문…''서울아레나 27년 상반기 준공 차질 없이 추진''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463795",
+      "dept": "균형발전정책과",
+      "category": "행정",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "한강버스 15일부터 야간운항 확대…한강의 밤 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463794",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "서울시, 대규모 창고시설 화재안전조사…위반사항 42건 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463793",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "8월은 주민세 납부의 달…8월 31일까지 꼭 납부하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463791",
+      "dept": "세무과",
+      "category": "행정",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "서울시복지재단-서민금융진흥원, 청년 자산형성 지원 업무협약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463790",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "세계인이 찾는 서울의 밤, 한강 드론 라이트 쇼… 12만 5천 명 방문, 뚝섬 상권 매출 39% 증가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463788",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "세계 2위로 뻗은 K-뷰티…서울뷰티위크서 '다음 성장' 잇는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463787",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "서울시 공무원 사칭해 금은방에 키오스크 선구매 유도… 소상공인 피해 주의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463786",
+      "dept": "공정경제과",
+      "category": "경제",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "매콤한 한국인의 밥상을 '와삭'…'서울간식 라이스칩 2탄' 김치볶음밥·간장버터 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463785",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "'퇴근 후 AI 배우고 필라테스로 재충전하세요' 서울시 노동자복지관 하반기 교육생 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463782",
+      "dept": "노동정책과",
+      "category": "복지",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "댕댕이의 뜨거운 한낮 산책은 피하세요…서울시, 반려동물 폭염 안전수칙 안내",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463781",
+      "dept": "동물보호과",
+      "category": "안전",
+      "date": "2026-08-11"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.11. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463775",
