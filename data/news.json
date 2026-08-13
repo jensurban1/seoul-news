@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-08-13 07:27",
-  "total": 2905,
-  "new_today": 25,
+  "updated_at": "2026-08-14 07:27",
+  "total": 2912,
+  "new_today": 7,
   "items": [
+    {
+      "title": "(엠바고 16시) 서울시 시민감사옴부즈만委, 법률자문단 전문성 강화...시민 권익 보호 촘촘히",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463906",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "(엠바고14시) 비워진 길모서리, 세 개의 건물군, '서울창업허브 관악' 설계공모 당선작 발표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463898",
+      "dept": "미래공간담당관",
+      "category": "경제",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "(엠바고14시)서울시, “정부 정비사업 규제 개선 일부 진전… 추가 규제개선 필요”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463895",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "“광복의 소리, 미래를 깨우다”...서울시, 제81주년 광복절 타종행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463883",
+      "dept": "문화유산과",
+      "category": "문화",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "서울시, 올해 첫 '일반주택형 미리내집' 128세대 공급... 14일부터 입주자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463882",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "< 서울시청‘하늘광장 갤러리’2026년도 두 번째 전시 개최 > 사라져가는 도시의 풍경을 기억하다...‘서울의 흔적’회화전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463881",
+      "dept": "총무과",
+      "category": "문화",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "\"서울역 가는 택시 불러줘\" 한마디면 끝... 서울AI재단, 말로 쓰는 공공서비스 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463879",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-08-13"
+    },
     {
       "title": "광복절 연휴에 문 연 병원은 어디? 120다산콜, 의료·교통·행사 안내 24시간 대응",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463834",
