@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-08-06 11:27",
+  "updated_at": "2026-08-13 10:51",
   "total_editions": 20,
-  "new_today": 1,
+  "new_today": 3,
   "editions": [
+    {
+      "id": "27251",
+      "no": "3138",
+      "date": "2026.08.13",
+      "items": [],
+      "mainCount": 0,
+      "adminCount": 0
+    },
+    {
+      "id": "27250",
+      "no": "4172",
+      "date": "2026.08.12",
+      "items": [],
+      "mainCount": 0,
+      "adminCount": 0
+    },
+    {
+      "id": "27230",
+      "no": "4171",
+      "date": "2026.08.10",
+      "items": [],
+      "mainCount": 0,
+      "adminCount": 0
+    },
     {
       "id": "27210",
       "no": "3138",
@@ -135,30 +159,6 @@
       "id": "26970",
       "no": "4154",
       "date": "2026.06.01",
-      "items": [],
-      "mainCount": 0,
-      "adminCount": 0
-    },
-    {
-      "id": "26950",
-      "no": "3138",
-      "date": "2026.05.28",
-      "items": [],
-      "mainCount": 0,
-      "adminCount": 0
-    },
-    {
-      "id": "26930",
-      "no": "4152",
-      "date": "2026.05.26",
-      "items": [],
-      "mainCount": 0,
-      "adminCount": 0
-    },
-    {
-      "id": "26909",
-      "no": "4151",
-      "date": "2026.05.21",
       "items": [],
       "mainCount": 0,
       "adminCount": 0
