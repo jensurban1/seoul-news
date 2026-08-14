@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-08-14 07:27",
-  "total": 2912,
-  "new_today": 7,
+  "updated_at": "2026-08-15 07:09",
+  "total": 2923,
+  "new_today": 11,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.14. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464009",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "한강버스 누적 탑승객 50만 명 돌파… 탑승객 97% 만족",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463981",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "서울시·고려당, 광복절 기념 8,150개 서울빵 쪽방촌 전달",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463971",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "서울시, 서울 가드닝 크루가 되어 공원의 정원관리를 함께하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463970",
+      "dept": "공원여가사업과",
+      "category": "문화",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "“산타가 한양으로 여름휴가를 왔다”…서울역사박물관 어린이박물관의 특별한 첫여름",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463969",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "(엠바고 10시50분)서울인재, 지역에서 '새 일' 찾는다… 넥스트로컬, 청년 넘어 중장년 인생 2막까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463968",
+      "dept": "대외협력과",
+      "category": "복지",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "폭염특보 해제 3일 만에 다시 무더위... 서울 동남권에 폭염주의보 발효",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463965",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "서울시장 사후동정 - 14일(금) 오세훈 시장, 세계 인재 모이는 ‘G3 인재도시 서울’ 해법 모색",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463953",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "밤이 더 매력적인 서울...서울시 G3 글로벌매력분과, ‘힙지로’ 야간관광 현장 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463952",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "7월 토허 신청 3개월째 감소, 가격상승세 둔화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463951",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "역사학자와 함께 서울 궁궐 투어…서울역사편찬원, 궁궐역사문화답사 참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/463950",
+      "dept": "서울역사편찬원",
+      "category": "문화",
+      "date": "2026-08-14"
+    },
     {
       "title": "(엠바고 16시) 서울시 시민감사옴부즈만委, 법률자문단 전문성 강화...시민 권익 보호 촘촘히",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/463906",
