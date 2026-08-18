@@ -1,8 +1,197 @@
 {
-  "updated_at": "2026-08-18 07:10",
-  "total": 2924,
-  "new_today": 0,
+  "updated_at": "2026-08-19 07:09",
+  "total": 2951,
+  "new_today": 27,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.18. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464163",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 18일(화) 권영세 국민의힘 의원 면담",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464157",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "(엠바고15시) 서울시, 2026년 을지연습 18일~21일 4일간 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464129",
+      "dept": "민방위담당관",
+      "category": "행정",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "(엠바고11시30분) 서울시, 세계적 연구대학 英 임페리얼과 손잡고 AI 스타트업 기술난제 푼다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464119",
+      "dept": "AI전략산업과",
+      "category": "경제",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "어르신 호응 높은 '120 동행콜택시' 더 편리하게... 120→6번 바로연결·오전 8시부터 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464118",
+      "dept": "택시정책과",
+      "category": "복지",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "재난현장엔 이들의 구슬땀도 있다...서울시, 보건소 신속대응반 실전훈련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464117",
+      "dept": "보건의료정책과",
+      "category": "안전",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "2026 서울시 조경상·정원도시상, 시상식과 연계행사 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464115",
+      "dept": "정원도시정책과",
+      "category": "문화",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "폭염 속 여름 농산물 잔류농약 집중 검사... 부적합 농산물 유통 전 차단",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464112",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "주말 비 그치자 다시 무더위… 서울 동남·동북·서남권에 폭염주의보",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464111",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "(엠바고10시)서울시, 청년 '오늘·내일' 함께 키운다... AI 사다리·대학가 활력 'G3 서울플랜'에 반영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464104",
+      "dept": "기획담당관",
+      "category": "복지",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "(엠바고08시)'亞 1위 MICE 도시' 서울... 인도 초대형 포상관광단 1,400명 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464090",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "서울 청년 중개보수·이사비 최대 40만원... 서류 간소화·제대군인 신청연령 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464088",
+      "dept": "청년주거과",
+      "category": "복지",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "취향을 겨냥한 브랜드 대전... 'DDP디자인페어' 티켓 18일 오픈",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464087",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "1호 부부 탄생한 '서울팅'...오는 9월 한강버스에서 다시 열린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464085",
+      "dept": "저출생담당관",
+      "category": "교통",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "국사봉에 둘러싸인 명품 주거단지...상도동 214 일대 신속통합기획 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464084",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "낮엔 K-뷰티, 해질녘엔 러닝, 밤엔 힙합...DDP서 즐기는 '서울 라이프스타일'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464083",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "청년 문화 선택지 넓히는 서울시...서울청년문화패스 24세까지 늘리고 사용한도 개선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464082",
+      "dept": "문화정책과",
+      "category": "복지",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "서울의 감염병 대응 노하우 세계로...10개국 전문가와 경험 공유",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464081",
+      "dept": "감염병관리과",
+      "category": "행정",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "로봇과 대화하고, AI와 창작한다...서울RAIM 개관 2년, 시민 체험공간으로 진화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464080",
+      "dept": "서울시립과학관",
+      "category": "행정",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "2026 서울국제정원박람회 800만명 돌파... 가을에도 정원문화 콘텐츠는 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464079",
+      "dept": "조경과",
+      "category": "문화",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "'한강'이 K-POP 무대로 도약... 여의도 한강공원서 빅뱅 20주년 기념 행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464078",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "서울시, 전기 이륜자동차 배터리 화재 분석...6천여 대 리콜 이끌어",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464077",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "\"교통부터 AI까지 서울에 답이 있다...해외 도시 방문단의 'K-정책' 배우기 열풍”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464076",
+      "dept": "도시외교담당관",
+      "category": "교통",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "서울시, '청년 맞춤형 부동산 교육'으로 가을 이사철 전세사기 예방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464075",
+      "dept": "토지관리과",
+      "category": "주택",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "세계적인 디자인 작품 시장 열려... 페어 강화한 '디자인마이애미 서울' 오픈",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464074",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "호신술·위급 상황 대처까지 「자치경찰 시민대학」 함께해요!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464073",
+      "dept": "자치경찰위원회",
+      "category": "행정",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "호신술·위급 상황 대처까지 「자치경찰 시민대학」 함께해요!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464072",
+      "dept": "자치경찰위원회",
+      "category": "행정",
+      "date": "2026-08-16"
+    },
     {
       "title": "서울시장 사후동정 - 15일(토) '제81주년 광복절' 기념 타종행사 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464027",
