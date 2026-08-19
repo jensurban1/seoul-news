@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-08-19 07:09",
-  "total": 2951,
-  "new_today": 27,
+  "updated_at": "2026-08-20 07:11",
+  "total": 2966,
+  "new_today": 15,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 김진오 저고위 부위원장 면담",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464220",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "'강남 심야 자율주행택시' 7대→19대로 확대… 심야 이동편의 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464205",
+      "dept": "미래첨단교통과",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "서울시, 드론·AI 위협 직접 보고 만졌다…  을지연습 「시민참여 안보체험전」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464204",
+      "dept": "민방위담당관",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "서울시, 6,077억 원 투입해 정수센터 재정비 본격 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464203",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "광화문광장서 즐기는 청년 건축가들의 '학교'... 서울시, 'UAUS 파빌리온' 전시 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464202",
+      "dept": "한옥건축자산과",
+      "category": "복지",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "서울시, 발달장애인 '도전행동' AI로 자동 포착...전문가 맞춤 솔루션 제공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464201",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "“움직여도, 소리 내도 괜찮아요”...서울역사박물관, 하반기 배리어프리영화관 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464200",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 19일(수) 국민의힘 서울시당과 부동산 정책 해법 모색",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464198",
+      "dept": "언론담당관",
+      "category": "주택",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "서울시, 집중호우 피해 경남에 재해구호금 2억원 긴급 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464191",
+      "dept": "대외협력과",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "(엠바고09시50분)(기자설명회) 그늘도 시민의 기본 권리… 서울시, '그늘보행권' 선언",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464190",
+      "dept": "도시공간전략과",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "정비사업 '조합설립' 1년에서 4개월로 앞당긴다… 서울시, '공정촉진 개선안' 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464180",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "서울국제정원박람회 가을을 직접 기록할 시민의 정원 서포터즈 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464178",
+      "dept": "정원도시정책과",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "여름방학·휴가철 끝까지 서울시민 안전 빈틈없이 챙긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464177",
+      "dept": "자치경찰위원회",
+      "category": "안전",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "가족과 함께 떠나는 역사 탐방…서울역사편찬원, ‘교과서 역사기행’ 하반기 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464176",
+      "dept": "서울역사편찬원",
+      "category": "행정",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "서울시복지재단,「2026 돌봄SOS 질의응답집」 첫 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464175",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-08-19"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.18. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464163",
