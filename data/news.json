@@ -1,8 +1,29 @@
 {
-  "updated_at": "2026-08-23 07:08",
-  "total": 2991,
-  "new_today": 0,
+  "updated_at": "2026-08-24 07:08",
+  "total": 2994,
+  "new_today": 3,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.23. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464432",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "서울시장 사후동정-오세훈 시장. 23일(일) 「뷰티풀라이프 인 서울(BLS)」 개막식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464426",
+      "dept": "",
+      "category": "행정",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "비 그친 뒤 다시 무더위. 서울 전역에 폭염주의보 발효",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464418",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-23"
+    },
     {
       "title": "서울시, 자율주행버스 500대로 늘리고 사각지대 없는 교통망 구축...글로벌 TOP3 대중교통 혁신",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464351",
