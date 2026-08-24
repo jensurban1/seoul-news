@@ -1,8 +1,169 @@
 {
-  "updated_at": "2026-08-24 07:08",
-  "total": 2994,
-  "new_today": 3,
+  "updated_at": "2026-08-25 07:12",
+  "total": 3017,
+  "new_today": 23,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.24. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464531",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "(보도참고자료) 500세대 이하 자치구 권한이양 관련 서울시 입장문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464502",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "(엠바고14시)(기자설명회) 서울시 '약자동행' 성과 전 분야로 확산… 6대 영역 지수 첫 동반 상승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464486",
+      "dept": "약자동행담당관",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "오세훈 일타시장… 용산공원 아파트에 찬성한다면 역사의 죄인 될 것",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464484",
+      "dept": "",
+      "category": "주택",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "혈당스파이크 방지… 손목닥터9988 당뇨 예방 밀착관리 서비스 시작 (혈당캐치9988)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464475",
+      "dept": "스마트건강과",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "서울시, 폭염특보 기간 민간 공사장 30곳 긴급점검… 온열질환 예방조치 집중 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464474",
+      "dept": "재난안전정책과",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "서울도서관·시청서 QR 찍으면 전자책 20만 권이 와르르…9월 서울은 지금 읽는 중",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464473",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "낮에는 전국여행, 밤에는 서울야경…‘지역관광 안테나숍’한층 풍성해진다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464472",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "서울의 제비 번식 기록부터 동네 생태 탐사까지…‘서울 시민과학’한자리에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464471",
+      "dept": "기후환경정책과",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "서울시, 건강과 힐링을 동시에 누리는 월드컵공원 제2파크골프장 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464470",
+      "dept": "서부공원여가센터",
+      "category": "문화",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "서울시민 3명 중 2명(63.9%) \"용산공원 내 공공주택 공급 반대\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464460",
+      "dept": "",
+      "category": "주택",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "(엠바고10시)\"일상에서 K-컬처로 환승하세요\"… 시청역 40년 비밀공간 24일 개방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464459",
+      "dept": "도시활력담당관",
+      "category": "교통",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "서울시, '제4기 한강 해설사' 모집…한강 역사·문화 알릴 이야기꾼 양성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464458",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "최재붕·유응준 등 AI 전문가 5인 특강 ‘전석 매진’…서울시민대학 ‘AI 마스터 위크’ 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464448",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "공예가의 작업실로 ‘체크인’…서울공예박물관, 전국 누비는 <공박위크 2026>",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464447",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "구두·옷·안경 수선하는 종합병원…대규모 자원순환의 장 열려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464446",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "서울시, 모아주택 ‘31년까지 4만호 착공…모아통합기획 도입해 1.5년 단축",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464445",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "아동복지센터, '광역 아동보호 컨트롤타워'로 새 출발… 입양~심리치료 통합지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464444",
+      "dept": "아동담당관",
+      "category": "복지",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "“다시 일할 타이밍!”60세 이상 시니어 위한  「서울시 시니어 일자리박람회 2026」참여자 사전 신청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464443",
+      "dept": "고령사회대응과",
+      "category": "경제",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "서울 의료관광 비즈니스로 잇는다… 2026 서울의료관광 국제트래블마트 참가기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464442",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "서울시,‘푸른하늘의 날’캠페인 추진…일상 속 작은 실천으로 더 맑은 하늘 만든다!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464441",
+      "dept": "대기정책과",
+      "category": "행정",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "교실에서 나눔 배우고 직접 기부까지 … 서울시-해피빈 ‘나눔교실’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464440",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "제8차 서울특별시 도시·건축공동위원회  수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464439",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-08-23"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.23. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464432",
