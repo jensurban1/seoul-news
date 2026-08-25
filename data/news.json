@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-08-25 07:12",
-  "total": 3017,
-  "new_today": 23,
+  "updated_at": "2026-08-26 07:12",
+  "total": 3032,
+  "new_today": 15,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.25. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464602",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "현장에서 재건축 물꼬 튼다… 서울시, '찾아가는 재건축 신통자문' 첫 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464600",
+      "dept": "공동주택과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "(엠바고15시) G3 균형발전특별분과, 남산 곤돌라 현장점검…＂곤돌라 차질 없이 완수＂",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464581",
+      "dept": "도시정비과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 25일(화) 도쿄도의회 자민당 의원단 만나 서울-도쿄 우호협력 논의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464580",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "누적 관광객 647만 명 '잠수교 뚜벅뚜벅 축제'… 올가을 8주간 매주 다른 축제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464567",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "서울시, 거제 수해현장에 '바로봉사단' 긴급 파견… 지역 넘어 복구에 힘 보탠다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464566",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "낮부터 밤까지 서울은 ‘지붕 없는 미술관’…제3회 서울조각페스티벌",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464565",
+      "dept": "박물관과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "홀로 맞서지 않도록…서울시, 법조계와 \"자립준비청년 법률 울타리\" 함께 만든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464564",
+      "dept": "아동담당관",
+      "category": "복지",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "폭염에 주춤했던 모기, 가을까지 방심 금물…서울시 감시·예방 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464563",
+      "dept": "감염병관리과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "'先이주-善순환' 첫 사례, 남대문‘해든집’쪽방주민 추가 42세대 주거상향",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464541",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "서울시, 동물행복페스타 개최…댕댕이와 함께 한강변 산책할 500팀 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464540",
+      "dept": "동물보호과",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "사찰·한방과 디지털의 만남… 서울시, 외래관광객 위한 스타트업 발굴",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464539",
+      "dept": "관광산업과",
+      "category": "경제",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "서울물재생시설공단 체험형 인턴십 5년간 11개국 참여… K-물재생기술 글로벌 전파",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464538",
+      "dept": "서울물재생시설공단",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "서울연구원, 27일‘중장년 생애전환 지원 정책 포럼’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464537",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "발굴현장에서 미래의 고고학자 키운다…한성백제박물관‘청년 고고(考古)’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464536",
+      "dept": "한성백제박물관",
+      "category": "복지",
+      "date": "2026-08-25"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.24. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464531",
