@@ -1,8 +1,197 @@
 {
-  "updated_at": "2026-08-26 07:12",
-  "total": 3032,
-  "new_today": 15,
+  "updated_at": "2026-08-27 11:18",
+  "total": 3059,
+  "new_today": 27,
   "items": [
+    {
+      "title": "'모아주택 1호' 준공… 서울시, 모아주택사업 '주택공급' 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464714",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "서울시 합계출산율 반등세 이어가… 올해 출생아수·혼인건수 증가율 전국 1위",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464713",
+      "dept": "저출생담당관",
+      "category": "복지",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "기후동행패스 9.1 본격 출시…신규카드 무상 교환 현장 이벤트",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464712",
+      "dept": "교통정책과",
+      "category": "환경",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "‘MZ 핫플’ 송리단길 품은 잠실관광특구… 골목상권까지 관광권역 넓힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464711",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "9월의 서울, 패션으로 문 연다…서울패션위크서 런웨이 보고 NCT 의상 만나고 팝업 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464710",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "141개 예술공간 잇는 서울 대표 미술축제…<2026 서울아트위크> 31일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464709",
+      "dept": "박물관과",
+      "category": "문화",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "'왕이 즐기던 차와 간식'을 'K-기념품'으로…서울시×정관장, '조선왕실 다과상' 28일 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464708",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "서울관광 또 새 기록… 7월 외래관광객 161만 명 '역대 최다'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464688",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "서울시, 모아주택 초기사업비 첫 융자…조합당 최대 20억",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464686",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "국내 최초 완전돔 '고척스카이돔', 누적 관람객 1,000만 명 돌파",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464685",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "한강 야외수영장 6곳 검사, 수족구병·결막염 바이러스 모두 '불검출'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464684",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "러너들과 반갑게 'HI'…서울시, 아리수 알리는 '러너스하이' 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464683",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "서울대공원, 국립생태원과 함께 경남 합천에 금개구리 100마리 방사, 멸종위기종 보전 활동 지속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464682",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "(엠바고10시)제14차 도시건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464681",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.26. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464675",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "(엠바고12시) ''겨울바지 샀는데 여름바지 왔다''… 서울시, 유튜브 광고 해외쇼핑몰 소비자피해 주의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464626",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "9월 주말부터 시청 1층이 '서울체력장'으로…참여하면 1,000P '쏙'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464625",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "사당동 305-35 신통기획 확정…최고 34층, 970세대 주거단지 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464624",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "서울시, 세계불꽃축제 ‘명당 호텔’ 집중점검… 과도한 숙박요금·예약취소 살핀다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464623",
+      "dept": "관광산업과",
+      "category": "문화",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "서울식물원, 식물자원 확보 속도낸다… 2027년까지 8,000종으로 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464622",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "서울시, 9월 '수도요금 체납 집중정리'…장기·고액 체납액 55억 징수 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464620",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "대치동 업무 시설·코엑스 리모델링, 글로벌 MICE 허브로 재탄생",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464619",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "서울시, 올해 정비사업 3만 호 착공 총력… 한남3구역서 현장 공정점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464618",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "한강 안전 지키는 새 거점, 한강경찰대 난지센터 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464617",
+      "dept": "미래공간담당관",
+      "category": "안전",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "서울브랜드굿즈 공모…'서울굿즈' 중소상공인 210곳 키운다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464616",
+      "dept": "서울디자인재단",
+      "category": "경제",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "올가을, 가족과 함께 ‘서커스 피크닉’ 떠나보자!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464615",
+      "dept": "서울문화재단",
+      "category": "행정",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "서울복지교육센터, 「복지리더 연찬회」 성황리에 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464614",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-08-26"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.25. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464602",
