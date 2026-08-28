@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-08-27 11:18",
-  "total": 3059,
-  "new_today": 27,
+  "updated_at": "2026-08-28 14:51",
+  "total": 3073,
+  "new_today": 14,
   "items": [
+    {
+      "title": "서울시, 9월 중장년 채용박람회…“160여 개 기업이 중장년 3천 명 뽑는다”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464814",
+      "dept": "서울시50플러스재단",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "가을 나들이철 진드기 주의…서울시, 도심공원 진드기 집중 감시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464813",
+      "dept": "보건환경연구원",
+      "category": "문화",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "서울시설공단, 스마트 도로관리시스템 기술력 국제학술대회에서 알린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464811",
+      "dept": "서울시설공단",
+      "category": "교통",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "자녀의 발달이 걱정된다면, 시립은평병원 한 곳에서!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464809",
+      "dept": "은평병원",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "AI 시대, 누구를 위해 어떤 돌봄을 할 것인가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464808",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "광진 모아타운·성북 모아주택, 市 소규모주택정비 심의 통과…총643세대 공급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464807",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "서울시 ‘신통기획’운영 개선…소통은 가깝게·절차는 신속하게",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464806",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "'가까운 곳에서 잠시 쉬어가세요'… 서울시, 편의점 3천여 곳 배달라이더 쉼터로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464805",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "8년 장기연애부터 마흔다섯에 만난 예비부부까지…247쌍이 전한 결혼 이야기",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464803",
+      "dept": "가족담당관",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "서울시, 2026년 가을편 「서울 꿈새김판」 게시 문안 공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464802",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "서울시 정책현안 해결할 AI 연구과제 찾는다…28일 AI서울테크연구지원사업 발표회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464801",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "사건 기록으로 만나는 19세기 서울…서울역사편찬원, 제25회 서울역사학술대회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464800",
+      "dept": "서울역사편찬원",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.27. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464795",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "(엠바고15시30분) “해외 손님 맞고, 통역하고, 현장 누빈다” 스마트라이프위크 (SLW) 2026 대학생 서포터즈 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464707",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-08-27"
+    },
     {
       "title": "'모아주택 1호' 준공… 서울시, 모아주택사업 '주택공급' 본격화",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464714",
