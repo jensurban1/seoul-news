@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-08-29 12:24",
-  "total": 3074,
-  "new_today": 1,
+  "updated_at": "2026-08-30 08:39",
+  "total": 3076,
+  "new_today": 2,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.29. 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464903",
+      "dept": "재난안전예방과",
+      "category": "행정",
+      "date": "2026-08-29"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 29일(토) 「서울조각페스티벌」 개막식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464902",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-08-29"
+    },
     {
       "title": "(보도참고자료) 서울시 폭염 일일상황보고(26.8.28. 기준)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464887",
