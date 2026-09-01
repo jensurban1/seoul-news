@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-09-01 09:50",
-  "total": 3104,
+  "updated_at": "2026-09-02 08:37",
+  "total": 3119,
   "new_today": 15,
   "items": [
+    {
+      "title": "도심·한강 넘어 공원으로…‘쉬엄쉬엄 모닝’월드컵공원·서울식물원 간다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465125",
+      "dept": "체육진흥과",
+      "category": "문화",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "서울시, 추석 앞두고 건설현장 공사대금·임금 체불 특별점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465124",
+      "dept": "감사위원회",
+      "category": "행정",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "난타부터 모델 워킹까지…어르신이 주인공 된 서울시 ‘누구나 청춘무대’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465123",
+      "dept": "문화정책과",
+      "category": "복지",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "‘서울형 학교 밖 청소년 지원’ 프로그램 해외에 알린다… 일본, 탄자니아 대표단 학교밖청소년지원센터 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465122",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "서울물재생시설공단, 악취 측정 29종으로 확대… 인근시설까지 조사범위 넓힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465121",
+      "dept": "서울물재생시설공단",
+      "category": "행정",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "서울시복지재단, 발달장애인 자립생활 돕는 AI 일상생활 지원 앱 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465120",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "\"100만 인파 안전 최우선\"… 서울시, 서울세계불꽃축제 종합대책 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465103",
+      "dept": "문화예술과",
+      "category": "문화",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "서울의 밤 밝히고 상권에 활력…'서울라이트 DDP' 야간경제 본격 신호탄",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465102",
+      "dept": "경제정책과",
+      "category": "경제",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "서울시, 현장과 동떨어진 규제 3건 개선…시민·기업 불편 줄인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465101",
+      "dept": "창의규제담당관",
+      "category": "행정",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "서울살이에 필요한 정보를 한 번에…서울외국인포털 「MY SEOUL+」로 새출발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465100",
+      "dept": "다문화담당관",
+      "category": "행정",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "서울창업허브 성수, _Age-Tech_ 창업 거점으로…기업 발굴부터 투자·사업화까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465099",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "매헌시민의숲 서울국제정원박람회 D-30, 가을맞이 프로그램 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465098",
+      "dept": "조경과",
+      "category": "환경",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "서울시, 수도요금 과오납 유형별 맞춤대책 통했다…이중수납·착오부과 두자릿수 감소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465097",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "서울시, 장애인 대상 AI 교육·보조기기 확대…AI시대 정보격차 줄인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465096",
+      "dept": "데이터센터",
+      "category": "복지",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "(엠바고10시30분)\"집 걱정 줄어 아이 한명 더 생각\"… 서울시, 미리내집 2030년까지 1만7,500호 추가 공급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465059",
+      "dept": "청년주거과",
+      "category": "행정",
+      "date": "2026-09-01"
+    },
     {
       "title": "서울 곳곳에서 만나는 새로운 웰니스…_서울 웰니스 관광 100선_ 선정",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/465058",
