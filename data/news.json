@@ -1,8 +1,113 @@
 {
-  "updated_at": "2026-08-31 08:58",
-  "total": 3089,
-  "new_today": 13,
+  "updated_at": "2026-09-01 09:50",
+  "total": 3104,
+  "new_today": 15,
   "items": [
+    {
+      "title": "서울 곳곳에서 만나는 새로운 웰니스…_서울 웰니스 관광 100선_ 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465058",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "(엠바고09시30분)서울시, 120다산콜재단 신임 이사장에 송주범 前정무부시장 임명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465057",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "‘서울 핫플 10곳 방문객 누구나’ 2만 원 이상 결제 시 7천 원 할인 혜택",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465056",
+      "dept": "서울신용보증재단",
+      "category": "행정",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "가을의 시작, 서서울호수공원에서‘추억의 음악’과 함께해요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465055",
+      "dept": "서부공원여가센터",
+      "category": "문화",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "폭염엔 차양, 한파엔 덧유리…서울시·애큐온 에너지 취약계층 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465026",
+      "dept": "기후환경정책과",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "서울광장에서 퇴근길 운동 완료!… 운동하는 서울광장 9월 1일 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464979",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "1기 참여자 79.9% \"고립감 줄었다\"… '365 서울챌린지' 2기 3천 명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464978",
+      "dept": "고독대응과",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "자영업자 경영상황 따라 최대 2천만 원… '안심통장 4호' 9월 3일 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464977",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "K-주얼리 100개 브랜드 서울 곳곳에서 빛난다…'2026 서울 주얼리 위크'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464976",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "(엠바고16시) 갤러리, 기업, 콜렉터 연결…새 비즈니스 창조하는 '디자인마이애미 서울' 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464975",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "서울시, 어린이도 즐겨 찾는 '말랑이' 등 20개 안전성 검사… 7개 제품서 유해물질 등 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464974",
+      "dept": "공정경제과",
+      "category": "안전",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "\"연면적 제한 없이 지원\"…서울시, 민간 신축건물 재생열 설치 문턱 낮춘다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464973",
+      "dept": "녹색에너지과",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "물재생센터의 '물·에너지·시민 공간'으로 대전환…'6회 워터서울 국제컨퍼런스' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464972",
+      "dept": "수변감성도시과",
+      "category": "행정",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "(엠바고16시) ‘제2회 서울시 유리지공예상’에 이태훈 <안개 속 푸른 밤의 녹턴>…9월부터 결선작 전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464971",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "(엠바고10시40분)시민 식탁 김치 안전, 서울시가 끝까지 지킨다… 서울시 4대 안전망 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/464936",
+      "dept": "식품정책과",
+      "category": "안전",
+      "date": "2026-08-31"
+    },
     {
       "title": "서울시, 중소 건설사 공사비 산정 지원... 전국 최초 공사 절차서 및 해설서 개발 보급",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/464935",
