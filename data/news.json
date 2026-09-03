@@ -1,8 +1,127 @@
 {
-  "updated_at": "2026-09-03 08:38",
-  "total": 3128,
-  "new_today": 9,
+  "updated_at": "2026-09-04 08:36",
+  "total": 3145,
+  "new_today": 17,
   "items": [
+    {
+      "title": "쓰레기 주워 수달 구출, 자전거로 솜사탕… 서울시, 환경 축제 'GREEN 한강'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465351",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "조선의 한양 사람 되어 걷는 성곽길…한양도성 ‘백로’ 절기행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465350",
+      "dept": "문화유산과",
+      "category": "문화",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "600년 전 서울 노래한 정도전의 『삼봉선생집』, 보물로 지정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465349",
+      "dept": "서울역사박물관",
+      "category": "행정",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 서울세계불꽃축제 앞두고 3일(목) 현장 안전점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465283",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "서울시,‘킥보드 없는 거리’대치동 학원가 등 3곳 추가 지정… 보행자 안전↑",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465251",
+      "dept": "자전거PM과",
+      "category": "안전",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "텀블러 물 채우고, 일회용 플라스틱 줄이고… 시민과 만든 '서울형 음수대'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465250",
+      "dept": "디자인정책담당관",
+      "category": "행정",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "밤에도 안심하고 일하도록…서울시, KB금융과 함께 야간근로자까지 찾아가는 아이돌봄 지원 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465247",
+      "dept": "저출생담당관",
+      "category": "복지",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "서영커 챌린지(팀 공모전) 모집 성황…청년 취업 지원 박차",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465246",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "'우리 집 한옥 내 손으로 돌본다'…서울시, 정원 6배 몰린 첫 '한옥관리 아카데미' 개강",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465245",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "시범운영부터 시민 호응…서울시 통합수장고 ‘서울문화유산센터 횡성’ 10일 개관",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465243",
+      "dept": "박물관과",
+      "category": "문화",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "“싱크홀·화재 막고 등굣길 지키고”…서울시, 학생 안전 지킨 우수 학교보안관 20명 표창",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465242",
+      "dept": "친환경급식과",
+      "category": "안전",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "서울시, AI 기반 사이버 위협 대응체계 전 기관으로 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465241",
+      "dept": "정보보안과",
+      "category": "행정",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "흡입지방·폐혈액 개수대·변기에 버리는 성형외과 25곳 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465238",
+      "dept": "안전수사과",
+      "category": "행정",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "“서울의 일상이 특별한 여행으로”… 외국인 유학생, 서울에디션25 체험",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465237",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "“내 시가 지하철 승강장에”…서울시, 2026 서울詩 지하철 공모 최종 286편 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465236",
+      "dept": "문화예술과",
+      "category": "교통",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "서울을 대표하는 좋은 이웃의 모습, 시민이 직접 만든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465235",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "(엠바고10시)제14차 서울시 도시계획위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465229",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-09-03"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 2일(수) '2026 키아프·프리즈 서울' 개막행사 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/465192",
