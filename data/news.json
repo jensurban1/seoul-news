@@ -1,8 +1,211 @@
 {
-  "updated_at": "2026-09-07 08:17",
-  "total": 3150,
-  "new_today": 0,
+  "updated_at": "2026-09-08 08:49",
+  "total": 3179,
+  "new_today": 29,
   "items": [
+    {
+      "title": "'서울 골목이 들썩인다'… 로컬브랜드 상권 10곳, 야장·미식·예술로 손님맞이",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465875",
+      "dept": "상권활성화과",
+      "category": "문화",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "'야간··휴일에도 간호인력 상주'…서울시, 중증장애인 24시간 의료·돌봄 서비스 시동건다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465874",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "서울디자인재단·LG전자 맞손...몰입형 디지털 전시 환경 구축",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465873",
+      "dept": "서울디자인재단",
+      "category": "문화",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "서울시, 영화 ‘인턴’ 한국판 특별 시사회…“스크린 밖 ‘진짜 인턴’을 만나다”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465872",
+      "dept": "서울시50플러스재단",
+      "category": "행정",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 7일(월) 하노이 인민위원장 면담… 친선결연 30주년 협력 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465812",
+      "dept": "",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 7일(월) ‘서울아이앰배서더 4기 발대식’ 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465653",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "서울 주택공급 '청신호'… 착공 44.4%↑, 인허가도 동반 증가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465574",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "올여름 한강 수영장·물놀이장 56만명 찾았다… 낮부터 밤까지 즐서울 대표 '핫플'로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465571",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "G밸리에 문화·여가 더한다…일터가 즐거워지는 '2026 G밸리 위크'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465570",
+      "dept": "산업입지과",
+      "category": "문화",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "미래도시 생명력, 디자인이 답! 서울디자인국제포럼 개최 D-7",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465569",
+      "dept": "디자인정책담당관",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "이제, 서울을 입는다! 서울시X무신사스탠다드, '나만의 서울 티셔츠' 서비스 첫선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465568",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "전국 어린이들 함께 뛰어요! 서울시, 7일부터 두 달간 뛰움 체조 대회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465567",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "서울시, ‘잔반 없는 한 끼’ 인증하면 치킨·커피 쏜다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465566",
+      "dept": "생활환경과",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "‘빵지순례처럼 공익활동도 공지순례?’…관심과 취향이 공익활동으로 이어지도록... 서울시 체험형 공익활동 박람회 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465564",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "'걸으며 즐기는 서울의 밤'… 서울도보해설관광 야간코스 대폭 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465563",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "서울시, 추석명절 대비 정육점 및 전(부침개) 판매점 원산지 거짓표시 특별단속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465562",
+      "dept": "안전수사과",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "“기부박스에 담은 따뜻한 온기로 이웃과 명절을 보내요” 서울시, 추석맞이 범시민 나눔 캠페인 전개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465561",
+      "dept": "고독대응과",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "기다려를 잘하는 댕댕이라면 도전하세요! 특별한 스포츠 축제‘서울펫림픽’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465560",
+      "dept": "동물보호과",
+      "category": "문화",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "서울책보고·서울아트책보고서 즐기는 독서의 계절…가을 특별 콘텐츠 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465559",
+      "dept": "서울도서관",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "서울AI재단, 행정 현장과 AI를 잇는 다리를 놓다… '서울AI브리지' 로 행정 AX 전 과정 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465558",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "서울런 5주년 성과공유회‘하이 파이브(High-Five)’…교육사다리 넘어 성장사다리로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465555",
+      "dept": "교육지원정책과",
+      "category": "행정",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "AI 석학부터 유니콘·투자자까지 서울로…'Try Everything 2026' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465554",
+      "dept": "창업정책과",
+      "category": "행정",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "기후동행패스 홍보부스 성황리에 운영 중…벌써 3만명 이상 현장 전환",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465553",
+      "dept": "교통정책과",
+      "category": "환경",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "야구장의 열기, 이제 드론쇼로 즐긴다. ‘한강 드론 라이트 쇼’ 하반기 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465551",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "서울시, 아빠와 자녀 한팀으로 달리는 미니마라톤 '아자러너UP' 개최…신청자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465550",
+      "dept": "가족담당관",
+      "category": "행정",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "오감으로 만나는 우리의 전통…남산골한옥마을서 ‘2026 서울무형문화축제’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465549",
+      "dept": "문화유산과",
+      "category": "문화",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "“많이 공개”에서 “AI가 바로 쓰게” 서울시, 지자체 최초 고가치 데이터 100개 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465548",
+      "dept": "데이터전략과",
+      "category": "행정",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "서울시 '희망의 인문학' 참여자, 희망을 향해 함께 달렸다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465546",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 5일(토) 서울세계불꽃축제참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465544",
+      "dept": "",
+      "category": "문화",
+      "date": "2026-09-05"
+    },
     {
       "title": "상반기 2만 명 찾은 ‘2026 서울시 태권도 공연’, 9월부터 하반기 공연 재개",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/465356",
