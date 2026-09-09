@@ -1,8 +1,120 @@
 {
-  "updated_at": "2026-09-09 08:43",
-  "total": 3188,
-  "new_today": 9,
+  "updated_at": "2026-09-10 08:35",
+  "total": 3204,
+  "new_today": 16,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 9일(수) 개방 앞둔 노들섬 수변문화공간 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466054",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 9일(수) 트라이 에브리싱 개막식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466028",
+      "dept": "",
+      "category": "행정",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "AI(인공지능)가 서울의 일상을 바꾼다… SLW 2026 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466005",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "''따뜻한 안부 한마디가 생명 지킨다''… 서울시, 생명안전망으로 응답",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466004",
+      "dept": "정신건강과",
+      "category": "안전",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "역세권 활력과 가로숲을 연계해‘그늘보행권’실현하는 미래형 주거단지로… 서울시, 도림동 133-1 일대 신속통합기획 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466001",
+      "dept": "신속통합기획과",
+      "category": "환경",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "\"가을, 한강에서 책 한 권\"… 서울시, 하반기 '책읽는 한강공원' 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466000",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "발굴현장부터 공연무대까지…문화예술계 청년의 경험과 성장 돕는 서울시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465999",
+      "dept": "문화정책과",
+      "category": "복지",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "세계 폐암 분야 석학 8000명 서울로… 국제회의 개최 '아시아 1위' 재확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465998",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "서울시, 대학으로 찾아간다! 미션으로 배우는‘서울청년 서울생활 꿀팁’운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465997",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "영동대로 '도심 숲'·역삼 호텔… 비즈니스·관광·휴식 중심지 탄생",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465996",
+      "dept": "건축기획과",
+      "category": "환경",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "보름달 아래 서울을 달린다…‘한가위 서울 달밤런’ 23일 여의도서 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465995",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "풍성한 한가위를 보내는 특별한 방법, 서울의 공원 추석 프로그램",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465994",
+      "dept": "공원여가사업과",
+      "category": "문화",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "서울시, 9월부터 모든 배수지 청소 실시…102개소 단수 없이 진행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465993",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "서울시, 청계광장에서 시민 120여 명과‘줍깅’캠페인 펼친다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465992",
+      "dept": "생활환경과",
+      "category": "행정",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "도심 속 K-BBQ 미식 축제! ‘서울 바비큐 페스티벌’ 10월 난지캠핑장서 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465991",
+      "dept": "관광정책과",
+      "category": "문화",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "서울우리소리박물관, 발달장애인 맞춤형 교구 <톡톡 우리소리> 제작... 158개 기관에 배포",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/465990",
+      "dept": "서울역사박물관",
+      "category": "복지",
+      "date": "2026-09-09"
+    },
     {
       "title": "(엠바고14시) 128년 전 여권통문의 외침, '동행서울'로 이어지다…「2026 서울여성대회」 개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/465892",
