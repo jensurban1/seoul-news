@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-09-10 08:35",
-  "total": 3204,
-  "new_today": 16,
+  "updated_at": "2026-09-11 08:28",
+  "total": 3217,
+  "new_today": 13,
   "items": [
+    {
+      "title": "3년간 63만 개 보급된 서울시 안심물품 3종, '서울안심벨'로 재탄생",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466099",
+      "dept": "양성평등담당관",
+      "category": "행정",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "서울시, 한강에 피지컬 AI 활용한 ‘생명안전망’구축한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466098",
+      "dept": "미래한강본부",
+      "category": "안전",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "(엠바고14시) 서울시,‘제24회 복지상’수상자 10명 선정… 대상에‘한림화상재단’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466091",
+      "dept": "복지정책과",
+      "category": "복지",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "양재대로 더 빨라진다… 서울시, 구룡~일원 잇는 ‘대모지하차도’ 12일(토) 임시 개통",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466089",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "국가대표·올림픽 메달리스트 총출동… 서울시 선수단, 전국체전 출정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466088",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "(엠바고12시) 글로벌 투자자에 '서울 세일즈'…서울시, 런던서 혁신·산업·인재 앞세운 투자유치전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466087",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "(엠바고14시) 서울시 시민감사옴부즈만위원회, 출범 10주년 기념 행사 및 포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466086",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "문화",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "(엠바고10시)오세훈 시장. 'G3 서울플랜' 가동… 서울을 세계 3대 도시·삶의 질 특별시로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466084",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "서울시, 2027년 생활임금 시급 12,757원 결정… 월 266만 원대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466083",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "(엠바고10시30분)서울시 넥스트로컬, 롯데카드와 함께 로컬 크리에이터 축제 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466082",
+      "dept": "대외협력과",
+      "category": "문화",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "서울시-기업, 기후위기 대응 위한‘제로서울기업실천단’2기 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466081",
+      "dept": "기후환경정책과",
+      "category": "환경",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "공연과 프로그램으로 특별한 주말,‘천호공원 가을축제’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466080",
+      "dept": "동부공원여가센터",
+      "category": "문화",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "(엠바고10시)제15차 도시건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466078",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-09-10"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 9일(수) 개방 앞둔 노들섬 수변문화공간 점검",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466054",
