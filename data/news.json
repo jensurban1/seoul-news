@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-09-11 08:28",
-  "total": 3217,
-  "new_today": 13,
+  "updated_at": "2026-09-12 08:36",
+  "total": 3229,
+  "new_today": 12,
   "items": [
+    {
+      "title": "(엠바고14시) \"나를 찾고, 다음을 꿈꾸다\"…서울시 청년인생설계학교 수료생 100명 다시 만난다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466175",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "택시 잡기 막막할 땐 ‘120+6번’ 누르세요! 120 동행콜택시 전용 ARS 도입 후 19일간 4,423건 연결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466172",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "서울·방콕 청소년 60명, 역사·문화로 우정 잇다…‘감사의 정원’서 6·25 참전국 태국 기려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466171",
+      "dept": "청소년정책과",
+      "category": "문화",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "대니 구·송길영·서울시민이 나누는 ‘새로운 시작’의 경험…「서울시민 쏘울자랑회」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466170",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "서울시설공단, 화재부터 인파 도로까지 AI 사전예방형 안전관리체계 구축",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466169",
+      "dept": "서울시설공단",
+      "category": "교통",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "금천구 시흥3동 972번지 모아타운 통합심의 통과…모아주택 3곳 총586세대 공급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466168",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "서울시, 추석맞이 서울사랑상품권 2,650억 원 발행… 어르신 전용 구매 첫 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466162",
+      "dept": "소상공인정책과",
+      "category": "복지",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "퇴근 후 박물관에서 요가하고 북촌 러닝…서울공예박물관, 가을밤 야간 프로그램",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466161",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "청소년 마음회복, 가족이 함께…서울시 행복동행학교 ‘가족동행캠프’ 첫 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466160",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "서울시, 가을 맞은 서울로를 더 안전하고 쾌적하게 걸어보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466159",
+      "dept": "중부공원여가센터",
+      "category": "안전",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "서울식물원, 자연을 오감으로 만나는 가을 나들이를 떠나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466157",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "(엠바고10시)제2차 도시계획위원회 재생분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466156",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-09-11"
+    },
     {
       "title": "3년간 63만 개 보급된 서울시 안심물품 3종, '서울안심벨'로 재탄생",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466099",
