@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-09-13 08:29",
-  "total": 3229,
-  "new_today": 0,
+  "updated_at": "2026-09-14 08:42",
+  "total": 3241,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울시, 짧은 추석연휴 시민 불편없게… 안전·민생·생활 종합대책 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466247",
+      "dept": "기획담당관",
+      "category": "안전",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "서울-지역을 잇는 추석맞이 서로장터. 전국 농산물이 서울광장에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466246",
+      "dept": "대외협력과",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "“서울갤러리”로 놀러 가자! “Pokemon GO”와 함께 즐기는 특별한 가을 소풍",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466245",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "DDP가 거대한 K-콘텐츠 놀이터로…'엔터테크·GES 서울 2026' 17일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466244",
+      "dept": "K컬처전략과",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "차 없는 서울, 누구나 함께 걷는다…'2026년 서울 걷자 페스티벌' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466243",
+      "dept": "생활교통안전과",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "서울시 '글로벌 바로봉사단' 출범…국적 넘어 나눔가치 실현, 공동체 의식↑",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466242",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "폐 치안센터가 동네 도서관으로…서울시 펀활력소’도곡에 2호 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466241",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "서울시, 외국인 환자 치료 전후까지 챙긴다…‘서울의료친화 숙박시설’첫 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466240",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "서울시, 착한가격업소에서 서울사랑상품권 결제하면 5% 페이백… 총 10% 혜택",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466239",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "서울시, 청소년시설 7곳서 가을 축제 릴레이…청소년이 기획·창작·공연 주도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466238",
+      "dept": "청소년정책과",
+      "category": "문화",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "추석 명절 쓰레기 줄이기…서울시, 분리배출 캠페인·과대포장 집중점검 병행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466237",
+      "dept": "자원순환과",
+      "category": "환경",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "서울식물원, 서울 지역 첫 서식지외보전기관 지정으로 식물연구 쾌거",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466236",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-09-13"
+    },
     {
       "title": "(엠바고14시) \"나를 찾고, 다음을 꿈꾸다\"…서울시 청년인생설계학교 수료생 100명 다시 만난다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466175",
