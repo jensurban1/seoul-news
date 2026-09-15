@@ -1,8 +1,141 @@
 {
-  "updated_at": "2026-09-15 09:02",
-  "total": 3260,
-  "new_today": 19,
+  "updated_at": "2026-09-16 08:46",
+  "total": 3280,
+  "new_today": 20,
   "items": [
+    {
+      "title": "서울 시내버스 노사 협상 타결·파업 전면 철회… 16일 첫차부터 평시와 같이 정상운행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466483",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울시민, 시내버스 파업 81.3% 반대…출퇴근·통학 등 일상 불편 우려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466471",
+      "dept": "교통정책과",
+      "category": "교통",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 15일(화) 추석맞이 서로장터 개막식 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466426",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "버스 파업 땐 출근·등교시간 조정…서울시, 기업·학교에 '교통수요' 분산 협조 요청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466424",
+      "dept": "경제정책과",
+      "category": "교통",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "(엠바고10시)서울시, 버스노조 파업예고에 따른 비상수송대책 점검...시민 이동권 보호 총력전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466383",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "자치구별 걷기 앱, 손목닥터9988로 통합…지역 커뮤니티 운영 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466382",
+      "dept": "스마트건강과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "황금연휴 외국인 관광객 맞는다… 서울시, 23일간‘2026 서울환대주간’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466380",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "아픈 부모님을 위한 퇴원후 간병서비스 서울시가 함께 합니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466379",
+      "dept": "통합돌봄과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울시, 서울물재생시설공단 신임 이사장에 진재섭 前 서울시 도시기반시설본부 도시철도국장 임명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466376",
+      "dept": "",
+      "category": "교통",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울시, 경제실장에 김현우 前서울경제진흥원 대표이사, 야간경제총괄특보에 이지현 前기획총괄특보 임명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466375",
+      "dept": "",
+      "category": "경제",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "(엠바고15시) 「서울시 중장년 정책포럼 2026」개최…다양한 중장년 삶에 맞춘 ‘서울형 해법’ 제시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466374",
+      "dept": "서울시50플러스재단",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울시, 세계적 바이오 인큐베이터 '랩센트럴'과 첫 협력…서울 바이오기업 美 진출 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466373",
+      "dept": "AI전략산업과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울이 청년의 첫 출근을 연결합니다… 16일 '청년-사회연대경제기업 매칭 데이'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466372",
+      "dept": "공정경제과",
+      "category": "복지",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "(엠바고15시) 시민감사옴부즈만위원회, 시민참여옴부즈만 역량강화 제2차 워크숍 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466371",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "보름달처럼 풍성한 한가위, 서울역사박물관에서 즐긴다! 추석연휴 맞아 풍성한 문화 행사 마련",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466370",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "(엠바고10시)(기자설명회) 서울시, 다핵도시 재편 시동… 역삼·자양동 '성장거점', 성내·창동 등 4곳 '생활거점'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466369",
+      "dept": "도시공간전략과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "(엠바고10시30분)K-건축의 오늘과 미래 한자리에…서울건축문화제 15일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466368",
+      "dept": "한옥건축자산과",
+      "category": "문화",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울시 자치구, 9월분 재산세 4조 8,236억 원 부과…9월 30일까지 납부 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466367",
+      "dept": "세무과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울 하늘에서 세계 드론 레이싱…10개국 60여 명 출격",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466366",
+      "dept": "공간정보과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
     {
       "title": "500원 할인받고 영화관 음료·팝콘 다회용기로…서울시, CGV연남 도입",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466365",
@@ -135,6 +268,13 @@
       "dept": "홍보담당관",
       "category": "행정",
       "date": "2026-09-14"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 13일(일) 서울식물원에서 열린 ‘쉬엄쉬엄 모닝’ 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466397",
+      "dept": "",
+      "category": "행정",
+      "date": "2026-09-13"
     },
     {
       "title": "서울시, 짧은 추석연휴 시민 불편없게… 안전·민생·생활 종합대책 가동",
