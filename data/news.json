@@ -1,8 +1,141 @@
 {
-  "updated_at": "2026-09-14 08:42",
-  "total": 3241,
-  "new_today": 12,
+  "updated_at": "2026-09-15 09:02",
+  "total": 3260,
+  "new_today": 19,
   "items": [
+    {
+      "title": "500원 할인받고 영화관 음료·팝콘 다회용기로…서울시, CGV연남 도입",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466365",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울, 2027 세계디자인총회 첫발...‘Think, Make, Change’ BI 공개 기후위기·AI 전환의 시대, 디자인은 무엇을 할까",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466364",
+      "dept": "서울디자인재단",
+      "category": "환경",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울연구원,‘더 건강한 도시, 서울의 나아갈 길’정책포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466363",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "서울시, 시내버스 노조 파업 예고(9.16) 대비 비상수송대책 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466311",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "(엠바고13시) 서울의 밤, 골목에서 머물고 즐긴다… 서울시, '달빛야장' 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466303",
+      "dept": "상권활성화과",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "‘청년의 무한한 가능성을 여는 서울’ 2026년 서울청년주간 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466302",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "인플루엔자 유행주의보 발령서울시, 21일부터 독감 예방접종... 마스크 착용 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466301",
+      "dept": "감염병관리과",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "서울시청 선수단 17명, 아이치·나고야 아시안게임서 아시아 정상 도전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466300",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "''나만을 위한 금융 AI 시대 온다''…서울에서 금융의 미래 미리 본다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466298",
+      "dept": "금융투자과",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "서울시, 20회를 맞는 안전문화 축제…'2026 서울안전한마당' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466296",
+      "dept": "소방재난본부",
+      "category": "문화",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "“용돈관리부터 보이스피싱까지 우리가 해결”…「2026 모두의 금융 청소년 뱅커톤」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466295",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "서울시, 정원박람회서 시·청각장애인학습지원센터 홍보부스 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466293",
+      "dept": "장애인자립지원과",
+      "category": "복지",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "서울시, 서울관광재단 신임 대표이사에 김병민 前 서울시 정무부시장 임명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466292",
+      "dept": "서울관광재단",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "8월 서울전역 토허 신청건수 지속 감소…강북·한강벨트 가격 상승세 여전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466290",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "넥스트로컬, 사업화과정 진입 창업팀 33팀 선발… 총4억3천만원 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466289",
+      "dept": "대외협력과",
+      "category": "경제",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "'서울도시건축학교' AI건축·신한옥 특강 신설… 건축문화제와 함께 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466287",
+      "dept": "한옥건축자산과",
+      "category": "문화",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "서울시, 지하철 등 홍보매체 5천여면 무료개방…공모 시작",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466286",
+      "dept": "홍보담당관",
+      "category": "교통",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "서울미래인재재단, 직업전문학교 재학생 102명에 장학금 1억 5,300만 원 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466285",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "“달달한 추석 보내세요” 서울시, 추석 맞이 서울꿈새김판 새단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466284",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-09-14"
+    },
     {
       "title": "서울시, 짧은 추석연휴 시민 불편없게… 안전·민생·생활 종합대책 가동",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466247",
