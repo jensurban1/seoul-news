@@ -1,8 +1,239 @@
 {
-  "updated_at": "2026-09-17 08:55",
-  "total": 3280,
-  "new_today": 0,
+  "updated_at": "2026-09-18 08:45",
+  "total": 3313,
+  "new_today": 33,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 17일(목) 서울안전한마당 안전다짐식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466683",
+      "dept": "언론담당관",
+      "category": "안전",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "서울시, 남산 곤돌라 패소 유감… ''대법원 상고 검토 및 공원녹지법 시행령 개정 총력''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466666",
+      "dept": "도시정비과",
+      "category": "문화",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "(엠바고14시) 노들섬, 한강 가까이에서 쉬고 놀고 즐긴다 … 18일 수변문화공간 개방",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466651",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "\"마음 놓고 검사받았어요\"…임산부 96%, 의료비 지원에 긍정 평가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466650",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "짧은 추석 연휴 알차게…서울 곳곳 문화행사로 풍성한 한가위",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466649",
+      "dept": "문화정책과",
+      "category": "문화",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "서울시, 추석 연휴 앞두고 대형마트·역사 10곳 긴급점검… 소방·인파안전 집중 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466648",
+      "dept": "재난안전정책과",
+      "category": "안전",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "서울은 가장 뜨거운 디자인 마켓…'디자인마이애미'가 증명했다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466647",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "“꿀 떨어지는 한가위”... 한미그룹, 쪽방촌에 건강키트·벌꿀 600개 기부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466646",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "30년 넘게 지켜온 한결같은 맛… 서울시,‘오래가게’15곳 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466644",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "가을엔 한옥으로…역대 최대 규모로 돌아온‘ 2026 서울한옥위크 ’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466643",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "(엠바고09시40분)'60만 명의 선택' 한강버스 운항 1년… 서울 수상교통 새 길 열었다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466635",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "(엠바고09시)서울시, ‘글로벌 TOP·삶의 질 특별시’  실행력 높인다… 민선 9기 조직개편(안) 발표",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466634",
+      "dept": "조직담당관",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "서울시, 2학기에도 어린이 과일간식 지원… 초등 75개교 5,000여 명에 컵과일",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466633",
+      "dept": "친환경급식과",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "춤추고 걷다보면 뚝섬한강공원서 서울숲에 도착 한 주 앞서 만나는 추석 예술 나들이, 서울거리예술축제2026 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466632",
+      "dept": "서울문화재단",
+      "category": "문화",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "(엠바고10시)서울연구원,‘2026 서울청년패널 콘퍼런스’개최 ‘AI시대, 청년성장특별시 서울’데이터로 청년의 성장과 도약 모색",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466631",
+      "dept": "서울연구원",
+      "category": "복지",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "“미래세대 성장의 힘, 자원봉사” 서울시자원봉사센터, 법인 설립 20주년 기념  ‘서울 자원봉사 컨퍼런스’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466630",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "(엠바고10시)제15차 도시계획위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466629",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 16일(수) 비슈케크 시장 만나 우호 도시 협정체결… 도시 간 협력 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466547",
+      "dept": "",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "(엠바고18시) 서울, 국제금융센터지수 세계 7위…핀테크도 '역대 최고' 7위",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466510",
+      "dept": "금융투자과",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울 도심에 7천 명 품는 열린광장… 한국은행 앞 분수대 자리 '시민 공간'으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466509",
+      "dept": "도로계획과",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울시 200번째 신속통합기획 청파동1가 97-35 일대 확정 공원은 가까이, 남산은 한눈에… 푸른 도심 주거단지 구현",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466507",
+      "dept": "신속통합기획과",
+      "category": "문화",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "추석 연휴 부담없이 '서울형 키즈카페'에서 놀자…20% 할인 '키즈카페머니'도 발행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466505",
+      "dept": "아이돌봄담당관",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "광화문에서 북한산까지… 서울 도심형 울트라트레일러닝 ‘서울100K’ 열린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466504",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "추석 성수품 팔려다 고금리 늪으로 … 서울시, 전통시장 불법사금융 집중 단속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466503",
+      "dept": "경제수사과",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울시, 청년 취업기회 넓히고 물산업 인력난 해소…‘서울워터 잡페어’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466502",
+      "dept": "서울아리수본부",
+      "category": "복지",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울시, 2026 위기관리회의 개최… 기후·디지털 재난 대응 역량 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466501",
+      "dept": "소방재난본부",
+      "category": "환경",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울국제정원박람회 2년 연속 1천만명 돌파, 대표 '텐밀리언셀러 축제' 등극",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466495",
+      "dept": "조경과",
+      "category": "문화",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "집은 시원해지고 전기요금은 절감… 서울시 차열페인트 폭염저감 효과 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466494",
+      "dept": "친환경건물과",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울시, 청년이 오래 일하고 싶은 '서울형 강소기업' 42곳 최종 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466493",
+      "dept": "일자리정책과",
+      "category": "복지",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "치매와 함께 살아가는 일상…서울시, 기억동행 박람회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466492",
+      "dept": "정신건강과",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "서울에서 공부하고 일하고 살아갈 준비…「30일간의 서울일주」5기 유학생 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466491",
+      "dept": "외국인이민담당관",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "전통에 디지털 기술 더한 '소반'…밀라노 매혹하고 DDP로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466490",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "(엠바고10시)제19차 서울시 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466489",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-09-16"
+    },
     {
       "title": "서울 시내버스 노사 협상 타결·파업 전면 철회… 16일 첫차부터 평시와 같이 정상운행",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466483",
