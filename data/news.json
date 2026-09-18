@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-09-18 08:45",
-  "total": 3313,
-  "new_today": 33,
+  "updated_at": "2026-09-19 08:41",
+  "total": 3327,
+  "new_today": 14,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 18일(금) 서울어텀페스타 개막행사 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466826",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 18일(금) '엔터테크·GES 서울 2026' 개막식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466809",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울시-고려당, 한가위 온정 나눈다…시설생활아동에 '서울빵' 2,000개 전달",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466733",
+      "dept": "아동담당관",
+      "category": "복지",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "제16대 한강 종이비행기 챔피언은 누구? 서울시, 참가자 700명 선착순 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466732",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울시, 음식물 조리 화재 9·10월 가장 많아…주의 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466731",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "장기입원 어린이 곁으로 찾아간 역사수업…한성백제박물관 ‘올해의 박물관·미술관상’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466730",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "K-컬처 향한 뜨거운 관심 폴란드서 이탈리아로… 서울역사박물관 로마서 《서울의 멋-풍류》 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466729",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "(엠바고10시20분)출퇴근길 지하철역이 운동공간으로…문정역에 '펀 스테이션'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466728",
+      "dept": "도시활력담당관",
+      "category": "교통",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울 아파트 매매 실거래가격 상승 지속...1년 새 14.56% 상승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466727",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울시-동반위-신용카드재단, 소상공인 소비 활성화 맞손… 상품권 50억 원 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466726",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울시, 제4회 이산가족의 날 기념 시민참여 문화행사 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466725",
+      "dept": "대외협력과",
+      "category": "문화",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울시, 제2회 장애인돌봄종사자의 날 개최…돌봄가치를 말하다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466724",
+      "dept": "장애인자립지원과",
+      "category": "복지",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "서울시농수산식품공사,  '2026년 추석 차례상 차림 비용' 조사 결과 발표 가락몰 22만 8천 원…대형마트보다 21.6%, 전통시장보다 7.0% 낮아",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466723",
+      "dept": "서울시 농수산식품공사",
+      "category": "행정",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "조선 후기 형사사건부터 서울 공간의 변화까지…서울역사편찬원, 역사서 2종 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466722",
+      "dept": "서울역사편찬원",
+      "category": "행정",
+      "date": "2026-09-18"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 17일(목) 서울안전한마당 안전다짐식 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466683",
