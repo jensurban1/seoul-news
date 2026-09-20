@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-09-20 08:42",
-  "total": 3329,
-  "new_today": 2,
+  "updated_at": "2026-09-21 08:38",
+  "total": 3340,
+  "new_today": 11,
   "items": [
+    {
+      "title": "英 FT 서울은 유학생에게 새로운 파리… 세계 청년이 찾는 글로벌 유학도시로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466868",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "서울시 문화시설, 주 5일 밤 9시까지 문 연다…'서울 컬처나잇' 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466865",
+      "dept": "문화정책과",
+      "category": "문화",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "이번 추석엔 '가족 서울체력장' 가볼까…건강 챙기고 포인트도 받고!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466864",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "서울패션위크, DDP·잠실 '외연 확장' 통했다…글로벌 비즈니스·대중성 모두 잡아",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466863",
+      "dept": "뷰티패션산업과",
+      "category": "행정",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "서울시, 기업 워케이션 본격화… 김포공항 10분 마곡서 일·관광 한 번에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466862",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "한강버스 타고 명품 노을본다… 서울시, '한강 노을 지도' 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466861",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "우리동네 어린이집, 입소 전 미리 가서 본다… '서울시 어린이집 오픈데이' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466860",
+      "dept": "영유아담당관",
+      "category": "행정",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "5대1 경쟁률 뚫은 유학생 60명, 서울시가 육성하는 1호 글로벌마케터 된다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466859",
+      "dept": "외국인이민담당관",
+      "category": "행정",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "서울시, 추석 연휴 아리수 이용 문의·신고 24시간 대응 나선다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466858",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "서울시, 유니클로 및 한국뇌성마비복지회와 '장애인 의류리폼' 봄·여름 시즌 성황리 종료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466857",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "''비닐만 잘 버려도 감량''…남대문시장 폐비닐 분리배출 캠페인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466854",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-09-20"
+    },
     {
       "title": "오세훈 시장, 19일(토) 「2026년 서울청년주간 - 청년의 날 기념식」 참석… 청년 성장 이야기 청취 및 응원",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466837",
