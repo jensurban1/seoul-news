@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-09-22 09:19",
-  "total": 3361,
-  "new_today": 21,
+  "updated_at": "2026-09-23 08:53",
+  "total": 3379,
+  "new_today": 18,
   "items": [
+    {
+      "title": "장소 대관·스드메 무료…광나루 한강공원 '장밋빛 결혼식' 청년까지 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467016",
+      "dept": "미래한강본부",
+      "category": "복지",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "설립이래 최초 채팅·수어까지 모든 분야 24시간 상담 전면 확대…누구나 필요할 때 ‘끊김없는 120상담’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467015",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "인증제 10년, 전통과 현대 어우러진 '우수한옥' 찾았다…제11회 서울우수한옥 인증 공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467007",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "서울식물원, 참여형 전시‘컬러헌터’에서 나만의 색을 찾아보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467006",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "서울시복지재단, 발달장애인 금융역량 키워 지역사회 자립 돕는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467005",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "“개발자와 소통부터 AI 서비스 설계까지” 서울시여성가족재단, AX 세미나 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467004",
+      "dept": "서울시 여성가족재단",
+      "category": "행정",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "서울시, 소나무재선충병 확산 차단 총력…관계기관 협력 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466999",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "(보도참고자료) 英로이터, '용산공원 보존' 강조한 오세훈 서울시장 집중 조명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466993",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "영등포구 신길동 성락주유소 앞 교차로 상수도관 누수 발생…교통 통제중",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466986",
+      "dept": "서울아리수본부",
+      "category": "교통",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "(엠바고10시)제20차 서울시 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466959",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "(엠바고14시) 장보는 시장에서 글로벌 관광명소로… 서울시, 디자인혁신 전통시장 '신중앙시장' 첫 삽",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466958",
+      "dept": "상권활성화과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "홍제동 9-81 일대 신속통합기획 확정…3개 마을 통합 2,520여 세대 숲세권 단지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466957",
+      "dept": "신속통합기획과",
+      "category": "환경",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "추석 연휴에도 병의원, 약국 6천 곳 문 연다…경증부터 응급·중증까지 진료 유지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466955",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "운동회에 공연·마켓까지 더했다… 10월 한강에서 만나는 '한강플플 가을운동회'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466954",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "청소년, AI로 상상하고 로봇으로 겨룬다…서울시립청소년센터 3곳서 미래기술 행사 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466953",
+      "dept": "청소년정책과",
+      "category": "문화",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "(엠바고15시) 서울노숙인시설협회, 추석 맞아 3억 7천만원 규모 희망나눔키트·선호물품 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466952",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "병뚜껑은 메달로, 축제 컵은 다회용기로…청년 15개 팀이 바꾼 캠퍼스 풍경",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466951",
+      "dept": "기후환경정책과",
+      "category": "복지",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "전국 광역 시·도 대표 춤 서울에 모인다…‘전국무용제’ 첫 서울 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466950",
+      "dept": "문화예술과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
     {
       "title": "팬데믹 이후 상하이 고위급 첫 서울 방문…양 도시 간 교류의 폭 넓힌다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466939",
