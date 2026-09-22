@@ -1,8 +1,155 @@
 {
-  "updated_at": "2026-09-21 08:38",
-  "total": 3340,
-  "new_today": 11,
+  "updated_at": "2026-09-22 09:19",
+  "total": 3361,
+  "new_today": 21,
   "items": [
+    {
+      "title": "팬데믹 이후 상하이 고위급 첫 서울 방문…양 도시 간 교류의 폭 넓힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466939",
+      "dept": "도시외교담당관",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "계단 오르면 10원 기부…서울시민 215만 발걸음, 아이들 건강 챙긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466937",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "사찰에서 명상을, 한방에서 웰니스를… 서울시, ‘K-전통’에 혁신 기술 입힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466936",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "서울시, 임차인 권리보호 위한 공정한 중개문화 확립에 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466935",
+      "dept": "토지관리과",
+      "category": "문화",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "서울디자인어워드 대상 현장에서 결정…청년 200명 손에 달렸다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466934",
+      "dept": "서울디자인재단",
+      "category": "복지",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "'서울시민안전보험 사칭 사이트' 주의하세요… 서울시, 개인정보 입력 주의 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466933",
+      "dept": "재난안전정책과",
+      "category": "안전",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "서울시, 신속통합기획이 우리 동네로 찾아갑니다…‘찾아가는 전시’ 첫선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466903",
+      "dept": "신속통합기획과",
+      "category": "문화",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "(엠바고14시) 서울시, 도시 간 평화협력 논의하는 「서울 글로벌 도시외교·평화포럼」개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466899",
+      "dept": "대외협력과",
+      "category": "행정",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "골목·경사로에 '5분 그늘쉼터'… 서울시, 그늘보행권 첫 실행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466898",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "노들섬이 빛의 예술섬으로… '2026 서울라이트 한강 빛섬축제' 10월 2일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466896",
+      "dept": "도시경관담당관",
+      "category": "문화",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "AI·로봇 등 핵심산업 분야 이공계 장학생 28명, 서울의 미래 이끈다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466895",
+      "dept": "외국인이민담당관",
+      "category": "경제",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "올 추석엔‘서울달’아래서 소원 빌어요… 여의도서 즐기는 특별한 한가위",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466894",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "'핀테크 세계 7위' 서울, 차세대 핀테크 기업 키운다…예비창업자까지 지원 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466893",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "주민 정보격차 해소 '모아주택 쾌속추진'… 서울시, 권역별 '우리조합 첫걸음 설명회' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466892",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "“이번 주말 뭐하지?”… 서울 공공서비스, 한 곳에서 찾고 예약한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466891",
+      "dept": "정보시스템과",
+      "category": "행정",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "(엠바고10시)(기자설명회) 주택정책 성과 숫자로 답한 오세훈 시장 \"신통기획 214곳 구역지정·모아주택 168곳 조합설립\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466887",
+      "dept": "주택실",
+      "category": "주택",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "서울시가 더 촘촘히 준비합니다!…추석 연휴 ‘청소종합대책’ 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466877",
+      "dept": "생활환경과",
+      "category": "행정",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "서울시, 장안동 지하창고에서 위조상품 7천여 점 적발… 정품가 약 89억원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466876",
+      "dept": "경제수사과",
+      "category": "행정",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "서울시, 러너들 다 모여라! ‘서울 러너스 페스티벌’ 10월 24일 여의도서 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466875",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "추석 밥상 수산물, 미리 점검…안전성부터 어종 진위까지 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466874",
+      "dept": "보건환경연구원",
+      "category": "안전",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "“무늬에서 사물로, 다시 공간으로” 서울공예박물관, 장응복의 공예 세계 소개하는 《에퀴녹스 추분_춘분》전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/466873",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-09-21"
+    },
     {
       "title": "英 FT 서울은 유학생에게 새로운 파리… 세계 청년이 찾는 글로벌 유학도시로",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/466868",
