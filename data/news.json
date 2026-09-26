@@ -1,8 +1,36 @@
 {
-  "updated_at": "2026-09-25 09:06",
-  "total": 3389,
-  "new_today": 1,
+  "updated_at": "2026-09-26 09:12",
+  "total": 3393,
+  "new_today": 4,
   "items": [
+    {
+      "title": "(엠바고09시)서울 곳곳에 한가위 즐거움 가득… 외국인 관광객·시민 함께 명절 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467120",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-26"
+    },
+    {
+      "title": "(엠바고09시)서울시, 추석에도 '복지안전망 정상 가동'… 취약 어르신 4만명·고립위험 7만가구 안부 확인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467117",
+      "dept": "복지정책과",
+      "category": "복지",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "(엠바고09시)여름철 노로바이러스 전년보다 70배 급증… 서울시, “추석 식중독 주의”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467116",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "(엠바고09시)\"이번 추석, 고민 말고 한강으로 오세요\"…한강서 즐기는 풍성한 한가위",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467115",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-09-24"
+    },
     {
       "title": "서울시장 사후동정 -오세훈 시장, 24일(목) 한부모가족 복지시설 ‘애란원’ 방문",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467110",
