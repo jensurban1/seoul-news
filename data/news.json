@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-09-27 08:57",
-  "total": 3393,
-  "new_today": 0,
+  "updated_at": "2026-09-28 09:03",
+  "total": 3405,
+  "new_today": 12,
   "items": [
+    {
+      "title": "한강버스 요금 체계 개편…서울시, 각계각층 의견 수렴 공청회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467132",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "(엠바고09시)서울시 2026년도 제1회 신규공무원 임용시험, 2,775명 최종 선발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467131",
+      "dept": "인재개발원",
+      "category": "행정",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "서울시-한국부동산분석학회,  부동산공시가격 검증지원센터 역할 강화 방안 논의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467130",
+      "dept": "토지관리과",
+      "category": "주택",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "“바람 한 줄, 단풍 한 장, 골목마다 가을이 시가 된다” 서울시, 가을 정취 담은 서울꿈새김판 새단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467129",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "어두웠던 교량 아래가 밤이 되면 빛의 명소로… '서울 라이트업' 본격 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467128",
+      "dept": "도로시설과",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "서울시, 125개소 프로포폴 관리실태 들여다보니…26개소 위반",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467127",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "이름 바꾼 '동행안심벨', 그립톡형 등으로 더 편리해진다…9.28.부터 사전신청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467126",
+      "dept": "양성평등담당관",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "글로벌 인재와 기업을 한 자리에…서울시, 외국인 채용 우수기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467125",
+      "dept": "외국인이민담당관",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "보관부터 소분·포장까지 한곳에서… 서울시, 강서시장 상품화 시설 건립",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467124",
+      "dept": "농수산유통과",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "남산에서 만나는 다채로운 K-콘텐츠… 「2026 서울관광 ON 페스타」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467123",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "“중장년의 경험을 사회공헌으로”…서울시 2026 가치동행한마당 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467122",
+      "dept": "중장년지원과",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "제16차 서울특별시 도시·건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467121",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-09-27"
+    },
     {
       "title": "(엠바고09시)서울 곳곳에 한가위 즐거움 가득… 외국인 관광객·시민 함께 명절 즐긴다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467120",
