@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-09-28 09:03",
-  "total": 3405,
-  "new_today": 12,
+  "updated_at": "2026-09-29 10:19",
+  "total": 3418,
+  "new_today": 13,
   "items": [
+    {
+      "title": "한강 배달 할인에, 상품권 환급 두 배로… 서울시, 서울배달+땡겨요 혜택 더한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467237",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "서울시, 깨끗한 아리수 이어가기 위해 전문가·시민 집단지성 모은다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467236",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "서울시, 판소리·악기장 보유자 3명 새로 인정…'불교지화장엄' 첫 보유단체도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467235",
+      "dept": "문화유산과",
+      "category": "행정",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "서울역사박물관, 인사도시유적전시관 개관 기념 학술대회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467234",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "서울대공원 식물원, 제20회 식충식물 특별전시회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467233",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "(엠바고10시)도시계획위원회 제11차 신속통합수권위원회 및 제2차 재정비분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467232",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "300만 명 쓰는 손목닥터9988… 적극 참여 어르신 10명 중 9명 \"외부활동 늘었다\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467139",
+      "dept": "스마트건강과",
+      "category": "복지",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "70만명 운집한 '서울라이트 DDP'…서울의 야간경제 활력 더했다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467138",
+      "dept": "서울디자인재단",
+      "category": "경제",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "도시의 내일을 여는 AI 담론, 서울에 모인다… SLW 2026 국제포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467137",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "광화문 일대 120m 상공이 스포츠 무대로… 서울서 국내 최초 고공 슬랙라인 도전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467136",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "서울시, 목욕탕·찜질방 등 다중이용시설 레지오넬라균 11.1% 검출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467135",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "서울시, 초등돌봄‘우리동네키움센터’ 우수 운영사례 공유회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467134",
+      "dept": "서울시 여성가족재단",
+      "category": "복지",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "(엠바고10시30분)서울 '모아주택 1호' 9월 첫 입주… 오세훈 시장, \"2031년까지 4만호 착공\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467133",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-09-28"
+    },
     {
       "title": "한강버스 요금 체계 개편…서울시, 각계각층 의견 수렴 공청회 개최",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467132",
