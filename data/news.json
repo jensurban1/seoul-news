@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-09-29 10:19",
-  "total": 3418,
+  "updated_at": "2026-09-30 09:49",
+  "total": 3431,
   "new_today": 13,
   "items": [
+    {
+      "title": "한강 한가운데 새로 열린 노들섬…개방 10일 만에 10만 명 찾았다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467359",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "서울시, 추석 성수식품 불법행위 특별단속...원산지 거짓표시 등 5개소 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467324",
+      "dept": "안전수사과",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "광화문광장에서 만나는 가을…감사의 빛으로 전하는 기억과 감사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467323",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "서울 23개 자치구 여성합창단이 빚는 가을 하모니…10월 2일 합창 페스티벌",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467322",
+      "dept": "문화예술과",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "서울AI재단, AI 신뢰의 기준을 설계한다…'서울 AI 윤리·거버넌스 포럼' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467321",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "흑백TV·가훈·옛 달력이 미니어처로… 서울생활사박물관 「가족 생활사 공작소」 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467320",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "(엠바고13시) 서울시, 충주와 교육 잇고 농업으로 상생…서울런 협약·청년농업인 간담회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467246",
+      "dept": "교육지원정책과",
+      "category": "복지",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "서울 전통시장의 맛있는 가을밤… 23곳서 야간 미식·문화축제 열린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467243",
+      "dept": "상권활성화과",
+      "category": "문화",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "일본인 관광객 서울 짧게·자주 찾는다…'서울 탄환여행' 주목",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467242",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "가을밤 달빛 아래 설레는 첫 만남…'서울팅' 이번엔 불금, 야장 핫플에서 열린다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467241",
+      "dept": "저출생담당관",
+      "category": "행정",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "가족돌봄청소년·청년 자기돌봄비 지원…생애 1회 200만원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467240",
+      "dept": "복지정책과",
+      "category": "복지",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "'딸깍' 누르면 스트레스 없는 서울의 밤이 켜진다 …서울시, LED키캡키링 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467239",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "덕수궁 돌담길 옆 서울도시건축전시관 가을 전시와 강연 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467238",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-09-29"
+    },
     {
       "title": "한강 배달 할인에, 상품권 환급 두 배로… 서울시, 서울배달+땡겨요 혜택 더한다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467237",
