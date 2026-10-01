@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-09-30 09:49",
-  "total": 3431,
-  "new_today": 13,
+  "updated_at": "2026-10-01 09:52",
+  "total": 3445,
+  "new_today": 14,
   "items": [
+    {
+      "title": "서울시, 신임 대변인에 호준석 前 YTN 앵커팀 부국장 임명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467440",
+      "dept": "인사과",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "사전검증·전문감리·무인점검까지… 서울시, 노후교량·고가차도 해체공사 안전관리 전면 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467419",
+      "dept": "기술심사담당관",
+      "category": "안전",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "저렴해서 가입했는데 이용 중단… 서울시, 유튜브 계정공유 피해 주의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467413",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "서울특별시 자치법규 제·개정 공포",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467411",
+      "dept": "법무담당관",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "잠수교 400m가 치킨으로 채워진다…서울시, '잠수교 치킨데이' 참가사 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467409",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "한옥에 쌓인 시간, 흙에 담긴 시간…서울공예박물관《시간이 쌓이는 집》전시 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467408",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "(엠바고14시) '2530 장애인 일상활력프로젝트'가 바꾼 일상, '서울장애인정책박람회'서 만난다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467332",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "(엠바고11시) 오세훈 시장, \"부상 장병 예우, 제대 후 삶까지\"… 청년부상제대군인과 간담회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467331",
+      "dept": "복지정책과",
+      "category": "복지",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "(엠바고14시) 서울숲에 더해 매헌시민의숲까지… 서울국제정원박람회 10월 확대 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467330",
+      "dept": "조경과",
+      "category": "환경",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "가을밤, 서울을 걸어요…손목닥터9988 밤 산책 3종 미션",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467329",
+      "dept": "스마트건강과",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "춤추는 '북부대공'부터 착용형 로봇까지…'서울AI로봇쇼' 51개사 총출동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467328",
+      "dept": "경제정책과",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "'서울다움'을 K-뷰티에 담다…서울시x메디힐 '서울 에디션' 7종 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467327",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "노을부터 야경까지, 가을밤 한강서 즐기는 '아리땁다 아리수' 팝업 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467326",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "\"회의실 예약해줘\" 한마디면 끝 …서울시, '일하는 AI' 행정에 도입",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467325",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-09-30"
+    },
     {
       "title": "한강 한가운데 새로 열린 노들섬…개방 10일 만에 10만 명 찾았다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467359",
