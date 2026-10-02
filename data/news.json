@@ -1,8 +1,127 @@
 {
-  "updated_at": "2026-10-01 09:52",
-  "total": 3445,
-  "new_today": 14,
+  "updated_at": "2026-10-02 10:08",
+  "total": 3462,
+  "new_today": 17,
   "items": [
+    {
+      "title": "‘금2·은3·동4’서울시청 선수단, 아시안게임 빛냈다…추가 메달 도전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467532",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "시민이 기부한 서울페이+ 잔액 2억 6천만 원, 위기가정·아이들 위한 나눔 됐다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467512",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "“외국인 창업가를 서울의 성장 동력으로”…서울시, 글로벌 창업 인재 발굴",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467511",
+      "dept": "외국인이민담당관",
+      "category": "경제",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "서울신보, 지역 상생 성과 인정받아 행정안전부 장관상 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467510",
+      "dept": "서울신용보증재단",
+      "category": "안전",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "청계천 복원 20년, 서울 도심의 변화를 담은 『청계천 복원 20년, 여섯 공간 이야기』 조사보고서 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467509",
+      "dept": "서울역사박물관",
+      "category": "행정",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 1일(목) 매헌시민의숲 서울국제정원박람회 개막식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467533",
+      "dept": "조경과",
+      "category": "환경",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "서울시, '권리중심 공공일자리 조례안' 재의요구… 직무 기준 명확히 하고 사업 운영 재검토해야",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467458",
+      "dept": "장애인자립지원과",
+      "category": "경제",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "(엠바고14시) 서울시, 2030년까지 자율주행 시내버스 500대 도입 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467454",
+      "dept": "미래첨단교통과",
+      "category": "교통",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "서울시, 김치 취급업소 6,365곳 점검하고 중국산 김치 검사…첫 결과 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467453",
+      "dept": "식품정책과",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "(엠바고14시30분) “오늘의 특종은 바로 우리”…‘ 2026 내친구서울 어린이기자의 날 ’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467451",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "망원동 416-53 신통기획 확정, 골목상권과 어우러진 생활밀착 주거단지 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467450",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "서울시, 옥인동·명륜3가·망우동 용적률 최대 1.2배 완화… '휴먼타운 2.0' 주택정비 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467449",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "서울시, ‘글로벌 문화·관광도시’ 가로막는 규제 푼다…문화·관광 3건 대정부 건의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467448",
+      "dept": "창의규제담당관",
+      "category": "문화",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "공동재현 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467447",
+      "dept": "문화유산과",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "책·음악·놀이·체험 온 가족의 취향을 한자리에…서울시, '한강 패밀리 페스티벌'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467445",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "5개 권역 150개 서울 '디자인로드' 연결… 서울디자인위크 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467444",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "(엠바고10시30분)서울시, 20년간 나눔 실천 어르신 등 노인복지 유공자·단체 50명 표창",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467420",
+      "dept": "고령사회대응과",
+      "category": "복지",
+      "date": "2026-10-01"
+    },
     {
       "title": "서울시, 신임 대변인에 호준석 前 YTN 앵커팀 부국장 임명",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467440",
