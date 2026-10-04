@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-10-03 09:47",
-  "total": 3462,
-  "new_today": 0,
+  "updated_at": "2026-10-04 09:09",
+  "total": 3469,
+  "new_today": 7,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 3일(토) 2026 강남페스티벌 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467627",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 2일(금) 2026 서울라이트 한강 빛섬축제 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467604",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "공간과 일상 사이에 스며든 식물…서울식물원‘초록, 속’기획전 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467518",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "\"한강 다리는 언제, 왜 놓였을까?\" 서울 발전사 담은「한강의 다리」발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467517",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "“아이가 치료 받는 30분, 가족도 쉼을 얻는다” 서울시 어린이병원 51병동, 환아·가족 함께하는 가족중심 건강돌봄 첫걸음",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467516",
+      "dept": "어린이병원",
+      "category": "복지",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "서울시복지재단 VR기술 활용 장애인 주거안전서비스 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467515",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "“지하도상가서 친구·가족과 함께 파크골프 즐겨요” 서울시설공단, ‘제1회 서울아랫길 스크린 파크골프대회’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467514",
+      "dept": "서울시설공단",
+      "category": "행정",
+      "date": "2026-10-02"
+    },
     {
       "title": "‘금2·은3·동4’서울시청 선수단, 아시안게임 빛냈다…추가 메달 도전",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467532",
