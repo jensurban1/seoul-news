@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-10-04 09:09",
-  "total": 3469,
+  "updated_at": "2026-10-05 09:15",
+  "total": 3476,
   "new_today": 7,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 4일(일) 북촌 공공한옥 방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467635",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "서울 전월세시장 어디로 가나… 전문가·시민과 해법 찾는 '서울주거포럼' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467573",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "서울시, 어르신에게 할인해 주는 '시니어 동행상점' 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467572",
+      "dept": "고령사회대응과",
+      "category": "복지",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "현장에서 만나는 노들섬의 미래…서울시, 노들 글로벌 예술섬 원데이 건축 아카데미 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467571",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "“올해 독감 유행 빨라지고 기간 길어져”…서울시, 예방접종 당부",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467570",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "서울연구원, 퀘벡·플랑드르와 AI·로봇 도시기술 협력의 장을 마련하다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467569",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "아이의 눈으로 다시 그리는 박물관 지도…서울공예박물관 ‘마이 리틀 아티스트’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467568",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-10-04"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 3일(토) 2026 강남페스티벌 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467627",
