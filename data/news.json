@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-10-05 09:15",
-  "total": 3476,
-  "new_today": 7,
+  "updated_at": "2026-10-06 10:57",
+  "total": 3487,
+  "new_today": 11,
   "items": [
+    {
+      "title": "(엠바고10시20분)서울시, 스마트라이프위크 2026 출발…AI로 그리는 미래도시 엿본다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467588",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "1~8월 서울방문 외국인 관광객 21.6% 늘 때 카드소비는 59.9% 증가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467587",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "(엠바고08시)서울시, 서울건강총괄관에 김현철 교수 위촉…시정 전반에 '시민 건강' 더한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467586",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "임산부의 날 앞두고 가족 독서 한마당…서울시 ‘엄마 북(Book) 돋움’ 특별행사",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467585",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "“탈곡부터 떡메 치기 까지”용산가족공원 가을걷이 한마당 개최!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467584",
+      "dept": "",
+      "category": "문화",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "서울시청 선수단, 역대 아시안게임 최다 메달… '스포츠 도시 서울' 저력 입증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467631",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "“밤에도 북적이는 골목상권 만든다” 달빛야장 소상공인에 687.5억 원 공급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467581",
+      "dept": "서울신용보증재단",
+      "category": "경제",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "서울런, 아이들 일상 속으로…지역아동센터로 ‘서울런쌤’ 직접 찾아간다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467578",
+      "dept": "교육지원정책과",
+      "category": "복지",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "사랑하는 반려동물을 보낸 슬픔, 서울시와 함께 치유하세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467577",
+      "dept": "동물보호과",
+      "category": "행정",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "건당 200원 벌려다 형사처벌 위기 … 청년들 울린 신종 부동산 불법광고 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467576",
+      "dept": "경제수사과",
+      "category": "주택",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "세계 물 전문가 모인 영국서 서울시 상수도 정책·기술 선보인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467575",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-10-05"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 4일(일) 북촌 공공한옥 방문",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467635",
