@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-10-07 10:04",
-  "total": 3498,
-  "new_today": 11,
+  "updated_at": "2026-10-08 10:23",
+  "total": 3511,
+  "new_today": 13,
   "items": [
+    {
+      "title": "서울, 美 유력 여행전문지 독자가 뽑은 '세계 최고의 대도시' 1위… 도쿄 제치고 첫 정상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467822",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "(엠바고10시)제16차 서울특별시 도시계획위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467807",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "서울의 디자인, 베트남 천년 왕도를 붉은 빛으로 물들이다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467806",
+      "dept": "디자인정책담당관",
+      "category": "행정",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "서울시, 전 세대가 함께하는 AI 체험 축제 “서울 AI 평생학습 러닝 그라운드”개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467805",
+      "dept": "서울시평생교육진흥원",
+      "category": "문화",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "음악의 낭만과 책쉼터의 휴식, 율현공원 가을축제에서 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467804",
+      "dept": "동부공원여가센터",
+      "category": "문화",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "서울역사박물관, 가을밤 9시까지 문 활짝… 전시부터 체험까지 야간 프로그램 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467803",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 7일(수) 스마트라이프위크 메이어스포럼 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467798",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "서울형 야장 모델 구축…상권 활력은 살리고 주민 일상은 지킨다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467751",
+      "dept": "상권활성화과",
+      "category": "행정",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "17년간 한글 가치 담아온 광화문광장에서… 서울시, 시민과 한글날 100돌 기념",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467749",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "장애인 치과진료 문턱 대폭 낮춘 서울시…예방부터 전문 치료까지 맞춤형으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467745",
+      "dept": "건강관리과",
+      "category": "복지",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "“서울시민으로서 자긍심을 느껴요”… 외국인 명예시민 네트워킹 데이 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467744",
+      "dept": "도시외교담당관",
+      "category": "행정",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "생명·환경·이동권…전 세계가 내놓은 '디자인 해법', DDP에서 경쟁",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467742",
+      "dept": "서울디자인재단",
+      "category": "환경",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "물지게 지고 골목 누비던 '북청 물장수'…수도박물관 기획전시로 만난다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467741",
+      "dept": "서울아리수본부",
+      "category": "문화",
+      "date": "2026-10-07"
+    },
     {
       "title": "(엠바고07시30분)베테랑공무원이 그린 10년 후 서울…미래서울 아침특강 새 단장",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467736",
