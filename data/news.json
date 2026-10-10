@@ -1,8 +1,50 @@
 {
-  "updated_at": "2026-10-09 10:31",
-  "total": 3520,
-  "new_today": 9,
+  "updated_at": "2026-10-10 10:20",
+  "total": 3526,
+  "new_today": 6,
   "items": [
+    {
+      "title": "서울시, 강서·용산·중랑 모아주택·모아타운으로 1,735세대 공급",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467891",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "1만 2천 러너, 서울의 가을을 달린다…‘2026 서울달리기’11일 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467878",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "국제행사 현장에서 글로벌 역량 키운 142명 …스마트라이프위크(SLW) 2026 서포터즈 수료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467877",
+      "dept": "디지털정책과",
+      "category": "문화",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "서울물재생시설공단, 하수슬러지 연료 활용 핵심 '발열량' 직접 분석한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467874",
+      "dept": "서울물재생시설공단",
+      "category": "행정",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "서울대공원 새끼 레서판다 쌍둥이‘마루·마롱’시민 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467871",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "서울시설공단, 대공원 클래식부터 청계천 역사산책까지 가을 시민행사 풍성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467867",
+      "dept": "서울시설공단",
+      "category": "문화",
+      "date": "2026-10-09"
+    },
     {
       "title": "(엠바고15시30분)시민·글로벌 바이어가 뽑은 혁신기술… 'SLW 2026 시민혁신상' 10개사 선정",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467854",
