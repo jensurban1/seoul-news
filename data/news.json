@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-10-11 09:33",
-  "total": 3527,
-  "new_today": 1,
+  "updated_at": "2026-10-12 09:47",
+  "total": 3539,
+  "new_today": 12,
   "items": [
+    {
+      "title": "가을 밤을 즐기는 특별한 방법 '2026 남산 나이트 페스티벌'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467897",
+      "dept": "공원여가사업과",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "서울시, 청소년의 건강한 디지털미디어 환경 조성 위해 전문가·시민 모인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467896",
+      "dept": "청소년정책과",
+      "category": "환경",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "책 자체로 예술이 된다…서울아트책보고 2026 가을 아트북 특별전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467895",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "막 내린 극장, 다시 시작되는 광화문의 밤",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467894",
+      "dept": "세종문화회관",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "서울잇다플레이스, 고립·은둔 가족지원리빙랩 참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467893",
+      "dept": "서울시복지재단",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "용산전자상가, AI·ICT 신산업 거점으로 탈바꿈 본격화… 나진상가 첫삽",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467887",
+      "dept": "도시관리과",
+      "category": "경제",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "서울시, 기업지원 늘렸더니 육아휴직·배우자 출산휴가 활발… 참여기업 97.5% \"긍정적\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467886",
+      "dept": "저출생담당관",
+      "category": "복지",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "\"재개발·재건축 궁금증 현장에서 해결\" 호응… 서울시, '정비사업 아카데미' 2차 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467885",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "사무공간부터 투자연계까지…서울창업허브 공덕, 유망 스타트업 27곳 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467884",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "탄생 1주년 앞둔 ‘서울 나눔-이음’...시민과 함께 기념",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467883",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "지친 일상에 '초록 처방'… 서울시, 16~17일 서울숲서 도시농업박람회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467881",
+      "dept": "농수산유통과",
+      "category": "환경",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "배움에서 실천으로! 2026 서울 가드닝 크루, 오래가는 정원 만든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467880",
+      "dept": "공원여가사업과",
+      "category": "행정",
+      "date": "2026-10-11"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 10일(토) 2026 진관사 가을음악회 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467929",
