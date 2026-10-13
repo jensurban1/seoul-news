@@ -1,8 +1,141 @@
 {
-  "updated_at": "2026-10-12 09:47",
-  "total": 3539,
-  "new_today": 12,
+  "updated_at": "2026-10-13 11:44",
+  "total": 3558,
+  "new_today": 19,
   "items": [
+    {
+      "title": "8만 7천 명 찾은 스마트라이프위크… 서울, 글로벌 AI 비즈니스 교류의 장 넓혔다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468001",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "서울시, 낮에 이용 어려운 어르신 위해 노인복지관 문 저녁까지 연다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467999",
+      "dept": "통합돌봄과",
+      "category": "복지",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "서울시 ’27년 공공기관 통합채용 확대 시행…23개 기관 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467998",
+      "dept": "공기업담당관",
+      "category": "환경",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "글로벌 경쟁 뚫은 서울 AI 스타트업…뉴욕서 기술 실증·사업화 도전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467997",
+      "dept": "AI전략산업과",
+      "category": "경제",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "청년 셰프들이 선보이는 건강한 한 끼…18일 서울숲에서 만나요!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467995",
+      "dept": "식품정책과",
+      "category": "복지",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "노량진을 달리니 물고기가?… 아트런으로 즐기는‘서울에디션25’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467994",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "서울역사박물관, 현수막에 새로운 가치를 더하다… 업사이클링 문화상품 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467993",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "(엠바고10시)2031년 31만 호 착공 속도전…오세훈 시장, 올해 3만 호 직접 챙긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467984",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "서울시, 디자인이 바꾸는 일상 한자리에…DDP에서 '디자인산업 스펙트럼'·'그린칩스 서울 페스티벌' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467983",
+      "dept": "디자인산업담당관",
+      "category": "경제",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "가을빛 물드는 광화문광장, ＇2026 광화문 빛모락 축제＇ 24일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467982",
+      "dept": "광화문광장사업과",
+      "category": "문화",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "서울시, 신속한 누수 복구 위해 시민 신고 포상…최초 신고자에 3만원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467981",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "AI시대에 대처하는 식물적 상상력은 무얼까? 국제심포지엄 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467980",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 12일(월) 한강대교 상부 점검통로 직접 올라 교량 상태 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467964",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "서울시, '모아통합기획' 후보지 공모 개시… '30년까지 100곳 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467904",
+      "dept": "모아주택과",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "서울시청 선수단 15명, 아이치·나고야 아시안패러게임서‘금빛 도전’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467903",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "서울시, 시장집무실 '주택공급 상황판' 착공 물량 시민 공개… '정보몽땅' 개편 오픈",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467902",
+      "dept": "주거정비과",
+      "category": "주택",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "시제품 넘어 시장으로…서울시, 기술제조 스타트업 10개사 한국전자전 참가 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467901",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "금요일 음악, 토요일 명상… DDP 지붕 위 나만의 가을 즐긴다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467900",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "서울시 명예의 전당에 오를 ‘서울의 얼굴’ 을 추천해 주세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/467899",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-10-12"
+    },
     {
       "title": "가을 밤을 즐기는 특별한 방법 '2026 남산 나이트 페스티벌'",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/467897",
