@@ -1,8 +1,183 @@
 {
-  "updated_at": "2026-10-15 09:09",
-  "total": 3576,
-  "new_today": 12,
+  "updated_at": "2026-10-16 08:56",
+  "total": 3601,
+  "new_today": 25,
   "items": [
+    {
+      "title": "아시안게임 열기 제주로 잇는다…서울시 선수단 2,156명 전국체전 출격",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468209",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "‘건강한 서울, 빛나는 서울사람들’, 서울의 순간을 한 장에 담다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468208",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "논밭에서 빌딩숲으로…서울역사편찬원, ‘오래된 신도시’ 강남 변화사 발간",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468207",
+      "dept": "서울역사편찬원",
+      "category": "환경",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "(대변인 입장문) 근거 없는 의혹 부풀리기, ‘리베이트 최상층’ 운운하는 한탕주의식 국감을 개탄합니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468210",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 마포·노원 자원회수시설의 가동률을 높여 공공소각을 늘리고, 비수도권 폐기물 반출을 줄여야 하는 것 아닌지(20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468205",
+      "dept": "자원회수시설과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감 보도참고자료)  한강버스에 대한 서울시 보조금 지원과 SH·이크루즈 간 출자금 분담이 적정한지 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468203",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 서울시는 정비계획 결정 기간을 획기적으로 단축, 현장에선 자치구 처리단계에서 지연 사례가 더 큰 문제로 지적 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468202",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 정원오 전 구청장 칸쿤 출장 주민감사, 서울시장이 임의로 각하하거나 중단시킬 권한 없어 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468201",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) ‘좌주’는 행정안전부 지침상 사고시 보고대상의 유형에 있는 용어로 공공기관에서 폭넓게 쓰이는 단어임 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468197",
+      "dept": "미래한강본부",
+      "category": "환경",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 따릉이 개인정보 유출 사고 보고 이후 서울시 조치는 무엇이며, 피해 시민에게 5천 원 상당의 이용권을 지급하는 것이 적절한지 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468196",
+      "dept": "자전거PM과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 올해 공공주택 공급 목표 1만호 중 현재 약 5천호만 공급하는 등 공공주택 공급에 소극적인 것 아닌지 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468194",
+      "dept": "공공주택과",
+      "category": "주택",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 한강버스 당초 수요예측이 잘못된 것 아닌지(20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468193",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 서울시, GTX-A 조기 개통위해 어떤 보강공법도 수용할 것 (261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468192",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 한강버스 리베이트 의혹 관련, 감사원 감사청구 각하 후 바로 수사의뢰 등을 하지 않은 이유는 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468190",
+      "dept": "감사위원회",
+      "category": "교통",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 한강버스는 출근시간 불가하고, 유람선과 유사해 보이는데 대중교통으로 보는 것이 맞는지?",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468188",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 한강버스는 출근시간이 불가하고, 유람선과 유사해 보이는데 대중교통으로 보는 것이 맞는지(20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468186",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 정원오 전 구청장 칸쿤 출장 시민감사 사실을 서울시장에게 보고하거나 지시받은 일이 있는지? 수사 중인 사안을 감사 진행하고 연장한 이유는? (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468185",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 오세훈 시장, 객관성 유지 위해 제3자 감사 강조 , 수사의뢰 검토 및 감사원에 감사청구 동시 지시(261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468165",
+      "dept": "감사위원회",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "서울시, '서울 프리랜서 온' 안심결제 1천 건 눈앞… 누적 계약금액 8억 원 돌파",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468150",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "서울시, 모아주택 초기사업비 전국 최초 융자…7개 구역 총 80억",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468149",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "서울시, 노숙인·쪽방주민 '무료 독감 예방접종'… 건강한 겨울나기 동행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468148",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "영수증이 공연 명당 좌석으로…16~17일 서울광장 ‘영수증콘서트’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468147",
+      "dept": "문화예술과",
+      "category": "문화",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "서울시 건물 에너지신고·등급제 3년차…7,604개 동 참여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468146",
+      "dept": "친환경건물과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "\"점심시간에 잠깐 건강체크 해볼까\" 서울시, 대사증후군 캠페인 진행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468145",
+      "dept": "건강관리과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(엠바고10시)제17차 도시건축공동위원회 및 제9차 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468132",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
     {
       "title": "9월 서울 토허 신청 5개월만 소폭 반등… 외곽지역 상승폭 확대",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468136",
