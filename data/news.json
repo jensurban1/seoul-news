@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-10-14 09:41",
-  "total": 3564,
-  "new_today": 6,
+  "updated_at": "2026-10-15 09:09",
+  "total": 3576,
+  "new_today": 12,
   "items": [
+    {
+      "title": "9월 서울 토허 신청 5개월만 소폭 반등… 외곽지역 상승폭 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468136",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "서울 도심에서 떠나는 일곱 지역 가을여행…‘로컬트립 가을소풍’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468135",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "조선 최고 관청 ‘의정부’ 다시 시민의 품으로…서울시, 의정부지 유적전시관 개관",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468134",
+      "dept": "문화유산과",
+      "category": "문화",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "서울을 기록하는 17가지 시선… 서울기록원, 제7회 서울기록페어 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468133",
+      "dept": "서울기록원",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(엠바고14시) 9호선 급행 늘리고 간선 급행버스 도입… 서울 출퇴근길 더 빠르고 편리하게",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468089",
+      "dept": "도시철도과",
+      "category": "교통",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "서울시, 한강버스 온라인 단체 예약 시범 서비스 시작…이용객 편의 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468088",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "2026 서울뮤직페스티벌 24일 개최…가을 노들섬과 음악의 하모니",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468087",
+      "dept": "문화예술과",
+      "category": "행정",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "서울시 '보탬상회' 펀딩 8억 원… 소상공인 판로 확대·해외 진출까지 돕는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468086",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "서울의 맛을 함께 나눈다…‘서울미식주간’프로그램 공개·미식어워즈 시민 참여자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468084",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "서울연구원, 개원 34주년 기념세미나 개최‘Fun City Seoul 시민이 즐기는 도시, 모두가 머물고 싶은 도시’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468083",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "서울시,‘휴먼타운 2.0’7곳 건축규제 완화… 저층주거지 개별정비 문턱 낮춘다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468082",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "(엠바고11시)세계 디자인의 해법, 서울에 모였다…‘서울디자인위크’개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468057",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-10-14"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 14일(수) 「제204차 서울특별시구청장협의회」 참석… 민선 9기 구청장들과 상견례",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468077",
