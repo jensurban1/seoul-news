@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-10-16 08:56",
-  "total": 3601,
-  "new_today": 25,
+  "updated_at": "2026-10-17 08:59",
+  "total": 3612,
+  "new_today": 11,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 16일(금) 제107회 전국체전 개회식 참석 및 선수단 격려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468318",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "(대변인 입장문) 한강버스 관련 의혹에 철저한 진상규명으로 답하겠습니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468301",
+      "dept": "언론담당관",
+      "category": "교통",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "(시민감사옴부즈만위원회 입장문) 「전 성동구청장의 공무국외출장 관련」 주민감사 실시 관련 입장문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468277",
+      "dept": "시민감사옴부즈만위원회",
+      "category": "행정",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "서울동물행복위크 시작…반려동물과 교감하고 성숙한 반려문화 정착 도모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468252",
+      "dept": "동물보호과",
+      "category": "문화",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "서울시, 저층주거지 정책부터 마을의 변화까지…「온(穩)동네」에 담는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468249",
+      "dept": "모아주택과",
+      "category": "행정",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "은빛 억새가 건네는 가을의 위로, 서울시 제25회 서울억새축제 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468248",
+      "dept": "서부공원여가센터",
+      "category": "문화",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "(엠바고10시)정비사업 389곳 해제, 도시재생 1조 이상 투입 결과, 공급기반 붕괴·매몰된 혈세… 서울시 과거 반성문 썼다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468236",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "(엠바고10시)제21차 서울시 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468206",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-10-16"
+    },
     {
       "title": "아시안게임 열기 제주로 잇는다…서울시 선수단 2,156명 전국체전 출격",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468209",
@@ -23,6 +79,27 @@
       "dept": "서울역사편찬원",
       "category": "환경",
       "date": "2026-10-16"
+    },
+    {
+      "title": "(국감보도참고자료) 증가하는 마라톤 대회에 따른 시민불편과 경찰부담을 최소화할 대책을 마련해야 하는 것 아닌지  (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468231",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 문래동 제2세종문화회관 취소 과정에서 구청의 요청이 있었다는 것은 거짓이 아닌지(20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468230",
+      "dept": "도시공간전략과",
+      "category": "문화",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "(국감보도참고자료) 여의도공원도 녹지인데, 제2세종문화회관 건립을 위해 녹지가 훼손되는 거 아닌지 (20261015, 행안위)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468229",
+      "dept": "도시공간전략과",
+      "category": "문화",
+      "date": "2026-10-15"
     },
     {
       "title": "(대변인 입장문) 근거 없는 의혹 부풀리기, ‘리베이트 최상층’ 운운하는 한탕주의식 국감을 개탄합니다",
