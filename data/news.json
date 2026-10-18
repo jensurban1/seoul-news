@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-10-18 08:33",
-  "total": 3613,
-  "new_today": 1,
+  "updated_at": "2026-10-19 08:45",
+  "total": 3627,
+  "new_today": 14,
   "items": [
+    {
+      "title": "(대변인 입장문) 특정 정당의 일방적 주장만 대변한 한겨레 사설에 유감을 표합니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468355",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "서울시, 경력전환 성공사례 공모…중장년취업사관학교 출범 첫해 ‘새 출발’ 수기 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468306",
+      "dept": "서울시50플러스재단",
+      "category": "경제",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "서울시 통합돌봄 제도 시행 후 과제 논의, 30일 포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468305",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "서울시, 2026 겨울편 「서울꿈새김판」 게시 문안 공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468304",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "(보도참고자료) 강우 상황보고(26.10.18. 17시 기준)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468343",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "< 민주당은 사실은 외면한 채 의혹만 부풀리는 '아니면 말고'식 정치공세를 중단하라 >",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468332",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "낮에는 전통시장, 밤에는 야장… 서울 시장 맛집·명물, 청계광장에 총출동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468299",
+      "dept": "상권활성화과",
+      "category": "행정",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "120다산콜, 장시간 상담에 '20분 종료'… 상담직원 보호·상담 효율 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468298",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "700개의 빛이 남산의 가을밤 수놓는다… 서울시, ‘반짝반짝 남산밤길’ 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468296",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "''가을밤, 도심에서 별 보러 갈까요?''…서울시립과학관, 24~25일 '별빛축제'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468295",
+      "dept": "서울시립과학관",
+      "category": "문화",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "시민이 주인공이 되는 무대…서울시, ‘2026 나도 버스커 페스티벌’ 참가자 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468294",
+      "dept": "문화정책과",
+      "category": "교통",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "AI가 바꾸는 기술과 일상…  서울시, 시민 무료 '서울 AI 인사이트 포럼' 초청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468293",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "음악과 체험으로 즐기는 가장 다정한 가을, 서울식물원 정원치유축제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468292",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "공공기록과 예술작품으로 다시 읽는 도시 …‘예술가들이 기록한 도시’ 전시 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468291",
+      "dept": "서울기록원",
+      "category": "문화",
+      "date": "2026-10-18"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 17일(토) 「제3회 서울 동물보호의 날 기념행사」 참석… 시민과 함께 동물보호 의미 되새겨",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468324",
