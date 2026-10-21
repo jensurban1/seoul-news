@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-10-20 09:45",
-  "total": 3665,
-  "new_today": 38,
+  "updated_at": "2026-10-21 09:12",
+  "total": 3683,
+  "new_today": 18,
   "items": [
+    {
+      "title": "재해 취약 주거지에서 상도권역 생활 중심지로…상도동 201 일대 신속통합기획 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468529",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "서울시 수도 요금 감면, 증빙 서류 없이 누리집에서 신청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468528",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "공사비 갈등, 상담부터 중재·사후관리까지 한곳에서… 서울시, '공사비120센터' 문 열어",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468524",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "서울 도심에서 떠나는 5개국 미식 여행,「2026 광희로드 페스타」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468523",
+      "dept": "서울신용보증재단",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "서울시, '2026년 소방안전모범대상' 12개소 선정…우수 안전관리 사례 확산",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468522",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "청소년이 도전하는 AI 미션… 서울AI재단, 미래도시 체험행사 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468521",
+      "dept": "서울AI재단",
+      "category": "문화",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 20일(화) ‘야(夜)호! 어르신 별빛 활력 한마당 축제’ 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468537",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "걷다가 언제든 쉬어가는 서울… 오세훈 시장, 벤치 확충·공간 맞춤형 디자인 주문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468493",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "(엠바고12시) 오세훈 서울시장, 홍익대 찾아 청년 고민 나누고 서울생활 꿀팁 공유",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468478",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "\"나의 밤이 더 의미 있어지는 곳\"… 서울시, ‘서울별빛명소’ 만든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468463",
+      "dept": "경제정책과",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "청계천의 밤, 자율주행으로 잇는다…'청계 A01' 22일부터 야간운행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468460",
+      "dept": "미래첨단교통과",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "'2026 남산 나이트 페스티벌' 뜨거운 호응… 예약 오픈 직후 ‘캠프닉(Campnic)’ 매진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468459",
+      "dept": "공원여가사업과",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "서울 체육의 저력 빛났다… 전국체전 메달 193개·산악 전 종목 석권",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468458",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "서울시, 조합설립 공공지원 모아주택까지 확대… 올해 첫 시행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468457",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "전국 유일 서울시 건물에너지 ‘신고·등급제’, ‘등급제’로 한번 더 진화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468456",
+      "dept": "친환경건물과",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "서울창포원 일대, 공공미술의 명소로 탈바꿈한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468455",
+      "dept": "디자인산업담당관",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "(엠바고10시30분)서울시,「중장년 일자리박람회 2026」…재취업·경력전환 기회 한자리에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468427",
+      "dept": "서울시50플러스재단",
+      "category": "경제",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "(엠바고10시30분)서울시립미술관, 미디어 아트의 선구자 린 허쉬만 리슨의 아시아 첫 미술관 개인전 _린 허쉬만 리슨 나의 [나]들_ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468423",
+      "dept": "시립미술관",
+      "category": "행정",
+      "date": "2026-10-20"
+    },
     {
       "title": "금요일 밤 도심 문화투어…서울시, ‘문화로 야금야금’ 스탬프 투어 첫선",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468426",
