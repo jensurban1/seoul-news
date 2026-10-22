@@ -1,8 +1,78 @@
 {
-  "updated_at": "2026-10-21 09:12",
-  "total": 3683,
-  "new_today": 18,
+  "updated_at": "2026-10-22 09:16",
+  "total": 3693,
+  "new_today": 10,
   "items": [
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 21일(수) 구내식당서 ‘서울 달빛야장’ 특별식 배식하며 국감 노고 격려",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468585",
+      "dept": "",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "오세훈 시장, AI 시대 중장년 새 일자리 구석구석 발굴… 중장년취업사관학교 획기적 확대 주문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468580",
+      "dept": "중장년지원과",
+      "category": "경제",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "(엠바고14시) \"살던 곳에서 건강하게\"… 서울형 통합돌봄, 1만 4천여 명 지원하고 돌봄망 넓힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468575",
+      "dept": "통합돌봄과",
+      "category": "복지",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "안전하고 편리한 서울 지하철, 세계가 주목… 英 타임아웃 세계 5위·美 CNN도 호평",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468574",
+      "dept": "도시철도과",
+      "category": "교통",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "50만 명이 찾은 광화문광장 감사의 정원, 스웨덴 우정의 빛으로 물든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468573",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "''아이브 컴백 영상, DDP에 뜬다''…서울시, K-POP과 서울 명소 잇는 도시마케팅 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468572",
+      "dept": "K컬처전략과",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "서울의 쉼·맛·멋을 여행하다…‘2026 서울 웰니스 트래블 위크’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468571",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "서울시 아동급식카드, 배달앱에서도 쓴다…11.16.부터 집에서 주문·결제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468570",
+      "dept": "아동담당관",
+      "category": "복지",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "K-건축 보고 배우고 직접 경험했다…'제18회 서울건축문화제' 4만명 참여 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468554",
+      "dept": "한옥건축자산과",
+      "category": "문화",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "서울 도심 태양광, ‘겹쳐서 더 높인다’…차세대 탠덤 태양광 실증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468553",
+      "dept": "녹색에너지과",
+      "category": "행정",
+      "date": "2026-10-21"
+    },
     {
       "title": "재해 취약 주거지에서 상도권역 생활 중심지로…상도동 201 일대 신속통합기획 확정",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468529",
