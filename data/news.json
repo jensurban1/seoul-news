@@ -1,8 +1,148 @@
 {
-  "updated_at": "2026-10-22 09:16",
-  "total": 3693,
-  "new_today": 10,
+  "updated_at": "2026-10-23 09:13",
+  "total": 3713,
+  "new_today": 20,
   "items": [
+    {
+      "title": "서울시 선수단, 전국체전 종합 3위…6개 종목 종합우승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468680",
+      "dept": "체육정책과",
+      "category": "행정",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "“시민의 눈으로 서울의 내일을 바꾸다” 서울연구원, 2026년 작은연구 좋은서울 지원사업 최종보고회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468679",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "“작은 공사장도 안전하게, AI에 26년 노하우를 담다” 서울시설공단, 공사관리 AI 플랫폼 자체 개발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468678",
+      "dept": "서울시설공단",
+      "category": "안전",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "우리 아기 생애 첫 예술 경험…서울시 한성백제박물관, 영아 맞춤형 프로그램 선보여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468677",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "서울시복지재단, “AI 에이전트는 추천하고 결정은 사람이” 장기요양 인력배치 지원 운영모델 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468676",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "(보도참고자료) 서울시, 올해 3월 고척돔 지붕 철골 97개 보강 완료… 추가 검증으로 안전성 확보 만전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468665",
+      "dept": "체육정책과",
+      "category": "안전",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "(엠바고15시30분) 서울시, 핼러윈 대비 인파안전관리 강화… 이태원·홍대 등 14개 지역 집중관리",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468638",
+      "dept": "재난안전예방과",
+      "category": "안전",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "\"전통시장 화재공제 가입하세요\"…서울시, 공제료 최대 80% 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468637",
+      "dept": "상권활성화과",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "성북동의 자연과 역사·문화를 품은 주거단지 조성… 성북동 3-38 일대 신속통합기획 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468636",
+      "dept": "신속통합기획과",
+      "category": "문화",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울 맛집 124곳서 일주일간 특별 혜택 쏟아진다…레스토랑위크 23일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468635",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울시, 최근 3년간 4만 8,000건 벌집 제거 출동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468634",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울시, 수서택지 4개 단지 재건축‘현장 합동 신속통합자문’실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468633",
+      "dept": "공동주택과",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "도심 속 가을 나들이,‘2026 남산둘레길 가을소풍’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468632",
+      "dept": "중부공원여가센터",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울시, 부모와 자녀가 함께하는 아리수 토크쇼 '동상이水' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468631",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "지반침하·구조물 붕괴·전기차 화재까지… 오세훈 시장, 복합재난 대응체계 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468625",
+      "dept": "재난안전정책과",
+      "category": "안전",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울, AI 도입·활용 역량 세계 1위… 英 옵서버 선정 '세계 3대 AI 도시'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468624",
+      "dept": "AI전략산업과",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울 아파트 매매 실거래가격 상승 지속...1년 새 15.50% 상승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468623",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울시, 지역 특성과 도시경관을 고려한 옥외광고 제도개선 논의…26일 공청회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468622",
+      "dept": "도시경관담당관",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "서울시여성가족재단, ‘우먼 AI 위크’ 개최…  전문가에게 배우고, 먼저 써본 여성들에게 듣는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468619",
+      "dept": "서울시 여성가족재단",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "(엠바고10시)제17차 도시계획위원회 및 제12차 신속통합수권위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468618",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-10-22"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 21일(수) 구내식당서 ‘서울 달빛야장’ 특별식 배식하며 국감 노고 격려",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468585",
