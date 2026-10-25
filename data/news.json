@@ -1,8 +1,120 @@
 {
-  "updated_at": "2026-10-25 08:49",
-  "total": 3722,
-  "new_today": 3,
+  "updated_at": "2026-10-26 08:38",
+  "total": 3738,
+  "new_today": 16,
   "items": [
+    {
+      "title": "서울시, '국회대로' 차량 중심에서 녹지·문화공간으로 … 11만㎡ 상부공원 조성 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468821",
+      "dept": "도시기반시설본부",
+      "category": "문화",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "댕냥이의 입양부터 펫로스까지, 문화비축기지에서 만나는 반려의 하루",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468820",
+      "dept": "동물보호과",
+      "category": "문화",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시, 한강 자전거도로 위협하는 '안전요건 위반 자전거' 근절 나섰다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468819",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시, 「2026 우리는 한가족! 함께家」 축제 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468817",
+      "dept": "가족담당관",
+      "category": "문화",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "10월의 마지막 날, 서울생활사박물관에서 열리는 낭만의‘가을 음악회’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468816",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울문화재단, 장애예술 전시로 관람 문턱 낮추고 감상의 폭 넓힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468815",
+      "dept": "",
+      "category": "복지",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 25일(일) 잠수교 보행전용교 전환 앞두고 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468838",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "AI 금융의 미래부터 스타트업 투자유치까지…'서울 핀테크 위크 2026' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468792",
+      "dept": "금융투자과",
+      "category": "경제",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "가을 밤, 한강이 마블 테마로 물든다…2,000대 활용해 올해 마지막 '드론 라이트쇼' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468791",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "일상에 온기를 더하고 마음을 잇다…민간과 함께 만드는 ‘외로움 없는 서울’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468790",
+      "dept": "고독대응과",
+      "category": "행정",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "서울시, 주요 소나무림 집중 점검으로 소나무재선충병 총력 대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468789",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "상조·여행 납입금 '사금고화' 막는다… 서울시, 법 위반업체 8곳 적발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468788",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "시민이 그린 100년 뒤 서울, 미래공간 아이디어 20점 전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468783",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "서울시, 열원시설부터 비상복구체계까지 점검 - 겨울철 안정적 난방 공급 준비 -",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468781",
+      "dept": "녹색에너지과",
+      "category": "행정",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "서울 25개 자치구 문화 한자리에…‘서울 문화원 엑스포’ 28일 광화문광장서 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468780",
+      "dept": "문화정책과",
+      "category": "문화",
+      "date": "2026-10-25"
+    },
+    {
+      "title": "서울시, 6개국 철도 관계자 초청 연수…K-철도 해외수출 마중물 역할 톡톡",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468779",
+      "dept": "도시기반시설본부",
+      "category": "교통",
+      "date": "2026-10-25"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 24일(토) ‘10.29 이태원 참사 4주기 시민추모대회’ 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468818",
