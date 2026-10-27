@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-10-26 08:38",
-  "total": 3738,
-  "new_today": 16,
+  "updated_at": "2026-10-27 09:57",
+  "total": 3752,
+  "new_today": 14,
   "items": [
+    {
+      "title": "서울시, 건설공사 동영상 기록관리 우수현장 선정 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468884",
+      "dept": "지역건축안전센터",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "서울시, 오감 체험 웰니스 학습라운지 _다감_ 11월 9일 개관… 4주간 무료 시범운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468883",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "“외로움 비우고 일상의 활력 채운다” 서울잇다플레이스, 청년·중장년 특화프로그램 진행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468882",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "장난감이 교재로, 서울새활용플라자 어린이집과 교육 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468881",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "(보도참고자료) 서울시, 오세훈 시장 국감 발언 ‘위증’ 주장 반박… “발언 취지와 사실관계 왜곡”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468876",
+      "dept": "감사위원회",
+      "category": "행정",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 26일(월) 박정희 대통령 서거 제47주기 추모식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468872",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "오세훈 시장, ''서울에 소나무재선충병 감염목 단 한 그루도 남지 않도록 총력 대응''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468864",
+      "dept": "자연생태과",
+      "category": "행정",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "(엠바고14시30분) 오세훈 시장, 「동행안심벨」 관제센터 현장 점검…\"시민 안전 최우선\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468828",
+      "dept": "양성평등담당관",
+      "category": "안전",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시청 선수단, 아시안 패러게임 역대급 성과… ‘스포츠 도시 서울'’위상 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468827",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시, 국내 최대 청소년 미디어 축제 「대한민국청소년미디어대전」 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468826",
+      "dept": "청소년정책과",
+      "category": "문화",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "청년 아이디어를 골목 브랜드로… 서울시, 19개 팀 창업 아이템 팝업 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468825",
+      "dept": "상권활성화과",
+      "category": "복지",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시, 테헤란로 투자거점서 스타트업 성장 이끌 투자 파트너 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468824",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시, ‘AI 평생학습 러닝 그라운드’ 시민 2천여 명 참여…사전 신청 프로그램 전석 매진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468823",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "서울시, 한강 달리며 아리수 음수대 찾는 ‘아리수런’…11월 15일까지 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468822",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-10-26"
+    },
     {
       "title": "서울시, '국회대로' 차량 중심에서 녹지·문화공간으로 … 11만㎡ 상부공원 조성 본격화",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468821",
