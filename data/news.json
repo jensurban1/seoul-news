@@ -1,8 +1,127 @@
 {
-  "updated_at": "2026-10-27 09:57",
-  "total": 3752,
-  "new_today": 14,
+  "updated_at": "2026-10-28 09:47",
+  "total": 3769,
+  "new_today": 17,
   "items": [
+    {
+      "title": "서울시, 경계선지능인 지원 네트워크 '밈넷' 발족… 일 경험부터 심리상담까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468980",
+      "dept": "중장년지원과",
+      "category": "행정",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "서울시, 시민 1,400여 명과 한강공원 '줍깅'… 깨끗하고 안전한 한강 만들기",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468979",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "(수석5) 서울시, 한국 나전칠기 아름다움 세계에 알렸다…서울공예박물관 해외 순회전 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468976",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "콜센터에서 ‘대금 콘서트’를? …120다산콜, 더 나은 시민 상담 위한 예술적 힐링",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468975",
+      "dept": "서울시120다산콜재단",
+      "category": "문화",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 27일(화) 구룡마을 화재 대응 상황 보고받고 긴급 현장 점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468996",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "오세훈 시장, 구룡마을 화재에 ''가용 인력·장비 총동원… 주민 안전 확보'' 긴급 지시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468977",
+      "dept": "도시정비과",
+      "category": "안전",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "오세훈 시장, 청년이 사회의 당당한 구성원으로 소속감·자부심 느끼도록 지원 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468930",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "(엠바고10시30분)서울시, _청년 AI 성장권_ 실행계획 구체화… 맞춤형 과제·첨삭 등 성장 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468926",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "2026 서울국제정원박람회, 역대 최장·최다 기록…성황리에 마무리",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468924",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "12만 명 몰린 '잠수교 치킨데이'…소상공인 등 46개사 총매출 1억 8백만 원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468923",
+      "dept": "미래한강본부",
+      "category": "경제",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "\"장애와 비장애의 경계를 허문 공간\"… 서울시 어울림플라자, 국무총리상 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468922",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "서울시, \"장애가 장벽 되지 않도록\"…장애친화 산부인과 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468921",
+      "dept": "건강관리과",
+      "category": "복지",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "서울AI디지털배움터, 체험부터 실생활 활용까지 … AI 배움의 공간으로 새 단장!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468920",
+      "dept": "디지털정책과",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "서울시, 자치구 정비사업 임의지연 막는다… 사업시행자 지정 30일·보완 2회 '업무표준화'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468919",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "코리아 그랜드 페스티벌 기간 서울사랑상품권 쓰면 5% 더 돌려받는다 … 최대 15% 할인 혜택",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468918",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "서울시 신통기획 5년 성과…214곳 지정, 31만 호 주택착공 길 열었다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468917",
+      "dept": "신속통합기획과",
+      "category": "주택",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "(엠바고10시)''퇴근할 때까지 안심''… 서울 전역 417개 지역아동센터, 일·양육 병행의 든든한 버팀목",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/468897",
+      "dept": "아동담당관",
+      "category": "복지",
+      "date": "2026-10-27"
+    },
     {
       "title": "서울시, 건설공사 동영상 기록관리 우수현장 선정 추진",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/468884",
