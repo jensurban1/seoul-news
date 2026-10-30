@@ -1,8 +1,127 @@
 {
-  "updated_at": "2026-10-29 10:19",
-  "total": 3787,
-  "new_today": 18,
+  "updated_at": "2026-10-30 10:23",
+  "total": 3804,
+  "new_today": 17,
   "items": [
+    {
+      "title": "안양천 달리고, 지하철역서 파크골프… 신목동역에 9번째 '펀스테이션' 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469180",
+      "dept": "도시활력담당관",
+      "category": "교통",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울시, 최근 5년 심의 건물 '신재생에너지' 생산 늘어난다… 서울화력발전소 연간 발전량 1.5배",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469178",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "신달자·나태주·도종환·박준 시인과 지하철 한 바퀴… 11월 1일, 특별한 시(詩) 여행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469177",
+      "dept": "문화예술과",
+      "category": "교통",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울시, 주거취약계층 자립돕는 '희망의 인문학'… 평생교육전문기관과 교육 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469176",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울시 한성백제박물관, 성균관대 사학과와 박물관 야간 운영 협력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469175",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울시복지재단·고려대 안암병원, 세종대에서 가족돌봄청년 발굴 캠페인 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469174",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울시, 경기도 버스 파업(10.30.) 대비 대중교통 수송대책 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469166",
+      "dept": "도시철도과",
+      "category": "교통",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "(대변인 입장문) 민주당의 한강버스 관련 고발은 사실관계를 외면한 전형적인 정치공세입니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469147",
+      "dept": "언론담당관",
+      "category": "교통",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "(엠바고14시) 오세훈 시장, 핼러윈 앞두고 홍대 관광특구 현장점검… 인파 안전관리 총력",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469126",
+      "dept": "재난안전예방과",
+      "category": "안전",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "2026 서울마켓페어 5만 인파 몰리며 성료… 전통시장 새로운 가능성 열었다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469125",
+      "dept": "상권활성화과",
+      "category": "행정",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "서울시, 동남권 교통난 해소 위한 탄천변 도로 개선 본격화… 31일부터 임시우회도로 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469124",
+      "dept": "도시기반시설본부",
+      "category": "교통",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "멈춰 섰던 흑석재촉지구 내 해제지역, 고구동산 품은 숲세권 주거단지로... 서울시, 흑석동 204-104 일대 신속통합기획 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469123",
+      "dept": "신속통합기획과",
+      "category": "환경",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "광화문광장도, 한강버스도 내 손으로 조립한다…서울시, 한정판 '서울블록' 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469122",
+      "dept": "서울브랜드담당관",
+      "category": "교통",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "서울시, 기후테크 분야 전문성 강화한 제3기 기후위기대응위원회 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469121",
+      "dept": "기후환경정책과",
+      "category": "환경",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "서울시, 세운재정비촉진계획 변경(안) 주민공람 실시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469120",
+      "dept": "도시재창조과",
+      "category": "행정",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "서울시민이 나누는 ‘몸과 마음을 지키는 힘’…「서울시민 쏘울자랑회」 12일 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469119",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "(엠바고10시30분)규제 넘어 상생으로…서울시, 87개 기업·단체와 상생경제 생태계 만든다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469081",
+      "dept": "공정경제과",
+      "category": "경제",
+      "date": "2026-10-29"
+    },
     {
       "title": "(엠바고10시)서울시, 채무 증가없이 55조 7,445억 편성… 청년 미래·주거 안정에 집중",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469082",
