@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-10-30 10:23",
-  "total": 3804,
-  "new_today": 17,
+  "updated_at": "2026-10-31 10:07",
+  "total": 3811,
+  "new_today": 7,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시, \"정비사업 용적률 상향, 이미 건의한 사안… 정부가 신속히 법 개정 나서야\"",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469292",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장 30일(금), ‘외로움 없는 서울 시즌2’ 현안회의 주재",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469264",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "(보도참고자료) 서울시, 세운4구역 매장유산 심의 또다시 보류… ''일관된 기준 따른 조속한 결정 필요''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469233",
+      "dept": "도시재창조과",
+      "category": "행정",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "공원부터 산책로까지 가을길을 걸어보세요, 서울시‘단풍길 110선’선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469206",
+      "dept": "조경과",
+      "category": "문화",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울시설공단, 자체 개발 준불연 소재로 지하도상가 광고물 화재 위험 줄인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469205",
+      "dept": "서울시설공단",
+      "category": "행정",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "소상공인을 위한 혁신으로...서울신보, 국가생산성대상 고객만족부문 장관상 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469204",
+      "dept": "서울신용보증재단",
+      "category": "경제",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "서울AI재단-한국로봇산업진흥원, AI·로봇 융합 공동사업 발굴 협약 체결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469202",
+      "dept": "서울AI재단",
+      "category": "경제",
+      "date": "2026-10-30"
+    },
     {
       "title": "안양천 달리고, 지하철역서 파크골프… 신목동역에 9번째 '펀스테이션' 개장",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469180",
