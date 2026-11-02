@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-11-01 09:30",
-  "total": 3811,
-  "new_today": 0,
+  "updated_at": "2026-11-02 10:04",
+  "total": 3822,
+  "new_today": 11,
   "items": [
+    {
+      "title": "전화에 이어 문자까지…120다산콜재단, 외국인 상담 서비스 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469284",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "서울시, 회색·녹색 인프라 융합 모색… 풍수해 정책 포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469283",
+      "dept": "치수안전과",
+      "category": "행정",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "이동부터 검사까지 제약 없이…  서울시 어린이병원, 「장애인 건강검진」 문 연다 !",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469282",
+      "dept": "어린이병원",
+      "category": "복지",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "(엠바고12시) 서울서 시작한 버스정류소 온열의자, 정부혁신 국내 최초 인증…전국으로 확산",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469332",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "서울시, 겨울철 화재안전대책 가동… 취약주택 소화기 보급부터 고층화재 대응까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469281",
+      "dept": "소방재난본부",
+      "category": "주택",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "서울시 손목닥터9988 가입자 300만 명 돌파… 기념 운동회 개최·체중관리 기능 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469280",
+      "dept": "스마트건강과",
+      "category": "행정",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "'김장 재료 최대 반값에 구매하세요'… 서울시, 깐마늘·쪽파 등 6종 할인",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469279",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "훈맹정음 반포 100주년…서울시, ‘한글　점자주간　행사’　진행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469278",
+      "dept": "홍보담당관",
+      "category": "문화",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "서울시·서울대, '피지컬 AI 선도도시' 향해 맞손…서울 AI 허브에 생활로봇 실증 거점 구축",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469277",
+      "dept": "AI전략산업과",
+      "category": "행정",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "창업 문턱 낮추고 도약 성장까지...서울시, ‘청년 쿡 센터’ 참여기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469276",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "서울 남쪽 관문 ＇석수역 중앙철재종합상가＇, 주거·상업 복합거점으로 재탄생",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469275",
+      "dept": "도시정비과",
+      "category": "행정",
+      "date": "2026-11-01"
+    },
     {
       "title": "(보도참고자료) 서울시, \"정비사업 용적률 상향, 이미 건의한 사안… 정부가 신속히 법 개정 나서야\"",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469292",
