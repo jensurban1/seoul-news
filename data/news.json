@@ -1,8 +1,120 @@
 {
-  "updated_at": "2026-11-02 10:04",
-  "total": 3822,
-  "new_today": 11,
+  "updated_at": "2026-11-03 12:06",
+  "total": 3838,
+  "new_today": 16,
   "items": [
+    {
+      "title": "서울의 숨은 야경을 깨워 골목상권에 활력을…서울시, '서울별빛명소' 10곳 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469433",
+      "dept": "경제정책과",
+      "category": "행정",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "AI·바이오·로봇 등 미래산업 기업 100여 곳 한자리에…서울시, 11월 9일 일자리박람회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469429",
+      "dept": "일자리정책과",
+      "category": "경제",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "K팝 춤추고 K푸드 만들고…서울시, 체험형 관광으로 세계인 초대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469427",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "서울시, 지구단위계획 내 공공기여 제도 합리화 및 현장 불편 해소",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469425",
+      "dept": "창의규제담당관",
+      "category": "환경",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "서울시민 10명 중 8명 '노들 글로벌 예술섬' 사업추진에 공감",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469422",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "올해를 빛낸 이웃, 새해를 여는 주인공으로…서울시,‘제야의 종’타종인사 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469421",
+      "dept": "문화유산과",
+      "category": "행정",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "서울 외국인 관광객 소비액 9개월 만에 8조 8천 억… 지난해 연간 실적 넘어 역대 최대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469418",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "가을밤 한강, 음악에 물들다…서울시, 7일 여의도 물빛무대 무료 공연",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469417",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "서울연구원, 베이징서 MeTTA* 10주년 총회 개최… 회원 연구기관‘베이징 이니셔티브’공동 채택",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469415",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "서울공예박물관, 어린이 체험 전시 <나무의 비밀> 개최…놀이로 만나는 나무공예",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469413",
+      "dept": "서울공예박물관",
+      "category": "문화",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "서울광장의 밤이 길어진다… 서울시, 밤 9시까지 소상공인 마켓 열고 10% 할인 혜택",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469291",
+      "dept": "소상공인정책과",
+      "category": "경제",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "단절된 경력 다시 잇는다…100여 개 기업 참여 '2026 서울커리업 일자리페어'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469289",
+      "dept": "양성평등담당관",
+      "category": "경제",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "치료부터 회복까지 안심… 서울시, 의료관광객 위한‘의료친화 숙박시설’19개소 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469288",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "서울시, 소규모정비 공동시행 '무책임 수수료' 뿌리뽑는다…표준기준 마련·위반 엄중대응",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469287",
+      "dept": "모아주택과",
+      "category": "행정",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "청년 AI·데이터 분석으로 소상공인 매출 해법 찾았다 … 청년팀 97개 중 우수팀 10개 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469286",
+      "dept": "데이터전략과",
+      "category": "복지",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "휠체어 눈높이에 맞춘 접수대… 디자인으로 찾은 '모두의 편안함'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469285",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-11-02"
+    },
     {
       "title": "전화에 이어 문자까지…120다산콜재단, 외국인 상담 서비스 확대",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469284",
