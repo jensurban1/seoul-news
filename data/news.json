@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-11-04 10:44",
-  "total": 3845,
-  "new_today": 7,
+  "updated_at": "2026-11-05 10:52",
+  "total": 3859,
+  "new_today": 14,
   "items": [
+    {
+      "title": "'서울한옥위크' 8만5천 명 발길… 한옥, 일상 속 문화공간으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469614",
+      "dept": "한옥건축자산과",
+      "category": "문화",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "“쓰레기는 저희에게 주세요!” 명동 거리가게의 특별한 관광객 환대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469613",
+      "dept": "관광정책과",
+      "category": "환경",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "김장철 원산지 거짓표시 잡는다…서울시, 김장재료 특별단속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469612",
+      "dept": "안전수사과",
+      "category": "행정",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "매헌시민의숲에서 단풍숲과 가을 정원 음악회를 만나보세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469611",
+      "dept": "동부공원여가센터",
+      "category": "환경",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "“아이와 가족, 서울이 함께 자란다” 서울생활사박물관, ？육아, 가족의 성장？ 기획전 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469610",
+      "dept": "서울역사박물관",
+      "category": "복지",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "「2026 서울시 가족돌봄청소년·청년 성과포럼」 ‘우리가 함께 만든 4년, 그리고 다음’ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469609",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "(엠바고14시)서울시, 늘어나는 외래관광객 안심하고 머물도록… 오세훈 시장 숙박시설 현장점검",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469593",
+      "dept": "관광산업과",
+      "category": "행정",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "5년간 768만 명 찾은 '잠수교 뚜벅뚜벅 축제' …보행전용교로 새출발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469521",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "'서울야외도서관' 5년 만에 누적 방문객 1천만 명 돌파… 내년 4월 다시 만나요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469520",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "서울시, 구일역 하부 체육시설 새단장… 퇴근 후·주말에도 쾌적하게 운동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469519",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "서울시, 북창 이동노동자 쉼터 청계천 인근으로 이전… '청계쉼터' 운영",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469518",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "청년의 생각이 모이는 날…서울청년정책네트워크 총회 7일 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469517",
+      "dept": "청년정책담당관",
+      "category": "복지",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "서울형 자치경찰, 서울의 치안을 다시 디자인한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469516",
+      "dept": "자치경찰위원회",
+      "category": "안전",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "서울시 최초 공공기여형 평생교육 ‘넥스트 아카데미’, 5060 시민 6명 특강·전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469515",
+      "dept": "서울시평생교육진흥원",
+      "category": "문화",
+      "date": "2026-11-04"
+    },
     {
       "title": "서울시, 서울경찰청 등과 「도심 마라톤 관리 협의체」 구성 추진",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469560",
