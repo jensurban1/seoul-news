@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-11-05 10:52",
-  "total": 3859,
-  "new_today": 14,
+  "updated_at": "2026-11-06 10:51",
+  "total": 3872,
+  "new_today": 13,
   "items": [
+    {
+      "title": "자전거 타다 쉬고, 한강버스로 이동하고… 서울시, '잠실 한강 자전거장' 14일 개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469707",
+      "dept": "체육진흥과",
+      "category": "교통",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "(엠바고08시)서울시, 애경산업과 함께 취약계층에 나눔의 손길을 잇다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469706",
+      "dept": "고독대응과",
+      "category": "경제",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "다정함을 체험하다…서울상상나라, 8년 만에 상설전시 새 단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469705",
+      "dept": "아이돌봄담당관",
+      "category": "문화",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "(엠바고10시)제22차 서울시 정비사업 통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469704",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 5일(목) 손목닥터9988 가입자 300만 돌파 기념 '걷다보니 운동회' 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469729",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "(보도참고자료) 서울시, 민간재개발 죄악시하는 이분법적 접근으론 주택공급 확대 어렵다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469691",
+      "dept": "주거정비과",
+      "category": "주택",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "서울시, 소방대원 안전·건강 챙기고 현장 대응력 높인다… 내년 소방예산안 1조 1,022억 원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469624",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "(엠바고14시50분) 발전소 지붕에 스키장을 만든 BIG, 국내 첫 기획전 11월 7일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469623",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "서울시, 전국 15개 지자체와 친환경 버스 부가세 면제 유지 촉구",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469622",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "서울시민 4명 중 3명 아리수 마신다…먹는 비율 2년 연속 상승",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469619",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "“정책 홍보의 진화”…서울시 정책 웹툰 5편 모두 100만 뷰, 신작 「서울 76년 만의 카덴차」 5일 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469617",
+      "dept": "콘텐츠담당관",
+      "category": "행정",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "연구실 속 양자기술, 창업 아이템으로…서울퀀텀캠퍼스 3기 우수과제 4건 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469616",
+      "dept": "AI전략산업과",
+      "category": "경제",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "“세계시민의 질문이 국제포럼의 의제가 된다” 서울문화재단, SAFT 2027 글로벌 오픈콜… 세계의 다음 질문을 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469615",
+      "dept": "서울문화재단",
+      "category": "문화",
+      "date": "2026-11-05"
+    },
     {
       "title": "'서울한옥위크' 8만5천 명 발길… 한옥, 일상 속 문화공간으로",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469614",
