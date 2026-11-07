@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-11-06 10:51",
-  "total": 3872,
-  "new_today": 13,
+  "updated_at": "2026-11-07 10:20",
+  "total": 3879,
+  "new_today": 7,
   "items": [
+    {
+      "title": "서울시장 사후동정-오세훈 시장, 6일(금) 오후 ‘소상공인의 날’ 기념식 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469841",
+      "dept": "언론담당관",
+      "category": "경제",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 6일(화) 국민의힘-서울시 예산정책협의회 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469785",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "오세훈 '일타시장 5탄'… '교도소' 같다던 노들섬, 시민 모두의 '예술섬'으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469767",
+      "dept": "언론담당관",
+      "category": "문화",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "서울대공원, 가을축제 ‘예술로 물드는 숲’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469712",
+      "dept": "서울대공원",
+      "category": "문화",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "서울시, 배우 김미경과 함께하는 '한부모가족 나눔 바자회' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469711",
+      "dept": "가족담당관",
+      "category": "행정",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "서울형 가격탄력제 시행 6개월, 이용자·제공인력 만족도 모두 올라",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469710",
+      "dept": "서울시복지재단",
+      "category": "행정",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "구급차에서 태어난 31주 신생아… 119구급대 응급처치와 의료진의 치료로 건강히 퇴원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469709",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-11-06"
+    },
     {
       "title": "자전거 타다 쉬고, 한강버스로 이동하고… 서울시, '잠실 한강 자전거장' 14일 개장",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469707",
