@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-11-08 09:56",
-  "total": 3879,
-  "new_today": 0,
+  "updated_at": "2026-11-09 10:15",
+  "total": 3893,
+  "new_today": 14,
   "items": [
+    {
+      "title": "(엠바고10시)서울시, 민선9기 첫 창의발표회…공무원 아이디어로 _삶의 질 특별시_ 해법 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469842",
+      "dept": "창의규제담당관",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "서울관, SCEWC 2026서 ‘AI 시티 서울’ 알렸다… 수출상담 398건·352만 달러 성과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469838",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "''대기업과 협력은 마곡, 콘텐츠 창업은 창동에서''…서울시, 창업허브 2곳 입주기업 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469837",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "남산의 정원을 일상으로, 2027 서울국제정원박람회 작가정원 국제공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469836",
+      "dept": "조경과",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "서울연구원, 12일‘2026 서울 가족정책 공동심포지엄(제5차 서울인구미래포럼)’개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469834",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "서울시, '그림책으로 알아보는 우리아이 마음' 무료 부모교육",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469833",
+      "dept": "아동복지센터",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "한파 보호망 더 촘촘히·제설 대응 더 신속히… 서울시, 겨울철 종합대책 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469828",
+      "dept": "기획담당관",
+      "category": "행정",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "한강버스 복합 대중교통으로 성공적 안착…서울시, 동절기 이용 편의 강화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469827",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "서울시, 정비사업 속도 낸 자치구 5곳·조합 10곳 선정… 31만호 착공 실행력 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469826",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "서울시, 오르시아와 예물 부담 덜어준다…「더 아름다운 결혼식」 예비부부에 결혼반지 지원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469822",
+      "dept": "가족담당관",
+      "category": "행정",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "“서울은 이런것도 있어?”외국인 친구에게 자랑하고 싶은 매력적인 서울 정책, 영상으로 보여주세요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469821",
+      "dept": "홍보담당관",
+      "category": "행정",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "서울시민으로서 자긍심과 유대감을…올 해 마지막 외국인 명예시민 네트워킹 데이 마무리",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469819",
+      "dept": "도시외교담당관",
+      "category": "행정",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "가락시장서 시민 500여 명과 김장 나눔…취약계층에 김치 100톤 전달",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469815",
+      "dept": "서울시 농수산식품공사",
+      "category": "행정",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "서울시, 화상환자 돕는 '소방관 희망나눔 달력' 9일부터 판매",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469814",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-11-08"
+    },
     {
       "title": "서울시장 사후동정-오세훈 시장, 6일(금) 오후 ‘소상공인의 날’ 기념식 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469841",
