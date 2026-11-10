@@ -1,8 +1,155 @@
 {
-  "updated_at": "2026-11-09 10:15",
-  "total": 3893,
-  "new_today": 14,
+  "updated_at": "2026-11-10 12:51",
+  "total": 3914,
+  "new_today": 21,
   "items": [
+    {
+      "title": "오세훈 시장, 서울역광장 금주구역 지정 계기로 서울역 일대 환경 획기적 개선",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469998",
+      "dept": "자활지원과",
+      "category": "환경",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "'24시간 활력경제도시' 전통시장으로… 서울시, 남대문시장서 K-푸드 미식축제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469982",
+      "dept": "관광산업과",
+      "category": "문화",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "서울시 노숙인 지원주택 10년…372명 거주지 제공·10명 중 8명 정착",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469981",
+      "dept": "자활지원과",
+      "category": "주택",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "도봉·노원 오가는 길 36% 짧아진다… 서울시, 중랑천 보행교 11월 착공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469980",
+      "dept": "도시기반시설본부",
+      "category": "행정",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "대학생 아이디어 한자리에…서울시, 제2차 대학생 협의체 간담회 13일 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469959",
+      "dept": "청년정책담당관",
+      "category": "행정",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "바이오 스타트업, 병원 연구자와 공동연구 길 열린다…서울시·KIST·병원 협력체계 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469958",
+      "dept": "AI전략산업과",
+      "category": "경제",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "화재 진압부터 '그늘로' 앱 개발까지… 서울시, 시민 안전 지킨 7명에 '안전상'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469957",
+      "dept": "재난안전예방과",
+      "category": "안전",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "도시환경 디자인부터 시민의 일상까지…_서울디자인상_ 첫 수상자 10팀 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469956",
+      "dept": "디자인산업담당관",
+      "category": "환경",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "(엠바고10시30분)서울시 저출생 정책 4년 성과, 「서울 아이동행 프로젝트」로 이어간다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469955",
+      "dept": "저출생담당관",
+      "category": "복지",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "서울시, ‘한양의 수도성곽’ 세계유산 등재 주민 의견 듣는다…12일 설명회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469952",
+      "dept": "문화유산과",
+      "category": "행정",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "‘지역의 잠재력을 서울의 경쟁력으로’ 제2차 지역균형발전계획 시민공청회",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469951",
+      "dept": "균형발전정책과",
+      "category": "행정",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "디딤돌소득 3년의 변화, 시민에게 직접 듣는다…성과보고회 사전등록",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469950",
+      "dept": "복지정책과",
+      "category": "행정",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "'식물 살리고 마음 보듬고'…서울시 반려식물병원, 누적 진료·상담 1만 건",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469949",
+      "dept": "농업기술센터",
+      "category": "행정",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "자원순환부터 가치소비까지… 체험 교육으로 만나는 새활용 전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469948",
+      "dept": "서울디자인재단",
+      "category": "문화",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "지하철역사가 도농상생의 장터로… 서울시,‘서로잇다 로컬마켓’개장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469853",
+      "dept": "대외협력과",
+      "category": "교통",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "\"걷기 좋은 서울, 건너기도 편하게\"… 서울시, 청계천·서울역 횡단보도 확충",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469852",
+      "dept": "교통운영과",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "(엠바고13시) 서울시, 獨 헨켈 '차세대 반도체 패키징 소재 R&D센터' 유치",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469851",
+      "dept": "금융투자과",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "잠실한강공원에서 달리기와 근력 운동 동시에… 서울시, '한강 짐런' 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469850",
+      "dept": "미래한강본부",
+      "category": "문화",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "서울사랑상품권으로 결제시 25% 절감, 다양한 할인쿠폰까지, 쏟아지는 서울배달+땡겨요 혜택",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469848",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "수능 끝나면 공연 보러 갈까? 서울어텀페스타에서 만나는 특별한 가을",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469847",
+      "dept": "서울문화재단",
+      "category": "문화",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "AI 앱 출시·작가 등단까지…서울시, 4050 중장년 520명의 ‘인생 후반전’ 도전 성과 나눈다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/469845",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-11-09"
+    },
     {
       "title": "(엠바고10시)서울시, 민선9기 첫 창의발표회…공무원 아이디어로 _삶의 질 특별시_ 해법 찾는다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469842",
