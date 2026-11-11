@@ -1,8 +1,64 @@
 {
-  "updated_at": "2026-11-10 12:51",
-  "total": 3914,
-  "new_today": 21,
+  "updated_at": "2026-11-11 10:31",
+  "total": 3922,
+  "new_today": 8,
   "items": [
+    {
+      "title": "서울시, 신임 민생사법경찰국장, 서울역사박물관장 임명",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470100",
+      "dept": "인사과",
+      "category": "문화",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "(엠바고10시30분)서울시, 마약관리센터 개소 1년… 전문 입원치료 149건",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470066",
+      "dept": "은평병원",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "지자체 최초 청년부상제대군인상담센터, 인빅터스 게임 국가대표 5명 배출",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470064",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "선배 노하우 듣고 3대 백화점·투자자 만난다… 넥스트로컬 홈커밍데이 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470063",
+      "dept": "대외협력과",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "올해 더 많이 찾은 '아리수 음수대'…15일부터 겨울채비로 일시 중단",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470062",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "서울시 120다산콜재단, 상담사 보호 강화… 폭언·협박 대응에 법률고문 4명 위촉",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470061",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "(엠바고10시)제5차 공공주택통합심의위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470059",
+      "dept": "공공주택과",
+      "category": "주택",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "(보도참고자료) 한강버스 도입 이후 한강 수상관광 활기… 유람선 이용객 21% 증가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470068",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-11-10"
+    },
     {
       "title": "오세훈 시장, 서울역광장 금주구역 지정 계기로 서울역 일대 환경 획기적 개선",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/469998",
