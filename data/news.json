@@ -1,8 +1,148 @@
 {
-  "updated_at": "2026-11-11 10:31",
-  "total": 3922,
-  "new_today": 8,
+  "updated_at": "2026-11-12 11:33",
+  "total": 3942,
+  "new_today": 20,
   "items": [
+    {
+      "title": "발달장애인 자립부터 돌봄 공백 대비까지…서울시, 미래생활계획 등록제 첫 도입",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470224",
+      "dept": "장애인복지과",
+      "category": "복지",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "스타트업·투자자 잇는 'Try Everything 2026'…현장 밋업 2배로 역대 최고 성과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470222",
+      "dept": "창업정책과",
+      "category": "경제",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "'현금 선결제 주의' 서울시, 유튜브 프리미엄 계정공유 서비스 2차 피해주의보",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470221",
+      "dept": "공정경제과",
+      "category": "행정",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "“전자고지·자동납부 가입하면 수도요금 3천원 감면”…서울시, 혜택 3년 연장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470219",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "“팝콘 향 나는 한국 쌀밥?”… 서울시, 외국인 대상 이색 미식 실험",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470218",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "쉿! 드디어 오픈! 빛길따라 걷는 광화문광장 ＇빛모락 스토리투어＇",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470217",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "밤에도 즐기는 서울 문화시설, 방문객 2.1배로… 오세훈 시장, 시민과 _컬처나잇_ 나들이",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470194",
+      "dept": "문화정책과",
+      "category": "문화",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "(엠바고09시)남산, 도심 속 생태·관광 거점으로 거듭난다… _31년까지 192억 원 투입",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470193",
+      "dept": "도시정비과",
+      "category": "행정",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "서울시, 11월11일 ‘농업인의날’ 맞아 NH농협생명과 함께 노숙인 농촌 단기일체험「같이 일해, 가치 더해」첫발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470192",
+      "dept": "자활지원과",
+      "category": "행정",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "공공돌봄의 패러다임 전환! “놀이와 체험으로 역량 강화”",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470191",
+      "dept": "서울시 여성가족재단",
+      "category": "복지",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "올해는 밤까지 이어진다… 서울역사박물관에서 떠나는 유럽 영화 여행",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470190",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "(엠바고10시)제19차 도시건축공동위원회 및 제11차 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470189",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "광화문광장에 푸른 빛 23개 켜진다…시민과 함께하는 유엔참전용사 추모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470118",
+      "dept": "광화문광장사업과",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "올해 마지막 '서울팅' 12.12.(토) 개최…참가 인원 150명으로 첫 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470116",
+      "dept": "저출생담당관",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "서울시, 삼선동1가 277 일대 신속통합기획 확정… 최고 18층·870세대 내외",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470114",
+      "dept": "신속통합기획과",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "이웃 돕는 '동행일자리' 신청 더 간편해진다…서울시, 내년 상반기 6,500여 명 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470113",
+      "dept": "일자리정책과",
+      "category": "경제",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "서울시, 적립 포인트 나눔으로 21개 아동복지시설에 희망을 전하다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470111",
+      "dept": "재무과",
+      "category": "복지",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "‘프로젝트 서울’전면 개편, 이용은 편리하게, 정보는 한눈에",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470109",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "DDP가 낳을 스타는?…'스타 버스킹 나이트' 신진들의 데뷔 무대로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470108",
+      "dept": "서울디자인재단",
+      "category": "교통",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "서울시, 망우동 상생주택·아파트 리모델링으로 392세대 공급…건축심의 통과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470107",
+      "dept": "건축기획과",
+      "category": "주택",
+      "date": "2026-11-11"
+    },
     {
       "title": "서울시, 신임 민생사법경찰국장, 서울역사박물관장 임명",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470100",
