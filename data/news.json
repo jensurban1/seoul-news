@@ -1,8 +1,57 @@
 {
-  "updated_at": "2026-11-12 11:33",
-  "total": 3942,
-  "new_today": 20,
+  "updated_at": "2026-11-13 11:11",
+  "total": 3949,
+  "new_today": 7,
   "items": [
+    {
+      "title": "10월 서울 토허 신청 2개월 연속 증가… 외곽지역·한강벨트 상승세 지속",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470285",
+      "dept": "주택정책과",
+      "category": "행정",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "서울연구원, 도시 ESG 지표의 정책 활용 방안 모색… 제3회 ESG 경영가치 확산 국제포럼 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470284",
+      "dept": "서울연구원",
+      "category": "행정",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "119에 1년간 8,710건 반복 신고… 서울시, 상습신고자 5명 형사고발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470283",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "서울시, 전태일 추도식 맞아 노동 역사 자료 6,800여 점 시민 품으로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470282",
+      "dept": "노동정책과",
+      "category": "행정",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "서울시복지재단, 11월 13일 육아휴직제도 개선 위한 법률 토론회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470280",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "씨앗과 뼈, 나무와 직물로 읽는 고대 도성…한성백제박물관 국제학술회의 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470279",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "(엠바고14시) 서울시, 대학생과 청년 주거 해법 논의… 내년 하반기 관리비 지원 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470225",
+      "dept": "청년주거과",
+      "category": "복지",
+      "date": "2026-11-12"
+    },
     {
       "title": "발달장애인 자립부터 돌봄 공백 대비까지…서울시, 미래생활계획 등록제 첫 도입",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470224",
