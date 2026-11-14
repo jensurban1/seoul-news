@@ -1,8 +1,43 @@
 {
-  "updated_at": "2026-11-13 11:11",
-  "total": 3949,
-  "new_today": 7,
+  "updated_at": "2026-11-14 10:52",
+  "total": 3954,
+  "new_today": 5,
   "items": [
+    {
+      "title": "(엠바고08시)세계 최강 LoL 팀, 서울아레나에서 격돌한다…2027 롤드컵 결승전 서울 개최 확정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470360",
+      "dept": "K컬처전략과",
+      "category": "행정",
+      "date": "2026-11-14"
+    },
+    {
+      "title": "겨울에도 꽃은 핀다… 서울식물원에서 만나는 특별한 겨울 정원",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470320",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "\"시험 당일 이동 걱정 덜어요\" 서울시설공단,  수능 장애인 수험생에 '장애인콜택시 우선 배차'",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470319",
+      "dept": "서울시설공단",
+      "category": "복지",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "서울시, '재개발 신통기획' 후보지 6개구 6곳 추가 선정…주거환경 개선 속도",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470318",
+      "dept": "주거정비과",
+      "category": "환경",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "서울시, 양천·중랑 '모아주택' 6곳 2,741세대 공급 속도… 2028년 착공",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470317",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-11-13"
+    },
     {
       "title": "10월 서울 토허 신청 2개월 연속 증가… 외곽지역·한강벨트 상승세 지속",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470285",
