@@ -1,8 +1,71 @@
 {
-  "updated_at": "2026-11-15 10:22",
-  "total": 3955,
-  "new_today": 1,
+  "updated_at": "2026-11-16 10:27",
+  "total": 3964,
+  "new_today": 9,
   "items": [
+    {
+      "title": "서울시, 리튬이온배터리 실험 결과 공개… 유통·보관 안전기준 마련 협의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470405",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "서울 매력 통했다.  DDP디자인스토어 매출 41.2% 증가",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470403",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "글 배워 쓴 시·AI 엽서로 늦깎이 학습자 46명 수상…서울시, 성인문해교육 성과공유회 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470402",
+      "dept": "중장년지원과",
+      "category": "행정",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "특수교사 업무 줄이는 AI·시각장애인 신호등 앱…대학생 10팀, 6개월간 사회혁신 도전",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470400",
+      "dept": "서울미래인재재단",
+      "category": "복지",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "16일부터 서울 외곽~도심 잇는 '간선급행버스' 달린다… 9호선 급행도 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470397",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "운현궁 달빛 아래 전통혼례…서울시, 첫 '야간 낭만 예식' 선보여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470396",
+      "dept": "문화정책과",
+      "category": "행정",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "겨울 한파에 수도계량기 '꽁꽁' 막는다…서울시, 동파 취약시설 집중 관리",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470395",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "서울의 아침을 더 건강하게… 서울시 고단백·고식이섬유 '그래놀라 서울에디션' 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470394",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "제13차 신속통합기획 수권분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470393",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-11-15"
+    },
     {
       "title": "서울시장 사후동정 - 오세훈 시장, 14일(토) 서울 달빛미식회 행사 참석",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470367",
