@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-11-17 13:13",
-  "total": 3984,
-  "new_today": 20,
+  "updated_at": "2026-11-18 12:10",
+  "total": 3998,
+  "new_today": 14,
   "items": [
+    {
+      "title": "낮의 푸른 숲, 밤의 반딧불… 남산 한국숲정원, 감성 야간정원으로 새 단장",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470589",
+      "dept": "정원도시정책과",
+      "category": "환경",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "서울시, 광암정수센터 취수원 팔당→한강으로… 취수비용 연 168억 절감",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470588",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470587",
+      "dept": "관광정책과",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "서울의 밤을 바꾸는 청년들의 기술 도전…골목상권·심야 이동 해법 찾는다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470586",
+      "dept": "경제정책과",
+      "category": "복지",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "서울시, 구로·양천·강북·성북 모아주택 6,319세대 공급 본격화",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470585",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(엠바고10시)서울시, 지방세 1천만원 이상 고액 체납자 1,552명 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470565",
+      "dept": "38세금징수과",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "서울문화재단, 기술과 예술 융합 글로벌축제 <언폴드엑스 2026〉26일 개막",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470564",
+      "dept": "서울문화재단",
+      "category": "문화",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "우리가 쓰는 제품은 어떻게 탄생했을까?…서울시립과학관, 특별전 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470563",
+      "dept": "서울시립과학관",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "서울미래인재재단, 새로운 얼굴 찾는다…캐릭터 공모전 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470562",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(대변인 입장문) 서울시는 민주노총의 허위사실 유포에 끝까지 법적 책임을 묻겠습니다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470572",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "(보도참고자료) '23년 서울시 방침에 따라 학교시설 예정부지를 공공공지로 우선 결정하는 것이 학교용지법 위반 아닌지 (261117, 김정우 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470570",
+      "dept": "공동주택과",
+      "category": "행정",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "(보도참고자료) SH 미상환 대출금 회수 대책 및 추가 출자 가능성은 (261117, 노성철 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470558",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "(보도참고자료) '24년 조례 개정까지 하면서 주택개발을 해야하는 SH를 한강버스에 참여시킨 이유는 (261117, 노성철 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470555",
+      "dept": "미래한강본부",
+      "category": "교통",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "(보도참고자료) 선착장 접근성 개선 및 출근 시간대 운항 계획은 (261117, 노성철 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470554",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-11-17"
+    },
     {
       "title": "(보도참고자료) 사업 확대에 따른 추가 비용에 대한 재원 조달 방법 및 추진 가능성은 (261117 노연수 의원 질의 관련)",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470535",
