@@ -1,8 +1,148 @@
 {
-  "updated_at": "2026-11-18 12:10",
-  "total": 3998,
-  "new_today": 14,
+  "updated_at": "2026-11-19 11:51",
+  "total": 4018,
+  "new_today": 20,
   "items": [
+    {
+      "title": "가을밤 음악으로 물들인 DJ파티‘팔각클럽’…「2026 남산 나이트 페스티벌」성황리 마무리",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470683",
+      "dept": "공원여가사업과",
+      "category": "행정",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "서울시청 하늘전망대 올겨울 매일 야간 개방… 성탄전야·연말엔 자정까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470682",
+      "dept": "총무과",
+      "category": "행정",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "서울시, 김장철 앞두고 고무장갑 50종 조사…전 제품 적합, 조리 시 ‘식품용’ 확인 필요",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470680",
+      "dept": "보건환경연구원",
+      "category": "행정",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "서울시, 수능 끝난 홍대 거리로…청소년 기관 41곳‘연합 거리상담’",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470678",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "“나는 누구인가?”… 서울시, 조계종·관광새싹기업 손잡고 이색 AI·미디어아트 전시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470677",
+      "dept": "관광산업과",
+      "category": "문화",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "서울 아파트 매매 실거래가격 상승세 지속...전세가격 상승폭 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470675",
+      "dept": "부동산정책개발센터",
+      "category": "주택",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "서울시보건환경연구원·한국실내환경학회, 건강한 실내환경 관리 해법 모색",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470674",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "서울시복지재단, <탄소중립생활실천부문 장관상> 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470672",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "함께 부르던 옛 노래, 오늘의 음악으로… 서울우리소리박물관 제5차 <민요프로젝트> 공개",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470671",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "(보도참고자료) 舊북부법조단지 내 여성공예센터를 '23년에 갑자기 운영 종료한 이유는 (261118, 오금란 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470639",
+      "dept": "양성평등담당관",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) 유네스코의 종묘 주변 고층건물 관련 권고와 세계유산영향평가 요청에도 세운4구역 재정비촉진계획을 변경 고시한 것이 타당한지 (261118, 박희정 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470638",
+      "dept": "도시재창조과",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) 유네스코에서 HIA를 지속적으로 요구하는 등 우려가 큰 상황인데, HIA를 받아야 하는 것 아닌지 (261118, 박희정 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470637",
+      "dept": "도시재창조과",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) ‘유네스코사이드’라는 표현이 국가유산청과의 협의 및 주민 피해해결에 어떤 도움이 된다고 보는지 (261118, 박희정 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470636",
+      "dept": "도시재창조과",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) 복지관 운영비 등 필수 복지 예산에 대한 구비 분담 비율이 일방적으로 늘어나고 있는 것 아닌지 (261118, 오금란 시의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470635",
+      "dept": "장애인자립지원과",
+      "category": "복지",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) 옛 북부법조단지 개발사업에서 당초 계획에 포함됐던 문화·업무시설을 축소하고 미리내집 중심으로 개발계획을 변경한 이유는 (261118, 오금란 의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470630",
+      "dept": "공공주택과",
+      "category": "문화",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) 가덕중공업에 투입된 239억원이 제대로 집행, 정산되었는지, 가덕중공업과 건조계약시 납기기한을 '24.8.31로 허위로 기재한 것 아닌지(261118, 목소영 의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470610",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) 이크루즈가 공동출자 의무를 미이행했음에도 패널티 없이 특혜를 준 거 아닌지 이크루즈가 손실 부담 없이 이익만 가져가는 구조 아닌지(261118 목소영의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470607",
+      "dept": "미래한강본부",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) '25.10.2 감사원 감사 청구 당시 청구서를 부실하게 작성해 각하를 유도한 것 아닌지 (261118, 박유진 의원 시정질의)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470606",
+      "dept": "감사위원회",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) '25.9.9 감사위 보고 결론은 '시 자체 조사 및 계좌조회 등 필요시 수사의뢰'였는데, 원칙대로 처리하지 않은 이유는(261118, 박유진 의원 질의 관련)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470605",
+      "dept": "감사위원회",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "(보도참고자료) '25년 11월 시정질문 당시 감사원 감사 청구 각하 사유 발언 및  '26년 3월 감사원 감사 결과 관련 발언은 허위사실 유포 아닌지 (261118, 박유진 의원 시정질의)",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470604",
+      "dept": "감사위원회",
+      "category": "행정",
+      "date": "2026-11-18"
+    },
     {
       "title": "낮의 푸른 숲, 밤의 반딧불… 남산 한국숲정원, 감성 야간정원으로 새 단장",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470589",
