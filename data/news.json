@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-11-22 10:43",
-  "total": 4027,
-  "new_today": 0,
+  "updated_at": "2026-11-23 11:01",
+  "total": 4038,
+  "new_today": 11,
   "items": [
+    {
+      "title": "서울시, 중장년 경제교육 '서울 리테크' 7천 명 참여… 목표 2배 달성, 경제이해도↑",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470856",
+      "dept": "중장년지원과",
+      "category": "경제",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "“10년 만의 우승 기쁨, 다자녀 가족과 함께”… 서울시·FC서울, 100가구 무료 초청",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470855",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "서울시, 제12회 소방안전강사 경진대회 개최…시민 안전교육 역량 높인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470854",
+      "dept": "소방재난본부",
+      "category": "안전",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "서울시복지재단, 「2026년 제8차 장애인 자립지원 포럼」 11월 27일 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470853",
+      "dept": "서울시복지재단",
+      "category": "복지",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "서울식물원, 겨울축제 「헤세의 정원」12.3~12.13까지 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470852",
+      "dept": "서울식물원",
+      "category": "문화",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "서울시 지원기업 27개사, CES 2027 혁신상 34개 수상…글로벌 기술력 입증",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470851",
+      "dept": "경제정책과",
+      "category": "행정",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "서울시, '7979 서울 러닝크루' 와 함께하는 명랑운동회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470850",
+      "dept": "체육진흥과",
+      "category": "행정",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "맛을 사업으로 바꾸는 12주… 서울시 프렙 아카데미 올해 100명 수료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470848",
+      "dept": "소상공인정책과",
+      "category": "행정",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "촘촘한 수거망으로 전국 1위, 서울시 폐가전·폐전지 수거체계 대상 2관왕",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470847",
+      "dept": "자원순환과",
+      "category": "행정",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "서울디자인재단, 유엔 국제회의서 '순환디자인' 해법 제시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470846",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "도시계획위원회 제2차 소위원회 및 제3차 재생분과위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470845",
+      "dept": "도시계획과",
+      "category": "행정",
+      "date": "2026-11-22"
+    },
     {
       "title": "(대변인 입장문) 기준은 뒤집고 개발사업은 가로막는 국가유산청의 폭력적 행정, 즉각 중단하십시오",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470803",
