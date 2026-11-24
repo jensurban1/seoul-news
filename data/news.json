@@ -1,8 +1,148 @@
 {
-  "updated_at": "2026-11-23 11:01",
-  "total": 4038,
-  "new_today": 11,
+  "updated_at": "2026-11-24 14:37",
+  "total": 4060,
+  "new_today": 22,
   "items": [
+    {
+      "title": "세계로 진출한 '책읽는 서울', 산살바도르·반다아체에 서울야외도서관 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470955",
+      "dept": "국제협력담당관",
+      "category": "문화",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "서울시, 25일(수) 지하철(1~8호선) 파업 대비 비상수송대책 가동",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470939",
+      "dept": "도시철도과",
+      "category": "교통",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "\"찾기도, 이용도 편하게\"…서울시, 8개 관광특구·10개 전통시장 화장실 개선 나서",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470926",
+      "dept": "보건의료정책과",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "서울시, 3년 6개월 걸리던 정비사업 조합설립 최단 4개월여 만에… '공정촉진' 성과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470925",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "난방은 잠시 끄고, 가까운 도서관으로…서울시, 도서관 겨울 캠페인 <도서관은 핫하다>",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470922",
+      "dept": "서울도서관",
+      "category": "문화",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "10년째 이어진 ‘학교 밖 졸업식’…올해 서울시 꿈드림 연합졸업식 206명 졸업",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470921",
+      "dept": "청소년정책과",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "서울시, 데이터·AI로 시민 일상 바꾼다 …「2026 데이터 분석·활용 우수사례 경진대회」성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470919",
+      "dept": "데이터전략과",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "서울시, 『삼국사기』『삼국유사』최초로 한자리에서 전시한다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470916",
+      "dept": "한성백제박물관",
+      "category": "문화",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "전국 1,000여명 디자이너 사회 첫발, DDP에서 데뷔!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470915",
+      "dept": "서울디자인재단",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "기업 봉사활동, 이제는 맞춤형으로…서울시자원봉사센터, 61개 기업과 협력하며 연합 활동까지 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470914",
+      "dept": "서울시자원봉사센터",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "(엠바고10시)서울시립 사진미술관, 소장품 기획전 《확산의 물결》 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470913",
+      "dept": "시립미술관",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "AI로 기록 찾고 지도에서 확인한다…서울기록원, 기록관리 미래 논의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470911",
+      "dept": "서울기록원",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "(엠바고15시)서울시, 시내버스 필수공익사업 지정 논의를 위한 국회 토론회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470892",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "강남구 삼성동 상수도관 누수로 일부 단수·수압 저하…긴급 복구 추진",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470891",
+      "dept": "서울아리수본부",
+      "category": "행정",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 23일(월) 주한일본대사 면담… 서울시-일본 지방정부 간 교류협력 논의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470880",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "서울도서관, 옛 시청사 100년 역사 살려 열린 공간으로… 24일부터 리모델링 설계공모",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470861",
+      "dept": "미래공간담당관",
+      "category": "문화",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "두부 만들고 남은 콩비지가 건강간식으로…서울시, 첫 푸드업사이클링 '서울간식' 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470860",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "서울시, 미래 농생명산업 육성 나선다… '서울그린바이오허브' 출범",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470859",
+      "dept": "농수산유통과",
+      "category": "경제",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "제3회 서울조각상 대상에 오유경 <연결인식의 감각>…첫 시민상은 김재호 <설레임>",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470858",
+      "dept": "박물관과",
+      "category": "행정",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "인사담당자가 알려주는 입사 전략…서울미래인재재단, 원티드랩과 장학생 취업 멘토링",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470857",
+      "dept": "서울미래인재재단",
+      "category": "경제",
+      "date": "2026-11-23"
+    },
     {
       "title": "서울시, 중장년 경제교육 '서울 리테크' 7천 명 참여… 목표 2배 달성, 경제이해도↑",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470856",
@@ -79,6 +219,20 @@
       "dept": "도시계획과",
       "category": "행정",
       "date": "2026-11-22"
+    },
+    {
+      "title": "서울시, 숙박시설 화재 현장에서 외국인 투숙객 대피 도운 시민에게 표창",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470953",
+      "dept": "소방재난본부",
+      "category": "행정",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "쇼윈도와 한옥이 공예 전시장으로…서울공예박물관, 청년 공예작가 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470951",
+      "dept": "서울공예박물관",
+      "category": "복지",
+      "date": "2026-11-20"
     },
     {
       "title": "(대변인 입장문) 기준은 뒤집고 개발사업은 가로막는 국가유산청의 폭력적 행정, 즉각 중단하십시오",
