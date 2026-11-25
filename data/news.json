@@ -1,8 +1,106 @@
 {
-  "updated_at": "2026-11-24 14:37",
-  "total": 4060,
-  "new_today": 22,
+  "updated_at": "2026-11-25 13:38",
+  "total": 4074,
+  "new_today": 14,
   "items": [
+    {
+      "title": "(보도참고자료) 서울시, ''통합심의 권한이양, 500세대 이하 보다 더 퇴행…전면 철회 촉구''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471030",
+      "dept": "주거정비과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "\"자원봉사로 잇는 한마음 서울\"…서울시, 자원봉사자 표창·인증패 수여",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471017",
+      "dept": "시민협력과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "(엠바고10시)서울시, 제6회 서울도시건축비엔날레 총감독에 카를로 라티 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471016",
+      "dept": "미래공간담당관",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "서울시, 정류소 유지관리 통합 발주로 연간 광고 수입 24억→148억 원 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471011",
+      "dept": "버스정책과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "(엠바고10시)(기자설명회) 천만 명 찾은 서울윈터페스티벌, 올해는 도심 넘어 한강까지 무대 넓힌다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471010",
+      "dept": "문화정책과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "서울시, 시민의 일상 속 불편 덜어줄 규제 5건 대정부건의",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471000",
+      "dept": "창의규제담당관",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "''가까운 청소년센터에서 AI 배운다'' 서울AI재단, 서울특별시청소년시설협회와 업무협약",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470999",
+      "dept": "서울AI재단",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "서울시, 삼성동 옛 한국감정원 부지…38층 국제업무 거점시설 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470998",
+      "dept": "건축기획과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "서울시, '한옥의 새로운 가능성'과 '전통건축의 현대적 실천' 한자리에 선보인다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470997",
+      "dept": "한옥건축자산과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "기술훈련이 창업으로, 현장 경험이 채용으로…서울 중장년 경력전환 우수사례 16편 선정",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470996",
+      "dept": "서울시50플러스재단",
+      "category": "경제",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "(엠바고10시)서울시립미술관, 국공립미술관 첫 이슬기 개인전 《요모조모 이슬기》개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470995",
+      "dept": "시립미술관",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "(엠바고00시)서울시, 서부선 다시 한번 민자로 재추진…이번에도 유찰시 재정전환",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470990",
+      "dept": "교통정책과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 24일(화) 한양대학교 경영대 초청 특강",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470984",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "(엠바고15시) 전국 최초 도입 10년, 노사 상생의 새로운 미래 연다… 서울시, _노동이사제 10주년 기념행사_ 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/470924",
+      "dept": "공기업담당관",
+      "category": "문화",
+      "date": "2026-11-24"
+    },
     {
       "title": "세계로 진출한 '책읽는 서울', 산살바도르·반다아체에 서울야외도서관 조성",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/470955",
