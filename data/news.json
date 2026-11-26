@@ -1,8 +1,99 @@
 {
-  "updated_at": "2026-11-25 13:38",
-  "total": 4074,
-  "new_today": 14,
+  "updated_at": "2026-11-26 12:49",
+  "total": 4087,
+  "new_today": 13,
   "items": [
+    {
+      "title": "서울 야간경제에 불 밝힐 '반딧불이버스'…11월 27일(금) 운행 개시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471105",
+      "dept": "버스정책과",
+      "category": "교통",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "서울시, 중장년·예비 신혼부부도 임대보증금 무이자 지원… 장기안심주택 7천호 모집",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471104",
+      "dept": "주택정책과",
+      "category": "주택",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "서울시, 2026년 주민자치 성과공유회 개최…시민과 함께 주민자치 성과 나눠",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471103",
+      "dept": "자치행정과",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "필름에 담긴 서울의 낮과 밤을 입는다… 서울시×코닥어패럴, 협업 컬렉션 5종 출시",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471100",
+      "dept": "서울브랜드담당관",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "서울시, 경계선지능인 회원 1,000명 데이터 분석…IQ 비슷해도 일상생활 능력 달라",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471099",
+      "dept": "중장년지원과",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "(엠바고10시)제20차 도시건축공동위원회 개최결과",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471090",
+      "dept": "도시관리과",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "서울시, 직거래 참여농가가 대형 유통사 납품으로…'서로 이어지다' 구매상담회 개최",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471082",
+      "dept": "대외협력과",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "서울신용보증재단, '2026년 대한민국 규제혁신 대상' 대통령 표창 수상",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471081",
+      "dept": "서울신용보증재단",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "서울식물원, 중국 선전 선호식물원과 식물 보전·연구협력 업무협약 체결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471080",
+      "dept": "서울식물원",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "''과자는 왜 바삭할까''…서울시립과학관, 과자 속 숨은 과학을 만나다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471079",
+      "dept": "서울시립과학관",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "(보도참고자료) 서울시, 주택공급 확대하려면 정비사업 규제부터 풀어야… 국토부에 개선 촉구",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471075",
+      "dept": "주거정비과",
+      "category": "주택",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "(보도참고자료)서울시 ＂남산 케이블카 재허가만으로는 독점 해소 한계… 곤돌라 신속 도입해야＂",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471074",
+      "dept": "도시정비과",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "(엠바고14시) 서울시 공공예식 3년 새 7.5배로… 오세훈 시장, 4쌍 부부 만나 예식 경험·개선 의견 들어",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471028",
+      "dept": "가족담당관",
+      "category": "행정",
+      "date": "2026-11-25"
+    },
     {
       "title": "(보도참고자료) 서울시, ''통합심의 권한이양, 500세대 이하 보다 더 퇴행…전면 철회 촉구''",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/471030",
