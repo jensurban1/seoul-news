@@ -1,8 +1,92 @@
 {
-  "updated_at": "2026-11-26 12:49",
-  "total": 4087,
-  "new_today": 13,
+  "updated_at": "2026-11-27 12:50",
+  "total": 4099,
+  "new_today": 12,
   "items": [
+    {
+      "title": "서울미래인재재단, AI 미래인재 1년 연구성과 한자리에 모은다",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471156",
+      "dept": "서울미래인재재단",
+      "category": "행정",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "고립을 넘어 연결로, 「모두의 친구」 활동공유회 성료",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471155",
+      "dept": "서울시복지재단",
+      "category": "행정",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "구로구 고척동 모아주택 3곳 통합심의 통과…공공 71세대 포함 총 627세대 조성",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471154",
+      "dept": "모아주택과",
+      "category": "주택",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "(엠바고07시30분)자율주행 시대, 도시공간이 나아가야할 방향은…서울시 실·국장 릴레이 특강",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471153",
+      "dept": "인력개발과",
+      "category": "행정",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "서울시, ''DDP 유구전시장 이전안 부결에 유감…실질적 보호 대책 마련해야''",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471152",
+      "dept": "디자인정책담당관",
+      "category": "문화",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "아프리카 튀니지는 왜 120을 찾았을까 서울의 민원상담 노하우, 세계가 배운다!",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471151",
+      "dept": "서울시120다산콜재단",
+      "category": "행정",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "서울시설공단, 교량 콘크리트 떨어짐 위험 잡는 AI 점검장비 개발",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471150",
+      "dept": "서울시설공단",
+      "category": "행정",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "명예시민학위제 학습 결과물 46건 한자리에…서울 탐사보고·시니어 AI 체험존 제안까지",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471149",
+      "dept": "서울시평생교육진흥원",
+      "category": "행정",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장 26일(목), 2026 서울 보육인 한마당 축제 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471164",
+      "dept": "언론담당관",
+      "category": "복지",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 26일(목) 제61회 전국여성대회 참석",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471146",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "(엠바고17시) 서울역사박물관-광명시-연세대, 기증유물특별전 《사대부본색 정원용》 공동주최 업무협약 체결",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471115",
+      "dept": "서울역사박물관",
+      "category": "문화",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "(엠바고10시30분)서울 최대 규모 재개발 한남3구역, 23년 만에 첫 삽… 5,970세대 미니 신도시로",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471107",
+      "dept": "재정비촉진과",
+      "category": "행정",
+      "date": "2026-11-26"
+    },
     {
       "title": "서울 야간경제에 불 밝힐 '반딧불이버스'…11월 27일(금) 운행 개시",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/471105",
