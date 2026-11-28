@@ -1,8 +1,36 @@
 {
-  "updated_at": "2026-11-27 12:50",
-  "total": 4099,
-  "new_today": 12,
+  "updated_at": "2026-11-28 12:36",
+  "total": 4103,
+  "new_today": 4,
   "items": [
+    {
+      "title": "서울시, 28일 5시 기준 초미세먼지[PM-2.5] 주의보 해제",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471267",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "서울시, 27일 20시 기준 초미세먼지[PM-2.5] 주의보 발령",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471265",
+      "dept": "보건환경연구원",
+      "category": "환경",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "(엠바고15시) 서울시, 기술개발 성공기업 사업화 문턱 낮춘다…보증한도 최대 100억 원으로 확대",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471206",
+      "dept": "경제정책과",
+      "category": "환경",
+      "date": "2026-11-27"
+    },
+    {
+      "title": "서울시장 사후동정 - 오세훈 시장, 27일(금) 7학년 교실 졸업식 참석 및 웰니스 라운지 ‘다감’ 현장방문",
+      "link": "https://www.seoul.go.kr/news/news_report.do#view/471200",
+      "dept": "언론담당관",
+      "category": "행정",
+      "date": "2026-11-27"
+    },
     {
       "title": "서울미래인재재단, AI 미래인재 1년 연구성과 한자리에 모은다",
       "link": "https://www.seoul.go.kr/news/news_report.do#view/471156",
